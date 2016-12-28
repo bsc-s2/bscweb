@@ -179,6 +179,12 @@ pre code {
   background-color: transparent;
 }
 
+.logo{
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+
 /* Pygments via Jekyll */
 .highlight {
   margin-bottom: 1rem;

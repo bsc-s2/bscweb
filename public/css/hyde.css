@@ -90,7 +90,7 @@ html {
 .sidebar-nav-item {
   display: block;
   list-style: none;
-  margin: 0.5rem 0;
+  margin: 1rem 0;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -129,15 +129,14 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
+    margin-left: 10rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 12rem;
     margin-right: 4rem;
   }
 }

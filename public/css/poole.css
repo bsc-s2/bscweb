@@ -201,19 +201,19 @@ pre code {
 }
 
 .logo{
-  position: relative;
-  left: 0px;
+  position: absolute;
+  left: 11rem;
   top: 10px;
 }
 
 .sign_in{
-  position: relative;
+  position: absolute;
   right: 20px;
   top: 10px;
 }
 
 .chinese{
-  position: relative;
+  position: absolute;
   right: 20px;
   top: 10px;
 }

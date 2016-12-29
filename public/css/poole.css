@@ -181,8 +181,8 @@ pre code {
 
 .logo{
   position: relative;
-  left: 20px;
-  top: 20px;
+  left: 0px;
+  top: 10px;
 }
 
 /* Pygments via Jekyll */

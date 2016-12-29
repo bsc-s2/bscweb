@@ -203,22 +203,24 @@ pre code {
 .logo{
   display: inline;
   position: absolute;
-  left: 11rem;
+  left: 10rem;
   top: 10px;
 }
 
 .sign_in{
   display: inline;
   position: absolute;
-  right: 100px;
-  top: 10px;
+  right: 200px;
+  top: 20px;
+  color: #000000;
 }
 
 .chinese{
   display: inline;
   position: absolute;
-  right: 20px;
-  top: 10px;
+  right: 50px;
+  top: 20px;
+  color: #000000;
 }
 
 .en_index{

@@ -25,13 +25,13 @@ layout: null
  </entry>
  {% endfor %}
 
-  {% for post in site.products %}
+  {% for products in site.products %}
  <entry>
-   <title>{{ post.title }}</title>
+   <title>{{ products.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <updated>{{ products.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ products.id }}</id>
+   <content type="html">{{ products.content | xml_escape }}</content>
  </entry>
  {% endfor %}
 

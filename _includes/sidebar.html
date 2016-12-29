@@ -8,10 +8,10 @@
       {% endfor %}
   </div>
 </div>
-<div class="sidebar" style="left: 10rem">
+<div class="sidebar" style="left: 8rem">
   <div class="container sidebar-sticky">
-      {% assign posts_list = site.posts %}
-      {% for node in posts_list %}
+      {% assign products_list = site.products %}
+      {% for node in products_list %}
         {% if node.title != null %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
         {% endif %}

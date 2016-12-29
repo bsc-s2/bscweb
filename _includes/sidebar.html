@@ -19,7 +19,7 @@
   <div class="container sidebar-sticky">
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
-        {% if node.title == "Overview" %}
+        {% if node.title == "Overview"s %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
         {% endif %}
          {% if node.title == "CDN-X"%}

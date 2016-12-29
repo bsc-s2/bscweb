@@ -2,14 +2,22 @@
 <html lang="en-us">
 
   {% include head.html %}
+  <!-- <link href="{{ site.baseurl }}public/css/main.css" rel="stylesheet">
+  	<link href="{{ site.baseurl }}public/css/base.css" rel="stylesheet">
+  	<link href="{{ site.baseurl }}public/css/font-awesome.min.css" rel="stylesheet">
+  	<link href="{{ site.baseurl }}public/css/animate-custom.css" rel="stylesheet">
+  	<link href="{{ site.baseurl }}public/css/animate.min.css" media="screen" type="text/css" rel="stylesheet" /> -->
+	
+
 
   <body>
 
     {% include sidebar.html %}
 
-    <div class="content container">
       {{ content }}
-    </div>
-
+	<script src="{{ site.baseurl }}public/js/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}public/js/TweenLite.min.js"></script>
+	<script src="{{ site.baseurl }}public/js/EasePack.min.js"></script>
+	<script src="{{ site.baseurl }}public/js/demo-1.js"></script>
   </body>
 </html>

@@ -93,6 +93,7 @@ html {
   display: block;
   list-style: none;
   margin: 1rem 0;
+  text-decoration: none;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {

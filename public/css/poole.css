@@ -463,8 +463,9 @@ a.pagination-item:hover {
 
 .bottom_nav{
   position: absolute;
-  width: 80%;
+  width: 100%;
   right: 0;
   bottom: 10px;
   text-align: center;
+  background-color: #555;
 }

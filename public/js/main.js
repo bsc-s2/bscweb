@@ -1,6 +1,6 @@
 $("#products").click(function(){
-	$('#nav_up').addClass('nav_up');
+	$('#nav_up').fadeIn().addClass('nav_up');
 });
 $("#products").blur(function(){
-	$('#nav_up').removeClass('nav_up');
+	$('#nav_up').fadeOut().removeClass('nav_up');
 });

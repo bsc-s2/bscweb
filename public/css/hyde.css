@@ -129,15 +129,15 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    margin-left: 10rem;
-    margin-right: 2rem;
+    margin-left: 8rem;
+    margin-right: 0rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 12rem;
-    margin-right: 4rem;
+    margin-left: 10rem;
+    margin-right: 2rem;
   }
 }
 

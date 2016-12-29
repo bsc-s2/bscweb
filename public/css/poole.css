@@ -293,8 +293,6 @@ tbody tr:nth-child(odd) th {
 
 .container {
   text-align: center;
-  padding-left:  1rem;
-  padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
 }
@@ -336,7 +334,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */

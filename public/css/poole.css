@@ -210,9 +210,12 @@ pre code {
 .sign_in{
   display: inline;
   position: absolute;
-  right: 200px;
+  right: 150px;
   top: 20px;
-  color: rgb(0,0,0);
+}
+
+.sign_in a{
+   color: rgb(0,0,0);
 }
 
 .chinese{
@@ -220,7 +223,10 @@ pre code {
   position: absolute;
   right: 50px;
   top: 20px;
-  color: rgb(0,0,0);
+ 
+}
+.chinese a{
+   color: rgb(0,0,0);
 }
 
 .en_index{
@@ -228,6 +234,8 @@ pre code {
   top: 40%;
   left: 30%;
 }
+
+
 
 /* Pygments via Jekyll */
 .highlight {

@@ -218,6 +218,12 @@ pre code {
   top: 10px;
 }
 
+.en_index{
+  position: absolute;
+  top: 40%;
+  left: 30%;
+}
+
 /* Pygments via Jekyll */
 .highlight {
   margin-bottom: 1rem;

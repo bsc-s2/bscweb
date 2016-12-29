@@ -201,18 +201,21 @@ pre code {
 }
 
 .logo{
+  display: inline;
   position: absolute;
   left: 11rem;
   top: 10px;
 }
 
 .sign_in{
+  display: inline;
   position: absolute;
   right: 20px;
   top: 10px;
 }
 
 .chinese{
+  display: inline;
   position: absolute;
   right: 20px;
   top: 10px;

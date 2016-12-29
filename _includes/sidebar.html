@@ -3,16 +3,16 @@
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
         {% if node.title == "Overview" %}
-        {% continue %}
+        {% break %}
         {% endif %}
         {% if node.title == "CND-X" %}
-        {% continue %}
+        {% break %}
         {% endif %}
         {% if node.title == "CWD-X" %}
-        {% continue %}
+        {% break %}
         {% endif %}
         {% if node.title == "CLD-X" %}
-        {% continue %}
+        {% break %}
         {% endif %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
 

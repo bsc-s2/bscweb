@@ -2,9 +2,20 @@
   <div class="container sidebar-sticky">
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
-        {% if node.title != null %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+        {% if node.title == "Overview" %}
+        {% continue %}
         {% endif %}
+        {% if node.title == "CND-X" %}
+        {% continue %}
+        {% endif %}
+        {% if node.title == "CWD-X" %}
+        {% continue %}
+        {% endif %}
+        {% if node.title == "CLD-X" %}
+        {% continue %}
+        {% endif %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+
       {% endfor %}
   </div>
 </div>
@@ -12,7 +23,16 @@
   <div class="container sidebar-sticky">
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
-        {% if node.title == "Overview"||node.title == "CDN-X"||node.title == "CWN-X"||node.title == "CLN-X" %}
+        {% if node.title == "Overview" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+         {% if node.title == "CDN-X"%}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+         {% if node.title == "CWN-X" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+         {% if node.title == "CLN-X" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
         {% endif %}
       {% endfor %}

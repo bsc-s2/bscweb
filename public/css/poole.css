@@ -196,13 +196,25 @@ pre code {
   background-size: cover;
   padding-bottom: 100px;
   position:relative;
-  z-index:1;
+  z-index:-1;
   width:100%;
 }
 
 .logo{
   position: relative;
   left: 0px;
+  top: 10px;
+}
+
+.sign_in{
+  position: relative;
+  right: 20px;
+  top: 10px;
+}
+
+.chinese{
+  position: relative;
+  right: 20px;
   top: 10px;
 }
 

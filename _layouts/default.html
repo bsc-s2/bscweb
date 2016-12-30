@@ -9,7 +9,7 @@
 
       {{ content }}
     <script type="text/javascript">
-    	var width = $(window).width();
+    	var width = document.body.clientWidth;
     	if(width <= '766'){
     		$("#index_logo").attr('src',"{{ site.baseurl }}/public/image/logo_write.png"); 
     	}else{

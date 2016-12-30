@@ -112,8 +112,7 @@ strong {
 
 /* Lists */
 ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  padding: 0;
 }
 li{
   list-style: none;

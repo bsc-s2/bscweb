@@ -178,6 +178,10 @@ pre code {
   background-color: transparent;
 }
 
+.nav_list li{
+  top: -500px;
+}
+
 .headerwrap {
   background: url(../image/background.png) no-repeat center top;
   text-align: center;

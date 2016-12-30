@@ -8,18 +8,19 @@
     {% include sidebar.html %}
 
       {{ content }}
-    <script type="text/javascript">
-    	var width = document.body.clientWidth;
-    	if(width <= '766'){
-    		$("#index_logo").attr('src',"{{ site.baseurl }}/public/image/logo_black.png"); 
-    	}else{
-    		$("#index_logo").attr('src',"{{ site.baseurl }}/public/image/logo_write.png"); 
-    	}
-    </script>
+   
 	<script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
  	<script src="{{ site.baseurl }}public/js/TweenLite.min.js"></script>
 	<script src="{{ site.baseurl }}public/js/EasePack.min.js"></script>
 	<script src="{{ site.baseurl }}public/js/demo-1.js"></script>
 	<script src="{{ site.baseurl }}public/js/main.js"></script>
+	<script type="text/javascript">
+    	var width = document.body.clientWidth;
+    	if(width <= '766px'){
+    		$("#index_logo").attr('src',"../public/image/logo_black.png"); 
+    	}else{
+    		$("#index_logo").attr('src',"../public/image/logo_write.png"); 
+    	}
+    </script>
   </body>
 </html>

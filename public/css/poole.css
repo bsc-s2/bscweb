@@ -180,6 +180,14 @@ pre code {
   top: 1rem;
 }
 
+.bottom_nav{
+  position: absolute;
+  width: 100%;
+  right: 0;
+  text-align: center;
+  background-color: #555;
+}
+
 @media (min-width: 48em) {
   .headerwrap {
     background: url(../image/background.png) no-repeat center top;
@@ -234,6 +242,14 @@ pre code {
     position: absolute;
     top: 40%;
     left: 30%;
+  }
+  .bottom_nav{
+    position: absolute;
+    width: 100%;
+    right: 0;
+    bottom: 0px;
+    text-align: center;
+    background-color: #555;
   }
 }
 
@@ -462,15 +478,7 @@ a.pagination-item:hover {
   }
 }
 
-.bottom_nav{
-  position: absolute;
-  width: 100%;
-  right: 0;
-  bottom: 0px;
-  text-align: center;
-  background-color: #555;
-  color: rgb(255,255,255);
-}
+
 
 .nav_up{
   width: 8rem;

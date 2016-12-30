@@ -16,16 +16,16 @@ title: BaishanCloud
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
         {% if node.title == "About Us" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
         {% endif %}
          {% if node.title == "Careers"%}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
         {% endif %}
          {% if node.title == "Customers" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
         {% endif %}
          {% if node.title == "BSC Press" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
         {% endif %}
       {% endfor %}
 </div>

@@ -54,11 +54,10 @@ html {
  */
 
 .sidebar {
-  text-align: center;
+  text-align: left;
   padding: 1rem 1rem;
-  background-color: #000000;
+  background-color: #FFFFFF;
   z-index: 99;
-  opacity: 0.9;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -68,6 +67,8 @@ html {
     bottom: 0;
     width: 8rem;
     text-align: left;
+    background-color: #000000;
+    opacity: 0.9;
   }
 }
 

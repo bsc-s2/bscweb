@@ -226,6 +226,7 @@ pre code {
 .logo{
   left: 1rem;
   top: 1rem;
+  text:expression(src="{{ site.baseurl }}/public/image/logo_black.png");
 }
 
 .bottom_nav{

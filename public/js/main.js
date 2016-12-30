@@ -1,10 +1,6 @@
 $("#products").click(function(){
-	$('#nav_up').fadeIn(function(){
-		$(this).animate({left:'8rem'});
-	});
+	$('#nav_up').animate({left:'8rem'});
 });
 $("#products").blur(function(){
-	$('#nav_up').fadeOut(function(){
-		$(this).animate({left:'0rem'});
-	});
+	$('#nav_up').animate({left:'-8rem'});
 });

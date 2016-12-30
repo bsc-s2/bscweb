@@ -295,7 +295,7 @@ pre code {
     position: absolute;
     width: 100%;
     right: 0;
-    bottom: 0px;
+    bottom: -100px;
     text-align: center;
     background-color: #555;
   }

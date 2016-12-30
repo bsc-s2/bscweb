@@ -8,6 +8,13 @@
     {% include sidebar.html %}
 
       {{ content }}
+    <script type="text/javascript">
+    	if($(window).height()<= 766){
+    		$("#index_logo").attr('src',"{{ site.baseurl }}/public/image/logo_write.png"); 
+    	}else{
+    		$("#index_logo").attr('src','{{ site.baseurl }}/public/image/logo_write.png'); 
+    	}
+    </script>
 	<script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
  	<script src="{{ site.baseurl }}public/js/TweenLite.min.js"></script>
 	<script src="{{ site.baseurl }}public/js/EasePack.min.js"></script>

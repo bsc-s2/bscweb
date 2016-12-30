@@ -18,13 +18,13 @@
 		function autologo() {
 			// body...
 			var width = document.body.clientWidth;
-    		if(width <= '766px'){
+    		if(width <= 766){
     			$("#index_logo").attr('src',"../public/image/logo_black.png"); 
     		}else{
     			$("#index_logo").attr('src',"../public/image/logo_write.png"); 
     		}
 		}
-		alert(document.body.clientWidth);    	
+		setInterval("autologo()",500);  	
     </script>
   </body>
 </html>

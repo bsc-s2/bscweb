@@ -175,62 +175,67 @@ pre code {
   background-color: transparent;
 }
 
-.headerwrap {
-  background: url(../image/background.png) no-repeat center top;
-  text-align: center;
-  background-attachment: relative;
-  background-position: center center;
-  min-height: 650px;
-  height: 100%;
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  padding-bottom: 100px;
-  position:relative;
-  z-index:-1;
-  width:100%;
-}
-
 .logo{
-  display: inline;
-  position: absolute;
-  left: 10rem;
-  top: 20px;
+  left: 1rem;
+  top: 1rem;
 }
 
-.sign_in{
-  display: inline;
-  position: absolute;
-  right: 150px;
-  top: 20px;
-}
+@media (min-width: 48em) {
+  .headerwrap {
+    background: url(../image/background.png) no-repeat center top;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 650px;
+    height: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 100px;
+    position:relative;
+    z-index:-1;
+    width:100%;
+  }
+  
+  .logo{
+    display: inline;
+    position: absolute;
+    left: 10rem;
+    top: 20px;
+  }
+  
+  .sign_in{
+    display: inline;
+    position: absolute;
+    right: 150px;
+    top: 20px;
+  }
+  
+  .sign_in a{
+     color: rgb(255,255,255);
+  }
+  
+  .chinese{
+    display: inline;
+    position: absolute;
+    right: 50px;
+    top: 20px;
+  }
+  .chinese a{
+     color: rgb(255,255,255);
+  }
 
-.sign_in a{
-   color: rgb(255,255,255);
+  .en_index{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+  }
 }
-
-.chinese{
-  display: inline;
-  position: absolute;
-  right: 50px;
-  top: 20px;
- 
-}
-.chinese a{
-   color: rgb(255,255,255);
-}
-
-.en_index{
-  position: absolute;
-  top: 40%;
-  left: 30%;
-}
-
 
 
 /* Pygments via Jekyll */

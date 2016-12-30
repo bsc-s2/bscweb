@@ -59,6 +59,11 @@ html {
   background-color: #FFFFFF;
   z-index: 99;
 }
+
+.sidebar {
+  color: #000;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -70,12 +75,14 @@ html {
     background-color: #000000;
     opacity: 0.9;
   }
+  .sidebar a {
+    color: #fff;
+  }
+
 }
 
 /* Sidebar links */
-.sidebar a {
-  color: #fff;
-}
+
 
 /* About section */
 .sidebar-about h1 {

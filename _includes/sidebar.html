@@ -3,13 +3,13 @@
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
        	{% if node.title == "Products" %}
-       	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" id="products" href="#">{{ node.title }}</a>
+       	<li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" id="products" href="#">{{ node.title }}</a></li>
         {% endif %}
         {% if node.title == "Overview" %}
         {% break %}
         {% endif %}
         {% if node.title != "Products" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
+            <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
         {% endif %}
 
       {% endfor %}

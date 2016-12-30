@@ -179,6 +179,7 @@ pre code {
 }
 
 .nav_list li{
+  position: absolute;
   top: -500px;
 }
 
@@ -305,6 +306,9 @@ pre code {
     right: 0;
     text-align: center;
     background-color: #555;
+  }
+  .nav_list li{
+    top: auto;
   }
 }
 

@@ -18,16 +18,10 @@
 		function autologo() {
 			// body...
 			var width = document.body.clientWidth;
-			var a=0;
-			var b=0;
     		if(width < 766){
-    			$("#index_logo").attr('src',"../public/image/logo_black.png");
-    			a++;
-    			alert(a); 
+    			$("img #index_logo").attr('src',"../public/image/logo_black.png"); 
     		}else{
-    			$("#index_logo").attr('src',"../public/image/logo_write.png"); 
-    			b--;
-    			alert(b);
+    			$("img #index_logo").attr('src',"../public/image/logo_write.png"); 
     		}
 		}
 		setInterval("autologo()",2000);	

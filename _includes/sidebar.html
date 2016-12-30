@@ -1,5 +1,6 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    <ul>
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
        	{% if node.title == "Products" %}
@@ -13,6 +14,7 @@
         {% endif %}
 
       {% endfor %}
+    </ul>
   </div>
 </div>
 <div class="sidebar" style="left: -9rem;opacity: 1;" id="nav_up">

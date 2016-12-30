@@ -226,7 +226,7 @@ pre code {
 .logo{
   left: 1rem;
   top: 1rem;
-  text:expression(src="{{ site.baseurl }}/public/image/logo_black.png");
+
 }
 
 .bottom_nav{
@@ -296,7 +296,6 @@ pre code {
     position: absolute;
     width: 100%;
     right: 0;
-    bottom: -100px;
     text-align: center;
     background-color: #555;
   }

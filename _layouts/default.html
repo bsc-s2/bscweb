@@ -18,13 +18,19 @@
 		function autologo() {
 			// body...
 			var width = document.body.clientWidth;
+			var a=0;
+			var b=0;
     		if(width <= 766){
-    			$("#index_logo").attr('src',"../public/image/logo_black.png"); 
+    			$("#index_logo").attr('src',"../public/image/logo_black.png");
+    			a++;
+    			alert(a); 
     		}else{
     			$("#index_logo").attr('src',"../public/image/logo_write.png"); 
+    			b++;
+    			alert(b);
     		}
 		}
-		setInterval("autologo()",500);  	
+		setInterval("autologo()",500);	
     </script>
   </body>
 </html>

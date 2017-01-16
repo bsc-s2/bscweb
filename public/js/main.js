@@ -8,5 +8,7 @@ jQuery(document).ready(function() {
 	var width = $(window).width();
 	if (width < 766) {
 		$('#index_logo').attr('src','{{ site.baseurl }}/public/image/logo_black.png');
+	}else {
+		$('#index_logo').attr('src','{{ site.baseurl }}/public/image/logo_write.png');
 	}
 });

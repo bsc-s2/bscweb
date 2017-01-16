@@ -11,4 +11,5 @@ jQuery(document).ready(function() {
 	}else {
 		$('#index_logo').attr('src','{{ site.baseurl }}/public/image/logo_write.png');
 	}
+	
 });

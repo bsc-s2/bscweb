@@ -7,6 +7,6 @@ jQuery(document).ready(function() {
 	});
 	var width = $(window).width();
 	if (width < 766) {
-		$('#index_logo').attr('src','../image/logo_black.png');
+		$('#index_logo').attr('src','../public/image/logo_black.png');
 	}
 });

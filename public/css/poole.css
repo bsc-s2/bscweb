@@ -105,9 +105,9 @@ p {
   margin-bottom: 1rem;
 }
 
-strong {
+/*strong {
   color: #303030;
-}
+}*/
 
 
 /* Lists */
@@ -271,7 +271,7 @@ pre code {
   .logo{
     display: inline;
     position: absolute;
-    left: 10rem;
+    left: 13rem;
     top: 20px;
   }
   
@@ -464,6 +464,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 2em;
+  padding-top: 70px;
 }
 
 /* Blog post or page title */

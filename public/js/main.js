@@ -9,4 +9,5 @@ jQuery(document).ready(function() {
 	if (width < 766) {
 		$('#index_logo').attr('src','../public/image/logo_black.png');
 	}
+	
 });

@@ -32,7 +32,8 @@
  */
 
 html {
-  font-family: sans-serif;
+  /*font-family: sans-serif;*/
+  font-family: Arial,'Microsoft YaHei',Helvetica;
 }
 @media (min-width: 48em) {
   html {
@@ -70,7 +71,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 9rem;
+    width: 12rem;
     text-align: left;
     background-color: #000000;
     opacity: 0.9;
@@ -103,7 +104,9 @@ html {
   text-decoration: none;
   text-align: center;
 }
-
+.sidebar-nav-item:hover {
+  font-weight: bold;
+}
 .sidebar-nav-item.active {
   font-weight: bold;
 }

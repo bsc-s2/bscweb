@@ -3,7 +3,7 @@ layout: post
 title: BaishanCloud Receives Trusted Cloud Certification
 ---
 
-#BaishanCloud Receives Trusted Cloud Certification
+##BaishanCloud Receives Trusted Cloud Certification
 
 ---
 <div class="list_press">

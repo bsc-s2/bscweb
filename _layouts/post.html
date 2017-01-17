@@ -8,29 +8,17 @@
     {% include sidebar.html %}
 
     <div class="content container">
-      	<div class="post">
-			<img class="logo" src="{{ site.baseurl }}/public/image/logo_black.png" width="200px">
+      <div class="post">
+			  <img class="logo" src="{{ site.baseurl }}/public/image/logo_black.png" width="200px">
   			{{ content }}
-  				
-		</div>
-		<div class="bottom_nav">
-			<h4>Call Us:400-081-3388</h4>
-      {% assign posts_list = site.posts %}
-      {% for node in posts_list %}
-        {% if node.title == "About Us" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-         {% if node.title == "Careers"%}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-         {% if node.title == "Customers" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-         {% if node.title == "BSC Press" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endfor %}
-		</div>
+  		</div>
+		  <div class="bottom_nav">
+			  <h4>Call Us:400-081-3388</h4>
+        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-07-01-Careers %}">Careers</a>
+        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-05-01-BSC-Press %}">BSC Press</a>
+        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-04-01-Customers %}">Customers</a>
+        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-01-01-About-Us %}">About Us</a>
+		  </div>
     </div>
   <script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
   <script src="{{ site.baseurl }}public/js/main.js"></script>

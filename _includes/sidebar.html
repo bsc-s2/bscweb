@@ -1,38 +1,23 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
-    <ul class="nav_list">
-      {% assign posts_list = site.posts %}
-      {% for node in posts_list %}
-       	{% if node.title == "Products" %}
-       	<li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" id="products" href="#">{{ node.title }}</a></li>
-        {% endif %}
-        {% if node.title == "Overview" %}
-        {% break %}
-        {% endif %}
-        {% if node.title != "Products" %}
-            <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a></li>
-        {% endif %}
-
-      {% endfor %}
+  <div class="sidebar-sticky">
+    <ul class="nav_list" id="nav">
+      <li><a class="sidebar-nav-item active" href="{{ site.baseurl }}">Homepage</a></li>
+      <li><a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-01-01-About-Us %}">About Us</a></li>
+      <li><a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-02-01-Management %}">Management</a></li>
+      <li><a class="sidebar-nav-item" href="#" id="products">Products</a></li>
+      <li><a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-04-01-Customers %}">Customers</a></li>
+      <li><a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-05-01-BSC-Press %}">BSC Press</a></li>
+      <li><a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-06-01-BSC-Culture %}">BSC Culture</a></li>
+      <li><a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-07-01-Careers %}">Careers</a></li>
+      <li><a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-08-01-Contact-Us %}">Contact Us</a></li>
     </ul>
   </div>
 </div>
 <div class="sidebar" style="left: -12rem;opacity: 1;" id="nav_up">
   <div class="container sidebar-sticky">
-      {% assign posts_list = site.posts %}
-      {% for node in posts_list %}
-        {% if node.title == "Overview" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-         {% if node.title == "CDN-X"%}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-         {% if node.title == "CWN-X" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-         {% if node.title == "CLN-X" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endfor %}
+    <a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-03-02-Overviwe %}">Overviwe</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-03-03-CDN-X %}">CDN-X</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-03-04-CWN-X %}">CWN-X</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl}}{% post_url 2016-03-05-CLN-X %}">CLN-X</a>
   </div>
 </div>

@@ -1,0 +1,18 @@
+.list_press {
+	margin: 10px auto;
+	padding-left: 5%;
+	min-width: 500px;
+	text-align: left;
+	width: 60%
+}
+.ul_press{
+	width: 70%;
+	font-size: 18px;
+}
+.ul_press li{
+	margin-top: 10px;
+}
+.brief{
+	margin-bottom: 20px;
+	font-size: 16px;
+}

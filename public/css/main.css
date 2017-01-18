@@ -158,3 +158,26 @@ strong{
 	height:80px;
 	background-color:#fff;
 }
+.bottom_nav{
+	color:#fff;
+}
+.bottom_nav a.sidebar-nav-item{
+	display:inline-block;
+	margin:0 5px 20px 0;
+	color:#fff;
+	font-size:13px;
+}
+.bottom_nav h4{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	font-size:13px;
+}
+.bottom_nav a.sidebar-nav-item:hover{
+	 color:#3ab7cb;
+	 text-decoration: none;
+ }
+.bottom_nav a.sidebar-nav-item.active{
+	color:#3ab7cb;
+	text-decoration: none;
+}
+

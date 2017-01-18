@@ -13,25 +13,3 @@ title: BaishanCloud
 	<img class="en_index hidden-xs" src="{{ site.baseurl }}/public/image/index.png" width="600px">
 	<img class="en_index hidden-lg hidden-sm hidden-md" src="{{ site.baseurl }}/public/image/index.png" width="100%">
 </div>
-<div class="bottom_nav">
-	<h4>Call Us:400-081-3388</h4>
-	{% assign posts_list = site.posts %}
-	{% for node in posts_list %}
-	{% if node.title == "About Us" %}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;"
-	   href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-	{% endif %}
-	{% if node.title == "Careers"%}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;"
-	   href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-	{% endif %}
-	{% if node.title == "Customers" %}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;"
-	   href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-	{% endif %}
-	{% if node.title == "BSC Press" %}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" style="display: inline;margin: 1rem 5px;"
-	   href="{{ site.baseurl}}{{ node.url }}">{{ node.title }}</a>
-	{% endif %}
-	{% endfor %}
-</div>

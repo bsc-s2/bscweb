@@ -15,17 +15,7 @@
 		<img class="logo visible-xs" src="{{ site.baseurl }}/public/image/logo_black.png" height="32px">
 		{{ content }}
 	</div>
-	<div class="bottom_nav">
-		<h4>Call Us:400-081-3388</h4>
-		<a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;"
-		   href="{{ site.baseurl}}{% post_url 2016-07-01-Careers %}">Careers</a>
-		<a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;"
-		   href="{{ site.baseurl}}{% post_url 2016-05-01-BSC-Press %}">BSC Press</a>
-		<a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;"
-		   href="{{ site.baseurl}}{% post_url 2016-04-01-Customers %}">Customers</a>
-		<a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;"
-		   href="{{ site.baseurl}}{% post_url 2016-01-01-About-Us %}">About Us</a>
-	</div>
+	{% include bottom.html %}
 </div>
 <script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
 <script src="{{ site.baseurl }}public/js/main.js"></script>

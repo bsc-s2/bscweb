@@ -12,7 +12,22 @@
 .ul_press li{
 	margin-top: 10px;
 }
-.brief{
+.press_brief{
 	margin-bottom: 20px;
 	font-size: 16px;
+}
+.management_info{
+	display: block;
+	margin-top: 30px;
+}
+.management_info img{
+	width: 130px;
+	position: absolute;
+}
+.management_info h2{
+	margin-left: 180px;
+}
+.management_info p{
+	margin-left: 180px;
+	font-size: 14px;
 }

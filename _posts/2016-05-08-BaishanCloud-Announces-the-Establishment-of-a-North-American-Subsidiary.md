@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: BaishanCloud Announces the Establishment of a North American Subsidiary
 ---
-<div class="list_content">
+
 ##BaishanCloud Announces the Establishment of a North American Subsidiary
 **[Beijing, March 9, 2016], BaishanCloud** (BSC), a leading provider of cloud managed services in China, announced today that it has established a wholly-owned subsidiary in North America.  
 
@@ -18,7 +18,7 @@ The growing demand among enterprise customers in China for cloud services is cre
 【Founded in April 2015, **BaishanCloud** (BSC) is a provider of cloud- managed services specializing in cloud resource exchanges and interactions. Focusing on data governance, the BSC cloud product suite is comprised of three major services – cloud delivery, cloud storage, and cloud linkages. Leveraging its edge storage and computing capabilities, BSC provides a cloud management platform to fulfill the data-migration and data-integration needs of enterprise customers.  
 
 Headquartered in Beijing, BSC now has offices in Shanghai, Shenzhen, and Seattle, as well as R&D centers in Xiamen and Guian.】  
-</div>
+
  
 
 

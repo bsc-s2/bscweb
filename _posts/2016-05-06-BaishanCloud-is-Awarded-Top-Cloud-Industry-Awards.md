@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: BaishanCloud is Awarded Top Cloud Industry Awards
 ---
-<div class="list_content">
+
 ##BaishanCloud is Awarded Top Cloud Industry Awards
 
 **[PR Newswire, April 18, 2016]** In connection with the Fourth China International Forum for Cloud Computing Technology and Applications, **BaishanCloud** (BSC), a leading provider of cloud managed services, today received the top cloud industry award  – “Cloud China 2016” –administered by the Chinese Ministry of Industry and Information Technology (MIIT).  
@@ -20,4 +20,3 @@ BSC has experienced rapid business growth since its establishment in April 2015.
 [Founded in April 2015, **BaishanCloud** (BSC) is a provider of cloud- managed services, specializing in cloud resource exchanges and interactions. Focusing on data governance, the BSC cloud managed product suite is comprised of three major services – cloud delivery, cloud storage, and cloud linkages. Leveraging its edge storage and computing capabilities, BSC provides a cloud management platform to fulfill the data- migration and data-integration needs of enterprise customers.   
 
 Headquartered in Beijing, BSC now has offices in Shanghai, Shenzhen, and Seattle, as well as R&D centers in Xiamen and Guian.]  
-</div>

@@ -1,5 +1,5 @@
 ---
-layout: post_min
+layout: post
 title: BaishanCloud Announces the Establishment of a North American Subsidiary
 ---
 <div class="list_content">

@@ -1,5 +1,5 @@
 ---
-layout: post_min
+layout: post
 title: An Entrepreneur with a "Rational Impulse"
 ---
 <div class="list_content">

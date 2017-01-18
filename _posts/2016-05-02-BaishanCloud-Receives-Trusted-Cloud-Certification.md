@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: post
 title: BaishanCloud Receives Trusted Cloud Certification
 ---
-
+<div class="list_content">
 ##BaishanCloud Receives Trusted Cloud Certification
+
 ---
+
 
 **[Beijing, January 5, 2017] BaishanCloud (BSC)**, a leading provider of cloud data integration, today announced that its cloud services have received official certification from Trusted Cloud administered by the Chinese Academy of Information and Communications Technology (CACIT) under the Chinese Ministry of Industry and Information Technology (MIIT). 
 
@@ -19,3 +21,4 @@ The Trusted Cloud certification standards are widely accepted internationally.  
 [Founded in April 2015, BaishanCloud (BSC) is a service provider of cloud data integration.  Focusing on resource exchange and interaction, the BSC cloud data integration product suite is comprised of three major services – cloud delivery, cloud storage, and cloud linkage. Leveraging its edge storage and edge computing capabilities, BSC enables smooth flow of data and helps increase values of data for enterprise customers.
 
 Headquartered in Beijing, BSC now has offices in Shanghai, Shenzhen, and Seattle, as well as R&D centers in Xiamen and Guian.]  
+</div>

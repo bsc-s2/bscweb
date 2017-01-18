@@ -1,6 +1,6 @@
 # Dependencies
 #markdown:         kramdown
-markdown:        redcarpet
+markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
@@ -24,77 +24,3 @@ paginate:         5
 version:          1.0.0
 
 gems:             [jekyll-paginate]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

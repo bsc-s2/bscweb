@@ -1,0 +1,160 @@
+*{
+	outline:none !important;
+}
+a:link{
+	text-decoration:none;
+}
+a:visited{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:none;
+}
+a:active{
+	text-decoration:none;
+}
+.color-1{
+	color:#707070;
+}
+strong{
+	font-weight:700;
+}
+.img{
+	width:100%;
+}
+.job-container{
+	padding-right:15px;
+	padding-left:15px;
+	margin-right:auto;
+	margin-left:auto;
+}
+@media screen and (min-width:768px){
+	.job-container{
+		padding-left:10%;
+		height:100%;
+		min-height:500px;
+		width:62%;
+		margin:0 auto;
+	}
+	.list_content{
+		padding:10px 15px 10px 190px;
+		width:62%;
+		margin:0 auto;
+	}
+	.ul_press{
+		width:70%;
+	}
+}
+.job-ul{
+	margin-bottom:40px;
+	margin-top:40px;
+}
+.job-li{
+	float:left;
+	width:50%;
+}
+.job-a{
+	background-color:#2f8dcc;
+	cursor:pointer;
+	border:1px solid #3499dc;
+	color:#fff;
+	line-height:100px;
+	font-size:24px;
+	display:block;
+}
+.job-a:hover{
+	background-color:#eeefea;
+	border:0;
+	color:#129593;
+}
+.job-col-2{
+	width:50%;
+}
+.job-title{
+	background-color:#fff;
+	cursor:pointer;
+	padding:10px;
+	line-height:22px;
+	margin:10px 0;
+	border:1px solid #ddd;
+	font-weight:300;
+}
+.job-title.collapsed{
+	background:url(../image/plus.png) 11px 11px no-repeat #fff;
+}
+.job-title{
+	background:url(../image/minus.png) 11px 11px no-repeat #fff;
+}
+.job-p{
+	padding:0 15px 0 37px;
+	overflow:hidden;
+	white-space:nowrap;
+	font-size:16px;
+	color:#3499ed;
+	text-align:left;
+	width:90%;
+}
+.job-hide{
+	display:none;
+}
+.job-content{
+	border-top:1px solid #ededed;
+	margin-top:23px;
+	padding-top:20px;
+	line-height:18px;
+	text-align:left;
+}
+.collapse{
+	display:none;
+}
+.clearfix:before, .clearfix:after{
+	display:table;
+	content:" ";
+}
+.clearfix:after{
+	clear:both;
+}
+.nav-xs{
+	position:relative;
+	float:right;
+	padding:9px 10px;
+	margin:8px 15px 8px 0;
+	border:1px solid #ddd;
+	border-radius:4px;
+	background-color:transparent;
+}
+.nav-xs .icon-bar{
+	display:block;
+	width:22px;
+	height:2px;
+	border-radius:1px;
+	background-color:#888;
+}
+.nav-xs .icon-bar + .icon-bar{
+	margin-top:4px;
+}
+.nav-xs-bg{
+	background-color:#f8f8f8;
+	border-color:#e7e7e7;
+}
+.logo-xs{
+	height:32px;
+}
+.nav-xs-content{
+	border-top:1px solid #e7e7e7 !important;
+	padding-left:15px;
+	padding-right:15px;
+}
+.nav-xs-content .nav-xs-first{
+	color:#777;
+}
+#headerwrap{
+	position:relative;
+}
+.my-container{
+	padding:0 !important;
+}
+.content-page-header{
+	height:80px;
+	background-color:#fff;
+}

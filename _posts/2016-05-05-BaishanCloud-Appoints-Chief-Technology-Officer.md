@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: BaishanCloud Appoints Chief Technology Officer
 ---
-
+<div class="list_content">
 ##BaishanCloud Appoints Chief Technology Officer
 
 **[Beijing, June 23, 2016], BaishanCloud** (BSC), a leading provider of cloud managed services in China, announced today that it has appointed Tong Jian as Chief Technology Officer (CTO).  The appointment will take effect immediately.
@@ -20,3 +20,4 @@ Tong Jian holds a B.S. degree in MIS from North China University of Technology a
 【Founded in April 2015, **BaishanCloud** (BSC) is a provider of cloud- managed services, specializing in cloud resource exchanges and interactions. Focusing on data governance, the BSC cloud product suite is comprised of three major services – cloud delivery, cloud storage, and cloud linkages. Leveraging its edge storage and computing capabilities, BSC provides a cloud management platform to fulfill the data-migration and data-integration needs of enterprise customers.  
 
 Headquartered in Beijing, BSC now has offices in Shanghai, Shenzhen, and Seattle, as well as R&D centers in Xiamen and Guian.】  
+</div>

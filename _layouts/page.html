@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-<html lang="en-us">
+---
+layout: default
+---
 
-  {% include head.html %}
-
-  <body>
-
-    {% include sidebar.html %}
-
-    <div class="content container" style="padding: 0px;">
-      	<div class="post">
-			  <img class="logo" src="{{ site.baseurl }}/public/image/logo_black.png" width="200px">
-			<div class="list_content">
-  			{{ content }}
-  			</div>
-  		</div>
-			<div class="bottom_nav">
-				<h4>Call Us:400-081-3388</h4>
-        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-07-01-Careers %}">Careers</a>
-        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-05-01-BSC-Press %}">BSC Press</a>
-        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-04-01-Customers %}">Customers</a>
-        <a class="sidebar-nav-item" style="display: inline;margin: 1rem 5px;" href="{{ site.baseurl}}{% post_url 2016-01-01-About-Us %}">About Us</a>
-		  </div>
-    </div>
-  <script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
-  <script src="{{ site.baseurl }}public/js/main.js"></script>
-  <script src="{{ site.baseurl }}public/js/bootstrap.min.js"></script>
-  </body>
-</html>
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>

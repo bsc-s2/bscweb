@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post_min
 title: An Entrepreneur with a "Rational Impulse"
 ---
-
+<div class="list_content">
 ##An Entrepreneur with a "Rational Impulse"
 
 *Source: China Science & Technology Daily, March 31, 2016*
@@ -26,3 +26,4 @@ In the IT industry, there is no lack of top talent; they possess outstanding spe
 In addition, it should be pointed out that nowadays relations between team leaders and team members need to be reshaped; entrepreneurship is no longer about building one single giant ship but rather about building an entire fleet.
 
 In the past, the management pattern was more like a giant ship, where the leader and the members corresponded to the captain and the sailors, respectively.  The sailors followed the orders of the captain in terms of both direction and speed.  Today, however, such giant ships are too unwieldy.  The personalities of the staff should be allowed to come into full play, and the leader and the staff should form a fleet, whereby the initiative of individuals is enhanced by both independence and unity, and the wisdom of the leadership is reflected in its navigation of the fleet.
+</div>

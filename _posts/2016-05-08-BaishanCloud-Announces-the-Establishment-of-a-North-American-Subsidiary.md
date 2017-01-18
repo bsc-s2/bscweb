@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: BaishanCloud Announces the Establishment of a North American Subsidiary
 ---

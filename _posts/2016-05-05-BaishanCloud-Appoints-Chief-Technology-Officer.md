@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: BaishanCloud Appoints Chief Technology Officer
 ---

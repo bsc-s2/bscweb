@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: BaishanCloud Launches Cloud Storage Product
 ---

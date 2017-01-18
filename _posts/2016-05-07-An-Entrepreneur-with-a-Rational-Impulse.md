@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: An Entrepreneur with a "Rational Impulse"
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: BaishanCloud is Awarded Top Cloud Industry Awards
 ---

@@ -1,11 +1,12 @@
-.list_press {
-	margin: 10px auto;
+.list_content {
+	margin: 20px auto;
 	padding-left: 5%;
 	min-width: 500px;
 	text-align: left;
 	width: 60%
 }
 .ul_press{
+	margin-top: 20px;
 	width: 70%;
 	font-size: 18px;
 }

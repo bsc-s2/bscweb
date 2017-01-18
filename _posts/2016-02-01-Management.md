@@ -2,7 +2,7 @@
 layout: post
 title: Management
 ---
-
+<div class="list_content">
 <h1>Key Management Team</h1>
 <p>Since April 2015, as a rapidly growing start-up company BaishanCloud has attracted the best manpower in China to form a well-balanced team in every aspect of its business. The management team averages 15 years of work experience in the IT industry, both in China and overseas, and has strong skills in business operations, execution, and implementation. Key network design, R&amp;D, and product development team leaders all have BAT experience and diversified leadership backgrounds in technology innovation and development.</p>
 <p>Young, energetic, and driven by the desire to achieve success, the team has quickly established its name in the industry based on its solid business and service performance.</p>
@@ -62,4 +62,5 @@ title: Management
 	<p>Partner, Vice President, and GM of Global Business Operations  </p>
 	<p>In 2015 Eddie became a partner at BSC where he is responsible for international business operations and business development.  He has over 10 years of experience in business operations, consulting, sales, and marketing.  He previously held key managerial positions at China Railcom, Digital China, and ChinaCache.  Most recently, Eddie worked as senior product manager at Cummins, Inc., where he assumed full marketing responsibilities for product global expansions.</p>
 	<p>Eddie holds a B.S. degree in MIS from Beijing Capital University of Economy and Business and an MBA from the Kelly School of Business of Indiana University in the United States.</p>
+</div>
 </div>

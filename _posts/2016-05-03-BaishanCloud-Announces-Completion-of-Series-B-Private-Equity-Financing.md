@@ -2,7 +2,7 @@
 layout: post
 title: BaishanCloud Announces Completion of Series B Private Equity Financing
 ---
-
+<div class="list_content">
 ##BaishanCloud Announces Completion of Series B Private Equity Financing
 
 **[July 25, 2016], BaishanCloud** (BSC), a leading provider of cloud-managed services in China, announced today that it has completed its Series B of private equity financing.  This series, led by Guian New District Development Fund (GNDDF), follows Series A and A+ investors, Shanghai Qingcheng Investment Fund and Shanghai Rongxi Investment Management Fund, respectively.
@@ -21,3 +21,4 @@ Located in Guian, Guizhou Province, Guian New District Development Fund is a str
 [Founded in April 2015, BaishanCloud (BSC) is a provider of cloud-managed services, specializing in cloud resource exchanges and interactions. Focusing on data governance, the BSC cloud product suite is comprised of three major services – cloud delivery, cloud storage, and cloud linkages.  Leveraging its edge storage and computing capabilities, BSC provides a cloud management platform to fulfill the data-migration and data-integration needs of enterprise customers.   
 
 Headquartered in Beijing, BSC now has offices in Shanghai, Shenzhen, Guangzhou, and Seattle, as well as R&D centers in Xiamen and Guian.]   
+</div>

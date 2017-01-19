@@ -3,4 +3,4 @@ layout: post
 title: Contact Us
 ---
 
-<h1>Contact Us</h1>
+{% include Contact-Us-Office.html %}

@@ -269,3 +269,42 @@ li.press_brief{
 	/*chrome safari*/
 	min-height:-webkit-calc(100% - 107px - 2em);
 }
+.list_content+div.content-office{
+	margin-top:20px;
+}
+.office-list-container{
+	padding-top:20px;
+}
+.sub-title{
+	padding-bottom: .5em;
+	font-size: 18px;
+	line-height: 22px;
+	border-bottom: 2px solid;
+	font-weight: 600;
+	margin-bottom: .5em;
+	font-family: 'Microsoft Yahei';
+}
+.office-info{
+	margin-bottom: .5em !important;
+	font-size: 14px;
+	line-height: 16px;
+	font-family: 'Hevitica',Arial;
+	font-weight: 300;
+	word-spacing: 0em;
+}
+.color-2 {
+	color: #3499ed;
+}
+.mar-t-60{
+	margin-top:60px;
+}
+.mar-t-15{
+	margin-top:15px;
+}
+.info-above{
+	margin:0 !important;
+}
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}

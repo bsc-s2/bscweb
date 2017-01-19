@@ -212,4 +212,9 @@ strong{
 	cursor:pointer;
 	padding: 10px 0;
 }
+.job-content li {
+	list-style: disc outside;
+	padding: .5em;
+	margin-left: 1em;
+}
 

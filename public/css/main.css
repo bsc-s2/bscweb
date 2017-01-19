@@ -1,6 +1,10 @@
 *{
 	outline:none !important;
 }
+body{
+	font-family:Arial, 'Microsoft YaHei', Helvetica;
+	color: #555;
+}
 a:link{
 	text-decoration:none;
 }
@@ -37,12 +41,15 @@ strong{
 		margin:0 auto;
 	}
 	.list_content{
-		padding:10px 15px 10px 190px;
+		padding:10px 30px 10px 205px;
 		width:62%;
 		margin:0 auto;
 	}
+	.list_content p{
+		margin-bottom:20px;
+	}
 	.ul_press{
-		width:70%;
+		width:77%;
 	}
 }
 .job-ul{
@@ -168,17 +175,17 @@ strong{
 	font-size:13px;
 }
 .bottom_nav h4{
-	padding-top: 10px;
-	padding-bottom: 5px;
+	padding-top:10px;
+	padding-bottom:5px;
 	font-size:13px;
 }
 .bottom_nav a.sidebar-nav-item:hover{
-	 color:#3ab7cb;
-	 text-decoration: none;
- }
+	color:#3ab7cb;
+	text-decoration:none;
+}
 .bottom_nav a.sidebar-nav-item.active{
 	color:#3ab7cb;
-	text-decoration: none;
+	text-decoration:none;
 }
 /*.my-dropdown{
 	position:relative !important;
@@ -190,31 +197,68 @@ strong{
 	margin-top:0 !important;
 }*/
 .my-dropdown{
-	position:relative ;
-	left:0 ;
-	top:0 ;
-	background-color:transparent ;
-	min-width:100px ;
-	padding:0 0 12px ;
-	margin-top:0 ;
+	position:relative;
+	left:0;
+	top:0;
+	background-color:transparent;
+	min-width:100px;
+	padding:0 0 12px;
+	margin-top:0;
 }
 .my-dropdown li{
 	padding:5px !important;
 }
 .my-dropdown li a{
-	 color:#fff !important;
- }
+	color:#fff !important;
+}
 .my-dropdown li a:hover{
 	background-color:transparent !important;
-	font-weight: bold;
+	font-weight:bold;
 }
 .sidebar li{
 	cursor:pointer;
-	padding: 10px 0;
+	padding:10px 0;
 }
-.job-content li {
-	list-style: disc outside;
-	padding: .5em;
-	margin-left: 1em;
+.job-content li{
+	list-style:disc outside;
+	padding:.5em;
+	margin-left:1em;
 }
-
+.ul_press li:nth-child(odd) a{
+	font-size: 18px;
+	line-height: 22px;
+	color:#428bca;
+	font-weight: 600;
+	font-family: 'Microsoft Yahei';
+	padding-top:10px;
+}
+.ul_press li:nth-child(odd){
+	padding-top:10px;
+}
+.ul_press li:nth-child(odd) a:hover{
+	color:#a4003a;
+}
+.list_content{
+	font-family: 'Hevitica',Arial;
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: 300;
+}
+.list_content .head-title{
+	font-family: 'Microsoft YaHei',Arial,Helvetica;
+	font-size: 24px;
+	line-height: 32px;
+	font-weight: 600;
+	word-spacing: 0px;
+	margin-bottom: .5em;
+}
+.management_info_first{
+	margin-top:60px;
+}
+li.press_brief{
+	font-size: 14px;
+	line-height: 16px;
+	font-family: 'Hevitica',Arial;
+	font-weight: 300;
+	margin-bottom: 20px;
+}

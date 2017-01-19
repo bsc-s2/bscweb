@@ -8,6 +8,7 @@
 }
 .ul_press li{
 	margin-top: 10px;
+	margin-left: 4px;
 }
 .press_brief{
 	margin-bottom: 20px;
@@ -15,16 +16,30 @@
 }
 .management_info{
 	display: block;
-	margin-top: 30px;
+	margin-top: 20px;
+	margin-bottom:10px;
+	min-height: 290px;
 }
 .management_info img{
-	width: 130px;
+	width: 190px;
 	position: absolute;
+	max-width: 100%;
+	margin-top:10px;
 }
 .management_info h2{
-	margin-left: 180px;
+	margin: 10px 0 10px 220px;
+	line-height: 32px;
+	font-weight: 600;
+	font-size: 14px;
+	padding-top: 10px;
+	font-family: 'Microsoft Yahei';
 }
 .management_info p{
-	margin-left: 180px;
-	font-size: 14px;
+	margin-left: 220px;
+	margin-bottom:20px;
+}
+.management_info h2+p{
+	font-weight: 200;
+	font-family: 'Microsoft Yahei';
+	font-size: 12px;
 }

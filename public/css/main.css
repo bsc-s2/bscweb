@@ -160,6 +160,7 @@ strong{
 }
 .my-container{
 	padding:0 !important;
+	height:100%;
 }
 .content-page-header{
 	height:80px;
@@ -261,4 +262,10 @@ li.press_brief{
 	font-family: 'Hevitica',Arial;
 	font-weight: 300;
 	margin-bottom: 20px;
+}
+.post {
+	min-height:calc(100% - 107px - 2em);
+	min-height:-moz-calc(100% - 107px - 2em);
+	/*chrome safari*/
+	min-height:-webkit-calc(100% - 107px - 2em);
 }

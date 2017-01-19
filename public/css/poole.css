@@ -161,10 +161,6 @@ pre code{
 	color:inherit;
 	background-color:transparent;
 }
-.nav_list li{
-	position:absolute;
-	top:-500px;
-}
 .headerwrap{
 	background:url(../image/background.png) no-repeat center top;
 	text-align:center;
@@ -282,9 +278,6 @@ pre code{
 		right:0;
 		text-align:center;
 		background-color:#555;
-	}
-	.nav_list li{
-		position:inherit;
 	}
 }
 /* Pygments via Jekyll */

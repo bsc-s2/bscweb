@@ -3,7 +3,7 @@
 }
 body{
 	font-family:Arial, 'Microsoft YaHei', Helvetica;
-	color: #555;
+	color:#555;
 }
 a:link{
 	text-decoration:none;
@@ -226,11 +226,11 @@ strong{
 	margin-left:1em;
 }
 .ul_press li:nth-child(odd) a{
-	font-size: 18px;
-	line-height: 22px;
+	font-size:18px;
+	line-height:22px;
 	color:#428bca;
-	font-weight: 600;
-	font-family: 'Microsoft Yahei';
+	font-weight:600;
+	font-family:'Microsoft Yahei';
 	padding-top:10px;
 }
 .ul_press li:nth-child(odd){
@@ -240,60 +240,60 @@ strong{
 	color:#a4003a;
 }
 .list_content{
-	font-family: 'Hevitica',Arial;
-	font-size: 16px;
-	line-height: 22px;
-	font-weight: 300;
+	font-family:'Hevitica', Arial;
+	font-size:16px;
+	line-height:22px;
+	font-weight:300;
 }
 .list_content .head-title{
-	font-family: 'Microsoft YaHei',Arial,Helvetica;
-	font-size: 24px;
-	line-height: 32px;
-	font-weight: 600;
-	word-spacing: 0px;
-	margin-bottom: .5em;
+	font-family:'Microsoft YaHei', Arial, Helvetica;
+	font-size:24px;
+	line-height:32px;
+	font-weight:600;
+	word-spacing:0px;
+	margin-bottom:.5em;
 }
 .management_info_first{
 	margin-top:60px;
 }
 li.press_brief{
-	font-size: 14px;
-	line-height: 16px;
-	font-family: 'Hevitica',Arial;
-	font-weight: 300;
-	margin-bottom: 20px;
+	font-size:14px;
+	line-height:16px;
+	font-family:'Hevitica', Arial;
+	font-weight:300;
+	margin-bottom:20px;
 }
-.post {
+.post{
 	min-height:calc(100% - 107px - 2em);
 	min-height:-moz-calc(100% - 107px - 2em);
 	/*chrome safari*/
 	min-height:-webkit-calc(100% - 107px - 2em);
 }
-.list_content+div.content-office{
+.list_content + div.content-office{
 	margin-top:20px;
 }
 .office-list-container{
 	padding-top:20px;
 }
 .sub-title{
-	padding-bottom: .5em;
-	font-size: 18px;
-	line-height: 22px;
-	border-bottom: 2px solid;
-	font-weight: 600;
-	margin-bottom: .5em;
-	font-family: 'Microsoft Yahei';
+	padding-bottom:.5em;
+	font-size:18px;
+	line-height:22px;
+	border-bottom:2px solid;
+	font-weight:600;
+	margin-bottom:.5em;
+	font-family:'Microsoft Yahei';
 }
 .office-info{
-	margin-bottom: .5em !important;
-	font-size: 14px;
-	line-height: 16px;
-	font-family: 'Hevitica',Arial;
-	font-weight: 300;
-	word-spacing: 0em;
+	margin-bottom:.5em !important;
+	font-size:14px;
+	line-height:16px;
+	font-family:'Hevitica', Arial;
+	font-weight:300;
+	word-spacing:0em;
 }
-.color-2 {
-	color: #3499ed;
+.color-2{
+	color:#3499ed;
 }
 .mar-t-60{
 	margin-top:60px;
@@ -304,7 +304,75 @@ li.press_brief{
 .info-above{
 	margin:0 !important;
 }
-.row {
-	margin-right: 0px;
-	margin-left: 0px;
+.row{
+	margin-right:0px;
+	margin-left:0px;
 }
+.msr-b-40{
+	margin-bottom:40px;
+}
+.culture-top{
+	margin-top:55px;
+}
+.color-3{
+	color:#323232;
+}
+#blocksItContainer{
+	position:relative;
+	width:100%;
+}
+.culture-imgBox{
+	min-height:100px;
+	padding:4px;
+	background:#fff;
+	font-size:12px;
+	float:left;
+	border:1px solid #ededed;
+	border-radius:4px;
+	margin-bottom:30px;
+}
+.post-thumb{
+	border:4px solid #fff;
+	overflow:hidden;
+	position:relative;
+}
+.culture-imgBox img{
+	margin-bottom:0 !important;
+}
+.post-hover{
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:70px;
+	left:0;
+	visibility:hidden;
+	opacity:0;
+	background:rgba(0, 0, 0, 0.1);
+	-webkit-transition:all 150ms ease-in-out;
+	-moz-transition:all 150ms ease-in-out;
+	-ms-transition:all 150ms ease-in-out;
+	-o-transition:all 150ms ease-in-out;
+	transition:all 150ms ease-in-out;
+}
+.culture-imgBox:hover .post-hover{
+	top:0;
+	visibility:visible;
+	opacity:1;
+}
+.post-hover .inside{
+	position:relative;
+	top:50%;
+	-moz-transform:translateY(-50%);
+	-ms-transform:translateY(-50%);
+	-webkit-transform:translateY(-50%);
+	transform:translateY(-50%);
+	font-size:18px;
+}
+.post-hover .inside sapn{
+	display:block;
+	margin-bottom:10px;
+	color:#fff !important;
+}
+#lightbox .lb-data .lb-close {position:absolute !important;top:-30px;right:10px;z-index:9999}
+#lightbox .lb-logo {background:url(../image/logo_black.png) 0 0 no-repeat;width:236px;height:40px;display:block;background-size:auto 100%;border-right:1px solid #6c6c6c;}
+#lightbox .lb-details span{float:left;}

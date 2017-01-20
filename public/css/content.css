@@ -1,20 +1,140 @@
-.list_content {
-	text-align: left;
-	padding: 10px 30px;
+@media (min-width: 768px) {
+	.list_content {
+		margin: 20px auto;
+		padding-left: 5%;
+		min-width: 500px;
+		text-align: left;
+		width: 60%
+	}
+	.ul_press{
+		margin-top: 20px;
+		width: 70%;
+		font-size: 18px;
+	}
+	.ul_press li{
+		margin-top: 10px;
+	}
+	.press_brief{
+		margin-bottom: 20px;
+		font-size: 16px;
+	}
+	.management_info{
+		display: block;
+		margin-top: 30px;
+	}
+	.management_info img{
+		width: 130px;
+		position: absolute;
+	}
+	.management_info h2{
+		margin-left: 180px;
+	}
+	.management_info p{
+		margin-left: 180px;
+		font-size: 14px;
+	}
 }
-.ul_press{
-	margin-top: 20px;
-	font-size: 18px;
+@media (max-width: 767px) {
+	.list_content {
+		margin: 10px auto;
+		min-width: 500px;
+		text-align: left;
+		width: 80%
+	}
+	.ul_press{
+		margin-top: 20px;
+		width: 100%;
+		font-size: 18px;
+	}
+	.ul_press li{
+		margin-top: 10px;
+	}
+	.press_brief{
+		margin-bottom: 20px;
+		font-size: 16px;
+	}
+	.management_info{
+		display: block;
+		margin-top: 30px;
+	}
+	.management_info img{
+		width: 130px;
+	}
 }
+
 .ul_press li{
 	margin-top: 10px;
 	margin-left: 4px;
 }
-.press_brief{
-	margin-bottom: 20px;
-	font-size: 16px;
+
+.products_title{
+	padding: 20px 65% 20px 0%;
+
 }
-.management_info{
+.centent_top{
+	text-align: center;
+	margin-top: 30px;
+}
+.overview_02{
+	width: 100%;
+}
+.list_overview{
+	display: inline;
+	width: 28%;
+	float:left;
+	margin: 10px;
+}
+.list_overview p{
+	width: 80%;
+}
+.list_overview a{
+	color: #FFF;
+	background-color: #428bca;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	border: 1px solid #357ebd;
+	padding: 5px 10px;
+	border-radius: 3px;
+}
+.overview_roll{
+	position: relative;
+	width: 100%;
+	height: 400px;
+	overflow: hidden;
+}
+.overview_roll h4{
+	color: #428bca;
+}
+.overview_slide1{
+	position: absolute;
+	float: left;
+	width: 100%;
+	height: 400px;
+	left: 0px;
+}
+.overview_slide{
+	position: absolute;
+	float: left;
+	width: 100%;
+	height: 400px;
+	left: 100%;
+}
+.overview_slide img{
+	margin: 10px auto;
+	height: 75%;
+}
+.overview_slide_hover{
+	left: 0;
+}
+
+.overview_button{
+	width: 15px;
+	height: 15px;
+	background-color: #ccc;
+	border: 1px solid #ccc;
+	border-radius: 7.5px;
 	display: block;
 	margin-top: 20px;
 	margin-bottom:10px;
@@ -42,4 +162,129 @@
 	font-weight: 200;
 	font-family: 'Microsoft Yahei';
 	font-size: 12px;
+	float: left;
+	margin: 0px 5px;
+	cursor:pointer;
+}
+.overview_button_hover{
+	background-color: #3499ed;
+	border: 1px solid #3499ed;
+}
+
+.products_list{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.products_list img{
+	position: absolute;
+	width: 25%;
+	max-width: 100px;
+}
+.products_list p{
+	margin-left: 150px;
+	color: #3499ed;
+}
+.products_list ul{
+	margin-left: 150px;
+}
+.products_list ul li{
+	list-style-type: disc;
+	margin-top: 10px;
+}
+.products_blue{
+	background-color: #129593;
+	padding: 10px;
+	text-align: center;
+	width: 20%;
+	border-radius: 20px;
+	float: left;
+	margin-top: 50px;
+}
+.products_blue img{
+	height: 50px;
+	margin:10px auto;
+	position: static;
+}
+.products_blue h6{
+	color: #FFF;
+}
+.products_blue_info{
+	width: 70%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.products_blue_info p{
+	width: 70%;
+	color: #129593;
+}
+.products_blue_info ul li{
+	width: 70%;
+	list-style-type: disc;
+	margin-top: 10px;
+}
+.products_roll{
+	position: relative;
+	width: 100%;
+	height: 300px;
+	overflow: hidden;
+}
+.products_slide{
+	position: absolute;
+	float: left;
+	width: 100%;
+	left: 100%;
+}
+.products_slide img{
+	position: absolute;
+	padding: 5%;
+	width: 50%;
+}
+.products_slide h4{
+	color: #3499ed;
+	margin-left: 55%;
+	margin-top: 5%;
+	font-size: 22px;
+}
+.products_slide p{
+	margin-left: 55%;
+	margin-top: 3%;
+	font-size: 16px;
+}
+.products_slide ul li{
+	margin-left: 55%;
+	margin-top: 3%;
+	list-style-type: disc;
+}
+.products_slide_hover{
+	left: 0;
+}
+
+.products_button{
+	width: 15px;
+	height: 15px;
+	background-color: #ccc;
+	border: 1px solid #ccc;
+	border-radius: 7.5px;
+	display: block;
+	float: left;
+	margin: 0px 5px;
+	cursor:pointer;
+}
+.products_button_hover{
+	background-color: #3499ed;
+	border: 1px solid #3499ed;
+}
+.products_bottom_nav{
+	padding: 5px 10px;
+	color: #FFF;
+	background-color: #428bca;
+	display: inline-block;
+	border: 1px solid #357ebd;
+	border-radius: 3px;
+	line-height: 1.5;
+	font-size: 12px;
+}
+.clean{
+	clear:both;
 }

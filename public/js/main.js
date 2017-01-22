@@ -1,11 +1,11 @@
 jQuery(document).ready(function () {
-	$(window).load( function() {
+	/*$(window).onload( function() {
 		$('#blocksItContainer').BlocksIt({
 			numOfCol: 4,
 			offsetX: 8,
 			offsetY: 8
 		});
-	});
+	});*/
 	var currentWidth = 1100;
 	$(window).resize(function() {
 		var winWidth = $(window).width();
@@ -39,5 +39,10 @@ jQuery(document).ready(function () {
 		'wrapAround': true,
 		'disableScrolling':true
 	})
+	$('#blocksItContainer').BlocksIt({
+		numOfCol: 4,
+		offsetX: 8,
+		offsetY: 8
+	});
 
 });

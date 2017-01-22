@@ -1,0 +1,28 @@
+<div class="list_content">
+	<div class="office-list-container">
+		{% assign offices=site.data.contact-us-office %}
+		{% for office in offices %}
+		<div class="content-office col-xs-12">
+			<h3 class="sub-title color-2">{{office.name}}</h3>
+			{% for info in office.infos %}
+			{% if info.last %}
+			<p class="office-info">{{info}}</p>
+			{% else %}
+			<p class="office-info" style="margin-bottom: .5em;">{{info}}</p>
+			{% endif %}
+			{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+	<div class="col-xs-12 mar-t-60">
+		{% assign oths=site.data.contact-us-others %}
+		{% for oth in oths %}
+		<div class="col-xs-6">
+			<h3 class="sub-title color-2">{{oth.name}}</h3>
+			<p class="office-info info-above">{{oth.phone}}</p>
+			<p class="office-info info-above">{{oth.mail}}</p>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="clearfix"></div>
+</div>

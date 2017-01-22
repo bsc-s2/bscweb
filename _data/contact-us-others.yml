@@ -1,0 +1,19 @@
+- name: Technology Consulting
+  phone: 4000813388-1
+  mail: techs@baishancloud.com
+- name: Marketing
+  phone: 4000813388-3
+  mail: market@baishancloud.com
+- name: Sales
+  phone: 4000813388-2
+  mail: support@baishancloud.com
+- name: Media & PR
+  phone:   4000813388-5
+  mail: pr@baishancloud.com
+- name: Investor Relations
+  phone: 4000813388-6
+  mail: ir@baishancloud.com
+- name: Human Resources
+  phone: 4000813388-4
+  mail: hr@baishancloud.com
+

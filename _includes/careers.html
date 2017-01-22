@@ -1,0 +1,65 @@
+<img src="{{ site.baseurl }}/public/image/careersBg.png" class="img"/>
+
+<div class="job-container">
+	<ul class="job-ul hidden-xs">
+		<li class="job-li"><a href="#sh" class="job-a">Job Openings (China)</a></li>
+		<li class="job-li"><a href="#xy" class="job-a">Job Openings (U.S.)</a></li>
+		<div class="clearfix"></div>
+	</ul>
+
+	<div class="col-xs-12 col-lg-6 col-md-6 col-sm-6">
+		{% assign ccs=site.data.careers-china %}
+		{% for cc in ccs %}
+		<div class="job-title collapsed" data-toggle="collapse" data-target="#{{cc.id}}">
+			<span class="color-2 fs16 job-p pull-left">{{cc.jobTitle}}</span>
+			<div class="clearfix"></div>
+			<div id="{{cc.id}}" class="collapse job-content color-1">
+				<p>Job&nbsp;Location: {{cc.jobLocation}}</p>
+				<p><strong>Key Responsibilities:</strong></p>
+				<ul>
+					{% for ky in cc.keyResponsibilities %}
+					<li>{{ky}}</li>
+					{% endfor %}
+				</ul>
+				<p>&nbsp;</p>
+				<p><strong>Required Qualifications</strong><strong>:</strong></p>
+				<ul>
+					{% for rq in cc.requiredQualifications %}
+					<li>{{rq}}</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+
+	<div class="col-xs-12 col-lg-6 col-md-6 col-sm-6">
+		{% assign cus=site.data.careers-US %}
+		{% for cu in cus %}
+		<div class="job-title collapsed" data-toggle="collapse" data-target="#{{cu.id}}">
+			<span class="color-2 fs16 job-p pull-left">{{cu.jobTitle}}</span>
+			<div class="clearfix"></div>
+			<div id="{{cu.id}}" class="collapse job-content color-1">
+				<p><strong><u>Location:</u></strong></p>
+				<p>{{cu.jobLocation}}</p>
+				<p><strong><u>Job </u></strong><strong><u>Functions</u></strong><strong><u>:</u></strong>
+				</p>
+				<p>{{cu.jobFunctions}}</p>
+				<p><strong><u>Key Responsibilities:</u></strong></p>
+				<ul>
+					{% for ky in cu.keyResponsibilities %}
+					<li>{{ky}}</li>
+					{% endfor %}
+				</ul>
+				<p><strong><u>Required Qualifications</u></strong>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+				<ul>
+					{% for rq in cu.requiredQualifications %}
+					<li>{{rq}}</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="clearfix"></div>
+</div>

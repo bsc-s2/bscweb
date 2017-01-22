@@ -1,0 +1,22 @@
+- name: Beijing Office
+  infos:
+    - Jia-10 Jiuxianqiao North Rd., E-5/F, Block 201 BEZ Park, Chaoyang District, Beijing, China
+- name: Shanghai Office
+  infos:
+    - 6 Lane 388, Zhongjiang Rd., B-5/F, Future Land Holding Mansion, Putuo District, Shanghai, China
+- name: Shenzhen Office
+  infos:
+    - Gaoxinnan 4th Rd, 618 Lia Chariton Building, Nanshan District, Shenzhen, Guangdong Province, China
+- name: Seattle Office
+  infos:
+    - 777 108th Ave NE, Suite 2050, Bellevue, WA 98005
+    - Global@baishancloud.com; Sales-us@baishancloud.com
+- name: Guangzhou Office
+  infos:
+    -12 Keyun Rd , W-2822 Fineland E Times Square, Tianhe District, Guangzhou, Guangdong Province, China
+- name: Xiamen R&D Center
+  infos:
+    - 41-507 Wanghai Rd., Software Park II, Siming District, Xiamen, Fujian, China
+- name: Guian R&D Center
+  infos:
+    - Midpiece Qianzhong Ave, 2/F, Block 23, High-End Instrument Manufacturing Park, Guian District, Guiyang, Guizhou Province, China

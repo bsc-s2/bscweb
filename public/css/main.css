@@ -376,3 +376,27 @@ li.press_brief{
 #lightbox .lb-data .lb-close {position:absolute !important;top:-30px;right:10px;z-index:9999}
 #lightbox .lb-logo {background:url(../image/logo_black.png) 0 0 no-repeat;width:236px;height:40px;display:block;background-size:auto 100%;border-right:1px solid #6c6c6c;}
 #lightbox .lb-details span{float:left;}
+a.image-link{
+	color:#fff;
+}
+.mar-b-20{
+	margin-bottom:20px;
+}
+.customers-box{
+	box-shadow: 0 0 2px 2px #ccc;
+	padding: 15px;
+	background-color: #fff;
+	height: 208px;
+	line-height: 208px;
+}
+.img-center{
+	max-height: 100%;
+	max-width: 100%;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	-webkit-transform: translate(-50%,-50%);
+	text-align: center;
+	display: block;
+}

@@ -91,7 +91,7 @@ jQuery(document).ready(function () {
 	function scrollPlay4(){
 		var cln_long = $(".products_slide").eq($index4).attr("id");
 		if(cln_long=="cln_long"){
-			$(".products_roll").css("height","400");
+			$(".products_roll").css("height","470");
 		}else{
 			$(".products_roll").css("height","300");
 		}

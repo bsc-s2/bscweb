@@ -402,3 +402,6 @@ a.image-link{
 .list_content_wider{
 	width: 80%;
 }
+#blocksItContainer{
+	visibility:hidden;
+}

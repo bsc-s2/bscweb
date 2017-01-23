@@ -1,11 +1,14 @@
 jQuery(document).ready(function () {
-	/*$(window).onload( function() {
+	window.onload = function() {
 		$('#blocksItContainer').BlocksIt({
 			numOfCol: 4,
 			offsetX: 8,
 			offsetY: 8
 		});
-	});*/
+	}
+	setInterval(function(){
+		$("#blocksItContainer").css("visibility","visible")
+	},1000);
 	var currentWidth = 1100;
 	$(window).resize(function() {
 		var winWidth = $(window).width();
@@ -39,11 +42,11 @@ jQuery(document).ready(function () {
 		'wrapAround': true,
 		'disableScrolling':true
 	});
-	$('#blocksItContainer').BlocksIt({
+	/*$('#blocksItContainer').BlocksIt({
 		numOfCol: 4,
 		offsetX: 8,
 		offsetY: 8
-	});
+	});*/
 
 	var clearTime = null;
 	var $index = 0;

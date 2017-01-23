@@ -4,6 +4,8 @@ title: BaishanCloud Announces the Establishment of a North American Subsidiary
 ---
 
 ##BaishanCloud Announces the Establishment of a North American Subsidiary
+---
+
 **[Beijing, March 9, 2016], BaishanCloud** (BSC), a leading provider of cloud managed services in China, announced today that it has established a wholly-owned subsidiary in North America.  
 
 Located in Seattle, the subsidiary will facilitate the cloud-delivery needs of Chinese customers in the U.S. market and help U.S. multinationals reach the China market.  “The opening of our U.S. subsidiary represents a first step in BaishanCloud’s global strategy.  We will continue to expand globally to better serve the needs of our customers,” said Huo Tao, co-founder and CEO of BSC.    

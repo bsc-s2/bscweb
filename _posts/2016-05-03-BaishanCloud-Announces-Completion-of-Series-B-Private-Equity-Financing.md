@@ -4,6 +4,7 @@ title: BaishanCloud Announces Completion of Series B Private Equity Financing
 ---
 
 ##BaishanCloud Announces Completion of Series B Private Equity Financing
+---
 
 **[July 25, 2016], BaishanCloud** (BSC), a leading provider of cloud-managed services in China, announced today that it has completed its Series B of private equity financing.  This series, led by Guian New District Development Fund (GNDDF), follows Series A and A+ investors, Shanghai Qingcheng Investment Fund and Shanghai Rongxi Investment Management Fund, respectively.
 

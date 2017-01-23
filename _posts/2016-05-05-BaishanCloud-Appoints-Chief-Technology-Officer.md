@@ -4,6 +4,7 @@ title: BaishanCloud Appoints Chief Technology Officer
 ---
 
 ##BaishanCloud Appoints Chief Technology Officer
+---
 
 **[Beijing, June 23, 2016], BaishanCloud** (BSC), a leading provider of cloud managed services in China, announced today that it has appointed Tong Jian as Chief Technology Officer (CTO).  The appointment will take effect immediately.
 

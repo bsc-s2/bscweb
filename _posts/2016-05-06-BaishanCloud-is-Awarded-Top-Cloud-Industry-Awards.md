@@ -4,6 +4,7 @@ title: BaishanCloud is Awarded Top Cloud Industry Awards
 ---
 
 ##BaishanCloud is Awarded Top Cloud Industry Awards
+---
 
 **[PR Newswire, April 18, 2016]** In connection with the Fourth China International Forum for Cloud Computing Technology and Applications, **BaishanCloud** (BSC), a leading provider of cloud managed services, today received the top cloud industry award  – “Cloud China 2016” –administered by the Chinese Ministry of Industry and Information Technology (MIIT).  
 

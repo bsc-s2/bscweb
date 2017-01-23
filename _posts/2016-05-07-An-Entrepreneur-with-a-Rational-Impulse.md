@@ -4,6 +4,7 @@ title: An Entrepreneur with a "Rational Impulse"
 ---
 
 ##An Entrepreneur with a "Rational Impulse"
+---
 
 *Source: China Science & Technology Daily, March 31, 2016*
 

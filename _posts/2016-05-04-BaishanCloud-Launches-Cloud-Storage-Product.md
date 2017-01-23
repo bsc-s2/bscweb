@@ -4,6 +4,7 @@ title: BaishanCloud Launches Cloud Storage Product
 ---
 
 ##BaishanCloud Launches Cloud Storage Product
+---
 
 **[Beijing, June 30, 2016] BaishanCloud**(BSC), a leading provider of cloud managed services in China, today launched a cloud warehouse network (CWN-X) product.   As the second product in BSC’s cloud product suite, CWN-X is a distributed object storage product, focusing on the storage of hot data and data transfer among clouds.
 

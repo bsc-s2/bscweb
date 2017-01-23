@@ -38,13 +38,13 @@ jQuery(document).ready(function () {
 		'resizeDuration': 200,
 		'wrapAround': true,
 		'disableScrolling':true
-	})
+	});
 	$('#blocksItContainer').BlocksIt({
 		numOfCol: 4,
 		offsetX: 8,
 		offsetY: 8
 	});
-	
+
 	var clearTime = null;
 	var $index = 0;
 	var $qianindex = 0;

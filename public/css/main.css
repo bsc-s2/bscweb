@@ -415,3 +415,21 @@ a.image-link{
 		width: 1170px;
 	}
 }
+.head-img{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+}
+.head-img-about{
+	max-height:320px;
+}
+.headimg-box-about{
+	min-height:260px;
+}
+.head-img-careers{
+	max-height:580px;
+}
+.headimg-box-careers{
+	min-height:500px;
+}

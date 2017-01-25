@@ -268,7 +268,7 @@
 
 /* 中文 */
 .zh_page{
-	width: 100%;
+    margin: 0 0 0 14rem;
 }
 .news_centent{
 	width: 70%;
@@ -512,6 +512,7 @@
 }
 .technology{
 	position: relative;
+        padding: 0 0 0 40px;
 }
 .technology .ccx-4{
 	position: relative;

@@ -32,7 +32,7 @@ strong{
 }
 @media screen and (min-width:768px){
 	.job-container{
-		padding-left:10%;
+		padding: 0 10%;
 		height:100%;
 		min-height:500px;
 		margin:0 auto;
@@ -264,6 +264,7 @@ li.press_brief{
 	min-height:-moz-calc(100% - 107px - 2em);
 	/*chrome safari*/
 	min-height:-webkit-calc(100% - 107px - 2em);
+        margin: 0 0 0 14rem;
 }
 .list_content + div.content-office{
 	margin-top:20px;
@@ -543,14 +544,15 @@ a.image-link{
 }
 @media (min-width: 1200px){
 	.container {
-		width: 1170px;
+		width: 100%;
 	}
 }
 .head-img{
-	position:absolute;
-	left:0;
-	top:0;
-	width:100%;
+    margin: -80px 0 0 0;
+}
+.head-img .img{
+    max-height:320px;
+    width: 100%;
 }
 .head-img-about{
 	max-height:320px;
@@ -702,25 +704,4 @@ a.image-link{
 }
 .pad0{
 	padding:0 !important;
-}
-@media (min-width: 768px){
-	.container {
-		width: 750px;
-	}
-}
-@media (min-width: 992px){
-	.container {
-		width: 970px;
-	}
-}
-@media (min-width: 1200px){
-	.container {
-		width: 1170px;
-	}
-}
-.head-img{
-	position:absolute;
-	left:0;
-	top:0;
-	width:100%;
 }

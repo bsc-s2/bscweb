@@ -269,7 +269,6 @@
 /* 中文 */
 .zh_page{
 	width: 100%;
-	padding: 0 0 0 14rem;
 }
 .news_centent{
 	width: 70%;
@@ -581,7 +580,7 @@
 
 .list_brief{
 	width: 50%;
-	margin: 40px 20% 10px 30%;
+	margin: 140px 30% 10px 30%;
 }
 .list_brief h3{
 	font-size: 24px;

@@ -1,5 +1,5 @@
 ---
-layout: zh_page
+layout: post
 title: 技术
 ---
 

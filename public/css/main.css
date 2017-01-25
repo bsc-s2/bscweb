@@ -405,3 +405,160 @@ a.image-link{
 #blocksItContainer{
 	visibility:hidden;
 }
+.culture-customers{
+	margin: auto;
+}
+.job-li.active a{
+	background-color: #3499dc;
+}
+.job-li.active .job-a:hover{
+	background-color:#eeefea;
+	border:0;
+	color:#129593;
+}
+.msr-b-80{
+	margin-bottom:80px;
+}
+.mar20{
+	margin:20px;
+}
+.pad10{
+	padding:10px;
+}
+.pad15{
+	padding:15px;
+}
+.office-h4{
+	font-size: 20px;
+	color:#fff;
+	font-weight: 200;
+}
+.content-bg{
+	text-align:left;
+}
+.contact-map{
+	max-width: 100%;
+	margin: 20px 0;
+}
+.office-h3{
+	color: #3499ed;
+	font-size: 24px;
+	font-weight: 500;
+}
+.contact-p{
+	margin-bottom: 0;
+	font-size: 16px;
+	line-height: 26px;
+	color:#fff;
+}
+.ta-l{
+	text-align:left;
+}
+.bottom_nav_cn{
+	color:#888;
+	background-color: #fff;
+	font-size: 16px;
+	font-weight: 300;
+	padding-left: 175px;
+}
+.bottom_nav_cn a.sidebar-nav-item {
+	color: #888;
+	font-size: 16px;
+	padding:0;
+	border-bottom: 1px dotted;
+}
+.bottom_nav_cn a.sidebar-nav-item:hover {
+	font-size: 16px;
+	padding:0;
+	border-bottom: 1px dotted;
+	font-weight: 300;
+}
+.bottom_nav_cn a.sidebar-nav-item.active {
+	font-weight: 300;
+}
+.copyright{
+	display:inline-block;
+}
+.job-content-cn{
+	font-size: 14px;
+	font-family: 微软雅黑;
+	line-height: 26px;
+}
+.p-jobLocation{
+	font-weight: 700;
+}
+.job-blue{
+	color: #3399ff;
+	font-size: 18px;
+	font-weight: 700;
+}
+.applicationURL{
+	font-size: 18px;
+	color: rgb(51, 153, 255);
+	background: none;
+}
+.bottom_nav_cn h4{
+	padding-top:10px;
+	padding-bottom:5px;
+	font-size:18px;
+	font-weight: 300;
+}
+.bottom_nav_cn h4 em{
+	color:#626262;
+	font-weight: 300;
+	font-family: tahoma,geneva,sans-serif;
+}
+.hot {
+	background: url(../image/icon-hot.png) no-repeat;
+	width: 30px;
+	height: 26px;
+	display: block;
+}
+.new {
+	background: url(../image/icon-new.png) no-repeat;
+	width: 30px;
+	height: 26px;
+	display: block;
+}
+.job-p-sh{
+	width: calc(90% - 30px);
+	width:-moz-calc(90% - 30px);
+	/*chrome safari*/
+	width:-webkit-calc(90% - 30px);
+}
+.job-p-xy{
+	width: calc(95% - 70px);
+	width:-moz-calc(95% - 70px);
+	/*chrome safari*/
+	width:-webkit-calc(95% - 70px);
+}
+.fs22 {
+	font-size: 22px;
+}
+.job-title-cn{
+	margin:0;
+}
+.pad0{
+	padding:0 !important;
+}
+@media (min-width: 768px){
+	.container {
+		width: 750px;
+	}
+}
+@media (min-width: 992px){
+	.container {
+		width: 970px;
+	}
+}
+@media (min-width: 1200px){
+	.container {
+		width: 1170px;
+	}
+}
+.head-img{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+}

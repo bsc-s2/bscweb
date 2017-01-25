@@ -1,5 +1,4 @@
 # Dependencies
-#markdown:         kramdown
 markdown:        redcarpet
 highlighter:      pygments
 
@@ -12,7 +11,7 @@ title:            BaishanCloud
 tagline:          ''
 description:      ''
 url:              http://www.baishancloud.com
-baseurl:          /bscweb/
+baseurl:          /zh/
 
 author:
   name:           'BaishanCloud'
@@ -24,48 +23,3 @@ paginate:         5
 version:          1.0.0
 
 gems:             [jekyll-paginate]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

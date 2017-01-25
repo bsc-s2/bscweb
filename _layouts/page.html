@@ -1,28 +1,32 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include sidebar.html %}
+{% include sidebar.html %}
 
-    <div class="content container my-container">
-        <div class="post">
-            <div class="content-page-header hidden-xs">
+<div class="content container my-container">
+    <div class="post">
+        <div class="content-page-header hidden-xs">
             <img class="logo" src="{{ site.baseurl }}/public/image/logo_black.png" height="40px">
         </div>
         <img class="logo visible-xs" src="{{ site.baseurl }}/public/image/logo_black.png" height="32px">
-			<div class="list_content">
-  			{{ content }}
-  			</div>
+		<div class="list_content">
+
+  		    {{ content }}
+
   		</div>
-		{% include bottom.html %}
-    </div>
-    <script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
-    <script src="{{ site.baseurl }}public/js/main.js"></script>
-    <script src="{{ site.baseurl }}public/js/bootstrap.min.js"></script>
-    <script src="{{ site.baseurl }}public/js/lightbox-plus-jquery.min.js"></script>
-    <script src="{{ site.baseurl }}public/js/blocksit.min.js"></script> 
-  </body>
+  	</div>
+
+	{% include bottom.html %}
+
+</div>
+<script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
+<script src="{{ site.baseurl }}public/js/main.js"></script>
+<script src="{{ site.baseurl }}public/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}public/js/lightbox-plus-jquery.min.js"></script>
+<script src="{{ site.baseurl }}public/js/blocksit.min.js"></script> 
+</body>
 </html>

@@ -12,7 +12,7 @@ title:            BaishanCloud
 tagline:          ''
 description:      ''
 url:              http://www.baishancloud.com
-baseurl:          /cn/
+baseurl:          /zh/
 
 author:
   name:           'BaishanCloud'

@@ -1,3 +1,38 @@
+<div id="contact">
+	<div class="container content-bg">
+		<div class="row mar20">
+			<div class="col-lg-8">
+				<div class="row">
+					{% assign cufs = site.data.contact-us-office-cn %}
+					{% for cuf in cufs %}
+					<div class="col-lg-6">
+						<div class="pad10">
+							<h4 class="office-h4">{{cuf.name}}</h4>
+							<img src="{{ site.baseurl }}/public/image/Contact/{{cuf.imgName}}" alt="" class="contact-map">
+							<h3 class="office-h3">{{cuf.blueName}}</h3>
+							<p class="contact-p">{{cuf.addr}}</p>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+			<div class="col-lg-4">
+				{% assign cuos = site.data.contact-us-others-cn %}
+				{% for cuo in cuos %}
+				<div class="pad15 mar-b-20 ta-l">
+					<h4 class="office-h4">{{cuo.name}}</h4>
+					<p class="contact-p">{{cuo.phone}}</p>
+					<p class="contact-p">{{cuo.mail}}</p>
+				</div>
+				<div class="clearfix">&nbsp;</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!--
 <div class="list_content">
 	<div class="office-list-container">
 		{% assign offices=site.data.contact-us-office %}
@@ -25,4 +60,4 @@
 		{% endfor %}
 	</div>
 	<div class="clearfix"></div>
-</div>
+</div>-->

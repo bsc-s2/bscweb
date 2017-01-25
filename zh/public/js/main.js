@@ -9,10 +9,10 @@ jQuery(document).ready(function () {
 	$("#contact").parent(".post").parent(".content").parent("body").css("background","url(../../../../public/image/black-bg.jpg) no-repeat");
 	$("#contact").parent(".post").parent(".content").parent("body").css("background-size","cover");
 
-        if ($(".head-img").length > 0) {
-            var headHeight = $(".head-img").css("height").slice(0,-2) - 80 +"px";
-            $("p.headimg-box").css("height",headHeight);
-        }
+        // if ($(".head-img").length > 0) {
+        //     var headHeight = $(".head-img").css("height").slice(0,-2) - 80 +"px";
+        //     $("p.headimg-box").css("height",headHeight);
+        // }
 
 	setInterval(function(){
 		$("#blocksItContainer").css("visibility","visible")

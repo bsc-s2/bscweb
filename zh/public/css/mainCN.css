@@ -139,30 +139,9 @@ body{
 .pad0{
 	padding:0 !important;
 }
-@media (min-width: 768px){
-	.container {
-		width: 750px;
-	}
-}
-@media (min-width: 992px){
-	.container {
-		width: 970px;
-	}
-}
-@media (min-width: 1200px){
-	.container {
-		width: 1170px;
-	}
-}
 .content-page-header{
 	height:80px;
 	background-color:transparent;
-}
-.head-img{
-	position:absolute;
-	left:0;
-	top:0;
-	width:100%;
 }
 .head-img-about{
 	max-height:320px;

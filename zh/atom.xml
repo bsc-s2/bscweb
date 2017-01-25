@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-01-26T00:43:56+08:00</updated>
+ <updated>2017-01-26T01:36:13+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -2544,9 +2544,9 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2017/01/05/brief/"/>
    <updated>2017-01-05T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/05/brief</id>
-   <content type="html">&lt;p class=&quot;headimg-box&quot;&gt;
-&lt;img src=&quot;/zh//public/image/brief.png&quot; class=&quot;img head-img head-img-about&quot;&gt;
-&lt;/p&gt;
+   <content type="html">&lt;div class=&quot;headimg-box head-img&quot;&gt;
+    &lt;img src=&quot;/zh//public/image/brief.png&quot; class=&quot;img&quot;&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;list_brief&quot;&gt;
 
@@ -3382,9 +3382,9 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2016/07/01/Careers/"/>
    <updated>2016-07-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/07/01/Careers</id>
-   <content type="html">&lt;p class=&quot;headimg-box&quot;&gt;
-    &lt;img src=&quot;/zh//public/image/careersBg-cn.jpg&quot; class=&quot;img head-img head-img-careers&quot;/&gt;
-&lt;/p&gt;
+   <content type="html">&lt;div class=&quot;headimg-box head-img&quot;&gt;
+    &lt;img src=&quot;/zh//public/image/careersBg-cn.jpg&quot; class=&quot;img head-img-careers&quot;/&gt;
+&lt;div&gt;
 
 &lt;div class=&quot;job-container&quot;&gt;
     &lt;ul id=&quot;myTabs&quot; class=&quot;job-ul hidden-xs&quot;&gt;

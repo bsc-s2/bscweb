@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<link href="http://gmpg.org/xfn/11" rel="profile">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+	<!-- Enable responsiveness on mobile devices-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<title>
+		
+		CND-X 云分发 - BaishanCloud
+		
+	</title>
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/zh/public/css/poole.css">
+	<link rel="stylesheet" href="/zh/public/css/syntax.css">
+	<link rel="stylesheet" href="/zh/public/css/hyde.css">
+	<link rel="stylesheet" href="/zh/public/css/content.css">
+	<link rel="stylesheet" href="/zh/public/css/bootstrap.css">
+	<link rel="stylesheet" href="/zh/public/css/lightbox.min.css">
+	<link rel="stylesheet" href="/zh/public/css/main.css">
+	<link rel="stylesheet" href="/zh/public/css/mainCN.css">
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+	<!-- Icons -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144"
+	      href="/zh/public/apple-touch-icon-144-precomposed.png">
+	<link rel="shortcut icon" href="/zh/public/favicon.ico">
+</head>
+
+
+<body style="background-color: #FFF;">
+
+<div class="sidebar hidden-xs">
+	<div class="sidebar-sticky">
+		<ul class="nav_list" id="nav">
+			<li><a class="sidebar-nav-item " href="/zh/">首页</a></li>
+			<li class="">
+				<a class="sidebar-nav-item nav-xs-first dropdown-toggle" data-target="#" data-toggle="dropdown">服务</a>
+				<ul class="dropdown-menu my-dropdown">
+					<li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
+					<li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
+					<li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
+				</ul>
+			</li>
+			<li><a class="sidebar-nav-item" href="/zh//2017/01/04/technology/">技术</a></li>
+			<li><a class="sidebar-nav-item" href="/zh//2016/06/01/BSC-Culture/">生活</a></li>
+			<li><a class="sidebar-nav-item" href="/zh//2016/04/01/Customers/">客户</a></li>
+			<li><a class="sidebar-nav-item" href="/zh//2017/01/05/brief/">白山简介</a></li>
+			<li><a class="sidebar-nav-item" href="/zh//2017/01/06/management/">白山领导力</a></li>
+			<li><a class="sidebar-nav-item" href="/zh//2017/01/20/news/">白山新闻</a></li>
+			<li><a class="sidebar-nav-item" href="/zh//2016/07/01/Careers/">白山招聘</a></li>
+			<li><a class="sidebar-nav-item" href="/zh//2016/08/01/Contact-Us/">联系白山</a></li>
+		</ul>
+	</div>
+</div>
+
+<button class="nav-xs collapsed visible-xs" data-toggle="collapse" data-target="#navXS">
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+</button>
+<div class="clearfix nav-xs-bg"></div>
+<div class="collapse nav-xs-content hidden-sm hidden-md hidden-lg" id="navXS">
+	<ul class="nav navbar-nav">
+		<li><a class="nav-xs-first" href="/zh/">首页</a></li>
+		<li class="dropdown">
+			<a class="nav-xs-first dropdown-toggle" href="#" data-toggle="dropdown">服务</a>
+			<ul class="dropdown-menu">
+				<li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
+				<li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
+				<li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
+			</ul>
+		</li>
+		<li><a class="nav-xs-first" href="/zh//2017/01/04/technology/">技术</a></li>
+		<li><a class="nav-xs-first" href="/zh//2016/06/01/BSC-Culture/">生活</a></li>
+		<li><a class="nav-xs-first" href="/zh//2016/04/01/Customers/">客户</a></li>
+		<li><a class="nav-xs-first" href="/zh//2017/01/05/brief/">白山简介</a></li>
+		<li><a class="nav-xs-first" href="/zh//2017/01/06/management/">白山领导力</a></li>
+		<li><a class="nav-xs-first" href="/zh//2017/01/20/news/">白山新闻</a></li>
+		<li><a class="nav-xs-first" href="/zh//2016/07/01/Careers/">白山招聘</a></li>
+		<li><a class="nav-xs-first" href="/zh//2016/08/01/Contact-Us/">联系白山</a></li>
+	</ul>
+</div>
+
+
+
+<div class="content container my-container">
+	<div class="post">
+		<div class="content-page-header hidden-xs">
+			<img class="logo" src="/zh//public/image/logo_black.png" height="40px">
+		</div>
+		<img class="logo visible-xs" src="/zh//public/image/logo_black.png" height="32px">
+		<div class="zh_page">
+
+		<div class="ccx-6">
+    <div class="min"><img src="/zh//public/image/cdn/cdn-01.png"></div>
+</div>
+
+<div class="ccx-6">
+    <div class="min">
+        <p>科技迅速发展，企业需求呈现多样化</p>
+        <p>CDN服务也面临更多未知</p>
+        <p>X，为CDN带来更多可能性</p>
+        <p>伫立企业需求</p>
+        <p>白山CDN－X凭借乐高式松耦合架构</p>
+        <p>为企业提供全透明与定制化的云分发服务</p>
+        <p>跟随企业需求共同发展</p>
+    </div>
+</div>
+
+<div class="clean"></div>
+
+<div class="bottom-100"></div>
+
+<div class="ccx-6">
+    <img src="/zh//public/image/cdn/cdn-02.jpg">
+</div>
+
+<div class="ccx-6">
+    <img src="/zh//public/image/cdn/cdn-03.jpg">
+</div>
+
+<div class="ccx-6">
+    <img src="/zh//public/image/cdn/cdn-04.jpg">
+</div>
+
+<div class="ccx-6">
+    <img src="/zh//public/image/cdn/cdn-05.jpg">
+</div>
+
+<div class="clean"></div>
+
+<div class="bottom-100"></div>
+
+<div class="ccx-h">
+    <h2>CDN-X核心优势 就是不同！</h2>
+    <h3>CDN－X应用场景</h3>
+</div>
+
+<div class="ccx-u">
+    <ul>
+        <li id="ccx_ym">页面加速</li>
+        <li id="ccx_xz">下载加速</li>
+        <li id="ccx_dt">动态加速</li>
+        <li id="ccx_db">点播加速</li>
+        <li id="ccx_zb">直播加速</li>
+        <li id="ccx_ym_sj"><img src="/zh//public/image/cdn/cdn-sj.jpg" style="visibility:visible;"></li>
+        <li id="ccx_xz_sj"><img src="/zh//public/image/cdn/cdn-sj.jpg"></li>
+        <li id="ccx_dt_sj"><img src="/zh//public/image/cdn/cdn-sj.jpg"></li>
+        <li id="ccx_db_sj"><img src="/zh//public/image/cdn/cdn-sj.jpg"></li>
+        <li id="ccx_zb_sj"><img src="/zh//public/image/cdn/cdn-sj.jpg"></li>
+    </ul>
+</div>
+
+<div class="clean"></div>
+
+<div class="ccx-h">
+    <div class="ccx-y ccx-active" id="ccx_ym">
+        <div class="ccx-6">
+            <img src="/zh//public/image/cdn/cdn-06.png">
+        </div>
+        <div class="ccx-6 ccx-h">
+            <h2>页面加速</h2>
+            <h3>20K图片可以在0.1s看到，</h3>
+            <h3>如同在本机打开图片一样</h3>
+            <h3>全网文件推送速度，</h3>
+            <h3>从传统CDN5分钟提升到秒级</h3>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-y" id="ccx_xz">
+        <div class="ccx-6">
+            <img src="/zh//public/image/cdn/cdn-07.png">
+        </div>
+        <div class="ccx-6 ccx-h">
+            <h2>下载加速</h2>
+            <h3>确保平均下载速度不低于2.4Mb/s</h3>
+            <h3>大文件同步5min/GB</h3>
+            <h3>保证全网服务可用性在99.9%以上</h3>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-y" id="ccx_dt">
+        <div class="ccx-6">
+            <img src="/zh//public/image/cdn/cdn-08.png">
+        </div>
+        <div class="ccx-6 ccx-h">
+            <h2>动态加速</h2>
+            <h3>提升动态网站打开速度41.9%</h3>
+            <h3>HTTP请求减少35.5%</h3>
+            <h3>页面加载时间减少65.2%</h3>
+            <h3>并发请求数提升210%</h3>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-y" id="ccx_db">
+        <div class="ccx-6">
+            <img src="/zh//public/image/cdn/cdn-09.png">
+        </div>
+        <div class="ccx-6 ccx-h">
+            <h2>点播加速</h2>
+            <h3>实现流畅度比率：97.1％</h3>
+            <h3>缓冲用时提升百分比：41.5%</h3>
+            <h3>首次播放时间提升百分比：42.7%</h3>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-y" id="ccx_zb">
+        <div class="ccx-6">
+            <img src="/zh//public/image/cdn/cdn-10.png">
+        </div>
+        <div class="ccx-6 ccx-h">
+            <h2>直播加速</h2>
+            <h3>首次加载不超过1秒 </h3>
+            <h3>应对高并发无卡顿</h3>
+            <h3>敏感内容审核 实时秒切</h3>
+            <h3>灵活接入 广泛适配</h3>
+        </div>
+        <div class="clean"></div>
+    </div>
+</div>
+
+<div class="bottom-400"></div>
+
+<div class="ccx-h">
+    <h2>不是颠覆，而是做的更好了一点</h2>
+    <h3>CDN－X与传统CDN对比</h3>
+</div>
+
+<div class="ccx-gd">
+    <div class="ccx-dy ccx-dy-first">
+        <div class="ccx-5 ccx-first">
+            <h2>传统CDN</h2>
+            <img src="/zh//public/image/cdn/cdn-11.jpg">
+            <h4>以CACHE系统为核心</h4>
+            <h4>强耦合结构</h4>
+            <h4>扩增需求需要整体升级</h4>
+            <h4>周期长 成本高 滞后严重</h4>
+        </div>
+        <div class="ccx-2">
+            <img src="/zh//public/image/cdn/cdn-vs.jpg">
+        </div>
+        <div class="ccx-5 ccx-second">
+            <h2>CDN-X</h2>
+            <img src="/zh//public/image/cdn/cdn-12.jpg">
+            <h4>以管理平台为核心 松耦合结构</h4>
+            <h4>模块化开放平台</h4>
+            <h4>快速匹配企业新需求</h4>
+            <h4>高拓展架构 无压力升级&nbsp;</h4>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-dy">
+        <div class="ccx-5 ccx-first">
+            <h2>传统CDN</h2>
+            <img src="/zh//public/image/cdn/cdn-13.png">
+            <h4>控制硬件成本</h4>
+            <h4>节点利用率控制到90％以上</h4>
+            <h4>设备利用率控制到90%以上</h4>
+        </div>
+        <div class="ccx-2">
+            <img src="/zh//public/image/cdn/cdn-vs.jpg">
+        </div>
+        <div class="ccx-5 ccx-second">
+            <h2>CDN-X</h2>
+            <img src="/zh//public/image/cdn/cdn-14.png">
+            <h4>全网实时服务探测</h4>
+            <h4>服务质量异常切换</h4>
+            <h4>节点利用率控制到70%</h4>
+            <h4>设备利用率控制到70%&nbsp;</h4>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-dy">
+        <div class="ccx-5 ccx-first">
+            <h2>传统CDN</h2>
+            <img src="/zh//public/image/cdn/cdn-15.png">
+            <h4>高延时日志</h4>
+            <h4>原始日志&nbsp; 导致分析耗费大量人工</h4>
+            <h4>延时日志&nbsp; 当前访问情况缺失</h4>
+
+        </div>
+        <div class="ccx-2">
+            <img src="/zh//public/image/cdn/cdn-vs.jpg">
+        </div>
+        <div class="ccx-5 ccx-second">
+            <h2>CDN-X</h2>
+            <img src="/zh//public/image/cdn/cdn-16.png">
+            <h4>可视化日志页面</h4>
+            <h4>自动生成报告</h4>
+            <h4>实时数据展示</h4>
+            <h4>在线web页面操作</h4>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-dy">
+        <div class="ccx-5 ccx-first">
+            <h2>传统CDN</h2>
+            <img src="/zh//public/image/cdn/cdn-17.png">
+            <h4>抽样监控</h4>
+            <h4>数据无连续性 无法发现问题</h4>
+            <h4>数据存在缺陷 无法全面排障</h4>
+        </div>
+        <div class="ccx-2">
+            <img src="/zh//public/image/cdn/cdn-vs.jpg">
+        </div>
+        <div class="ccx-5 ccx-second">
+            <h2>CDN-X</h2>
+            <img src="/zh//public/image/cdn/cdn-18.png">
+            <h4>全采样立体监控</h4>
+            <h4>全网监控&nbsp; 全面数据</h4>
+            <h4>一键定位故障&nbsp; 高效运维保障</h4>            
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-dy">
+        <div class="ccx-5 ccx-first">
+            <h2>传统CDN</h2>
+            <img src="/zh//public/image/cdn/cdn-19.png">
+            <h4>数据滞后 无法判断当前服务状况</h4>
+            <h4>推送滞后 无法及时更新内容</h4>
+        </div>
+        <div class="ccx-2">
+            <img src="/zh//public/image/cdn/cdn-vs.jpg">
+        </div>
+        <div class="ccx-5 ccx-second">
+            <h2>CDN-X</h2>
+            <img src="/zh//public/image/cdn/cdn-20.png">
+            <h4>带宽数据实时</h4>
+            <h4>用户访问行为展示实时</h4>
+            <h4>页面刷新实时</h4>
+        </div>
+        <div class="clean"></div>
+    </div>
+    <div class="ccx-dy">
+        <div class="ccx-5 ccx-first">
+            <h2>传统CDN</h2>
+            <img src="/zh//public/image/cdn/cdn-21.png">
+            <h4>DNS两层防攻击</h4>
+            <h4>CACHE两层防攻击</h4>
+        </div>
+        <div class="ccx-2">
+            <img src="/zh//public/image/cdn/cdn-vs.jpg">
+        </div>
+        <div class="ccx-5 ccx-second">
+            <h2>CDN-X</h2>
+            <img src="/zh//public/image/cdn/cdn-22.png">
+            <h4>磐石安全系</h4>
+            <h4>统抵御高强度高流量攻击</h4>
+            <h4>DNS三层防攻击</h4>
+            <h4>CACHE 三层防攻击</h4>
+        </div>
+        <div class="clean"></div>
+    </div>
+</div>
+
+<div class="ccx-btn">
+    <ul>
+        <li class="ccx_btn_hover"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+
+<div class="clean"></div>
+
+
+		</div>
+	</div>
+
+	<div class="bottom_nav bottom_nav_cn">
+	<h4>白山服务热线: <em>400-081-3388</em></h4>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<a class="sidebar-nav-item"
+	   href="/zh//2016/07/01/Careers/">白山招聘</a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<a class="sidebar-nav-item"
+	   href="/zh//2016/05/01/BSC-Press/">白山新闻</a>
+	
+	
+	
+	
+	
+	<a class="sidebar-nav-item"
+	   href="/zh//2016/04/01/Customers/">白山客户</a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<a class="sidebar-nav-item"
+	   href="/zh//2016/01/01/About-Us/">白山简介</a>
+	
+	
+	
+	
+	
+	<p class="copyright">京ICP备16037635号－3</p>
+</div>
+
+
+</div>
+<script src="/zh/public/js/jquery-2.2.4.js"></script>
+<script src="/zh/public/js/main.js"></script>
+<script src="/zh/public/js/bootstrap.min.js"></script>
+<script src="/zh/public/js/lightbox-plus-jquery.min.js"></script>
+<script src="/zh/public/js/blocksit.min.js"></script>
+</body>
+</html>

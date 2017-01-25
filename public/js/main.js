@@ -6,6 +6,8 @@ jQuery(document).ready(function () {
 			offsetY: 8
 		});
 	}
+	$("#contact").parent(".post").parent(".content").parent("body").css("background","url(../../../../public/image/black-bg.jpg) no-repeat");
+	$("#contact").parent(".post").parent(".content").parent("body").css("background-size","cover");
 	setInterval(function(){
 		$("#blocksItContainer").css("visibility","visible")
 	},1000);
@@ -124,6 +126,9 @@ jQuery(document).ready(function () {
 		},4000);
 	}
 
+
+
+
 	//中文
 	$(".ccx-u ul li").click(function(){
 		var ccx_id = $(this).attr("id");
@@ -187,8 +192,4 @@ jQuery(document).ready(function () {
 			$qianindex6 = $index6;
 		},10000);
 	}
-	/*$("#index_down img").click(function(){
-		alert("111");
-    	$(window).smoothScroll({position: 500});
-   	});*/
 });

@@ -421,16 +421,27 @@
 .bottom-400{
 	margin-bottom: 400px;
 }
+.ccx-h {
+    position: relative;
+    left: 10%;
+}
 .ccx-h h2{
 	font-size: 38px;
 }
 .ccx-h h3{
 	font-size: 24px;
 }
+.ccx-u {
+    margin: auto;
+    width: 80%;
+}
+.ccx-u ul {
+    display: block;
+    overflow: hidden;
+    margin: 0;
+}
 .ccx-u ul li{
-	width: 18%;
-	margin-left: 1%;
-	margin-right: 1%;
+	width: 20%;
 	float: left;
 	color: #129593;
 	font-size: 30px;

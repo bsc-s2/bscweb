@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-01-26T11:41:12+08:00</updated>
+ <updated>2017-01-26T12:03:42+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -2544,13 +2544,8 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2017/01/05/brief/"/>
    <updated>2017-01-05T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/05/brief</id>
-   <content type="html">&lt;div class=&quot;headimg-box head-img&quot;&gt;
-    &lt;img src=&quot;/zh//public/image/brief.png&quot; class=&quot;img&quot;&gt;
-&lt;/div&gt;
+   <content type="html">&lt;div class=&quot;list_brief&quot;&gt;
 
-&lt;div class=&quot;list_brief&quot;&gt;
-
-    
 &lt;h3&gt;国内首家云链服务提供商&lt;/h3&gt;
 &lt;h4&gt;关于白山&lt;/h4&gt;
 &lt;p&gt;白山云科技有限公司为国内首家互联网云链服务提供商，以数据内容为服 务核心，为企业客户提供高效数据内容应用与交换的定制化服务。自2015年4月成立以来，白山以云分发为切入点，在泛云服务市场上迅速崛起，首款云分发产 品CDN-X迅速进入行业第一梯队。2016年6月，白山发布云存储产品CWN-X。作为白山“云链”系列的第二款产品，其属于分布式对象存储，专注于热 数据的存储及存储间的数据转移。&lt;/p&gt;
@@ -3382,11 +3377,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2016/07/01/Careers/"/>
    <updated>2016-07-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/07/01/Careers</id>
-   <content type="html">&lt;div class=&quot;headimg-box head-img&quot;&gt;
-    &lt;img src=&quot;/zh//public/image/careersBg-cn.jpg&quot; class=&quot;img head-img-careers&quot;/&gt;
-&lt;div&gt;
-
-&lt;div class=&quot;job-container&quot;&gt;
+   <content type="html">&lt;div class=&quot;job-container&quot;&gt;
     &lt;ul id=&quot;myTabs&quot; class=&quot;job-ul hidden-xs&quot;&gt;
         &lt;li class=&quot;job-li active&quot;&gt;&lt;a href=&quot;#sh&quot; class=&quot;job-a&quot; data-toggle=&quot;tab&quot;&gt;社会招聘&lt;/a&gt;&lt;/li&gt;
         &lt;li class=&quot;job-li&quot;&gt;&lt;a href=&quot;#xy&quot; class=&quot;job-a&quot; data-toggle=&quot;tab&quot;&gt;校园招聘&lt;/a&gt;&lt;/li&gt;

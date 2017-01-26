@@ -45,11 +45,6 @@ jQuery(document).ready(function () {
 		'wrapAround': true,
 		'disableScrolling':true
 	});
-	/*$('#blocksItContainer').BlocksIt({
-		numOfCol: 4,
-		offsetX: 8,
-		offsetY: 8
-	});*/
 
 	var clearTime = null;
 	var $index = 0;

@@ -2,7 +2,6 @@
 @media (min-width: 768px) {
 	.list_content {
 		margin: 20px auto;
-		padding-left: 5%;
 		min-width: 500px;
 		text-align: left;
 	}
@@ -391,7 +390,6 @@
 	text-align: left;
 }
 .ccx-80{
-	width: 80%;
 	margin: 0px auto;
 }
 .ccx-2 img{
@@ -520,7 +518,6 @@
 }
 .technology{
 	position: relative;
-        padding: 0 0 0 40px;
 }
 .technology .ccx-4{
 	position: relative;

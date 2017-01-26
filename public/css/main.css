@@ -38,7 +38,7 @@ strong{
 		margin:0 auto;
 	}
 	.list_content{
-		padding:10px 30px;
+		/* padding:10px 30px; */
 		margin:0 auto;
 	}
 	.list_content p{
@@ -265,6 +265,9 @@ li.press_brief{
 	/*chrome safari*/
 	min-height:-webkit-calc(100% - 107px - 2em);
         margin: 0 0 0 14rem;
+}
+.post-content {
+    padding: 0 8%;
 }
 .list_content + div.content-office{
 	margin-top:20px;

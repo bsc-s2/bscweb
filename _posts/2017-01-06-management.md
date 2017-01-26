@@ -1,5 +1,5 @@
 ---
-layout: zh_page
+layout: post
 title: 白山领导力
 ---
 

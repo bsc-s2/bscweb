@@ -1,23 +1,23 @@
 <div class="bottom_nav bottom_nav_cn">
-	<h4>白山服务热线: <em>400-081-3388</em></h4>
-	{% assign posts_list = site.posts %}
-	{% for node in posts_list %}
-	{% if node.title == "About Us" %}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-	   href="{{ site.baseurl}}{{ node.url }}">白山简介</a>
-	{% endif %}
-	{% if node.title == "Careers"%}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-	   href="{{ site.baseurl}}{{ node.url }}">白山招聘</a>
-	{% endif %}
-	{% if node.title == "Customers" %}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-	   href="{{ site.baseurl}}{{ node.url }}">白山客户</a>
-	{% endif %}
-	{% if node.title == "BSC Press" %}
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-	   href="{{ site.baseurl}}{{ node.url }}">白山新闻</a>
-	{% endif %}
-	{% endfor %}
-	<p class="copyright">京ICP备16037635号－3</p>
+    <h4>白山服务热线: <em>400-081-3388</em></h4>
+    {% assign posts_list = site.posts %}
+    {% for node in posts_list %}
+    {% if node.title == "About Us" %}
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+       href="{{ site.baseurl}}{{ node.url }}">白山简介</a>
+    {% endif %}
+    {% if node.title == "Careers"%}
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+       href="{{ site.baseurl}}{{ node.url }}">白山招聘</a>
+    {% endif %}
+    {% if node.title == "Customers" %}
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+       href="{{ site.baseurl}}{{ node.url }}">白山客户</a>
+    {% endif %}
+    {% if node.title == "BSC Press" %}
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+       href="{{ site.baseurl}}{{ node.url }}">白山新闻</a>
+    {% endif %}
+    {% endfor %}
+    <p class="copyright">京ICP备16037635号－3</p>
 </div>

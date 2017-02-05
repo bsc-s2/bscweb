@@ -557,6 +557,7 @@ a.image-link{
     max-height:320px;
     width: 100%;
 }
+<<<<<<< HEAD
 .head-img-about{
 	max-height:320px;
 }
@@ -708,3 +709,6 @@ a.image-link{
 .pad0{
 	padding:0 !important;
 }
+=======
+
+>>>>>>> fix bug

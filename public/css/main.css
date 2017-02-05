@@ -402,6 +402,7 @@ a.image-link{
     text-align:center;
     display:block;
 }
+/*中文*/
 .culture-customers{
     margin:auto;
 }
@@ -541,6 +542,9 @@ a.image-link{
 @media (min-width:768px){
     .container{
         width:750px;
+    }
+    .job-container{
+        width:100%;
     }
 }
 @media (min-width:992px){

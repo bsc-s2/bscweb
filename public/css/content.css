@@ -266,6 +266,13 @@
 
 
 /* 中文 */
+
+.zh_page{
+	width: 100%;
+	padding-left: 15%;
+	margin-right: 10%;
+}
+
 .news_centent{
 	width: 70%;
 	float: left;

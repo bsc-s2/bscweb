@@ -75,17 +75,15 @@
     color:#428bca;
 }
 .overview_slide1{
+    left:0;
+}
+.overview_slide, .overview_slide1{
     position:absolute;
     float:left;
     width:100%;
     height:400px;
-    left:0px;
 }
 .overview_slide{
-    position:absolute;
-    float:left;
-    width:100%;
-    height:400px;
     left:100%;
 }
 .overview_slide img{
@@ -347,14 +345,14 @@
 }
 .ccx-2{
     width:17%;
+    text-align:left;
+}
+.ccx-2, .ccx-3{
     margin:1.5%;
     float:left;
-    text-align:left;
 }
 .ccx-3{
     width:22%;
-    margin:1.5%;
-    float:left;
 }
 .ccx-4{
     width:30%;
@@ -364,15 +362,14 @@
 }
 .ccx-5{
     width:37%;
+}
+.ccx-5, .ccx-6{
     margin:1.5%;
     float:left;
     text-align:left;
 }
 .ccx-6{
     width:47%;
-    margin:1.5%;
-    float:left;
-    text-align:left;
 }
 .ccx-80{
     margin:0px auto;
@@ -446,12 +443,11 @@
     margin:25px auto;
 }
 .ccx-y .ccx-6{
-    text-align:center;
     padding:25px;
     background-color:#eee;
     margin:0;
 }
-.ccx-dy .ccx-5{
+.ccx-dy .ccx-5, .ccx-y .ccx-6{
     text-align:center;
 }
 .ccx-dy .ccx-5 h2{
@@ -501,20 +497,10 @@
 .ccx_btn_hover{
     background-color:#d8d8d8;
 }
-.technology{
+.technology, .technology .ccx-4, .technology .ccx-6{
     position:relative;
 }
-.technology .ccx-4{
-    position:relative;
-}
-.technology .ccx-6{
-    position:relative;
-}
-.technology .ccx-4 img{
-    height:210px;
-    margin:0;
-}
-.technology .ccx-6 img{
+.technology .ccx-4 img, .technology .ccx-6 img{
     height:210px;
     margin:0;
 }

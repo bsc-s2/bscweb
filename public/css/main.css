@@ -356,11 +356,6 @@ li.press_brief{
     transform:translateY(-50%);
     font-size:18px;
 }
-.post-hover .inside sapn{
-    display:block;
-    margin-bottom:10px;
-    color:#fff !important;
-}
 #lightbox .lb-data .lb-close{
     position:absolute !important;
     top:-30px;

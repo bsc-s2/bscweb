@@ -1,14 +1,14 @@
 <div class="list_content list_content_wider">
     <div class="culture-top msr-b-80">
-        <img src="{{ site.baseurl }}/public/image/Culture/cultureBG.png" alt="" class="culture-customers">
+        <img src="{{ site.baseurl }}public/image/Culture/cultureBG.png" alt="" class="culture-customers">
     </div>
     <div id="blocksItContainer">
         {% assign cultures=site.data.BSC_Culture %}
         {% for culture in cultures %}
         <div class="culture-imgBox">
             <div class="post-thumb">
-                <img src="{{ site.baseurl }}/public/image/Culture/{{culture.fileName}}" alt="">
-                <a class="image-link" href="{{ site.baseurl }}/public/image/Culture/{{culture.fileName}}"
+                <img src="{{ site.baseurl }}public/image/Culture/{{culture.fileName}}" alt="">
+                <a class="image-link" href="{{ site.baseurl }}public/image/Culture/{{culture.fileName}}"
                    data-lightbox="example-set" data-title="{{culture.imgTitle}}">
                     <div class="post-hover text-center">
                         <div class="inside">

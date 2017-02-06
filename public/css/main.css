@@ -701,9 +701,6 @@ a.image-link{
     /*chrome safari*/
     width:-webkit-calc(95% - 70px);
 }
-.fs22{
-    font-size:22px;
-}
 .job-title-cn{
     margin:0;
 }

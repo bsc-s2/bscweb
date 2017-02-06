@@ -1,12 +1,12 @@
 <div class="list_content list_content_wider">
     <div class="culture-top msr-b-80">
-        <img src="{{ site.baseurl }}/public/image/Customers/customersBG.png" alt="" class="culture-customers">
+        <img src="{{ site.baseurl }}public/image/Customers/customersBG.png" alt="" class="culture-customers">
     </div>
     {% assign cus=site.data.customers %}
     {% for cu in cus %}
     <div class="col-md-3 col-lg-3 mar-b-20">
         <div class="customers-box">
-            <img src="{{ site.baseurl }}/public/image/Customers/{{cu.fileName}}" alt="" class="img-center">
+            <img src="{{ site.baseurl }}public/image/Customers/{{cu.fileName}}" alt="" class="img-center">
         </div>
     </div>
     {% endfor %}

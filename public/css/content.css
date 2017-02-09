@@ -508,22 +508,16 @@
     color: #129593;
     font-size: 30px;
     cursor: pointer;
+    padding-bottom: 30px;
 }
 
-.ccx-u img {
-    margin: 0 auto;
-    visibility: hidden;
+.ccx-u ul li.active {
+    background: url('../image/cdn/cdn-sj.jpg') center 42px no-repeat;
 }
 
 .ccx-y {
-    position: absolute;
     background-color: #eee;
-    width: 75%;
-    display: none;
-}
-
-.ccx-active {
-    display: block;
+    width: 100%;
 }
 
 .ccx-y img {
@@ -766,4 +760,8 @@
 .index_number small {
     font-size: 18px;
     font-weight: 300;
+}
+
+.mar-b-100 {
+    margin-bottom: 100px;
 }

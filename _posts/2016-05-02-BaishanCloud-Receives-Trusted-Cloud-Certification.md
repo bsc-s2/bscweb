@@ -6,7 +6,7 @@ title: BaishanCloud Receives Trusted Cloud Certification
 ##BaishanCloud Receives Trusted Cloud Certification
 ---
 
-**[Beijing, January 5, 2017] BaishanCloud (BSC)**, a leading provider of cloud data integration, today announced that its cloud services have received official certification from Trusted Cloud administered by the Chinese Academy of Information and Communications Technology (CACIT) under the Chinese Ministry of Industry and Information Technology (MIIT). 
+**[Beijing, February 13, 2017] BaishanCloud (BSC)**, a leading provider of cloud data integration, today announced that its cloud services have received official certification from Trusted Cloud administered by the Chinese Academy of Information and Communications Technology (CACIT) under the Chinese Ministry of Industry and Information Technology (MIIT). 
 
 BaishanCloud received certification in the category of “Cloud Delivery Services,” a major component of its cloud data integration services. The certification committee is composed a panel of industry experts that evaluated such major areas as data security, service quality, service level agreement, service scalability, and operation management capability.
 

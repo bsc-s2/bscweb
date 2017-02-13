@@ -1,5 +1,6 @@
 jQuery(document).ready(function() {
     window.onload = function() {
+        $('#blocksItContainer').css('visibility', 'visible');
         $('#blocksItContainer').BlocksIt({
             numOfCol: 4,
             offsetX: 8,
@@ -9,9 +10,6 @@ jQuery(document).ready(function() {
     $('#contact').parent('.post').parent('.content').parent('body').css('background', 'url(../../../../public/image/black-bg.jpg) no-repeat');
     $('#contact').parent('.post').parent('.content').parent('body').css('background-size', 'cover');
 
-    setInterval(function() {
-        $('#blocksItContainer').css('visibility', 'visible');
-    }, 1000);
     var currentWidth = 1100;
     $(window).resize(function() {
         var winWidth = $(window).width();
@@ -45,5 +43,5 @@ jQuery(document).ready(function() {
         'wrapAround': true,
         'disableScrolling': true
     });
-    $('.ccx-gd').sliderPlay({ numOfSlidePic: 5, btnFocusStyle: 'ccx_btn_hover', speed: 3000 });
+    $('.ccx-gd').sliderPlay({ btnFocusStyle: 'ccx_btn_hover', speed: 3000 });
 });

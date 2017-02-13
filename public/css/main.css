@@ -364,6 +364,7 @@ li.press_brief {
     position: relative;
     width: 100%;
     visibility: hidden;
+    min-height: 600px;
 }
 
 .culture-imgBox {

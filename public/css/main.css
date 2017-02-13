@@ -363,6 +363,7 @@ li.press_brief {
 #blocksItContainer {
     position: relative;
     width: 100%;
+    visibility: hidden;
 }
 
 .culture-imgBox {
@@ -516,10 +517,6 @@ a.image-link {
 
 .headimg-box-careers {
     min-height: 500px;
-}
-
-#blocksItContainer {
-    visibility: hidden;
 }
 
 .culture-customers {

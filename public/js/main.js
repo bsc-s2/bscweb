@@ -43,7 +43,7 @@ jQuery(document).ready(function() {
         'wrapAround': true,
         'disableScrolling': true
     });
-    $('.ccx-gd').sliderPlay({ btnFocusStyle: 'ccx_btn_hover', speed: 3000 });
+    $('.ccx-gd').sliderPlay({ btnFocusStyle: 'ccx-btn-hover', speed: 3000 });
 
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;

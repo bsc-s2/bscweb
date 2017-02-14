@@ -231,7 +231,7 @@ pre code {
     width: 100%;
 }
 
-.sign_in {
+.sign-in {
     display: inline;
     position: absolute;
     right: 150px;
@@ -239,7 +239,7 @@ pre code {
     z-index: 99;
 }
 
-.sign_in a {
+.sign-in a {
     color: rgb(255, 255, 255);
 }
 
@@ -255,7 +255,7 @@ pre code {
     color: rgb(255, 255, 255);
 }
 
-.en_index {
+.en-index {
     position: absolute;
     top: 50%;
 }
@@ -266,7 +266,7 @@ pre code {
     top: 1rem;
 }
 
-.bottom_nav {
+.bottom-nav {
     position: absolute;
     width: 100%;
     right: 0;
@@ -301,7 +301,7 @@ pre code {
         left: 210px;
         top: 20px;
     }
-    .sign_in {
+    .sign-in {
         display: inline;
         position: absolute;
         right: 180px;
@@ -309,7 +309,7 @@ pre code {
         font-weight: 600;
         font-size: 16px;
     }
-    .sign_in a {
+    .sign-in a {
         color: rgb(255, 255, 255);
     }
     .chinese {
@@ -323,14 +323,14 @@ pre code {
     .chinese a {
         color: rgb(255, 255, 255);
     }
-    .en_index {
+    .en-index {
         position: absolute;
         top: 50%;
         margin-left: -228px;
         margin-top: -101px;
         left: 50%;
     }
-    .bottom_nav {
+    .bottom-nav {
         position: absolute;
         width: 100%;
         right: 0;
@@ -591,6 +591,6 @@ a.pagination-item:hover {
     }
 }
 
-.nav_up {
+.nav-up {
     width: 8rem;
 }

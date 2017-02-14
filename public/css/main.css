@@ -37,10 +37,10 @@ strong {
         min-height: 500px;
         margin: 0 auto;
     }
-    .list_content p {
+    .list-content p {
         margin-bottom: 20px;
     }
-    .ul_press {
+    .ul-press {
         width: 77%;
         margin-top: 20px;
         font-size: 18px;
@@ -186,25 +186,25 @@ strong {
     background-color: #fff;
 }
 
-.bottom_nav {
+.bottom-nav {
     color: #fff;
 }
 
-.bottom_nav a.sidebar-nav-item {
+.bottom-nav a.sidebar-nav-item {
     display: inline-block;
     margin: 0 5px 20px 0;
     color: #fff;
     font-size: 13px;
 }
 
-.bottom_nav h4 {
+.bottom-nav h4 {
     padding-top: 10px;
     padding-bottom: 5px;
     font-size: 13px;
 }
 
-.bottom_nav a.sidebar-nav-item.active,
-.bottom_nav a.sidebar-nav-item:hover {
+.bottom-nav a.sidebar-nav-item.active,
+.bottom-nav a.sidebar-nav-item:hover {
     color: #3ab7cb;
     text-decoration: none;
 }
@@ -243,7 +243,7 @@ strong {
     margin-left: 1em;
 }
 
-.ul_press li:nth-child(odd) a {
+.ul-press li:nth-child(odd) a {
     font-size: 18px;
     line-height: 22px;
     color: #428bca;
@@ -252,22 +252,22 @@ strong {
     padding-top: 10px;
 }
 
-.ul_press li:nth-child(odd) {
+.ul-press li:nth-child(odd) {
     padding-top: 10px;
 }
 
-.ul_press li:nth-child(odd) a:hover {
+.ul-press li:nth-child(odd) a:hover {
     color: #a4003a;
 }
 
-.list_content {
+.list-content {
     font-family: 'Hevitica', Arial;
     font-size: 16px;
     line-height: 22px;
     font-weight: 300;
 }
 
-.list_content .head-title {
+.list-content .head-title {
     font-family: 'Microsoft YaHei', Arial, Helvetica;
     font-size: 24px;
     line-height: 32px;
@@ -276,11 +276,7 @@ strong {
     margin-bottom: .5em;
 }
 
-.management_info_first {
-    margin-top: 60px;
-}
-
-li.press_brief {
+li.press-brief {
     font-size: 14px;
     line-height: 16px;
     font-family: 'Hevitica', Arial;
@@ -300,7 +296,7 @@ li.press_brief {
     padding: 0 8%;
 }
 
-.list_content+div.content-office {
+.list-content+div.content-office {
     margin-top: 20px;
 }
 
@@ -582,7 +578,7 @@ a.image-link {
     text-align: left;
 }
 
-.bottom_nav_cn {
+.bottom-nav-cn {
     color: #888;
     background-color: #fff;
     font-size: 16px;
@@ -590,21 +586,21 @@ a.image-link {
     padding-left: 175px;
 }
 
-.bottom_nav_cn a.sidebar-nav-item {
+.bottom-nav-cn a.sidebar-nav-item {
     color: #888;
     font-size: 16px;
     padding: 0;
     border-bottom: 1px dotted;
 }
 
-.bottom_nav_cn a.sidebar-nav-item:hover {
+.bottom-nav-cn a.sidebar-nav-item:hover {
     font-size: 16px;
     padding: 0;
     border-bottom: 1px dotted;
     font-weight: 300;
 }
 
-.bottom_nav_cn a.sidebar-nav-item.active {
+.bottom-nav-cn a.sidebar-nav-item.active {
     font-weight: 300;
 }
 
@@ -634,14 +630,14 @@ a.image-link {
     background: none;
 }
 
-.bottom_nav_cn h4 {
+.bottom-nav-cn h4 {
     padding-top: 10px;
     padding-bottom: 5px;
     font-size: 18px;
     font-weight: 300;
 }
 
-.bottom_nav_cn h4 em {
+.bottom-nav-cn h4 em {
     color: #626262;
     font-weight: 300;
     font-family: tahoma, geneva, sans-serif;

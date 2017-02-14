@@ -367,7 +367,7 @@ li.press_brief {
     min-height: 600px;
 }
 
-.culture-imgBox {
+.culture-imgbox {
     min-height: 100px;
     padding: 4px;
     background: #fff;
@@ -383,7 +383,7 @@ li.press_brief {
     position: relative;
 }
 
-.culture-imgBox img {
+.culture-imgbox img {
     margin-bottom: 0 !important;
 }
 
@@ -403,7 +403,7 @@ li.press_brief {
     transition: all 150ms ease-in-out;
 }
 
-.culture-imgBox:hover .post-hover {
+.culture-imgbox:hover .post-hover {
     top: 0;
     visibility: visible;
     opacity: 1;
@@ -618,7 +618,7 @@ a.image-link {
     line-height: 26px;
 }
 
-.p-jobLocation {
+.p-joblocation {
     font-weight: 700;
 }
 

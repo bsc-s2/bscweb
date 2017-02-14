@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-02-14T23:57:47+08:00</updated>
+ <updated>2017-02-15T00:11:21+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -1663,7 +1663,7 @@
     &lt;/div&gt;
     &lt;div class=&quot;products_slide slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cln-11.png&quot;&gt;
-        &lt;h4&gt;&lt;i&gt;intelligently event-driven&lt;/i&gt;&lt;/h4&gt;
+        &lt;h4&gt;&lt;i&gt;Intelligently event-driven&lt;/i&gt;&lt;/h4&gt;
         &lt;ul class=&quot;cln&quot;&gt;
             &lt;li&gt;Protocol conversion – merging long-loop requests to reduce the back-end load&lt;/li&gt;
             &lt;li&gt;Distributed processing – supporting API auto scaling processing&lt;/li&gt;

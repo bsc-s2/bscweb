@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-02-14T23:28:50+08:00</updated>
+ <updated>2017-02-14T23:46:28+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -2795,7 +2795,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 
 &lt;div class=&quot;ccx-80&quot;&gt;
     &lt;div class=&quot;ccx-gd&quot;&gt;
-        &lt;div class=&quot;ccx-dy ccx-dy-first&quot;&gt;
+        &lt;div class=&quot;ccx-dy ccx-dy-first slider&quot;&gt;
             &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
                 &lt;h2&gt;传统存储&lt;/h2&gt;
                 &lt;img src=&quot;/zh/public/image/cwn/cwn-05.png&quot;&gt;
@@ -2813,7 +2813,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
             &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;ccx-dy&quot;&gt;
+        &lt;div class=&quot;ccx-dy slider&quot;&gt;
             &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
                 &lt;h2&gt;传统存储&lt;/h2&gt;
                 &lt;img src=&quot;/zh/public/image/cwn/cwn-07.png&quot;&gt;
@@ -2831,7 +2831,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
             &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;ccx-dy&quot;&gt;
+        &lt;div class=&quot;ccx-dy slider&quot;&gt;
             &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
                 &lt;h2&gt;传统存储&lt;/h2&gt;
                 &lt;img src=&quot;/zh/public/image/cwn/cwn-09.png&quot;&gt;
@@ -2849,7 +2849,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
             &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;ccx-dy&quot;&gt;
+        &lt;div class=&quot;ccx-dy slider&quot;&gt;
             &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
                 &lt;h2&gt;传统存储&lt;/h2&gt;
                 &lt;img src=&quot;/zh/public/image/cwn/cwn-11.png&quot;&gt;
@@ -2871,7 +2871,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
             &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;ccx-dy&quot;&gt;
+        &lt;div class=&quot;ccx-dy slider&quot;&gt;
             &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
                 &lt;h2&gt;传统存储&lt;/h2&gt;
                 &lt;img src=&quot;/zh/public/image/cwn/cwn-13.png&quot;&gt;
@@ -2892,7 +2892,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
             &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;ccx-dy&quot;&gt;
+        &lt;div class=&quot;ccx-dy slider&quot;&gt;
             &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
                 &lt;h2&gt;传统存储&lt;/h2&gt;
                 &lt;img src=&quot;/zh/public/image/cwn/cwn-15.png&quot;&gt;
@@ -2912,7 +2912,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;ccx-btn&quot;&gt;
+    &lt;div class=&quot;ccx-btn slider-btn&quot;&gt;
         &lt;ul&gt;
             &lt;li class=&quot;ccx_btn_hover&quot;&gt;&lt;/li&gt;
             &lt;li&gt;&lt;/li&gt;
@@ -3008,89 +3008,83 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 &lt;/div&gt;
 
 &lt;div class=&quot;ccx-u&quot;&gt;
-    &lt;ul&gt;
-        &lt;li id=&quot;ccx_ym&quot;&gt;页面加速&lt;/li&gt;
-        &lt;li id=&quot;ccx_xz&quot;&gt;下载加速&lt;/li&gt;
-        &lt;li id=&quot;ccx_dt&quot;&gt;动态加速&lt;/li&gt;
-        &lt;li id=&quot;ccx_db&quot;&gt;点播加速&lt;/li&gt;
-        &lt;li id=&quot;ccx_zb&quot;&gt;直播加速&lt;/li&gt;
-        &lt;li id=&quot;ccx_ym_sj&quot;&gt;&lt;img src=&quot;/zh/public/image/cdn/cdn-sj.jpg&quot; style=&quot;visibility:visible;&quot;&gt;&lt;/li&gt;
-        &lt;li id=&quot;ccx_xz_sj&quot;&gt;&lt;img src=&quot;/zh/public/image/cdn/cdn-sj.jpg&quot;&gt;&lt;/li&gt;
-        &lt;li id=&quot;ccx_dt_sj&quot;&gt;&lt;img src=&quot;/zh/public/image/cdn/cdn-sj.jpg&quot;&gt;&lt;/li&gt;
-        &lt;li id=&quot;ccx_db_sj&quot;&gt;&lt;img src=&quot;/zh/public/image/cdn/cdn-sj.jpg&quot;&gt;&lt;/li&gt;
-        &lt;li id=&quot;ccx_zb_sj&quot;&gt;&lt;img src=&quot;/zh/public/image/cdn/cdn-sj.jpg&quot;&gt;&lt;/li&gt;
+    &lt;ul role=&quot;tablist&quot;&gt;
+        &lt;li role=&quot;presentation&quot; class=&quot;active&quot;&gt;&lt;a href=&quot;#ccx_ym&quot; data-toggle=&quot;tab&quot;&gt;页面加速&lt;/a&gt;&lt;/li&gt;
+        &lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#ccx_xz&quot; data-toggle=&quot;tab&quot;&gt;下载加速&lt;/a&gt;&lt;/li&gt;
+        &lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#ccx_dt&quot; data-toggle=&quot;tab&quot;&gt;动态加速&lt;/a&gt;&lt;/li&gt;
+        &lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#ccx_db&quot; data-toggle=&quot;tab&quot;&gt;点播加速&lt;/a&gt;&lt;/li&gt;
+        &lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#ccx_zb&quot; data-toggle=&quot;tab&quot;&gt;直播加速&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
+    &lt;div class=&quot;tab-content&quot;&gt;
+        &lt;div role=&quot;tabpanel&quot; class=&quot;ccx-y tab-pane active&quot; id=&quot;ccx_ym&quot;&gt;
+            &lt;div class=&quot;ccx-6&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cdn/cdn-06.png&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;ccx-6&quot;&gt;
+                &lt;h2&gt;页面加速&lt;/h2&gt;
+                &lt;h3&gt;20K图片可以在0.1s看到，&lt;/h3&gt;
+                &lt;h3&gt;如同在本机打开图片一样&lt;/h3&gt;
+                &lt;h3&gt;全网文件推送速度，&lt;/h3&gt;
+                &lt;h3&gt;从传统CDN5分钟提升到秒级&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div role=&quot;tabpanel&quot; class=&quot;ccx-y tab-pane&quot; id=&quot;ccx_xz&quot;&gt;
+            &lt;div class=&quot;ccx-6&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cdn/cdn-07.png&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;ccx-6 &quot;&gt;
+                &lt;h2&gt;下载加速&lt;/h2&gt;
+                &lt;h3&gt;确保平均下载速度不低于2.4Mb/s&lt;/h3&gt;
+                &lt;h3&gt;大文件同步5min/GB&lt;/h3&gt;
+                &lt;h3&gt;保证全网服务可用性在99.9%以上&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div role=&quot;tabpanel&quot; class=&quot;ccx-y tab-pane&quot; id=&quot;ccx_dt&quot;&gt;
+            &lt;div class=&quot;ccx-6&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cdn/cdn-08.png&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;ccx-6 &quot;&gt;
+                &lt;h2&gt;动态加速&lt;/h2&gt;
+                &lt;h3&gt;提升动态网站打开速度41.9%&lt;/h3&gt;
+                &lt;h3&gt;HTTP请求减少35.5%&lt;/h3&gt;
+                &lt;h3&gt;页面加载时间减少65.2%&lt;/h3&gt;
+                &lt;h3&gt;并发请求数提升210%&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div role=&quot;tabpanel&quot; class=&quot;ccx-y tab-pane&quot; id=&quot;ccx_db&quot;&gt;
+            &lt;div class=&quot;ccx-6&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cdn/cdn-09.png&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;ccx-6 &quot;&gt;
+                &lt;h2&gt;点播加速&lt;/h2&gt;
+                &lt;h3&gt;实现流畅度比率：97.1％&lt;/h3&gt;
+                &lt;h3&gt;缓冲用时提升百分比：41.5%&lt;/h3&gt;
+                &lt;h3&gt;首次播放时间提升百分比：42.7%&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div role=&quot;tabpanel&quot; class=&quot;ccx-y tab-pane&quot; id=&quot;ccx_zb&quot;&gt;
+            &lt;div class=&quot;ccx-6&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cdn/cdn-10.png&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;ccx-6 &quot;&gt;
+                &lt;h2&gt;直播加速&lt;/h2&gt;
+                &lt;h3&gt;首次加载不超过1秒 &lt;/h3&gt;
+                &lt;h3&gt;应对高并发无卡顿&lt;/h3&gt;
+                &lt;h3&gt;敏感内容审核 实时秒切&lt;/h3&gt;
+                &lt;h3&gt;灵活接入 广泛适配&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;ccx-h&quot;&gt;
-    &lt;div class=&quot;ccx-y ccx-active&quot; id=&quot;ccx_ym&quot;&gt;
-        &lt;div class=&quot;ccx-6&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/cdn/cdn-06.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;ccx-6 ccx-h&quot;&gt;
-            &lt;h2&gt;页面加速&lt;/h2&gt;
-            &lt;h3&gt;20K图片可以在0.1s看到，&lt;/h3&gt;
-            &lt;h3&gt;如同在本机打开图片一样&lt;/h3&gt;
-            &lt;h3&gt;全网文件推送速度，&lt;/h3&gt;
-            &lt;h3&gt;从传统CDN5分钟提升到秒级&lt;/h3&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;ccx-y&quot; id=&quot;ccx_xz&quot;&gt;
-        &lt;div class=&quot;ccx-6&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/cdn/cdn-07.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;ccx-6 ccx-h&quot;&gt;
-            &lt;h2&gt;下载加速&lt;/h2&gt;
-            &lt;h3&gt;确保平均下载速度不低于2.4Mb/s&lt;/h3&gt;
-            &lt;h3&gt;大文件同步5min/GB&lt;/h3&gt;
-            &lt;h3&gt;保证全网服务可用性在99.9%以上&lt;/h3&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;ccx-y&quot; id=&quot;ccx_dt&quot;&gt;
-        &lt;div class=&quot;ccx-6&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/cdn/cdn-08.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;ccx-6 ccx-h&quot;&gt;
-            &lt;h2&gt;动态加速&lt;/h2&gt;
-            &lt;h3&gt;提升动态网站打开速度41.9%&lt;/h3&gt;
-            &lt;h3&gt;HTTP请求减少35.5%&lt;/h3&gt;
-            &lt;h3&gt;页面加载时间减少65.2%&lt;/h3&gt;
-            &lt;h3&gt;并发请求数提升210%&lt;/h3&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;ccx-y&quot; id=&quot;ccx_db&quot;&gt;
-        &lt;div class=&quot;ccx-6&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/cdn/cdn-09.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;ccx-6 ccx-h&quot;&gt;
-            &lt;h2&gt;点播加速&lt;/h2&gt;
-            &lt;h3&gt;实现流畅度比率：97.1％&lt;/h3&gt;
-            &lt;h3&gt;缓冲用时提升百分比：41.5%&lt;/h3&gt;
-            &lt;h3&gt;首次播放时间提升百分比：42.7%&lt;/h3&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;ccx-y&quot; id=&quot;ccx_zb&quot;&gt;
-        &lt;div class=&quot;ccx-6&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/cdn/cdn-10.png&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;ccx-6 ccx-h&quot;&gt;
-            &lt;h2&gt;直播加速&lt;/h2&gt;
-            &lt;h3&gt;首次加载不超过1秒 &lt;/h3&gt;
-            &lt;h3&gt;应对高并发无卡顿&lt;/h3&gt;
-            &lt;h3&gt;敏感内容审核 实时秒切&lt;/h3&gt;
-            &lt;h3&gt;灵活接入 广泛适配&lt;/h3&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;bottom-400&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;mar-b-100&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;ccx-h&quot;&gt;
     &lt;h2&gt;不是颠覆，而是做的更好了一点&lt;/h2&gt;
@@ -3098,7 +3092,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 &lt;/div&gt;
 
 &lt;div class=&quot;ccx-gd&quot;&gt;
-    &lt;div class=&quot;ccx-dy ccx-dy-first&quot;&gt;
+    &lt;div class=&quot;ccx-dy ccx-dy-first slider&quot;&gt;
         &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
             &lt;h2&gt;传统CDN&lt;/h2&gt;
             &lt;img src=&quot;/zh/public/image/cdn/cdn-11.jpg&quot;&gt;
@@ -3120,7 +3114,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         &lt;/div&gt;
         &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;ccx-dy&quot;&gt;
+    &lt;div class=&quot;ccx-dy slider&quot;&gt;
         &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
             &lt;h2&gt;传统CDN&lt;/h2&gt;
             &lt;img src=&quot;/zh/public/image/cdn/cdn-13.png&quot;&gt;
@@ -3141,14 +3135,13 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         &lt;/div&gt;
         &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;ccx-dy&quot;&gt;
+    &lt;div class=&quot;ccx-dy slider&quot;&gt;
         &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
             &lt;h2&gt;传统CDN&lt;/h2&gt;
             &lt;img src=&quot;/zh/public/image/cdn/cdn-15.png&quot;&gt;
             &lt;h4&gt;高延时日志&lt;/h4&gt;
             &lt;h4&gt;原始日志&amp;nbsp; 导致分析耗费大量人工&lt;/h4&gt;
             &lt;h4&gt;延时日志&amp;nbsp; 当前访问情况缺失&lt;/h4&gt;
-
         &lt;/div&gt;
         &lt;div class=&quot;ccx-2&quot;&gt;
             &lt;img src=&quot;/zh/public/image/cdn/cdn-vs.jpg&quot;&gt;
@@ -3163,7 +3156,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         &lt;/div&gt;
         &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;ccx-dy&quot;&gt;
+    &lt;div class=&quot;ccx-dy slider&quot;&gt;
         &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
             &lt;h2&gt;传统CDN&lt;/h2&gt;
             &lt;img src=&quot;/zh/public/image/cdn/cdn-17.png&quot;&gt;
@@ -3183,7 +3176,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         &lt;/div&gt;
         &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;ccx-dy&quot;&gt;
+    &lt;div class=&quot;ccx-dy slider&quot;&gt;
         &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
             &lt;h2&gt;传统CDN&lt;/h2&gt;
             &lt;img src=&quot;/zh/public/image/cdn/cdn-19.png&quot;&gt;
@@ -3202,7 +3195,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         &lt;/div&gt;
         &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;ccx-dy&quot;&gt;
+    &lt;div class=&quot;ccx-dy slider&quot;&gt;
         &lt;div class=&quot;ccx-5 ccx-first&quot;&gt;
             &lt;h2&gt;传统CDN&lt;/h2&gt;
             &lt;img src=&quot;/zh/public/image/cdn/cdn-21.png&quot;&gt;
@@ -3224,7 +3217,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;ccx-btn&quot;&gt;
+&lt;div class=&quot;ccx-btn slider-btn&quot;&gt;
     &lt;ul&gt;
         &lt;li class=&quot;ccx_btn_hover&quot;&gt;&lt;/li&gt;
         &lt;li&gt;&lt;/li&gt;
@@ -3943,21 +3936,6 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         
         &lt;div class=&quot;culture-imgBox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/zh/public/image/Culture/20161010065226479.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010065226479.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20161010064923749.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010064923749.jpg&quot;
                    data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
@@ -4421,6 +4399,21 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
+        &lt;div class=&quot;culture-imgBox&quot;&gt;
+            &lt;div class=&quot;post-thumb&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/Culture/20161010065226479.jpg&quot; alt=&quot;&quot;&gt;
+                &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010065226479.jpg&quot;
+                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                    &lt;div class=&quot;post-hover text-center&quot;&gt;
+                        &lt;div class=&quot;inside&quot;&gt;
+                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                            &lt;h4&gt;&lt;/h4&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 </content>
@@ -4604,7 +4597,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;strong&gt;[Beijing, January 5, 2017] BaishanCloud (BSC)&lt;/strong&gt;, a leading provider of cloud data integration, today announced that its cloud services have received official certification from Trusted Cloud administered by the Chinese Academy of Information and Communications Technology (CACIT) under the Chinese Ministry of Industry and Information Technology (MIIT). &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Beijing, February 13, 2017] BaishanCloud (BSC)&lt;/strong&gt;, a leading provider of cloud data integration, today announced that its cloud services have received official certification from Trusted Cloud administered by the Chinese Academy of Information and Communications Technology (CACIT) under the Chinese Ministry of Industry and Information Technology (MIIT). &lt;/p&gt;
 
 &lt;p&gt;BaishanCloud received certification in the category of “Cloud Delivery Services,” a major component of its cloud data integration services. The certification committee is composed a panel of industry experts that evaluated such major areas as data security, service quality, service level agreement, service scalability, and operation management capability.&lt;/p&gt;
 
@@ -4961,6 +4954,12 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
     &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
             &lt;img src=&quot;/zh/public/image/Customers/50-didapinche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
+        &lt;div class=&quot;customers-box&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/51-ailihui.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     

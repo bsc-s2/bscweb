@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-02-14T23:46:28+08:00</updated>
+ <updated>2017-02-15T13:07:19+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -13,17 +13,57 @@
 
  
  <entry>
+   <title>白山云科技获可信云服务认证</title>
+   <link href="http://www.baishancloud.com/2017/02/13/news-29/"/>
+   <updated>2017-02-13T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/02/13/news-29</id>
+   <content type="html">&lt;h2&gt;白山云科技获可信云服务认证&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;发布时间：2017-02-13
+2月13日，据数据中心联盟新一批可信云服务认证结果显示，白山云科技有限公司（简称“白山”）云分发服务，凭借过硬的技术实力和服务品质，获得可信云服务认证。&lt;/p&gt;
+
+&lt;p&gt;可信云是国内最早的云计算标准认证，同时也是最具权威的云计算标准认证之一，主要考核服务商的服务能力与承诺的相符性。由于其审核严格，历史通过率不足三成。此次获得认证，不仅代表白山通过了以可用性、私密性、可计量性等指标为基础的专家评审，更代表白山的服务质量获得了更多的市场认可。&lt;/p&gt;
+
+&lt;p&gt;白山是国内第一个获得可信云认证的云链服务提供商。云链的核心是数据与数据的连接，为数据的产生、传输、消费和归档提供完整的生命周期服务。其由云分发、云存储、云聚合三部分构成，针对客户数据内容的高速分发、在线存储、流动与整合需求，建立网络服务系统。目前，白山为今日头条、美团、秒拍、搜狐、汽车之家、暴风集团等两百多家企业客户提供服务。&lt;/p&gt;
+
+&lt;p&gt;在此次认证评估中，白山凭借在数据知情权、服务可审查性、服务功能、服务可用性、服务资源调配能力、故障恢复能力、云分发服务能力、服务计量准确性等多项指标上的表现，获得可信云服务认证。&lt;/p&gt;
+
+&lt;p&gt;可信云认证建立了云服务产业信用体系。它是由数据中心联盟组织，中国信息通信研究院（工信部电信研究院）测试评估的面向云计算服务的评估认证。目前基本覆盖业界主流云服务类型，并在IaaS/PaaS评估标准的基础上，增加了企业级SaaS、桌面云、云分发和云备份相关评估标准。&lt;/p&gt;
+
+&lt;p&gt;获得可信云认证代表着服务品质的一流水平。2016年6月，可信云服务定义、需求和场景正式写入国际上首个云计算框架性标准ITU-T Y.3501，这是我国在云计算国际标准领域的重大突破。通过可信云服务认证标志着，不仅服务能力在国内云计算领域得到认可，同时也达到了国际标准。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>白山新闻</title>
    <link href="http://www.baishancloud.com/2017/01/20/news/"/>
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
-   <content type="html">&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-01/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-01/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-01/&quot;&gt;&lt;h5&gt;白山：首创 “乐高式松耦合”架构&lt;/h5&gt;&lt;/a&gt;
+   <content type="html">&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;h5&gt;BaishanCloud founders inspired by a dream&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
+        &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;网易&lt;/li&gt;
+            &lt;li&gt;|&lt;/li&gt;
+            &lt;li&gt;2017-02-13&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-01&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-01&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-01&quot;&gt;&lt;h5&gt;白山：首创 “乐高式松耦合”架构&lt;/h5&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;至顶网&lt;/li&gt;
@@ -33,13 +73,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-02/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/02.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-02/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-02/&quot;&gt;&lt;h5&gt;Embrace delivery, storage and linkage for a 'post-cloud era'&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-02&quot;&gt;&lt;img src=&quot;/zh/public/image/news/02.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-02&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-02&quot;&gt;&lt;h5&gt;Embrace delivery, storage and linkage for a 'post-cloud era'&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;China Daily&lt;/li&gt;
@@ -49,13 +89,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-03/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-03/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-03/&quot;&gt;&lt;h5&gt;从互联网+到“AI+”：中国互联网经济新动能&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-03&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-03&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-03&quot;&gt;&lt;h5&gt;从互联网+到“AI+”：中国互联网经济新动能&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;科学网&lt;/li&gt;
@@ -65,13 +105,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-04/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/04.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-04/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-04/&quot;&gt;&lt;h5&gt;管理技术人，更要学会沟通&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-04&quot;&gt;&lt;img src=&quot;/zh/public/image/news/04.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-04&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-04&quot;&gt;&lt;h5&gt;管理技术人，更要学会沟通&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;一财周刊&lt;/li&gt;
@@ -81,13 +121,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-05/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/05.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-05/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-05/&quot;&gt;&lt;h5&gt;重构数据价值 云链网络共同体&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-05&quot;&gt;&lt;img src=&quot;/zh/public/image/news/05.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-05&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-05&quot;&gt;&lt;h5&gt;重构数据价值 云链网络共同体&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;网易&lt;/li&gt;
@@ -97,13 +137,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-06/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/06.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-06/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-06/&quot;&gt;&lt;h5&gt;白山云科技：做阿里云们的第三方服务商&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-06&quot;&gt;&lt;img src=&quot;/zh/public/image/news/06.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-06&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-06&quot;&gt;&lt;h5&gt;白山云科技：做阿里云们的第三方服务商&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;财经天下&lt;/li&gt;
@@ -113,29 +153,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-07/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-07/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-07/&quot;&gt;&lt;h5&gt;白山云科技参加乌镇世界互联网大会，云链CCX成果发布&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-07&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-07&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-07&quot;&gt;&lt;h5&gt;白山云科技参加乌镇世界互联网大会，云链CCX成果发布&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
-        &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;网易&lt;/li&gt;
-            &lt;li&gt;|&lt;/li&gt;
-            &lt;li&gt;2016-11-15&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-08/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-08/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-08/&quot;&gt;&lt;h5&gt;技术是一碗青春饭?CBNweekly&lt;/h5&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;一财周刊&lt;/li&gt;
@@ -145,13 +169,29 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-09/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/09.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-09/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-09/&quot;&gt;&lt;h5&gt;白山云科技CTO童剑:性能分析体系建设之路&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-08&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-08&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-08&quot;&gt;&lt;h5&gt;技术是一碗青春饭?&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
+        &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;一财周刊&lt;/li&gt;
+            &lt;li&gt;|&lt;/li&gt;
+            &lt;li&gt;2016-11-15&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-09&quot;&gt;&lt;img src=&quot;/zh/public/image/news/09.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-09&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-09&quot;&gt;&lt;h5&gt;白山云科技CTO童剑:性能分析体系建设之路&lt;/h5&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;天极网&lt;/li&gt;
@@ -161,13 +201,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-10/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/10.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-10/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-10/&quot;&gt;&lt;h5&gt;从巨轮掌舵人到联合舰队指挥官 ——访白山云科技CTO童剑&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-10&quot;&gt;&lt;img src=&quot;/zh/public/image/news/10.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-10&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-10&quot;&gt;&lt;h5&gt;从巨轮掌舵人到联合舰队指挥官 ——访白山云科技CTO童剑&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;infoQ&lt;/li&gt;
@@ -177,45 +217,45 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-11/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/11.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-11/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-11/&quot;&gt;&lt;h5&gt;“双十一”高并发应对之道&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-11&quot;&gt;&lt;img src=&quot;/zh/public/image/news/11.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-11&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-11&quot;&gt;&lt;h5&gt;双十一”高并发应对之道&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
-            &lt;li&gt;&lt;/li&gt;
+            &lt;li&gt;搜狐&lt;/li&gt;
             &lt;li&gt;|&lt;/li&gt;
             &lt;li&gt;2016-09-30&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-12/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/12.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-12/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-12/&quot;&gt;&lt;h5&gt;中国新市场14大肉搏战&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-12&quot;&gt;&lt;img src=&quot;/zh/public/image/news/12.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-12&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-12&quot;&gt;&lt;h5&gt;中国新市场14大肉搏战&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;财富&lt;/li&gt;
             &lt;li&gt;|&lt;/li&gt;
-            &lt;li&gt;2016-08-30&lt;/li&gt;
+            &lt;li&gt;2016-8-30&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-13/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/13.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-13/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-13/&quot;&gt;&lt;h5&gt;“互联网+金融”已成共识，但你可知API如何“点数成金”？&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-13&quot;&gt;&lt;img src=&quot;/zh/public/image/news/13.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-13&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-13&quot;&gt;&lt;h5&gt;“互联网+金融”已成共识，但你可知API如何“点数成金”？&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;运维帮&lt;/li&gt;
@@ -225,29 +265,29 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-14/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/14.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-14/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-14/&quot;&gt;&lt;h5&gt;白山云科技获过亿元B轮融资 深耕云链市场&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-14&quot;&gt;&lt;img src=&quot;/zh/public/image/news/14.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-14&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-14&quot;&gt;&lt;h5&gt;白山云科技获过亿元B轮融资 深耕云链市场&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
-            &lt;li&gt;&lt;/li&gt;
+            &lt;li&gt;凤凰财经&lt;/li&gt;
             &lt;li&gt;|&lt;/li&gt;
             &lt;li&gt;2016-07-25&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-15/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/15.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-15/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-15/&quot;&gt;&lt;h5&gt;白山云科技发布云链新产品 专注热存储&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-15&quot;&gt;&lt;img src=&quot;/zh/public/image/news/15.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-15&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-15&quot;&gt;&lt;h5&gt;白山云科技发布云链新产品 专注热存储&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;新浪&lt;/li&gt;
@@ -257,13 +297,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-16/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/16.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-16/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-16/&quot;&gt;&lt;h5&gt;白山云科技CTO童剑：云分发行业很难出现巨头垄断&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-16&quot;&gt;&lt;img src=&quot;/zh/public/image/news/16.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-16&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-16&quot;&gt;&lt;h5&gt;白山云科技CTO童剑：云分发行业很难出现巨头垄断&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;凤凰&lt;/li&gt;
@@ -273,13 +313,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-17/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/17.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-17/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-17/&quot;&gt;&lt;h5&gt;原新浪研发总经理童剑加盟白山，出任CTO力推云链布局&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-17&quot;&gt;&lt;img src=&quot;/zh/public/image/news/17.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-17&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-17&quot;&gt;&lt;h5&gt;原新浪研发总经理童剑加盟白山，出任CTO力推云链布局&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;网易&lt;/li&gt;
@@ -289,13 +329,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-18/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-18/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-18/&quot;&gt;&lt;h5&gt;白山云科技:连“云”成团　数据生金&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-18&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-18&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-18&quot;&gt;&lt;h5&gt;白山云科技:连“云”成团　数据生金&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;贵州日报&lt;/li&gt;
@@ -305,29 +345,29 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-19/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/19.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-19/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-19/&quot;&gt;&lt;h5&gt;白山亮相数博会  用“云链”激活大数据&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-19&quot;&gt;&lt;img src=&quot;/zh/public/image/news/19.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-19&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-19&quot;&gt;&lt;h5&gt;白山亮相数博会 用“云链”激活大数据&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
-            &lt;li&gt;CSDN&lt;/li&gt;
+            &lt;li&gt;贵州日报&lt;/li&gt;
             &lt;li&gt;|&lt;/li&gt;
             &lt;li&gt;2016-06-06&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-20/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/20.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-20/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt; 
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-20/&quot;&gt;&lt;h5&gt;今天，这个星球上最聪明的一群小朋友是这样度过的…&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-20&quot;&gt;&lt;img src=&quot;/zh/public/image/news/20.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-20&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-20&quot;&gt;&lt;h5&gt;今天，这个星球上最聪明的一群小朋友是这样度过的…&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;白山官网&lt;/li&gt;
@@ -337,13 +377,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-21/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/21.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-21/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-21/&quot;&gt;&lt;h5&gt;内容更新速度的边界能否突破？SHAQUE技术提供答案&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-21&quot;&gt;&lt;img src=&quot;/zh/public/image/news/21.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-21&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-21&quot;&gt;&lt;h5&gt;内容更新速度的边界能否突破？SHAQUE技术提供答案&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;白山官网&lt;/li&gt;
@@ -353,13 +393,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-22/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/22.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-22/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-22/&quot;&gt;&lt;h5&gt;一封来自神秘东方，直抵西雅图的不二战书&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-22&quot;&gt;&lt;img src=&quot;/zh/public/image/news/22.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-22&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-22&quot;&gt;&lt;h5&gt;一封来自神秘东方，直抵西雅图的不二战书案&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;白山官网&lt;/li&gt;
@@ -369,13 +409,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-23/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/23.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-23/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-23/&quot;&gt;&lt;h5&gt;运维服务进化论&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-23&quot;&gt;&lt;img src=&quot;/zh/public/image/news/23.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-23&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-23&quot;&gt;&lt;h5&gt;运维服务进化论&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;网易&lt;/li&gt;
@@ -385,29 +425,29 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-24/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-24/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-24/&quot;&gt;&lt;h5&gt;连获多项认证，白山为你做更好的自己&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-24&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-24&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-24&quot;&gt;&lt;h5&gt;连获多项认证，白山为你做更好的自己&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
-            &lt;li&gt;白山官网&lt;/li&gt;
+            &lt;li&gt;网易&lt;/li&gt;
             &lt;li&gt;|&lt;/li&gt;
             &lt;li&gt;2016-04-08&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-25/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/25.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-25/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-25/&quot;&gt;&lt;h5&gt;创业是“冲动的理性”&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-25&quot;&gt;&lt;img src=&quot;/zh/public/image/news/25.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-25&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-25&quot;&gt;&lt;h5&gt;创业是“冲动的理性”&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;科技日报&lt;/li&gt;
@@ -417,13 +457,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-26/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/26.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-26/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-26/&quot;&gt;&lt;h5&gt;中国云加速 白山云科技在美设子公司&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-26&quot;&gt;&lt;img src=&quot;/zh/public/image/news/26.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-26&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-26&quot;&gt;&lt;h5&gt;中国云加速 白山云科技在美设子公司&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;腾讯&lt;/li&gt;
@@ -433,13 +473,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-27/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-27/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-27/&quot;&gt;&lt;h5&gt;BaishanCloud founders inspired by a dream&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-27&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-27&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-27&quot;&gt;&lt;h5&gt;BaishanCloud founders inspired by a dream&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;China Daily&lt;/li&gt;
@@ -449,13 +489,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;list_news&quot;&gt;
-    &lt;div class=&quot;list_news_bg&quot;&gt;  
-        &lt;a href=&quot;/zh//2017/01/20/news-28/&quot;&gt;&lt;img src=&quot;/zh/public/image/news/28.jpg&quot;&gt;&lt;/a&gt;
-        &lt;a href=&quot;/zh//2017/01/20/news-28/&quot;&gt;&lt;div class=&quot;list_news_masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list_news_a&quot; href=&quot;/zh//2017/01/20/news-28/&quot;&gt;&lt;h5&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/h5&gt;&lt;/a&gt;
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;  
+        &lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;img src=&quot;/zh/public/image/news/28.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;h5&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_news_info&quot;&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;小饭桌&lt;/li&gt;
@@ -465,7 +505,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;clean_news&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;clean-news&quot;&gt;&lt;/div&gt;
 </content>
  </entry>
  
@@ -2498,35 +2538,35 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 &lt;/div&gt;
 
 &lt;div class=&quot;list_management&quot;&gt;
-    &lt;div class=&quot;list_20&quot;&gt;
+    &lt;div class=&quot;list-20&quot;&gt;
         &lt;img src=&quot;/zh/public/image/management/management-01.jpg&quot;&gt;
         &lt;h4&gt;霍涛Jason Huo&lt;/h4&gt;
         &lt;p align=&quot;left&quot;&gt;联合创始人兼CEO&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;霍涛于2015年创立白山，负责公司战略制订、业务拓展及日常经营管理决策；率先在国内市场提出云链“CCX”概念，意为“用云连接一切可能”，据此领导团队开发并发布第一款基于此概念的CDN类产品“CDN-X”，在市场上取得巨大成功。&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;曾任蓝汛高级副总裁。现任中国通信标准化协会会员，首都互联网协会理事。&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_20&quot;&gt;
+    &lt;div class=&quot;list-20&quot;&gt;
         &lt;img src=&quot;/zh/public/image/management/management-02.png&quot;&gt;
         &lt;h4&gt;代翔Jason Dai&lt;/h4&gt;
         &lt;p align=&quot;left&quot;&gt;联合创始人兼CMO&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;代翔于2015年联合创立白山，主要职责包括市场营销策略制订、品牌管理以及公司行业定位与市场机会把握。&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;代翔的职业生涯始于北京化工机械厂。2001年，进入互联网行业，先后在东软集团、闪联互动担任多个高级职位。2008年进入蓝汛担任副总裁一职，负责IDC及云计算事业部。&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_20&quot;&gt;
+    &lt;div class=&quot;list-20&quot;&gt;
         &lt;img src=&quot;/zh/public/image/management/management-03.png&quot;&gt;
         &lt;h4&gt;沙涌Robert Shaw&lt;/h4&gt;
         &lt;p align=&quot;left&quot;&gt;联合创始人兼CFO&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;沙涌于2015年联合创立白山，主要职责包括公司的财务管理、法律事务、风险管理、融资并购和资本市场策略等。2003年至2014年，沙涌先后在蓝汛、神州租车和六间房担任CFO，在蓝汛期间帮助该公司成功登陆纳斯达克。&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;现为中国注册会计师协会会员，英国特许会计师FCCA。&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_20&quot;&gt;
+    &lt;div class=&quot;list-20&quot;&gt;
         &lt;img src=&quot;/zh/public/image/management/management-04.jpg&quot;&gt;
         &lt;h4&gt;童剑John Tong&lt;/h4&gt;
         &lt;p align=&quot;left&quot;&gt;联合创始人兼CTO&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;童剑主要负责公司技术产品战略的实施、技术人才培养体系的建立以及研发管理工作。1999年至2016年初，其就职于新浪，负责研发的动态应用平台和数据库平台，使新浪率先实现技术平台统一，支撑微博爆发式发展；领导推出国内最早一批公有云——SAE。&lt;/p&gt;
         &lt;p align=&quot;left&quot;&gt;参与发起中国Hadoop技术峰会，任专家委员会委员。&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;list_20&quot;&gt;
+    &lt;div class=&quot;list-20&quot;&gt;
         &lt;img src=&quot;/zh/public/image/management/management-05.png&quot;&gt;
         &lt;h4&gt;王康Terence Wang&lt;/h4&gt;
         &lt;p&gt;联合创始人兼产品副总裁&lt;/p&gt;
@@ -2544,7 +2584,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2017/01/05/brief/"/>
    <updated>2017-01-05T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/05/brief</id>
-   <content type="html">&lt;div class=&quot;list_brief&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-brief&quot;&gt;
 
 &lt;h3&gt;国内首家云链服务提供商&lt;/h3&gt;
 &lt;h4&gt;关于白山&lt;/h4&gt;
@@ -2586,96 +2626,96 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 &lt;div class=&quot;technology&quot;&gt;
     &lt;div class=&quot;ccx-6&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-03.jpg&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h2&gt;松耦合 可插拔 多维度 高拓展&lt;/h2&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-6&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-04.jpg&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h2&gt;可视化 全采样 实时性 全日志&lt;/h2&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-05.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;SHAQUE&lt;/h3&gt;
             &lt;p&gt;秒级实现全网内容更新&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-06.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;TUNA&lt;/h3&gt;
             &lt;p&gt;解决TCP重传、窗口拥塞与慢启动&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-07.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;MANTA&lt;/h3&gt;
             &lt;p&gt;感知、拆分、重构整合页面内容端&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-08.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;DOLFIN&lt;/h3&gt;
             &lt;p&gt;DNS云化、动态IP库、秒切、四维智能调度&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-09.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;ATROX&lt;/h3&gt;
             &lt;p&gt;六大维度智能计算 锁定热数据&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-10.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;XASTRO&lt;/h3&gt;
             &lt;p&gt;多中心存储光纤互联 大文件秒级同步&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-11.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;ARAKNID&lt;/h3&gt;
             &lt;p&gt;边缘存储节点自组网 数据上传双就近&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-12.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;OCTOPUX&lt;/h3&gt;
             &lt;p&gt;实时自检机制&amp;nbsp; 24小时自我修复&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-13.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;CAMELEO&lt;/h3&gt;
             &lt;p&gt;快速判断异常IP 即时抵御未知攻击&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-14.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;MACAL&lt;/h3&gt;
             &lt;p&gt;无状态计算集群 触发式运行机制&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-15.png&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;CORAL&lt;/h3&gt;
             &lt;p&gt;API自动构建 数据快速开放&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;ccx-4&quot;&gt;
         &lt;img src=&quot;/zh/public/image/technology/technology-16.jpg&quot;&gt;
-        &lt;div class=&quot;technology_hover&quot;&gt;
+        &lt;div class=&quot;technology-hover&quot;&gt;
             &lt;h3&gt;FINBEQ&lt;/h3&gt;
             &lt;p&gt;广域网负载均衡 &amp;nbsp;API聚合网关&lt;/p&gt;
         &lt;/div&gt;
@@ -2914,7 +2954,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
     &lt;/div&gt;
     &lt;div class=&quot;ccx-btn slider-btn&quot;&gt;
         &lt;ul&gt;
-            &lt;li class=&quot;ccx_btn_hover&quot;&gt;&lt;/li&gt;
+            &lt;li class=&quot;ccx-btn-hover&quot;&gt;&lt;/li&gt;
             &lt;li&gt;&lt;/li&gt;
             &lt;li&gt;&lt;/li&gt;
             &lt;li&gt;&lt;/li&gt;
@@ -3219,7 +3259,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 
 &lt;div class=&quot;ccx-btn slider-btn&quot;&gt;
     &lt;ul&gt;
-        &lt;li class=&quot;ccx_btn_hover&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;ccx-btn-hover&quot;&gt;&lt;/li&gt;
         &lt;li&gt;&lt;/li&gt;
         &lt;li&gt;&lt;/li&gt;
         &lt;li&gt;&lt;/li&gt;
@@ -3378,7 +3418,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job017&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责/参与公司运营支撑体系的架构与开发；&lt;/p&gt;
@@ -3419,7 +3459,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job018&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 厦门&amp;北京&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责流媒体产品线的核心架构设计、开发和维护；&lt;/p&gt;
@@ -3458,7 +3498,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job019&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 厦门&amp;北京&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责云节点安全、web安全、操作系统安全、硬件安全等立体安全体系的规划和实施；&lt;/p&gt;
@@ -3499,7 +3539,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job020&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责公司核心平台的运维；&lt;/p&gt;
@@ -3538,7 +3578,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job021&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责Android / IOS 视频播放器及SDK 的设计与开发；&lt;/p&gt;
@@ -3578,7 +3618,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job117&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 贵安&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、参与公司专利规划的设计及技术专利方向的挖掘；&lt;/p&gt;
@@ -3613,7 +3653,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job118&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 北京&amp;厦门&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、 负责公司相关岗位的招聘计划设计并推进招聘实施落地；&lt;/p&gt;
@@ -3648,7 +3688,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job119&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 贵安&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责银行账户维护，登记现金、银行存款日记帐，并做到日清月结；&lt;/p&gt;
@@ -3685,7 +3725,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job120&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责客户资源拓展与客户线索挖掘；&lt;/p&gt;
@@ -3722,7 +3762,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job121&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;负责对接销售与研发，挖掘客户核心需求，跟踪客户服务质量，在导师的指导下独立完成客户服务质量的优化方案设计与实施。&lt;/p&gt;
@@ -3755,7 +3795,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job121&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、梳理来自客户与公司内部的业务需求，并推进研发实现；&lt;/p&gt;
@@ -3792,7 +3832,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job122&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 厦门&amp;贵安&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;负责公司核心平台的运维，参与运维相关工具及系统的开发，推动产品架构设计与改进优化，在导师的指导下独立完成相关系统的设计与开发。&lt;/p&gt;
@@ -3825,7 +3865,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job123&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;参与公司面向用户的新产品的功能设计与开发，支持从台式电脑客户端到移动设备的功能设计与开发，在导师的指导下独立完成系统功能设计和开发。&lt;/p&gt;
@@ -3858,7 +3898,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job124&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;参与公司运营支撑系统的架构与开发，在导师的指导下独立完成系统功能设计和开发。&lt;/p&gt;
@@ -3891,7 +3931,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job125&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-jobLocation&quot;&gt;工作地点: 北京&amp;厦门&lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;参与公司核心系统的设计、全网规划与布局，在导师的指导下独立完成系统功能设计和开发。&lt;/p&gt;
@@ -3927,14 +3967,14 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2016/06/01/BSC-Culture/"/>
    <updated>2016-06-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/06/01/BSC-Culture</id>
-   <content type="html">&lt;div class=&quot;list_content list_content_wider&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
     &lt;div class=&quot;culture-top msr-b-80&quot;&gt;
         &lt;img src=&quot;/zh/public/image/Culture/cultureBG.png&quot; alt=&quot;&quot; class=&quot;culture-customers&quot;&gt;
     &lt;/div&gt;
     &lt;div id=&quot;blocksItContainer&quot;&gt;
         
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20161010064923749.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010064923749.jpg&quot;
@@ -3949,7 +3989,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20161010064909742.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010064909742.jpg&quot;
@@ -3964,7 +4004,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20161010064854707.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010064854707.jpg&quot;
@@ -3979,7 +4019,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20161010064831965.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010064831965.jpg&quot;
@@ -3994,7 +4034,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816071521520.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816071521520.jpg&quot;
@@ -4009,7 +4049,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816071459524.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816071459524.jpg&quot;
@@ -4024,7 +4064,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816071437897.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816071437897.jpg&quot;
@@ -4039,7 +4079,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070949455.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070949455.jpg&quot;
@@ -4054,7 +4094,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070757769.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070757769.jpg&quot;
@@ -4069,7 +4109,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070449533.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070449533.jpg&quot;
@@ -4084,7 +4124,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070413934.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070413934.jpg&quot;
@@ -4099,7 +4139,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070357204.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070357204.jpg&quot;
@@ -4114,7 +4154,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070340879.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070340879.jpg&quot;
@@ -4129,7 +4169,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070322186.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070322186.jpg&quot;
@@ -4144,7 +4184,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070302517.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070302517.jpg&quot;
@@ -4159,7 +4199,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070025287.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070025287.jpg&quot;
@@ -4174,7 +4214,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816070009301.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816070009301.jpg&quot;
@@ -4189,7 +4229,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816065946565.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816065946565.jpg&quot;
@@ -4204,7 +4244,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816065725989.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816065725989.jpg&quot;
@@ -4219,7 +4259,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816065449252.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816065449252.jpg&quot;
@@ -4234,7 +4274,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816065125686.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816065125686.jpg&quot;
@@ -4249,7 +4289,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816065109339.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816065109339.jpg&quot;
@@ -4264,7 +4304,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816065054312.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816065054312.jpg&quot;
@@ -4279,7 +4319,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816065020632.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816065020632.jpg&quot;
@@ -4294,7 +4334,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816064922932.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816064922932.jpg&quot;
@@ -4309,7 +4349,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816064904470.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816064904470.jpg&quot;
@@ -4324,7 +4364,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816064828574.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816064828574.jpg&quot;
@@ -4339,7 +4379,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816063923333.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816063923333.jpg&quot;
@@ -4354,7 +4394,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160816063411886.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160816063411886.jpg&quot;
@@ -4369,7 +4409,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160713042343328.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160713042343328.jpg&quot;
@@ -4384,7 +4424,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20160706020851963.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20160706020851963.jpg&quot;
@@ -4399,7 +4439,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/Culture/20161010065226479.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/zh/public/image/Culture/20161010065226479.jpg&quot;
@@ -4618,29 +4658,29 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2016/05/01/BSC-Press/"/>
    <updated>2016-05-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/01/BSC-Press</id>
-   <content type="html">&lt;div class=&quot;list_content&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
 &lt;h2 class=&quot;head-title&quot;&gt;BaishanCloud Press&lt;/h2&gt;
-&lt;ul class=&quot;ul_press&quot;&gt;
+&lt;ul class=&quot;ul-press&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;/zh//2016/05/02/BaishanCloud-Receives-Trusted-Cloud-Certification/&quot;&gt;&lt;strong&gt;BaishanCloud Receives Trusted Cloud Certification&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;For Immediate ReleaseBaishanCloud Receives Trusted Cloud Certification [Beijing, January 5, 2017] BaishanCloud (BSC), ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;For Immediate ReleaseBaishanCloud Receives Trusted Cloud Certification [Beijing, January 5, 2017] BaishanCloud (BSC), ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/zh//2016/05/03/BaishanCloud-Announces-Completion-of-Series-B-Private-Equity-Financing/&quot;&gt;&lt;strong&gt;BaishanCloud Announces Completion of Series B Private Equity Financing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, July 25, 2016], BaishanCloud(BSC), a leading provider of cloud-managed services in China, announced today that it ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, July 25, 2016], BaishanCloud(BSC), a leading provider of cloud-managed services in China, announced today that it ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/zh//2016/05/04/BaishanCloud-Launches-Cloud-Storage-Product/&quot;&gt;&lt;strong&gt;BaishanCloud Launches Cloud Storage Product&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, June 30, 2016]BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, June 30, 2016]BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/zh//2016/05/05/BaishanCloud-Appoints-Chief-Technology-Officer/&quot;&gt;&lt;strong&gt;BaishanCloud Appoints Chief Technology Officer&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, June 23, 2016], BaishanCloud(BSC), a leading provider of cloud managed services in China, announced today ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, June 23, 2016], BaishanCloud(BSC), a leading provider of cloud managed services in China, announced today ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/zh//2016/05/06/BaishanCloud-is-Awarded-Top-Cloud-Industry-Awards/&quot;&gt;&lt;strong&gt;BaishanCloud is Awarded Top Cloud Industry Awards&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[PR Newswire, April 18, 2016]In connection with the Fourth China International Forum for Cloud Computing Technology ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[PR Newswire, April 18, 2016]In connection with the Fourth China International Forum for Cloud Computing Technology ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/zh//2016/05/07/An-Entrepreneur-with-a-Rational-Impulse/&quot;&gt;&lt;strong&gt;An Entrepreneur with a &quot;Rational Impulse&quot;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;Source: China Science &amp; Technology Daily, March 31, 2016 At the age of 30, with excitement and anxietyabout the ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;Source: China Science &amp; Technology Daily, March 31, 2016 At the age of 30, with excitement and anxietyabout the ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/zh//2016/05/08/BaishanCloud-Announces-the-Establishment-of-a-North-American-Subsidiary/&quot;&gt;&lt;strong&gt;BaishanCloud Announces the Establishment of a North American Subsidiary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, March 9, 2016] BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched a cloud warehouse network (CWN-X) product ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, March 9, 2016] BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched a cloud warehouse network (CWN-X) product ...&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </content>
@@ -4651,7 +4691,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
    <link href="http://www.baishancloud.com/2016/04/01/Customers/"/>
    <updated>2016-04-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/04/01/Customers</id>
-   <content type="html">&lt;div class=&quot;list_content list_content_wider&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
     &lt;div class=&quot;culture-top msr-b-80&quot;&gt;
         &lt;img src=&quot;/zh/public/image/Customers/customersBG.png&quot; alt=&quot;&quot; class=&quot;culture-customers&quot;&gt;
     &lt;/div&gt;

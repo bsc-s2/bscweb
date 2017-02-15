@@ -1,15 +1,147 @@
-- url: 2017-01-20-news-01
+- url: 2017/01/20/news-29
+  bg_img: bg.jpg
+  title: BaishanCloud founders inspired by a dream
+  source: 网易
+  time: 2017-02-13
+- url: 2017/01/20/news-01
   bg_img: bg.jpg
   title: 白山：首创 “乐高式松耦合”架构
-  souirce: 至顶网
+  source: 至顶网
   time: 2016-12-01
-- url: 2017-01-20-news-02
-  bg_img: b02.jpg
+- url: 2017/01/20/news-02
+  bg_img: 02.jpg
   title: Embrace delivery, storage and linkage for a 'post-cloud era'
-  souirce: China Daily
+  source: China Daily
   time: 2016-11-22
-- url: 2017-01-20-news-03
+- url: 2017/01/20/news-03
   bg_img: bg.jpg
   title: 从互联网+到“AI+”：中国互联网经济新动能
-  souirce: 科学网
+  source: 科学网
   time: 2016-11-22
+- url: 2017/01/20/news-04
+  bg_img: 04.jpg
+  title: 管理技术人，更要学会沟通
+  source: 一财周刊
+  time: 2016-11-21
+- url: 2017/01/20/news-05
+  bg_img: 05.jpg
+  title: 重构数据价值 云链网络共同体
+  source: 网易
+  time: 2016-11-21
+- url: 2017/01/20/news-06
+  bg_img: 06.jpg
+  title: 白山云科技：做阿里云们的第三方服务商
+  source: 财经天下
+  time: 2016-11-21
+- url: 2017/01/20/news-07
+  bg_img: bg.jpg
+  title: 白山云科技参加乌镇世界互联网大会，云链CCX成果发布
+  source: 一财周刊
+  time: 2016-11-14
+- url: 2017/01/20/news-08
+  bg_img: bg.jpg
+  title: 技术是一碗青春饭?
+  source: 一财周刊
+  time: 2016-11-15
+- url: 2017/01/20/news-09
+  bg_img: 09.jpg
+  title: 白山云科技CTO童剑:性能分析体系建设之路
+  source: 天极网
+  time: 2016-10-23
+- url: 2017/01/20/news-10
+  bg_img: 10.jpg
+  title: 从巨轮掌舵人到联合舰队指挥官 ——访白山云科技CTO童剑
+  source: infoQ
+  time: 2016-09-30
+- url: 2017/01/20/news-11
+  bg_img: 11.jpg
+  title: 双十一”高并发应对之道 
+  source: 搜狐
+  time: 2016-09-30
+- url: 2017/01/20/news-12
+  bg_img: 12.jpg
+  title: 中国新市场14大肉搏战 
+  source: 财富
+  time: 2016-8-30
+- url: 2017/01/20/news-13
+  bg_img: 13.jpg
+  title: “互联网+金融”已成共识，但你可知API如何“点数成金”？
+  source: 运维帮
+  time: 2016-08-29
+- url: 2017/01/20/news-14
+  bg_img: 14.jpg
+  title: 白山云科技获过亿元B轮融资 深耕云链市场
+  source: 凤凰财经
+  time: 2016-07-25
+- url: 2017/01/20/news-15
+  bg_img: 15.jpg
+  title: 白山云科技发布云链新产品 专注热存储
+  source: 新浪
+  time: 2016-06-30
+- url: 2017/01/20/news-16
+  bg_img: 16.jpg
+  title: 白山云科技CTO童剑：云分发行业很难出现巨头垄断
+  source: 凤凰
+  time: 2016-06-23
+- url: 2017/01/20/news-17
+  bg_img: 17.jpg
+  title: 原新浪研发总经理童剑加盟白山，出任CTO力推云链布局
+  source: 网易
+  time: 2016-06-23
+- url: 2017/01/20/news-18
+  bg_img: bg.jpg
+  title: 白山云科技:连“云”成团　数据生金
+  source: 贵州日报
+  time: 2016-06-08
+- url: 2017/01/20/news-19
+  bg_img: 19.jpg
+  title: 白山亮相数博会 用“云链”激活大数据
+  source: 贵州日报
+  time: 2016-06-06
+- url: 2017/01/20/news-20
+  bg_img: 20.jpg
+  title: 今天，这个星球上最聪明的一群小朋友是这样度过的…
+  source: 白山官网
+  time: 2016-06-01
+- url: 2017/01/20/news-21
+  bg_img: 21.jpg
+  title: 内容更新速度的边界能否突破？SHAQUE技术提供答案
+  source: 白山官网
+  time: 2016-05-16
+- url: 2017/01/20/news-22
+  bg_img: 22.jpg
+  title: 一封来自神秘东方，直抵西雅图的不二战书案
+  source: 白山官网
+  time: 2016-05-13
+- url: 2017/01/20/news-23
+  bg_img: 23.jpg
+  title: 运维服务进化论
+  source: 网易
+  time: 2016-05-12
+- url: 2017/01/20/news-24
+  bg_img: bg.jpg
+  title: 连获多项认证，白山为你做更好的自己
+  source: 网易
+  time: 2016-04-08
+- url: 2017/01/20/news-25
+  bg_img: 25.jpg
+  title: 创业是“冲动的理性”
+  source: 科技日报
+  time: 2016-03-31
+- url: 2017/01/20/news-26
+  bg_img: 26.jpg
+  title: 中国云加速 白山云科技在美设子公司
+  source: 腾讯
+  time: 2016-03-09
+- url: 2017/01/20/news-27
+  bg_img: bg.jpg
+  title: BaishanCloud founders inspired by a dream
+  source: China Daily
+  time: 2016-03-08
+- url: 2017/01/20/news-28
+  bg_img: 28.jpg
+  title: 6个月两轮融资，三位前上市公司高管开启“另类创业”
+  source: 小饭桌
+  time: 2016-01-25
+
+  

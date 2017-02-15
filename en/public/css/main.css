@@ -37,16 +37,16 @@ strong {
         min-height: 500px;
         margin: 0 auto;
     }
-    .list_content {
+    .list-content {
         padding: 10px 30px 10px 205px;
         margin: 0 auto;
         min-width: 500px;
         text-align: left;
     }
-    .list_content p {
+    .list-content p {
         margin-bottom: 20px;
     }
-    .ul_press {
+    .ul-press {
         width: 77%;
         margin-top: 20px;
         font-size: 18px;
@@ -184,26 +184,26 @@ strong {
     background-color: #fff;
 }
 
-.bottom_nav {
+.bottom-nav {
     color: #fff;
     background-color: #555;
 }
 
-.bottom_nav a.sidebar-nav-item {
+.bottom-nav a.sidebar-nav-item {
     display: inline-block;
     margin: 0 5px 20px 0;
     color: #fff;
     font-size: 13px;
 }
 
-.bottom_nav h4 {
+.bottom-nav h4 {
     padding-top: 10px;
     padding-bottom: 5px;
     font-size: 13px;
 }
 
-.bottom_nav a.sidebar-nav-item.active,
-.bottom_nav a.sidebar-nav-item:hover {
+.bottom-nav a.sidebar-nav-item.active,
+.bottom-nav a.sidebar-nav-item:hover {
     color: #3ab7cb;
     text-decoration: none;
 }
@@ -242,7 +242,7 @@ strong {
     margin-left: 1em;
 }
 
-.ul_press li:nth-child(odd) a {
+.ul-press li:nth-child(odd) a {
     font-size: 18px;
     line-height: 22px;
     color: #428bca;
@@ -251,22 +251,22 @@ strong {
     padding-top: 10px;
 }
 
-.ul_press li:nth-child(odd) {
+.ul-press li:nth-child(odd) {
     padding-top: 10px;
 }
 
-.ul_press li:nth-child(odd) a:hover {
+.ul-press li:nth-child(odd) a:hover {
     color: #a4003a;
 }
 
-.list_content {
+.list-content {
     font-family: 'Hevitica', Arial;
     font-size: 16px;
     line-height: 22px;
     font-weight: 300;
 }
 
-.list_content .head-title {
+.list-content .head-title {
     font-family: 'Microsoft YaHei', Arial, Helvetica;
     font-size: 24px;
     line-height: 32px;
@@ -275,11 +275,11 @@ strong {
     margin-bottom: .5em;
 }
 
-.management_info_first {
+.management-info-first {
     margin-top: 60px;
 }
 
-li.press_brief {
+li.press-brief {
     font-size: 14px;
     line-height: 16px;
     font-family: 'Hevitica', Arial;
@@ -294,7 +294,7 @@ li.press_brief {
     min-height: -webkit-calc(100% - 107px - 2em);
 }
 
-.list_content+div.content-office {
+.list-content+div.content-office {
     margin-top: 20px;
 }
 
@@ -361,7 +361,7 @@ li.press_brief {
     min-height: 600px;
 }
 
-.culture-imgBox {
+.culture-imgbox {
     min-height: 100px;
     padding: 4px;
     background: #fff;
@@ -377,7 +377,7 @@ li.press_brief {
     position: relative;
 }
 
-.culture-imgBox img {
+.culture-imgbox img {
     margin-bottom: 0 !important;
 }
 
@@ -397,7 +397,7 @@ li.press_brief {
     transition: all 150ms ease-in-out;
 }
 
-.culture-imgBox:hover .post-hover {
+.culture-imgbox:hover .post-hover {
     top: 0;
     visibility: visible;
     opacity: 1;
@@ -475,134 +475,6 @@ a.image-link {
     color: #129593;
 }
 
-.mar20 {
-    margin: 20px;
-}
-
-.pad10 {
-    padding: 10px;
-}
-
-.pad15 {
-    padding: 15px;
-}
-
-.office-h4 {
-    font-size: 20px;
-    color: #fff;
-    font-weight: 200;
-}
-
-.content-bg {
-    text-align: left;
-}
-
-.contact-map {
-    max-width: 100%;
-    margin: 20px 0;
-}
-
-.office-h3 {
-    color: #3499ed;
-    font-size: 24px;
-    font-weight: 500;
-}
-
-.contact-p {
-    margin-bottom: 0;
-    font-size: 16px;
-    line-height: 26px;
-    color: #fff;
-}
-
-.ta-l {
-    text-align: left;
-}
-
-.bottom_nav_cn {
-    color: #888;
-    background-color: #fff;
-    font-size: 16px;
-    font-weight: 300;
-    padding-left: 175px;
-}
-
-.bottom_nav_cn a.sidebar-nav-item {
-    color: #888;
-    font-size: 16px;
-    padding: 0;
-    border-bottom: 1px dotted;
-}
-
-.bottom_nav_cn a.sidebar-nav-item:hover {
-    font-size: 16px;
-    padding: 0;
-    border-bottom: 1px dotted;
-    font-weight: 300;
-}
-
-.bottom_nav_cn a.sidebar-nav-item.active {
-    font-weight: 300;
-}
-
-.copyright {
-    display: inline-block;
-}
-
-.job-content-cn {
-    font-size: 14px;
-    font-family: 微软雅黑;
-    line-height: 26px;
-}
-
-.p-jobLocation {
-    font-weight: 700;
-}
-
-.job-blue {
-    color: #3399ff;
-    font-size: 18px;
-    font-weight: 700;
-}
-
-.applicationURL {
-    font-size: 18px;
-    color: rgb(51, 153, 255);
-    background: none;
-}
-
-.bottom_nav_cn h4 {
-    padding-top: 10px;
-    padding-bottom: 5px;
-    font-size: 18px;
-    font-weight: 300;
-}
-
-.bottom_nav_cn h4 em {
-    color: #626262;
-    font-weight: 300;
-    font-family: tahoma, geneva, sans-serif;
-}
-
-.job-p-xy {
-    width: calc(95% - 70px);
-    width: -moz-calc(95% - 70px);
-    /*chrome safari*/
-    width: -webkit-calc(95% - 70px);
-}
-
-.fs22 {
-    font-size: 22px;
-}
-
-.job-title-cn {
-    margin: 0;
-}
-
-.pad0 {
-    padding: 0 !important;
-}
-
 @media (min-width:768px) {
     .container {
         width: 750px;
@@ -644,6 +516,6 @@ a.image-link {
     min-height: 500px;
 }
 
-.management_info {
+.management-info {
     min-height: 295px;
 }

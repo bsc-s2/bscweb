@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-02-15T00:18:06+08:00</updated>
+ <updated>2017-02-15T13:05:20+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -17,7 +17,7 @@
    <link href="http://www.baishancloud.com/2016/08/01/Contact-Us/"/>
    <updated>2016-08-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/08/01/Contact-Us</id>
-   <content type="html">&lt;div class=&quot;list_content&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
     &lt;div class=&quot;office-list-container&quot;&gt;
         
         
@@ -498,7 +498,7 @@
    <link href="http://www.baishancloud.com/2016/06/01/BSC-Culture/"/>
    <updated>2016-06-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/06/01/BSC-Culture</id>
-   <content type="html">&lt;div class=&quot;list_content list_content_wider&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
     &lt;div class=&quot;culture-top msr-b-40&quot;&gt;
         &lt;h1 class=&quot;head-title color-3&quot;&gt;BaishanCloud Corporate Culture&lt;/h1&gt;
         &lt;p&gt;At BSC, our entire focus is on our employees - their sense of accomplishments and their happiness as members
@@ -508,7 +508,7 @@
     &lt;div id=&quot;blocksItContainer&quot;&gt;
         
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20161010064923749.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064923749.jpg&quot;
@@ -523,7 +523,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20161010064909742.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064909742.jpg&quot;
@@ -538,7 +538,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20161010064854707.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064854707.jpg&quot;
@@ -553,7 +553,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20161010064831965.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064831965.jpg&quot;
@@ -568,7 +568,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816071521520.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071521520.jpg&quot;
@@ -583,7 +583,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816071459524.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071459524.jpg&quot;
@@ -598,7 +598,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816071437897.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071437897.jpg&quot;
@@ -613,7 +613,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070949455.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070949455.jpg&quot;
@@ -628,7 +628,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070757769.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070757769.jpg&quot;
@@ -643,7 +643,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070449533.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070449533.jpg&quot;
@@ -658,7 +658,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070413934.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070413934.jpg&quot;
@@ -673,7 +673,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070357204.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070357204.jpg&quot;
@@ -688,7 +688,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070340879.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070340879.jpg&quot;
@@ -703,7 +703,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070322186.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070322186.jpg&quot;
@@ -718,7 +718,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070302517.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070302517.jpg&quot;
@@ -733,7 +733,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070025287.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070025287.jpg&quot;
@@ -748,7 +748,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816070009301.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070009301.jpg&quot;
@@ -763,7 +763,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816065946565.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065946565.jpg&quot;
@@ -778,7 +778,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816065725989.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065725989.jpg&quot;
@@ -793,7 +793,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816065449252.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065449252.jpg&quot;
@@ -808,7 +808,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816065125686.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065125686.jpg&quot;
@@ -823,7 +823,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816065109339.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065109339.jpg&quot;
@@ -838,7 +838,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816065054312.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065054312.jpg&quot;
@@ -853,7 +853,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816065020632.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065020632.jpg&quot;
@@ -868,7 +868,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816064922932.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064922932.jpg&quot;
@@ -883,7 +883,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816064904470.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064904470.jpg&quot;
@@ -898,7 +898,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816064828574.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064828574.jpg&quot;
@@ -913,7 +913,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816063923333.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816063923333.jpg&quot;
@@ -928,7 +928,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160816063411886.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816063411886.jpg&quot;
@@ -943,7 +943,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160713042343328.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160713042343328.jpg&quot;
@@ -958,7 +958,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20160706020851963.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160706020851963.jpg&quot;
@@ -973,7 +973,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
         
-        &lt;div class=&quot;culture-imgBox&quot;&gt;
+        &lt;div class=&quot;culture-imgbox&quot;&gt;
             &lt;div class=&quot;post-thumb&quot;&gt;
                 &lt;img src=&quot;/en/public/image/Culture/20161010065226479.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010065226479.jpg&quot;
@@ -1192,29 +1192,30 @@
    <link href="http://www.baishancloud.com/2016/05/01/BSC-Press/"/>
    <updated>2016-05-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/01/BSC-Press</id>
-   <content type="html">&lt;div class=&quot;list_content&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
 &lt;h2 class=&quot;head-title&quot;&gt;BaishanCloud Press&lt;/h2&gt;
-&lt;ul class=&quot;ul_press&quot;&gt;
+&lt;ul class=&quot;ul-press&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/02/BaishanCloud-Receives-Trusted-Cloud-Certification/&quot;&gt;&lt;strong&gt;BaishanCloud Receives Trusted Cloud Certification&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;For Immediate ReleaseBaishanCloud Receives Trusted Cloud Certification [Beijing, February 13, 2017] BaishanCloud (BSC), ...&lt;/li&gt;
+
+    &lt;li class=&quot;press-brief&quot;&gt;For Immediate ReleaseBaishanCloud Receives Trusted Cloud Certification [Beijing, January 5, 2017] BaishanCloud (BSC), ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/03/BaishanCloud-Announces-Completion-of-Series-B-Private-Equity-Financing/&quot;&gt;&lt;strong&gt;BaishanCloud Announces Completion of Series B Private Equity Financing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, July 25, 2016], BaishanCloud(BSC), a leading provider of cloud-managed services in China, announced today that it ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, July 25, 2016], BaishanCloud(BSC), a leading provider of cloud-managed services in China, announced today that it ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/04/BaishanCloud-Launches-Cloud-Storage-Product/&quot;&gt;&lt;strong&gt;BaishanCloud Launches Cloud Storage Product&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, June 30, 2016]BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, June 30, 2016]BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/05/BaishanCloud-Appoints-Chief-Technology-Officer/&quot;&gt;&lt;strong&gt;BaishanCloud Appoints Chief Technology Officer&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, June 23, 2016], BaishanCloud(BSC), a leading provider of cloud managed services in China, announced today ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, June 23, 2016], BaishanCloud(BSC), a leading provider of cloud managed services in China, announced today ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/06/BaishanCloud-is-Awarded-Top-Cloud-Industry-Awards/&quot;&gt;&lt;strong&gt;BaishanCloud is Awarded Top Cloud Industry Awards&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[PR Newswire, April 18, 2016]In connection with the Fourth China International Forum for Cloud Computing Technology ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[PR Newswire, April 18, 2016]In connection with the Fourth China International Forum for Cloud Computing Technology ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/07/An-Entrepreneur-with-a-Rational-Impulse/&quot;&gt;&lt;strong&gt;An Entrepreneur with a &quot;Rational Impulse&quot;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;Source: China Science &amp; Technology Daily, March 31, 2016 At the age of 30, with excitement and anxietyabout the ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;Source: China Science &amp; Technology Daily, March 31, 2016 At the age of 30, with excitement and anxietyabout the ...&lt;/li&gt;
 
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/08/BaishanCloud-Announces-the-Establishment-of-a-North-American-Subsidiary/&quot;&gt;&lt;strong&gt;BaishanCloud Announces the Establishment of a North American Subsidiary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;press_brief&quot;&gt;[Beijing, March 9, 2016] BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched a cloud warehouse network (CWN-X) product ...&lt;/li&gt;
+    &lt;li class=&quot;press-brief&quot;&gt;[Beijing, March 9, 2016] BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched a cloud warehouse network (CWN-X) product ...&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </content>
@@ -1225,7 +1226,7 @@
    <link href="http://www.baishancloud.com/2016/04/01/Customers/"/>
    <updated>2016-04-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/04/01/Customers</id>
-   <content type="html">&lt;div class=&quot;list_content list_content_wider&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
     &lt;div class=&quot;culture-top msr-b-40&quot;&gt;
         &lt;h1 class=&quot;head-title&quot;&gt;Representative Customers&lt;/h1&gt;
         &lt;p&gt;BSC cloud managed services have gained considerable market traction in the marketplace. Service innovations
@@ -1549,7 +1550,7 @@
    <link href="http://www.baishancloud.com/2016/03/05/CLN-X/"/>
    <updated>2016-03-05T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/03/05/CLN-X</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cln-01.png&quot; class=&quot;products_title&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cln-01.png&quot; class=&quot;products-title&quot;&gt;&lt;/p&gt;
 
 &lt;h4&gt;&lt;strong&gt;A Cloud Management Service Platform&lt;/strong&gt;&lt;/h4&gt;
 
@@ -1557,13 +1558,13 @@
 
 &lt;p&gt;CLN-X is an event-driven computing platform to ensure connections of any data and business logic. Supplemented by BSC’s widely deployed cloud delivery and cloud storage networks, CLN-X significantly enhances the efficiency of data usage by enterprises. It helps bridge private and public clouds to allow data to flow more freely.&lt;/p&gt;
 
-&lt;h4 class=&quot;centent_top&quot;&gt;&lt;strong&gt;CLN-X(Cloud Linkage Network)&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CLN-X(Cloud Linkage Network)&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/en/public/image/products/cln-02.png&quot;&gt;&lt;/p&gt;
 
 &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CLN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cln-03.png&quot;&gt;
     &lt;p&gt;API auto generation and adaptation&lt;/p&gt;
     &lt;ul&gt;
@@ -1572,7 +1573,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cln-04.png&quot;&gt;
     &lt;p&gt;API acceleration&lt;/p&gt;
     &lt;ul&gt;
@@ -1581,7 +1582,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cln-05.png&quot;&gt;
     &lt;p&gt;API security&lt;/p&gt;
     &lt;ul&gt;
@@ -1592,12 +1593,12 @@
 
 &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CLN-X Product and Solution&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cln-06.png&quot;&gt;
     &lt;h6&gt;API auto generation&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;Data ETL (Extract and Transform and Loading) and auto-generation of APIs for enterprises - formatting various types of data based on customer needs and extracting valuable information and transforming it to API interfaces&lt;/li&gt;
     &lt;/ul&gt;
@@ -1605,12 +1606,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cln-07.png&quot;&gt;
     &lt;h6&gt;API acceleration&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;Improving the performance of enterprise APIs while reducing the load of back-end services.&lt;/li&gt;
         &lt;li&gt;Use of L2 cache and API asynchronization to decrease the response time of APIs while retaining the reliability of the backend&lt;/li&gt;
@@ -1619,12 +1620,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cln-08.png&quot;&gt;
     &lt;h6&gt;API adaptation and management&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;Adapting APIs from input to output as an API gateway&lt;/li&gt;
         &lt;li&gt;Integrating different API formats and transforming them into unified and standardized RESTful interfaces&lt;/li&gt;
@@ -1634,12 +1635,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cln-09.png&quot;&gt;
     &lt;h6&gt;API protection&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;Making APIs secure through API access controls, API flow controls, and the API firewall&lt;/li&gt;
         &lt;li&gt;Analyzing data to ascertain the features of attacks and to block attacks through a big data computing platform&lt;/li&gt;
@@ -1652,8 +1653,8 @@
 
 &lt;p&gt;The following unique cloud linkage product innovations reflect BSC’s commitment and efforts in technology development. These innovations will better address the needs of data-integration and data-migration of enterprise customers&lt;/p&gt;
 
-&lt;div class=&quot;products_roll products_roll_cln&quot; id=&quot;sliderBox&quot;&gt;
-    &lt;div class=&quot;products_slide products_slide_hover slider&quot;&gt;
+&lt;div class=&quot;products-sliderbox products-sliderbox-cln&quot; id=&quot;sliderBox&quot;&gt;
+    &lt;div class=&quot;products-slider products-slider-hover slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cln-10.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;WAN API bridging&lt;/i&gt;&lt;/h4&gt;
         &lt;ul class=&quot;cln&quot;&gt;
@@ -1661,7 +1662,7 @@
             &lt;li&gt;Asynchronized APIs – putting customer requests into a queue to reduce the back-end load&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cln-11.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Intelligently event-driven&lt;/i&gt;&lt;/h4&gt;
         &lt;ul class=&quot;cln&quot;&gt;
@@ -1670,7 +1671,7 @@
             &lt;li&gt;Back-end protection – reducing the back-end load through full/half asynchronized APIs&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot; id=&quot;sliderLong470&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cln-12.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Real-time anti HTTP DDoS attack mechanism&lt;/i&gt;&lt;/h4&gt;
         &lt;ul class=&quot;cln-narrow&quot;&gt;
@@ -1680,7 +1681,7 @@
             &lt;li&gt;Auto recognition of verification codes – supporting auto recognition of verification codes to avoid erroneous interceptions &lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cln-13.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;API auto generation&lt;/i&gt;&lt;/h4&gt;
         &lt;ul class=&quot;cln&quot;&gt;
@@ -1691,17 +1692,17 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slider-btn my-sliderBtn my-sliderBtn-Products&quot;&gt;
+&lt;div class=&quot;slider-btn my-sliderbtn my-sliderbtn-Products&quot;&gt;
     &lt;ul class=&quot;cln&quot;&gt;
-        &lt;li class=&quot;products_button products_button_hover&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button products-button-hover&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a class=&quot;products_bottom_nav&quot; href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;CDN-X&lt;/a&gt;
-&lt;a class=&quot;products_bottom_nav&quot; href=&quot;/en//2016/03/04/CWN-X/&quot; style=&quot;float: right;&quot;&gt;CWN-X&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;products-bottom-nav&quot; href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;CDN-X&lt;/a&gt;
+&lt;a class=&quot;products-bottom-nav&quot; href=&quot;/en//2016/03/04/CWN-X/&quot; style=&quot;float: right;&quot;&gt;CWN-X&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1710,7 +1711,7 @@
    <link href="http://www.baishancloud.com/2016/03/04/CWN-X/"/>
    <updated>2016-03-04T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/03/04/CWN-X</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cwn-01.png&quot; class=&quot;products_title&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cwn-01.png&quot; class=&quot;products-title&quot;&gt;&lt;/p&gt;
 
 &lt;h4&gt;&lt;strong&gt;A Distributed Cloud Storage Service Platform&lt;/strong&gt;&lt;/h4&gt;
 
@@ -1718,13 +1719,13 @@
 
 &lt;p&gt;CWN-X has a substantial ability to scale out and it is capable of handling demand for storage of ultra-large-scale unstructured data. Deployed edge storage nodes enhance edge computing capabilities and data mining effectiveness. Tiered storage based on the frequency of data access allows customers to reduce storage costs.CWN-X can achieve service availability of 99.99% and durability of 99.99999999999%.&lt;/p&gt;
 
-&lt;h4 class=&quot;centent_top&quot;&gt;&lt;strong&gt;CWN-X(Cloud Warehouse Network)&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CWN-X(Cloud Warehouse Network)&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/en/public/image/products/cwn-02.png&quot;&gt;&lt;/p&gt;
 
 &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CWN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-03.png&quot;&gt;
     &lt;p&gt;Hot Data Optimization - accelerates data transmission&lt;/p&gt;
     &lt;ul&gt;
@@ -1735,7 +1736,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-04.png&quot;&gt;
     &lt;p&gt;Flexible Service Management - tailored services and solutions&lt;/p&gt;
     &lt;ul&gt;
@@ -1745,7 +1746,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-05.png&quot;&gt;
     &lt;p&gt;Software Defined Storage - hybrid cloud storage architecture&lt;/p&gt;
     &lt;ul&gt;
@@ -1755,7 +1756,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-06.png&quot;&gt;
     &lt;p&gt;High Availability - enhanced services&lt;/p&gt;
     &lt;ul&gt;
@@ -1768,12 +1769,12 @@
 
 &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CWN-X Products and Solutions&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-07.png&quot;&gt;
     &lt;h6&gt;Online storage optimization&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;By separating hot and cold data, the BSC cross IDC storage system maximizes hot data performance and reduces cold data storage costs by 70%, as opposed to the standard 3-copy replication policy&lt;/li&gt;
     &lt;/ul&gt;
@@ -1781,12 +1782,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-08.png&quot;&gt;
     &lt;h6&gt;Data migration&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;BSC’s internal data migration is powered by a self-managed sub-system, which automatically detects and recovers broken data in a single IDC or in cross multiple IDCs&lt;/li&gt;
         &lt;li&gt;BSC’s cross-cloud data migration tool-kit provides end-users with full control of their data layout across IDCs or across cloud providers&lt;/li&gt;
@@ -1795,12 +1796,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-09.png&quot;&gt;
     &lt;h6&gt;Security management&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;BSC provides RESTful APIs in the HTTPS protocol, thus protecting users from network sniffers or man-in-the-middle attacks&lt;/li&gt;
         &lt;li&gt;Compatible with Amazon S3 Signature-v4, BSC deploys a very strong signature algorithm to protect users from hash collision attacks&lt;/li&gt;
@@ -1809,12 +1810,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-10.png&quot;&gt;
     &lt;h6&gt;Integration of CDN-X&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;CWN-X is closely integrated with the BSC cloud delivery platform. Such integration allows users to access their data more rapidly when data-changing events affect cloud delivery by cloud storage services&lt;/li&gt;
     &lt;/ul&gt;
@@ -1822,12 +1823,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-11.png&quot;&gt;
     &lt;h6&gt;Multimedia processing&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;The closer the computing server is to the storage server, the more quickly a job is completed. BSC helps its users achieve maximum performance by providing them with well-defined computing tasks, such as music/video transcoding and scheduling to their closest data sources&lt;/li&gt;
     &lt;/ul&gt;
@@ -1835,12 +1836,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-12.png&quot;&gt;
     &lt;h6&gt;Multi-upload options&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;Through HTTP PUT/POST, users can upload their data from anywhere in the world without any additional devices&lt;/li&gt;
     &lt;/ul&gt;
@@ -1848,12 +1849,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-13.png&quot;&gt;
     &lt;h6&gt;Offline downloading&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;The offline downloading service is a data import scheduler subsystem that reliably imports data from user-specified URLs. It allows users to import a large amount of data in several PBs&lt;/li&gt;
     &lt;/ul&gt;
@@ -1861,12 +1862,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cwn-14.png&quot;&gt;
     &lt;h6&gt;Integrated SaaS&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;ul&gt;
         &lt;li&gt;Supporting services, such as &quot;lambda&quot; and &quot;callback,&quot; provide users with more power to control data and allow user applications to react to data activities more effectively and efficiently&lt;/li&gt;
     &lt;/ul&gt;
@@ -1878,40 +1879,40 @@
 
 &lt;p&gt;The following unique cloud storage product innovations reflect BSC’s continued commitment and efforts to develop technology. Compared with traditional storage, these innovative features significantly help enhance the performance and qualities of BSC’s storage services.&lt;/p&gt;
 
-&lt;div class=&quot;products_roll products_roll_cwn&quot; id=&quot;sliderBox&quot;&gt;
-    &lt;div class=&quot;products_slide products_slide_hover slider&quot;&gt;
+&lt;div class=&quot;products-sliderbox products-sliderbox-cwn&quot; id=&quot;sliderBox&quot;&gt;
+    &lt;div class=&quot;products-slider products-slider-hover slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cwn-15.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Self-Structured Edge Storage&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;Utilizing an optical data center interconnect (DCI) to ensure uploading and downloading from the closest IDC to significantly improve the user experience.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cwn-16.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Multi Active Peer Storage Nodes&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;Using a decentralized replicated configuration, it ensures large file synchronization and cross IDC failovers within seconds, thus increasing the availability of storage services.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cwn-17.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Auto Detection of Data Access Frequency&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;A hierarchical multi-tiered data storage ensures an asynchronous merger of fresh and historical data.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cwn-18.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Intelligent Quality Control&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;A real-time auto mechanism that guarantees the availability of quality services. It also includes an auto data recovery system.&lt;/p&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slider-btn my-sliderBtn my-sliderBtn-Products&quot;&gt;
+&lt;div class=&quot;slider-btn my-sliderbtn my-sliderbtn-Products&quot;&gt;
     &lt;ul&gt;
-        &lt;li class=&quot;products_button products_button_hover&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button products-button-hover&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a class=&quot;products_bottom_nav&quot; href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;CDN-X&lt;/a&gt;
-&lt;a class=&quot;products_bottom_nav&quot; href=&quot;/en//2016/03/05/CLN-X/&quot; style=&quot;float: right;&quot;&gt;CLN-X&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;products-bottom-nav&quot; href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;CDN-X&lt;/a&gt;
+&lt;a class=&quot;products-bottom-nav&quot; href=&quot;/en//2016/03/05/CLN-X/&quot; style=&quot;float: right;&quot;&gt;CLN-X&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1920,7 +1921,7 @@
    <link href="http://www.baishancloud.com/2016/03/03/CDN-X/"/>
    <updated>2016-03-03T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/03/03/CDN-X</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cdn-01.png&quot; class=&quot;products_title&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cdn-01.png&quot; class=&quot;products-title&quot;&gt;&lt;/p&gt;
 
 &lt;h4&gt;&lt;strong&gt;A More Intelligent Cloud Delivery Service Platform&lt;/strong&gt;&lt;/h4&gt;
 
@@ -1928,13 +1929,13 @@
 
 &lt;p&gt;As an integral part of the BSC cloud-managed services, CDN-X reflects and incorporates many of BSC’s product innovations. Unlike traditional content delivery, these product innovations allow BSC cloud delivery services to be more Rapid, more Stable, more Transparent, as well as more Tailored and more Secure.&lt;/p&gt;
 
-&lt;h4 class=&quot;centent_top&quot;&gt;&lt;strong&gt;CDN-X(Cloud Devlivery Network)&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CDN-X(Cloud Devlivery Network)&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/en/public/image/products/cdn-02.png&quot;&gt;&lt;/p&gt;
 
 &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CDN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-03.png&quot;&gt;
     &lt;p&gt;More Rapid&lt;/p&gt;
     &lt;ul&gt;
@@ -1945,7 +1946,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-04.png&quot;&gt;
     &lt;p&gt;More Stable&lt;/p&gt;
     &lt;ul&gt;
@@ -1955,7 +1956,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-05.png&quot;&gt;
     &lt;p&gt;More Transparent&lt;/p&gt;
     &lt;ul&gt;
@@ -1966,7 +1967,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-06.png&quot;&gt;
     &lt;p&gt;More Tailored&lt;/p&gt;
     &lt;ul&gt;
@@ -1976,7 +1977,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_list&quot;&gt;
+&lt;div class=&quot;products-list&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-07.png&quot;&gt;
     &lt;p&gt;More Tailored&lt;/p&gt;
     &lt;ul&gt;
@@ -1987,12 +1988,12 @@
 
 &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CDN-X Products and Solutions&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-08.png&quot;&gt;
     &lt;h6&gt;Webpage Acceleration&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;p&gt;To enable an overall optimal online experience, regardless of location.&lt;/p&gt;
     &lt;ul&gt;
         &lt;li&gt;A decrease in purging time from minutes to second&lt;/li&gt;
@@ -2002,12 +2003,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-09.png&quot;&gt;
     &lt;h6&gt;Video Streaming&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;p&gt;Highest quality media streaming delivery on any device&lt;/p&gt;
     &lt;ul&gt;
         &lt;li&gt;Fluency ratio：97.1％&lt;/li&gt;
@@ -2018,12 +2019,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-10.png&quot;&gt;
     &lt;h6&gt;Live Streaming&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;p&gt;Fluent live streaming to level up user quantity.&lt;/p&gt;
     &lt;ul&gt;
         &lt;li&gt;Live streaming opening in seconds&lt;/li&gt;
@@ -2034,12 +2035,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-11.png&quot;&gt;
     &lt;h6&gt;Dynamic Acceleration&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;p&gt;Consistent user experience on dynamically generated contents to increase profit opportunities.&lt;/p&gt;
     &lt;ul&gt;
         &lt;li&gt;Dynamic content loading speed increase: 41.9%&lt;/li&gt;
@@ -2050,12 +2051,12 @@
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;div class=&quot;products_blue&quot;&gt;
+&lt;div class=&quot;products-blue&quot;&gt;
     &lt;img src=&quot;/en/public/image/products/cdn-12.png&quot;&gt;
     &lt;h6&gt;Download Acceleration&lt;/h6&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;products_blue_info&quot;&gt;
+&lt;div class=&quot;products-blue-info&quot;&gt;
     &lt;p&gt;Effective file delivery of any size to optimize the user experience.&lt;/p&gt;
     &lt;ul&gt;
         &lt;li&gt;Customizable tool for real-time monitoring&lt;/li&gt;
@@ -2070,8 +2071,8 @@
 
 &lt;p&gt;The following unique innovations in cloud delivery products reflect BSC’s commitment and efforts in technology development. Adapted in China for the first time, these innovations have helped BSC significantly improve and enhance the quality of its cloud delivery services.&lt;/p&gt;
 
-&lt;div class=&quot;products_roll products_roll_cdn&quot; id=&quot;sliderBox&quot;&gt;
-    &lt;div class=&quot;products_slide products_slide_hover slider&quot;&gt;
+&lt;div class=&quot;products-sliderbox products-sliderbox-cdn&quot; id=&quot;sliderBox&quot;&gt;
+    &lt;div class=&quot;products-slider products-slider-hover slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cdn-13.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Instant Purging&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Real-time content purging within seconds&lt;/i&gt;&lt;/p&gt;
@@ -2081,7 +2082,7 @@
             &lt;li&gt;Timely receipt and feedback of each system delivery&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cdn-14.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Intelligent DNS&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Distributed DNS and a dynamic IP library&lt;/i&gt;&lt;/p&gt;
@@ -2091,7 +2092,7 @@
             &lt;li&gt;Intelligent traffic routing&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot; id=&quot;sliderLong340&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cdn-15.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Protocol Optimization&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Avoiding data retransmission and easing of traffic congestion&lt;/i&gt;&lt;/p&gt;
@@ -2101,7 +2102,7 @@
             &lt;li&gt;Applicable to all transport layer applications using TCP protocol&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;products_slide slider&quot;&gt;
+    &lt;div class=&quot;products-slider slider&quot;&gt;
         &lt;img src=&quot;/en/public/image/products/cdn-16.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Webpage Optimization&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Splitting and restructuring of webpages&lt;/i&gt;&lt;/p&gt;
@@ -2112,17 +2113,17 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slider-btn my-sliderBtn my-sliderBtn-Products&quot;&gt;
+&lt;div class=&quot;slider-btn my-sliderbtn my-sliderbtn-Products&quot;&gt;
     &lt;ul&gt;
-        &lt;li class=&quot;products_button products_button_hover&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;products_button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button products-button-hover&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;products-button&quot;&gt;&lt;/li&gt;
     &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a class=&quot;products_bottom_nav&quot; href=&quot;/en//2016/03/04/CWN-X/&quot;&gt;CWN-X&lt;/a&gt;
-&lt;a class=&quot;products_bottom_nav&quot; href=&quot;/en//2016/03/05/CLN-X/&quot; style=&quot;float: right;&quot;&gt;CLN-X&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;products-bottom-nav&quot; href=&quot;/en//2016/03/04/CWN-X/&quot;&gt;CWN-X&lt;/a&gt;
+&lt;a class=&quot;products-bottom-nav&quot; href=&quot;/en//2016/03/05/CLN-X/&quot; style=&quot;float: right;&quot;&gt;CLN-X&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2131,49 +2132,49 @@
    <link href="http://www.baishancloud.com/2016/03/02/Overview/"/>
    <updated>2016-03-02T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/03/02/Overview</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/overview-01.png&quot; class=&quot;products_title&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/overview-01.png&quot; class=&quot;products-title&quot;&gt;&lt;/p&gt;
 
 &lt;p &gt;BSC’s cloud managed services are based on the concept of CCX – the Cloud Connects Everything. While focusing on the life cycle of data, BSC services effectively address the rising data-migration and data-integration needs of enterprise customers in China. Its services provide enterprise customers with numerous cloud management tools for data storage, data integration, data acceleration, and data analytics. Unique in its approach, BSC leverages its edge storage and edge computing capabilities to ensure the interoperability of its three cloud products – cloud delivery, cloud storage, and cloud linkages – across the BSC cloud management platform.&lt;/p&gt;
 
 &lt;p&gt;Product innovations, along with operational efficiencies and improved quality of services, are the leading business drivers behind BSC service adoption. New and improved features and functionalities of BSC cloud managed services now provide customers with additional benefits. The BSC service provision focuses on the customization of services and reductions in time-to-market for customers.&lt;/p&gt;
 
-&lt;div class=&quot;list_overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CDN-X:&lt;/strong&gt;A unique BSC cloud delivery service platform coupled with innovative features now enable much faster, more stable, more transparent, and tailored cloud delivery services.&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;list-overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CDN-X:&lt;/strong&gt;A unique BSC cloud delivery service platform coupled with innovative features now enable much faster, more stable, more transparent, and tailored cloud delivery services.&lt;/p&gt;&lt;/div&gt;
 
-&lt;div class=&quot;list_overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CWN-X:&lt;/strong&gt;A fully distributed cloud storage service platform, along with edge storage focusing on the storage of hot data, significantly increases the accuracy of data access and ensures high service availability.&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;list-overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CWN-X:&lt;/strong&gt;A fully distributed cloud storage service platform, along with edge storage focusing on the storage of hot data, significantly increases the accuracy of data access and ensures high service availability.&lt;/p&gt;&lt;/div&gt;
 
-&lt;div class=&quot;list_overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CLN-X:&lt;/strong&gt;A multi cloud management service platform concentrating on data migration and data integration for enterprises in linking with public and private clouds. It offers adaptation, security, and acceleration services for enterprise APIs.&lt;/p&gt;&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list_overview&quot;&gt;&lt;a href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list_overview&quot;&gt;&lt;a href=&quot;/en//2016/03/04/CWN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list_overview&quot;&gt;&lt;a href=&quot;/en//2016/03/05/CLN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;list-overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CLN-X:&lt;/strong&gt;A multi cloud management service platform concentrating on data migration and data integration for enterprises in linking with public and private clouds. It offers adaptation, security, and acceleration services for enterprise APIs.&lt;/p&gt;&lt;/div&gt;
 
 &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
-&lt;h2 class=&quot;centent_top&quot;&gt;CCX Architecture&lt;/h2&gt;
+&lt;div class=&quot;list-overview&quot;&gt;&lt;a href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/en/public/image/products/overview-02.png&quot; class=&quot;overview_02&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;list-overview&quot;&gt;&lt;a href=&quot;/en//2016/03/04/CWN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
 
-&lt;div class=&quot;overview_roll&quot; id=&quot;sliderBox&quot;&gt;
-    &lt;div class=&quot;overview_slide products_slide_hover slider&quot;&gt;
+&lt;div class=&quot;list-overview&quot;&gt;&lt;a href=&quot;/en//2016/03/05/CLN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
+
+&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;centent-top&quot;&gt;CCX Architecture&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/en/public/image/products/overview-02.png&quot; class=&quot;overview-02&quot;&gt;&lt;/p&gt;
+
+&lt;div class=&quot;overview-sliderbox&quot; id=&quot;sliderBox&quot;&gt;
+    &lt;div class=&quot;overview-slider products-slider-hover slider&quot;&gt;
         &lt;h4&gt;BSC Domestic Network Coverage&lt;/h4&gt;
         &lt;img src=&quot;/en/public/image/products/overview-03.png&quot; class=&quot;animation_overview&quot;&gt;
         &lt;p&gt;&lt;strong&gt;BSC cloud services are supported by its robust cloud delivery network that covers more than 200 cities in China.&lt;/strong&gt;&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;overview_slide slider&quot;&gt;
+    &lt;div class=&quot;overview-slider slider&quot;&gt;
         &lt;h4&gt;BSC Global Network Coverage&lt;/h4&gt;
         &lt;img src=&quot;/en/public/image/products/overview-04.png&quot; class=&quot;animation_overview&quot;&gt;
         &lt;p&gt;&lt;strong&gt;BSC has quickly enlarged its global network footprint, reaching Asia, Europe, North Amrica, South America, and Oceanica.&lt;/strong&gt;&lt;/p&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slider-btn my-sliderBtn my-sliderBtn-overview&quot;&gt;
+&lt;div class=&quot;slider-btn my-sliderbtn my-sliderbtn-overview&quot;&gt;
     &lt;ul&gt;
-        &lt;li class=&quot;overview_button products_button_hover&quot;&gt;&lt;/li&gt;
-        &lt;li class=&quot;overview_button&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;overview-button products-button-hover&quot;&gt;&lt;/li&gt;
+        &lt;li class=&quot;overview-button&quot;&gt;&lt;/li&gt;
     &lt;/ul&gt;
 &lt;/div&gt;
 
@@ -2194,12 +2195,12 @@
    <link href="http://www.baishancloud.com/2016/02/01/Management/"/>
    <updated>2016-02-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/02/01/Management</id>
-   <content type="html">&lt;div class=&quot;list_content&quot;&gt;
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
 &lt;h1 class=&quot;head-title&quot;&gt;Key Management Team&lt;/h1&gt;
 &lt;p&gt;Since April 2015, as a rapidly growing start-up company BaishanCloud has attracted the best manpower in China to form a well-balanced team in every aspect of its business. The management team averages 15 years of work experience in the IT industry, both in China and overseas, and has strong skills in business operations, execution, and implementation. Key network design, R&amp;amp;D, and product development team leaders all have BAT experience and diversified leadership backgrounds in technology innovation and development.&lt;/p&gt;
 &lt;p&gt;Young, energetic, and driven by the desire to achieve success, the team has quickly established its name in the industry based on its solid business and service performance.&lt;/p&gt;
     
-&lt;div class=&quot;management_info management_info_first&quot;&gt;
+&lt;div class=&quot;management-info management-info-first&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/jason_huo.png&quot;&gt;
     &lt;h2&gt;Jason Huo&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Executive Officer&lt;/p&gt;
@@ -2208,7 +2209,7 @@
     &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
     
-&lt;div class=&quot;management_info&quot;&gt;
+&lt;div class=&quot;management-info&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/robert_sha.png&quot;&gt;
     &lt;h2&gt;Robert Sha&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Financial Officer&lt;/p&gt;
@@ -2217,7 +2218,7 @@
     &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management_info&quot;&gt;
+&lt;div class=&quot;management-info&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/jason_dai.png&quot;&gt;
     &lt;h2&gt;Jason Dai&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Marketing Officer&lt;/p&gt;
@@ -2226,7 +2227,7 @@
     &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management_info&quot;&gt;
+&lt;div class=&quot;management-info&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/john_tong.png&quot;&gt;
     &lt;h2&gt;John Tong&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Technology Officer&lt;/p&gt;
@@ -2235,7 +2236,7 @@
     &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management_info&quot;&gt;
+&lt;div class=&quot;management-info&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/terence_wang.png&quot;&gt;
     &lt;h2&gt;Terence Wang&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Vice President of Products&lt;/p&gt;
@@ -2244,7 +2245,7 @@
     &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management_info&quot;&gt;
+&lt;div class=&quot;management-info&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/wei_an.png&quot;&gt;
     &lt;h2&gt;Wei An&lt;/h2&gt;
     &lt;p&gt;Partner and Vice-President of International Business Strategy&lt;/p&gt;
@@ -2253,7 +2254,7 @@
     &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management_info&quot;&gt;
+&lt;div class=&quot;management-info&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/eddie_zhao.png&quot;&gt;
     &lt;h2&gt;Eddie Zhao&lt;/h2&gt;
     &lt;p&gt;Partner, Vice President, and GM of Global Business Operations  &lt;/p&gt;
@@ -2279,7 +2280,7 @@
 
 &lt;hr&gt;
 
-&lt;div class=&quot;list_content&quot;&gt;
+&lt;div class=&quot;list-content&quot;&gt;
 
 &lt;p&gt;Founded in April 2015, BaishanCloud(BSC) is a provider of cloud managed services, specializing in cloud resource exchanges and interactions. With a strong emphasis on data governance, BSC’s cloud managed product suite is comprised of three major services – cloud delivery, cloud storage and cloud linkages.  &lt;/p&gt;
 

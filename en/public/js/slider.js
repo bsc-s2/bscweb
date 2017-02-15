@@ -1,5 +1,5 @@
 (function($) {
-    var configObj = { btnFocusStyle: 'overview_button_hover', speed: 3000 };
+    var configObj = { btnFocusStyle: 'overview-button-hover', speed: 3000 };
     var clearTime = null;
     var $index = 0;
     var $qianindex = 0;
@@ -10,13 +10,13 @@
         var preObj = sliderBox.find('.slider').eq($qianindex);
         var indexObj = sliderBox.find('.slider').eq($index);
         if ($index > $qianindex) {
-            primsarySlideAnimate(preObj, indexObj, true);
+            primarySlideAnimate(preObj, indexObj, true);
         } else {
-            primsarySlideAnimate(preObj, indexObj, false);
+            primarySlideAnimate(preObj, indexObj, false);
         }
     }
 
-    function primsarySlideAnimate(preObj, indexObj, direction) {
+    function primarySlideAnimate(preObj, indexObj, direction) {
         var leftValue = '100%';
         var leftValueNegative = '-100%';
         if (direction) {

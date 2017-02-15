@@ -4,37 +4,13 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-02-15T13:13:07+08:00</updated>
+ <updated>2017-02-15T15:11:51+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>白山云科技获可信云服务认证</title>
-   <link href="http://www.baishancloud.com/2017/02/13/news-29/"/>
-   <updated>2017-02-13T00:00:00+08:00</updated>
-   <id>http://www.baishancloud.com/2017/02/13/news-29</id>
-   <content type="html">&lt;h2&gt;白山云科技获可信云服务认证&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;发布时间：2017-02-13
-2月13日，据数据中心联盟新一批可信云服务认证结果显示，白山云科技有限公司（简称“白山”）云分发服务，凭借过硬的技术实力和服务品质，获得可信云服务认证。&lt;/p&gt;
-
-&lt;p&gt;可信云是国内最早的云计算标准认证，同时也是最具权威的云计算标准认证之一，主要考核服务商的服务能力与承诺的相符性。由于其审核严格，历史通过率不足三成。此次获得认证，不仅代表白山通过了以可用性、私密性、可计量性等指标为基础的专家评审，更代表白山的服务质量获得了更多的市场认可。&lt;/p&gt;
-
-&lt;p&gt;白山是国内第一个获得可信云认证的云链服务提供商。云链的核心是数据与数据的连接，为数据的产生、传输、消费和归档提供完整的生命周期服务。其由云分发、云存储、云聚合三部分构成，针对客户数据内容的高速分发、在线存储、流动与整合需求，建立网络服务系统。目前，白山为今日头条、美团、秒拍、搜狐、汽车之家、暴风集团等两百多家企业客户提供服务。&lt;/p&gt;
-
-&lt;p&gt;在此次认证评估中，白山凭借在数据知情权、服务可审查性、服务功能、服务可用性、服务资源调配能力、故障恢复能力、云分发服务能力、服务计量准确性等多项指标上的表现，获得可信云服务认证。&lt;/p&gt;
-
-&lt;p&gt;可信云认证建立了云服务产业信用体系。它是由数据中心联盟组织，中国信息通信研究院（工信部电信研究院）测试评估的面向云计算服务的评估认证。目前基本覆盖业界主流云服务类型，并在IaaS/PaaS评估标准的基础上，增加了企业级SaaS、桌面云、云分发和云备份相关评估标准。&lt;/p&gt;
-
-&lt;p&gt;获得可信云认证代表着服务品质的一流水平。2016年6月，可信云服务定义、需求和场景正式写入国际上首个云计算框架性标准ITU-T Y.3501，这是我国在云计算国际标准领域的重大突破。通过可信云服务认证标志着，不仅服务能力在国内云计算领域得到认可，同时也达到了国际标准。&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>白山新闻</title>
@@ -45,7 +21,7 @@
     &lt;div class=&quot;list-news-bg&quot;&gt;  
         &lt;a href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
-        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;h5&gt;BaishanCloud founders inspired by a dream&lt;/h5&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;h5&gt;白山云科技获可信云服务认证&lt;/h5&gt;&lt;/a&gt;
     &lt;/div&gt;
     &lt;div class=&quot;list-news-info&quot;&gt;
         &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
@@ -506,6 +482,31 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;clean-news&quot;&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>白山云科技获可信云服务认证</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-29/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-29</id>
+   <content type="html">&lt;h2&gt;白山云科技获可信云服务认证&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;发布时间：2017-02-13&lt;/p&gt;
+
+&lt;p&gt;2月13日，据数据中心联盟新一批可信云服务认证结果显示，白山云科技有限公司（简称“白山”）云分发服务，凭借过硬的技术实力和服务品质，获得可信云服务认证。&lt;/p&gt;
+
+&lt;p&gt;可信云是国内最早的云计算标准认证，同时也是最具权威的云计算标准认证之一，主要考核服务商的服务能力与承诺的相符性。由于其审核严格，历史通过率不足三成。此次获得认证，不仅代表白山通过了以可用性、私密性、可计量性等指标为基础的专家评审，更代表白山的服务质量获得了更多的市场认可。&lt;/p&gt;
+
+&lt;p&gt;白山是国内第一个获得可信云认证的云链服务提供商。云链的核心是数据与数据的连接，为数据的产生、传输、消费和归档提供完整的生命周期服务。其由云分发、云存储、云聚合三部分构成，针对客户数据内容的高速分发、在线存储、流动与整合需求，建立网络服务系统。目前，白山为今日头条、美团、秒拍、搜狐、汽车之家、暴风集团等两百多家企业客户提供服务。&lt;/p&gt;
+
+&lt;p&gt;在此次认证评估中，白山凭借在数据知情权、服务可审查性、服务功能、服务可用性、服务资源调配能力、故障恢复能力、云分发服务能力、服务计量准确性等多项指标上的表现，获得可信云服务认证。&lt;/p&gt;
+
+&lt;p&gt;可信云认证建立了云服务产业信用体系。它是由数据中心联盟组织，中国信息通信研究院（工信部电信研究院）测试评估的面向云计算服务的评估认证。目前基本覆盖业界主流云服务类型，并在IaaS/PaaS评估标准的基础上，增加了企业级SaaS、桌面云、云分发和云备份相关评估标准。&lt;/p&gt;
+
+&lt;p&gt;获得可信云认证代表着服务品质的一流水平。2016年6月，可信云服务定义、需求和场景正式写入国际上首个云计算框架性标准ITU-T Y.3501，这是我国在云计算国际标准领域的重大突破。通过可信云服务认证标志着，不仅服务能力在国内云计算领域得到认可，同时也达到了国际标准。&lt;/p&gt;
 </content>
  </entry>
  

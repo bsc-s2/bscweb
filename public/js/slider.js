@@ -1,42 +1,38 @@
 (function($) {
-    var configObj = { btnFocusStyle: 'slider_button_hover', residenceTime: 3000 };
+    var defaultConfig = { btnFocusStyle: 'slider_button_hover', residenceTime: 3000 };
     var myTimer = null;
     var index = 0;
     var preIndex = 0;
     var btnObj = {};
 
     function scrollPlay(sliderBox) {
-        btnObj.eq(index).addClass(configObj.btnFocusStyle).siblings().removeClass(configObj.btnFocusStyle);
-        var preObj = sliderBox.find('.slider').eq(preIndex);
-        var indexObj = sliderBox.find('.slider').eq(index);
-        var direction = true;
-        if (index <= preIndex) {
-            direction = false;
+        if (preIndex == index) {
+            return;
         }
-        primarySlideAnimate(preObj, indexObj, direction);
-    }
 
-    function primarySlideAnimate(preObj, indexObj, direction) {
-        var leftValue = '100%';
-        if (!direction) {
-            leftValue = '-100%';
+        btnObj.eq(index).addClass(sliderBox.config.btnFocusStyle).siblings().removeClass(sliderBox.config.btnFocusStyle);
+        var sliders = sliderBox.find('.slider');
+        var preObj = sliders.eq(preIndex);
+        var indexObj = sliders.eq(index);
+
+        var animateLeftValue = 100;
+        if (index < preIndex) {
+            animateLeftValue *= -1;
         }
-        var leftValueNegative = (Number(leftValue.substr(0, leftValue.length - 1)) / -1).toString() + "%";
-        preObj.stop(true, true).animate({ 'left': leftValueNegative });
-        indexObj.css('left', leftValue).stop(true, true).animate({ 'left': '0%' });
+        preObj.stop(true, true).animate({ 'left': (-1) * animateLeftValue + '%' });
+        indexObj.css('left', animateLeftValue + '%').stop(true, true).animate({ 'left': '0%' });
     }
 
     function startTimer(sliderBox) {
         var picNum = sliderBox.find('.slider').length - 1;
         myTimer = setInterval(function() {
-
             index++;
             if (index > picNum) {
                 index = 0;
             }
             scrollPlay(sliderBox);
             preIndex = index;
-        }, configObj.residenceTime);
+        }, sliderBox.config.residenceTime);
     }
 
     function autoPlay(sliderBox) {
@@ -55,10 +51,12 @@
     }
 
     $.fn.sliderPlay = function(myConfig) {
+        var a = $(this);
+        a.config = defaultConfig;
         if (myConfig && typeof myConfig === "object") {
-            $.extend(configObj, myConfig);
+            a.config = $.extend(defaultConfig, myConfig);
         }
-        autoPlay($(this));
+        autoPlay(a);
         return this;
     };
 })(jQuery);

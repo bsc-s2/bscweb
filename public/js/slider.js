@@ -6,21 +6,21 @@
     var btnObj = {};
 
     function scrollPlay(sliderBox) {
-        if (preIndex == index) {
+        if (index == preIndex) {
             return;
         }
-
-        btnObj.eq(index).addClass(sliderBox.config.btnFocusStyle).siblings().removeClass(sliderBox.config.btnFocusStyle);
+        var mybtnFocusStyle = sliderBox.config.btnFocusStyle;
+        btnObj.eq(index).addClass(mybtnFocusStyle).siblings().removeClass(mybtnFocusStyle);
         var sliders = sliderBox.find('.slider');
         var preObj = sliders.eq(preIndex);
         var indexObj = sliders.eq(index);
 
-        var animateLeftValue = 100;
+        var leftValue = 100;
         if (index < preIndex) {
-            animateLeftValue *= -1;
+            leftValue *= -1;
         }
-        preObj.stop(true, true).animate({ 'left': (-1) * animateLeftValue + '%' });
-        indexObj.css('left', animateLeftValue + '%').stop(true, true).animate({ 'left': '0%' });
+        preObj.stop(true, true).animate({ 'left': (-1) * leftValue + '%' });
+        indexObj.css('left', leftValue + '%').stop(true, true).animate({ 'left': '0%' });
     }
 
     function startTimer(sliderBox) {
@@ -54,7 +54,7 @@
         var a = $(this);
         a.config = defaultConfig;
         if (myConfig && typeof myConfig === "object") {
-            a.config = $.extend(defaultConfig, myConfig);
+            a.config = $.extend({}, defaultConfig, myConfig);
         }
         autoPlay(a);
         return this;

@@ -1,5 +1,5 @@
 (function($) {
-    var defaultConfig = { btnFocusStyle: 'slider_button_hover', residenceTime: 3000 };
+    var defaultConfig = { btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 };
     var myTimer = null;
     var index = 0;
     var preIndex = 0;

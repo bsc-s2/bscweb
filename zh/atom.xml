@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-02-15T15:11:51+08:00</updated>
+ <updated>2017-02-17T17:52:19+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,7 +18,7 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-29&quot;&gt;&lt;h5&gt;白山云科技获可信云服务认证&lt;/h5&gt;&lt;/a&gt;
@@ -34,7 +34,23 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-30&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-30&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-30&quot;&gt;&lt;h5&gt;“乐高式松耦合”架构实战&lt;/h5&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
+        &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;CSDN&lt;/li&gt;
+            &lt;li&gt;|&lt;/li&gt;
+            &lt;li&gt;2017-01-04&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-01&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-01&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-01&quot;&gt;&lt;h5&gt;白山：首创 “乐高式松耦合”架构&lt;/h5&gt;&lt;/a&gt;
@@ -50,7 +66,23 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-31&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;/zh/2017/01/20/news-31&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-31&quot;&gt;&lt;h5&gt;2016，我们的选择| CBNweekly年终特刊&lt;/h5&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;list-news-info&quot;&gt;
+        &lt;img src=&quot;/zh/public/image/news/logo_news.png&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;第一财经周刊&lt;/li&gt;
+            &lt;li&gt;|&lt;/li&gt;
+            &lt;li&gt;2016-11-26&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;list-news&quot;&gt;
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-02&quot;&gt;&lt;img src=&quot;/zh/public/image/news/02.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-02&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-02&quot;&gt;&lt;h5&gt;Embrace delivery, storage and linkage for a 'post-cloud era'&lt;/h5&gt;&lt;/a&gt;
@@ -66,7 +98,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-03&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-03&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-03&quot;&gt;&lt;h5&gt;从互联网+到“AI+”：中国互联网经济新动能&lt;/h5&gt;&lt;/a&gt;
@@ -82,7 +114,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-04&quot;&gt;&lt;img src=&quot;/zh/public/image/news/04.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-04&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-04&quot;&gt;&lt;h5&gt;管理技术人，更要学会沟通&lt;/h5&gt;&lt;/a&gt;
@@ -98,7 +130,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-05&quot;&gt;&lt;img src=&quot;/zh/public/image/news/05.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-05&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-05&quot;&gt;&lt;h5&gt;重构数据价值 云链网络共同体&lt;/h5&gt;&lt;/a&gt;
@@ -114,7 +146,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-06&quot;&gt;&lt;img src=&quot;/zh/public/image/news/06.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-06&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-06&quot;&gt;&lt;h5&gt;白山云科技：做阿里云们的第三方服务商&lt;/h5&gt;&lt;/a&gt;
@@ -130,7 +162,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-07&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-07&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-07&quot;&gt;&lt;h5&gt;白山云科技参加乌镇世界互联网大会，云链CCX成果发布&lt;/h5&gt;&lt;/a&gt;
@@ -146,7 +178,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-08&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-08&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-08&quot;&gt;&lt;h5&gt;技术是一碗青春饭?&lt;/h5&gt;&lt;/a&gt;
@@ -162,7 +194,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-09&quot;&gt;&lt;img src=&quot;/zh/public/image/news/09.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-09&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-09&quot;&gt;&lt;h5&gt;白山云科技CTO童剑:性能分析体系建设之路&lt;/h5&gt;&lt;/a&gt;
@@ -178,7 +210,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-10&quot;&gt;&lt;img src=&quot;/zh/public/image/news/10.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-10&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-10&quot;&gt;&lt;h5&gt;从巨轮掌舵人到联合舰队指挥官 ——访白山云科技CTO童剑&lt;/h5&gt;&lt;/a&gt;
@@ -194,7 +226,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-11&quot;&gt;&lt;img src=&quot;/zh/public/image/news/11.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-11&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-11&quot;&gt;&lt;h5&gt;双十一”高并发应对之道&lt;/h5&gt;&lt;/a&gt;
@@ -210,7 +242,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-12&quot;&gt;&lt;img src=&quot;/zh/public/image/news/12.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-12&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-12&quot;&gt;&lt;h5&gt;中国新市场14大肉搏战&lt;/h5&gt;&lt;/a&gt;
@@ -220,13 +252,13 @@
         &lt;ul&gt;
             &lt;li&gt;财富&lt;/li&gt;
             &lt;li&gt;|&lt;/li&gt;
-            &lt;li&gt;2016-8-30&lt;/li&gt;
+            &lt;li&gt;2016-08-30&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-13&quot;&gt;&lt;img src=&quot;/zh/public/image/news/13.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-13&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-13&quot;&gt;&lt;h5&gt;“互联网+金融”已成共识，但你可知API如何“点数成金”？&lt;/h5&gt;&lt;/a&gt;
@@ -242,7 +274,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-14&quot;&gt;&lt;img src=&quot;/zh/public/image/news/14.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-14&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-14&quot;&gt;&lt;h5&gt;白山云科技获过亿元B轮融资 深耕云链市场&lt;/h5&gt;&lt;/a&gt;
@@ -258,7 +290,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-15&quot;&gt;&lt;img src=&quot;/zh/public/image/news/15.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-15&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-15&quot;&gt;&lt;h5&gt;白山云科技发布云链新产品 专注热存储&lt;/h5&gt;&lt;/a&gt;
@@ -274,7 +306,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-16&quot;&gt;&lt;img src=&quot;/zh/public/image/news/16.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-16&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-16&quot;&gt;&lt;h5&gt;白山云科技CTO童剑：云分发行业很难出现巨头垄断&lt;/h5&gt;&lt;/a&gt;
@@ -290,7 +322,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-17&quot;&gt;&lt;img src=&quot;/zh/public/image/news/17.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-17&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-17&quot;&gt;&lt;h5&gt;原新浪研发总经理童剑加盟白山，出任CTO力推云链布局&lt;/h5&gt;&lt;/a&gt;
@@ -306,7 +338,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-18&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-18&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-18&quot;&gt;&lt;h5&gt;白山云科技:连“云”成团　数据生金&lt;/h5&gt;&lt;/a&gt;
@@ -322,7 +354,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-19&quot;&gt;&lt;img src=&quot;/zh/public/image/news/19.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-19&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-19&quot;&gt;&lt;h5&gt;白山亮相数博会 用“云链”激活大数据&lt;/h5&gt;&lt;/a&gt;
@@ -338,7 +370,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-20&quot;&gt;&lt;img src=&quot;/zh/public/image/news/20.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-20&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-20&quot;&gt;&lt;h5&gt;今天，这个星球上最聪明的一群小朋友是这样度过的…&lt;/h5&gt;&lt;/a&gt;
@@ -354,7 +386,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-21&quot;&gt;&lt;img src=&quot;/zh/public/image/news/21.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-21&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-21&quot;&gt;&lt;h5&gt;内容更新速度的边界能否突破？SHAQUE技术提供答案&lt;/h5&gt;&lt;/a&gt;
@@ -370,7 +402,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-22&quot;&gt;&lt;img src=&quot;/zh/public/image/news/22.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-22&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-22&quot;&gt;&lt;h5&gt;一封来自神秘东方，直抵西雅图的不二战书案&lt;/h5&gt;&lt;/a&gt;
@@ -386,7 +418,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-23&quot;&gt;&lt;img src=&quot;/zh/public/image/news/23.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-23&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-23&quot;&gt;&lt;h5&gt;运维服务进化论&lt;/h5&gt;&lt;/a&gt;
@@ -402,7 +434,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-24&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-24&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-24&quot;&gt;&lt;h5&gt;连获多项认证，白山为你做更好的自己&lt;/h5&gt;&lt;/a&gt;
@@ -418,7 +450,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-25&quot;&gt;&lt;img src=&quot;/zh/public/image/news/25.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-25&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-25&quot;&gt;&lt;h5&gt;创业是“冲动的理性”&lt;/h5&gt;&lt;/a&gt;
@@ -434,7 +466,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-26&quot;&gt;&lt;img src=&quot;/zh/public/image/news/26.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-26&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-26&quot;&gt;&lt;h5&gt;中国云加速 白山云科技在美设子公司&lt;/h5&gt;&lt;/a&gt;
@@ -450,7 +482,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-27&quot;&gt;&lt;img src=&quot;/zh/public/image/news/bg.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-27&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-27&quot;&gt;&lt;h5&gt;BaishanCloud founders inspired by a dream&lt;/h5&gt;&lt;/a&gt;
@@ -466,7 +498,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;list-news&quot;&gt;
-    &lt;div class=&quot;list-news-bg&quot;&gt;  
+    &lt;div class=&quot;list-news-bg&quot;&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;img src=&quot;/zh/public/image/news/28.jpg&quot;&gt;&lt;/a&gt;
         &lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;div class=&quot;list-news-masking&quot;&gt;&lt;/div&gt;&lt;/a&gt;
         &lt;a class=&quot;list-news-a&quot; href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;h5&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/h5&gt;&lt;/a&gt;
@@ -483,6 +515,467 @@
 
 &lt;div class=&quot;clean-news&quot;&gt;&lt;/div&gt;
 </content>
+ </entry>
+ 
+ <entry>
+   <title>News 31</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-31/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-31</id>
+   <content type="html">#2016，我们的选择| CBNweekly年终特刊
+
+这是《第一财经周刊》的第八次公司人年度大调查。
+
+今年我们问卷的核心是关于选择。这一方面是因为2016年全球经历了多次重大选择，另一方面也是因为365天中我们时刻要做出影响每个人生活满意度的小选择。
+
+有2276名公司人填写了《第一财经周刊》的2016年年度调查，其中942个人做出的重大决定与工作有关，另有137人买卖了房产，17个人生了第二个小孩，还有23个人选择了出柜。对
+![WechatIMG4.jpeg-88kB][1]
+![WechatIMG5.jpeg-107.5kB][2]
+![WechatIMG6.jpeg-80.3kB][3]
+![WechatIMG7.jpeg-69.9kB][4]
+![WechatIMG8.jpeg-55.1kB][5]
+![WechatIMG9.jpeg-91.9kB][6]
+![WechatIMG10.jpeg-294.2kB][7]
+
+有18名公司人跟我们分享了他们各自选择背后的故事，或许也是你的故事。
+![640.jpg-34.8kB][8]
+###周智杰/32岁/李奥贝纳/上海资深美术指导及创意组长
+
+####Q1: 你给自己的2016年打几分？
+满意，80-90分。
+
+####Q2: 今年你做出的最大选择是？
+工作上还是处于上升平稳阶段，生活上，2016年我选择开始健身。
+
+####Q3: 你花了多长时间做决定？
+早几年就有这个念头，但一直没动身。今年7月份做了这个决定，觉得有必要去锻炼一下。
+
+####Q4: 做选择时，你的态度是？
+最主要还是客观判断。
+
+####Q5: 请用关键词预测你的2017。
+探索。
+
+![1.jpg-28.7kB][9]
+###胡艳红/35岁/德勤/人力资源经理
+ 
+####Q1: 你给自己的2016年打几分？
+还行，70-80分。
+
+####Q2: 今年你做出的最大选择是？
+工作的变化，发生在十月份，我从单纯负责华东地区校园招聘，扩展到负责全国招聘。
+
+####Q3: 你花了多长时间做决定？
+这个决定有一部分是因为公司架构的调整，这是被动因素，而我个人也想把经验更好地发挥到新项目里，前后差不多用了一个月左右。
+
+####Q4: 做选择时，你的态度是？
+倾向于听从内心，偶尔也会听听别人的意见。
+
+####Q5: 请用关键词预测你的2017。
+学习和陪伴。
+
+![2.jpg-60.6kB][10]
+###陈婉/31岁/京东商城/服饰家居事业部国际品牌部 总经理
+
+####Q1: 你给自己的2016年打几分？
+满意，80-90分。
+
+####Q2: 今年你做出的最大选择是？
+去挑战了一个新的业务板块，尽管能出成绩的时间比较长，但我觉得到了一个职业发展阶段，应该从更大的方向去考虑。
+
+####Q3: 你花了多长时间做决定？
+做决定花了两个月。
+
+####Q4: 做选择时，你的态度是？
+听从内心和客观判断都很重要。
+
+####Q5: 请用关键词预测你的2017。
+进步和收获。
+![4.jpg-19.9kB][11]
+###刘渊/29岁/飞利浦/软件工程师
+
+####Q1: 你给自己的2016年打几分？
+满意，80-90分。
+
+####Q2: 今年你做出的最大选择是？
+买房，这是刚需。
+
+####Q3: 你花了多长时间做决定？
+年初开始看房，四月份买好。
+
+####Q4: 做选择时，你的态度是？
+听从内心。
+
+####Q5: 请用关键词预测你的2017。
+进步。
+![5.jpg-19.2kB][12]
+###王洁/32岁/保时捷/建筑设计师
+
+####Q1: 你给自己的2016年打几分？
+还行，70-80分。
+
+####Q2: 今年你做出的最大选择是？
+身份的转换，从之前为保时捷做设计的德国设计公司，加入到保时捷中国。
+
+####Q3: 你花了多长时间做决定？
+这是我一直的梦想，在2015年底发现有加入保时捷的可能，就开始准备了。准确地说是四个月。
+
+####Q4: 做选择时，你的态度是？
+首先是听从内心，也会和别人商量，但我不会因为别人的反对而做出改变。
+
+####Q5: 请用关键词预测你的2017。
+收获，2017年想要出版自己的绘本。
+![6.jpg-42.6kB][13]
+###李琦/31岁/小米/智能家居市场总监
+
+####Q1: 你给自己的2016年打几分？
+60分，刚刚及格。
+
+####Q2: 今年你做出的最大选择是？
+结婚。
+
+####Q3: 你花了多长时间做决定？
+两个月。
+
+####Q4: 做选择时，你的态度是？
+听从内心的判断。要有勇气，也要谨慎。
+
+####Q5: 请用关键词预测你的2017。
+改变。
+![7.jpg-47.3kB][14]
+###高元翎/35岁/奥美/上海公关副总监
+
+####Q1: 你给自己的2016年打几分？
+80-90分。
+
+####Q2: 今年你做出的最大选择是？
+继续待在奥美，并要求兼任CSR（企业社会责任）的工作。
+
+####Q3: 你花了多长时间做决定？
+在心里考虑了两年，从今年开始积极地推动这件事。
+
+####Q4: 做选择时，你的态度是？
+相信自己。
+
+####Q5: 请用关键词预测你的2017。
+继续做CSR，得到内心的平静。
+
+![8.jpg-41.2kB][15]
+###黄俊/31岁/网易/网易云音乐运营总监
+
+####Q1: 你给自己的2016年打几分？
+70分吧，无论是职业还是专业内容上还有很多提升空间。
+
+####Q2: 今年你做出的最大选择是？
+考虑是出国读书还是继续留在网易，最后选择了后者。
+
+####Q3: 你花了多长时间做决定？
+一两周。
+
+####Q4: 做选择时，你的态度是？
+遵从内心。
+
+####Q5: 请用关键词预测你的2017。
+正直、有理想地去工作和生活。
+![9.jpg-25.2kB][16]
+###鞠红/29岁/新美大/猫眼战略与投资总监
+
+####Q1: 你给自己的2016年打几分？
+70-80分。
+
+####Q2: 今年你做出的最大选择是？
+从大众点评的战略投资转到文化、泛娱乐领域，也是我自己比较喜欢的方向。
+
+####Q3: 你花了多长时间做决定？
+一周。
+
+####Q4: 做选择时，你的态度是？
+听从内心。
+
+####Q5: 请用关键词预测你的2017。
+挑战。希望能不断去尝试新的东西，挑战新领域或者更复杂的局面。
+![10.jpg-28.2kB][17]
+###季宇亭/31岁/安永/审计部高级经理
+
+####Q1: 你给自己的2016年打几分？
+70-80分。
+
+####Q2: 今年你做出的最大选择是？
+6月份生活工作上碰到一点瓶颈，当时就做了个决定，利用一周假期一个人到西藏去骑车了。
+
+####Q3: 你花了多长时间做决定？
+一周。没有任何犹豫。
+
+####Q4: 做选择时，你的态度是？
+客观判断。包括利弊、自己的状态、能力等等。
+
+####Q5: 请用关键词预测你的2017。
+挑战。不管是工作还是生活，都有很多选择在前面。
+![11.jpg-27.5kB][18]
+###龚佳斌/32岁/Sonos/品牌总监
+
+####Q1: 你给自己的2016年打几分？
+90分。
+
+####Q2: 今年你做出的最大选择是？
+从美国搬回国内，离开了原来待了7年多的500强公司，换行业去了新公司。
+
+####Q3: 你花了多长时间做决定？
+3到4个月。
+
+####Q4: 做选择时，你的态度是？
+客观判断。
+
+####Q5: 请用关键词预测你的2017。
+冲浪。2017年我要站起来，在浪上做各种动作，转弯、跳跃。
+![12.jpg-40.5kB][19]
+###林杨/28岁/优酷/产品经理
+
+####Q1: 你给自己的2016年打几分？
+70分。
+
+####Q2: 今年你做出的最大选择是？
+在北京按揭买了房子。
+
+####Q3: 你花了多长时间做决定？
+一个晚上。
+
+####Q4: 做选择时，你的态度是？
+往后看，要看长远的影响。
+
+####Q5: 请用关键词预测你的2017。
+学习，这是一辈子的事。
+![13.jpg-34.3kB][20]
+###雷丹/34岁/陌陌/视频总监
+
+####Q1: 你给自己的2016年打几分？
+75分，整体有惊无险。
+
+####Q2: 今年你做出的最大选择是？
+在北京买房子。
+
+####Q3: 你花了多长时间做决定？
+看到政策调整之后马上决定的。
+
+####Q4: 做选择时，你的态度是？
+做决定前要有充分的准备和铺垫，不任性，要务实。
+
+####Q5: 请用关键词预测你的2017。
+健康，一定要善于管理自己的身体。
+![14.jpg-23.5kB][21]
+###项赢莹/29岁/IDEO/商业设计师
+
+####Q1: 你给自己的2016年打几分？
+80分。
+
+####Q2: 今年你做出的最大选择是？
+接手了耗时一年的大项目，让我找到了自己真正擅长的事情。
+
+####Q3: 你花了多长时间做决定？
+两个月。
+
+####Q4: 做选择时，你的态度是？
+往长远看，没有错的选择，每个选择都会带来不一样的历练。
+
+####Q5: 请用关键词预测你的2017。
+更健康，更随心。
+![15.jpg-58.6kB][22]
+###骆俊澎/35岁/爱奇艺/内容营销总监
+
+####Q1: 你给自己的2016年打几分？
+75分。
+
+####Q2: 今年你做出的最大选择是？
+生活方式更规律更健康了，每周健身3至4次。
+
+####Q3: 你花了多长时间做决定？
+被朋友的日常健身计划刺激，马上做出决定。
+
+####Q4: 做选择时，你的态度是？
+果断、坚决，犹豫往往会错失机会。
+
+####Q5: 请用关键词预测你的2017。
+希望一切顺利，并能够有更好的变化。
+![16.jpg-29.8kB][23]
+###王康/36岁/白山云科技/产品副总裁
+
+####Q1: 你给自己的2016年打几分？
+70分。没有完美，只有更好，所以分数从90分算起。减掉两个10分：工作可以更优化；我是天秤座的，觉得应该更好地平衡工作和家庭。
+
+####Q2: 今年你做出的最大选择是？
+公司研发部门扩张之后，决定依旧不采用KPI制度，全公司用“无制度管理”模式。
+
+####Q3: 你花了多长时间做上述决定？
+一个月。
+
+####Q4: 做选择时，你的态度是？
+跳出来，放到一生的高度来看这个选择，看它跟自己长远规划是否匹配，这时候会看得更清楚。
+
+####Q5: 请用关键词预测你的2017。
+水到渠成和爆发。明年我们的积累可能会给行业带来新变化，公司业务也会有大的爆发。
+![17.jpg-25.6kB][24]
+###张雅楠/27岁/印象笔记/商务经理 
+
+####Q1、你给自己的2016打几分？
+满意，80-90。
+
+####Q2: 今年你做出的最大选择是？
+换了新工作。
+
+####Q3: 你花了多长时间做决定？
+一周之内。
+
+####Q4: 做选择时，你的态度是？
+客观判断
+
+####Q5: 请用关键词预测你的2017。
+突破。
+![18.jpg-54.3kB][25]
+
+这一年，如你所经历的，选择带领我们见证了时代高潮，选择也成为我们的生活常态。选择有技术性可言吗？我们想把丹麦哲学家索伦·克尔凯郭尔的观点送给大家：对于“如何选择”的回答，首先就是“去选择”。
+
+时光流逝，愿我们不负时光。
+
+
+  [1]: http://static.zybuluo.com/bsc-jane/lhualwr7thyehyzubl00r8bg/WechatIMG4.jpeg
+  [2]: http://static.zybuluo.com/bsc-jane/r4gn2ttunsxn9gr1tw9ixcu9/WechatIMG5.jpeg
+  [3]: http://static.zybuluo.com/bsc-jane/8zndgmi77wj51284xm7z52vl/WechatIMG6.jpeg
+  [4]: http://static.zybuluo.com/bsc-jane/6hd9h2n3od007zc94gfbxigd/WechatIMG7.jpeg
+  [5]: http://static.zybuluo.com/bsc-jane/fufhpz5kr2gzpap37b7nfx6r/WechatIMG8.jpeg
+  [6]: http://static.zybuluo.com/bsc-jane/77c3zethu5tl1bzrhsmyxtw3/WechatIMG9.jpeg
+  [7]: http://static.zybuluo.com/bsc-jane/myn0hgmb674plhsi90cjdb6a/WechatIMG10.jpeg
+  [8]: http://static.zybuluo.com/bsc-jane/czrsj3vd0kdcpj1sgegy4sg4/640.jpg
+  [9]: http://static.zybuluo.com/bsc-jane/3futvpixg80chmqb9z5n1v1i/1.jpg
+  [10]: http://static.zybuluo.com/bsc-jane/d83bcpp3cmpi7r5gccqpijg2/2.jpg
+  [11]: http://static.zybuluo.com/bsc-jane/7sgu16l3yv58o3vo6x1rheab/4.jpg
+  [12]: http://static.zybuluo.com/bsc-jane/56xdllvfu6ye48x6gekwo14s/5.jpg
+  [13]: http://static.zybuluo.com/bsc-jane/oblw92vlq9vebl5e7k1p2fav/6.jpg
+  [14]: http://static.zybuluo.com/bsc-jane/m1h8uio2fy0vxwx4rde07q9j/7.jpg
+  [15]: http://static.zybuluo.com/bsc-jane/5plb01yzpub0dqbdmbv9xdj9/8.jpg
+  [16]: http://static.zybuluo.com/bsc-jane/ex9sjpa9ce2mv5awr13ljswf/9.jpg
+  [17]: http://static.zybuluo.com/bsc-jane/54lgvf94fdhvnxhk80hsjpj9/10.jpg
+  [18]: http://static.zybuluo.com/bsc-jane/01vayl0w9k2owq55jootu4p2/11.jpg
+  [19]: http://static.zybuluo.com/bsc-jane/h6a5j0w9gzg1fdbdpqsmd0ea/12.jpg
+  [20]: http://static.zybuluo.com/bsc-jane/fw29oqae1hwackdjrc3crujt/13.jpg
+  [21]: http://static.zybuluo.com/bsc-jane/43pti0mu4lhvsu9a3x0sztxw/14.jpg
+  [22]: http://static.zybuluo.com/bsc-jane/1bep64usuz10zoq2zsmgv75r/15.jpg
+  [23]: http://static.zybuluo.com/bsc-jane/df6d4zj8ruvuqij5k3jvve8y/16.jpg
+  [24]: http://static.zybuluo.com/bsc-jane/of5l3j15u9e0vmux16pej60z/17.jpg
+  [25]: http://static.zybuluo.com/bsc-jane/8axdvgn3ssohjifqdgn0w1hb/18.jpg</content>
+ </entry>
+ 
+ <entry>
+   <title>News 30</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-30/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-30</id>
+   <content type="html">##“乐高式松耦合”架构实战
+
+![640.jpeg-15.7kB][1]
+王康
+白山联合创始人兼产品副总裁
+
+&gt;王康主要负责产品的完善与升级、产品开发流程把控及进度协调、产品设计改进及定期优化、产品全生命周期管理等工作。他带领团队实现白山首款产品CDN-X的多项创新，降低CDN使用门槛，极大拓展了CDN客户资源，提升了白山品牌价值，促进整体CDN市场的扩大与发展。
+
+&gt;王康曾就职于网宿科技，任该公司产品及售前高级总监，负责技术团队的运营工作；拥有10年CDN行业经验，专注于提高产品输出的高质量和高可靠性。
+王康拥有三项发明专利。
+
+现在很多公司都在做松耦合，因为随着业务发展、需求增加，紧耦合系统的问题会慢慢凸显，并日益加剧。
+
+以云分发行业为例，其属性在逐渐发生变化。过去，极少人产生内容，绝大多数人消费内容，云分发主要以下行流量为主，而随着全民直播的兴起，云分发变成了云交互；物联网的发展使物与物的数据交流成为主要方式，例如智能家居每天会产生上千条数据，但其中只有几条会被消费；VR爆发，用户产生的数据逐渐会从图片、视频转变为VR内容；基于此我们可以预料到上行流量将逐步增加，并逐渐超过下行流量，成为基础网络架构的巨大挑战。
+
+用户需求与网络基础环境的快速变化，使得我们需要越来越快的实现需求，然而紧耦合系统却为研发带来诸多困难，使功能实现越来越耗费精力与时间，所以在白山创立之初就决定做“乐高式松耦合”架构，来构建整个产品体系，像搭积木一般灵活自如。
+ 
+#传统难点
+###1需求堆积，收敛周期长
+很多创业公司在成立之初采用野蛮生长的模式，原则是越快越好。紧耦合架构可以很好的满足这些要求，他们可以快速的建立CMDB与资源管理平台，并配置自动化、portal、监控等功能。但随着功能增多与需求开发的增加，这个系统逐渐变为一盘散沙。当有新需求发生时，他们需要为其做很多硬编码动作，收敛周期越来越长。
+
+###2&quot;老中医&quot;资源的浪费
+在紧耦合系统中，看似一个没有什么关系的小改动，极有可能会引起一个重大bug；为防止错误发生，只能将系统设计的越来越复杂。例如为防止客户端挂掉，研发通常会为其添加一个守护进程；当守护进程不稳定时，新入职的研发常用的解决方案是再添加一个守护进程，这就导致了系统越来越臃肿。
+
+这时候，公司往往就需要经验丰富、了解系统整体情况的“老中医”才能对平台进行改造。而作为核心资产的“老中医”在忙于救火、进行技术攻坚，很难抽出时间来进行系统重构。
+ 
+# &quot;乐高式松耦合&quot;架构落地
+
+快速实现需求与需求实现越来越慢的矛盾如何解决？最终白山的产品架构聚焦在解耦上，方便平台快速迭代，减少系统间依赖程度，打通无关联项目，为运营互动提供高效支持，确保服务质量。
+###1第一层松耦合架构
+以白山云分发CDN-X系统为例，其根本核心是运营。为使运营支撑系统通过解耦让公司的研发、运营灵活运转，需要进行第一层抽象。将运营支撑系统抽象为5个组件，包括：客户管理类、账单信息类、资源管理、运营监控和配置管理。并对这5个组件进行画像，确定边界、输入输出，按照运营场景描述用户场景。
+
+几个组件之间通过消息总线交互指令，通过标准的reset接口交互数据；同时将5个组件投入到实际开发中，按照不同类型做实例化。
+![640-2.jpeg-20.7kB][2]
+$$第一层松耦合架构$$
+
+###2第二层松耦合架构
+做完第一层解耦之后，我们发现第二层还可以继续做抽象。以配置管理系统为例，又可抽象出4部分。
+
+i. 生成配置：主要负责配置的生成以及配置到git仓库；
+ii. 分发控制：管理灰度发布过程；
+iii. 执行分发：分发收到的指令，并通过一些工具（如：salt、ansible、http get）汇报给上面的组件；
+iv. 执行测试：调用已经写好的测试用例仓库测试这一次配置分发过程的最后效果。
+
+![640-3.jpeg-23.4kB][3]
+$$第二层松耦合架构$$
+运营支撑系统中的各个组件都可以一直抽象下去，抽象概念贯穿整个设计平台的始末。
+
+核心组件设计时再经过进一步抽象成工厂模式或单例模式，形成针对不同特性服务及场景，只需编写极小的落地代码即可获得整个运营支撑服务的可插拔架构。
+###3建设原则
+
+####i. 组件即服务
+
+研发中人人都是架构师，收到研发需求后不是研究输入输出与边界，而是了解业务。根据情况输出需求文档，并与业务方进行确认，按照需求设计架构。每一个组件，不再是功能，而是服务，有自己的服务对象；研发人员从最初的对代码质量、输入输出负责，发展为对服务质量负责。
+
+####ii. 时间组件化
+
+在最初设计过程中，我们发现，很多运营中的动作称不上是平台上的动作，而是由事件组成。如果这些事件通过自动化来完成，就需要投入大量的精力。
+
+以节点上架自动化为例：包括自动化扫描端口、监控、安装、配置下发管理，甚至可以将自动化加入当前系统平台为用户提供服务。组件自动后，如果包装成事件，将浪费不必要的人力成本。
+
+如果将事件组件化，运维管理人员则可以在平台上方便的拖拽、引用、规范组件，通过拖拽、配置工作实现整体自动化。
+
+####iii. 数据聚合管理系统
+
+数据往往是运营中的判断标志，通过数据与数据间的关系来组建成组件。由于数据源之间的API不同，会导致花费过长的时间来对接API。我们将机房质量、监控负载、慢速比、卡顿率等数据进行整理，部分进行二次转化，通过统一的接口调用，做成一个数据聚合管理系统。
+ 
+&gt;实例分享－节点自动上线
+
+![640-4.jpeg-18.2kB][4]
+
+$$运维完成过程$$
+
+这个过程中运维人员完成了很多组件，如：配置管理、内部测试以及外部测试、入覆盖地区等；随后引入多种数据源进行追踪。事件模版完成后只需运维人员选择需上架的节点及其覆盖方案与地区，其余过程均有系统自动化完成。
+
+此模版还可以根据需要不断修改，例如：丢包率组件等可以随时加入，不会影响业务的进行。
+
+很多公司也在做同样的事件管理系统，不同的是其管理的是动作；而我们发现往往动作完成后还需要进行人工跟踪。鉴于此我们将事件做成一个完整的生命周期，同时引入数据源来跟踪异常服务状态码。
+
+这个事件的完成过程中运维人员所需的操作已经从写脚本、人肉分析，简化为在模版上拖拽、引用组件，根据经验设置阀值，甚至使用其他的事件模版来完成事件。
+   
+#松耦合需要坚持的细节
+###1保持简单
+随着时间的推移与功能的不断增加，系统必然会出现复杂性，而这种复杂性很多是由我们自身操作导致的，如上文提到的“守护进程”的例子，当使用复杂方案解决问题时往往会导致系统的臃肿。如果保证系统具备容错能力，组件运营不正常时系统可以自动修复，这个问题就会简化。
+
+以消息管理机制为例，强消息管理机制要求确认消息确实可以被每台设备收到并执行。我们对此进行了改善，使消息病毒式传播，每台设备可以向周围5-6台设备发出消息，即便中间有一次失败，还会有其他设备再次向这台设备传输。这样的容错能力保证了系统可以简单地自动实现强研发、强跟踪等功能。
+
+###2在平台的基础上构建应用程序
+例如在大数据平台上构建应用，研发人员在开发组件时无需考虑数据库的设计以及瓶颈优化问题，只需要对接数据聚合平台，大幅提高研发效率。
+###3不断迭代
+以Facebook为例，目前每秒可以处理12亿张图片；而其第一版系统只能允许用户上传图片，并将其保存在数据库中，该系统只存续3个月；随着活跃用户的增加，其后端压力不断增加，于是将存储改为二进制存储方式；Facebook的每一次迭代都不是为了某一特定目标，而是为了解决业务上的痛苦。
+
+所以最开始做开发时，我们只需要考虑需求与业务，设计足够简单的方案，再进行不断迭代以满足新增需求。
+   
+#带来的变化
+###1快捷引入新特性
+我们使用P2P消息管理机制结合收敛算法，将文件删除由5分钟改进至0.7秒，我们对系统没有进行大范围改变，只是替换了其中的消息机制，利用当前基础的通讯机制和基础数据，过去所做的优化与UI仍可以继续使用。引用这些新特性时保持轻量级，对其他组件几乎没有影响。
+###2开发效率高
+例如游戏交互过程中的数字包交互，业内公认很难做到。目前我们正在进行尝试，我们引入开源的TCP代理软件，并规划新的应用服务类型，软件按指定好的打包方式放在指定位置，就可以实现软件的自动发布，同时调用其他组件接口对新业务进行监控，编写配置生成逻辑实现业务配置自动化。只需要编写非常轻量级的落地代码，整个组件落地之后就可以服务运营。
+###3运维自动化提高
+在问题定位时，如果人工跟踪一般是“是与否选择”的串行计算，而在事件管理系统中，则进行并行计算，即：调用监控系统，判断节点是否正常；调用第三方数据进行及时测试，判断节点当前服务是否正常；调用客户App数据验证服务质量；使用ELK系统分析日志，精准、快速的定位问题，分析时间由10分钟大幅度缩减为3分钟。
+
+
+  [1]: http://static.zybuluo.com/bsc-jane/fdodthro0qam05bm0jzdwce2/640.jpeg
+  [2]: http://static.zybuluo.com/bsc-jane/eko3m7xydp11bpw8tr76uz92/640-2.jpeg
+  [3]: http://static.zybuluo.com/bsc-jane/5hn6ylcf7rsi39wb09qjcybg/640-3.jpeg
+  [4]: http://static.zybuluo.com/bsc-jane/dc5tcxftyynuz860gnul1cow/640-4.jpeg</content>
  </entry>
  
  <entry>
@@ -3419,7 +3912,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job017&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责/参与公司运营支撑体系的架构与开发；&lt;/p&gt;
@@ -3460,7 +3953,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job018&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&amp;北京&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责流媒体产品线的核心架构设计、开发和维护；&lt;/p&gt;
@@ -3499,7 +3992,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job019&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&amp;北京&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责云节点安全、web安全、操作系统安全、硬件安全等立体安全体系的规划和实施；&lt;/p&gt;
@@ -3540,7 +4033,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job020&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责公司核心平台的运维；&lt;/p&gt;
@@ -3579,7 +4072,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job021&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责Android / IOS 视频播放器及SDK 的设计与开发；&lt;/p&gt;
@@ -3619,7 +4112,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job117&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 贵安&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、参与公司专利规划的设计及技术专利方向的挖掘；&lt;/p&gt;
@@ -3654,7 +4147,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job118&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&amp;厦门&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、 负责公司相关岗位的招聘计划设计并推进招聘实施落地；&lt;/p&gt;
@@ -3689,7 +4182,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job119&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 贵安&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责银行账户维护，登记现金、银行存款日记帐，并做到日清月结；&lt;/p&gt;
@@ -3726,7 +4219,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job120&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、负责客户资源拓展与客户线索挖掘；&lt;/p&gt;
@@ -3763,7 +4256,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job121&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;负责对接销售与研发，挖掘客户核心需求，跟踪客户服务质量，在导师的指导下独立完成客户服务质量的优化方案设计与实施。&lt;/p&gt;
@@ -3796,7 +4289,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job121&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;1、梳理来自客户与公司内部的业务需求，并推进研发实现；&lt;/p&gt;
@@ -3833,7 +4326,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job122&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&amp;贵安&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;负责公司核心平台的运维，参与运维相关工具及系统的开发，推动产品架构设计与改进优化，在导师的指导下独立完成相关系统的设计与开发。&lt;/p&gt;
@@ -3866,7 +4359,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job123&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;参与公司面向用户的新产品的功能设计与开发，支持从台式电脑客户端到移动设备的功能设计与开发，在导师的指导下独立完成系统功能设计和开发。&lt;/p&gt;
@@ -3899,7 +4392,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job124&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;参与公司运营支撑系统的架构与开发，在导师的指导下独立完成系统功能设计和开发。&lt;/p&gt;
@@ -3932,7 +4425,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;span class=&quot;pull-right fs16&quot;&gt;2016-10-12&lt;/span&gt;
                             &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                             &lt;div id=&quot;job125&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                                &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&amp;厦门&lt;/p&gt;
                                 &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                                 
                                 &lt;p&gt;参与公司核心系统的设计、全网规划与布局，在导师的指导下独立完成系统功能设计和开发。&lt;/p&gt;

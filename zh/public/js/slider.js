@@ -1,69 +1,62 @@
 (function($) {
-    var configObj = { btnFocusStyle: 'slider_button_hover', speed: 3000 };
-    var clearTime = null;
-    var $index = 0;
-    var $qianindex = 0;
+    var defaultConfig = { btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 };
+    var myTimer = null;
+    var index = 0;
+    var preIndex = 0;
     var btnObj = {};
 
     function scrollPlay(sliderBox) {
-        btnObj.eq($index).addClass(configObj.btnFocusStyle).siblings().removeClass(configObj.btnFocusStyle);
-        var preObj = sliderBox.find('.slider').eq($qianindex);
-        var indexObj = sliderBox.find('.slider').eq($index);
-        if ($index > $qianindex) {
-            primarySlideAnimate(preObj, indexObj, true);
-        } else {
-            primarySlideAnimate(preObj, indexObj, false);
+        if (index == preIndex) {
+            return;
         }
+        var mybtnFocusStyle = sliderBox.config.btnFocusStyle;
+        btnObj.eq(index).addClass(mybtnFocusStyle).siblings().removeClass(mybtnFocusStyle);
+        var sliders = sliderBox.find('.slider');
+        var preObj = sliders.eq(preIndex);
+        var indexObj = sliders.eq(index);
+
+        var leftValue = 100;
+        if (index < preIndex) {
+            leftValue *= -1;
+        }
+        preObj.stop(true, true).animate({ 'left': (-1) * leftValue + '%' });
+        indexObj.css('left', leftValue + '%').stop(true, true).animate({ 'left': '0%' });
     }
 
-    function primarySlideAnimate(preObj, indexObj, direction) {
-        var leftValue = '100%';
-        var leftValueNegative = '-100%';
-        if (direction) {
-            leftValue = '100%';
-            leftValueNegative = '-100%';
-        } else {
-            leftValue = '-100%';
-            leftValueNegative = '100%';
-        }
-        preObj.stop(true, true).animate({ 'left': leftValueNegative });
-        indexObj.css('left', leftValue).stop(true, true).animate({ 'left': '0%' });
+    function startTimer(sliderBox) {
+        var picNum = sliderBox.find('.slider').length - 1;
+        myTimer = setInterval(function() {
+            index++;
+            if (index > picNum) {
+                index = 0;
+            }
+            scrollPlay(sliderBox);
+            preIndex = index;
+        }, sliderBox.config.residenceTime);
     }
 
     function autoPlay(sliderBox) {
         btnObj = sliderBox.next('div.slider-btn').find("ul li");
-        var picNum = sliderBox.find('.slider').length - 1;
-
-        function setTime() {
-            clearTime = setInterval(function() {
-
-                $index++;
-                if ($index > picNum) {
-                    $index = 0;
-                }
-                scrollPlay(sliderBox);
-                $qianindex = $index;
-            }, configObj.speed);
-        }
 
         btnObj.click(function() {
-            clearInterval(clearTime);
-            $index = $(this).index();
-            if ($index != $qianindex) {
+            clearInterval(myTimer);
+            index = $(this).index();
+            if (index != preIndex) {
                 scrollPlay(sliderBox);
-                $qianindex = $index;
+                preIndex = index;
             }
-            setTime();
+            startTimer(sliderBox);
         });
-
-        setTime();
+        startTimer(sliderBox);
     }
 
     $.fn.sliderPlay = function(myConfig) {
+        var a = $(this);
+        a.config = defaultConfig;
         if (myConfig && typeof myConfig === "object") {
-            $.extend(configObj, myConfig);
+            a.config = $.extend({}, defaultConfig, myConfig);
         }
-        autoPlay($(this));
+        autoPlay(a);
         return this;
     };
 })(jQuery);

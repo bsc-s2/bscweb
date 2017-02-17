@@ -1,4 +1,5 @@
 - id: job017
+  col: 1
   jobTitle: PHP研发工程师
   hot: hot
   time: 2016-07-27
@@ -15,6 +16,7 @@
   - 5、之前有大规模网站开发经验，对php+mysql+css+js的开发具备经验者优先；
   - 6、有UI/UE设计/开发经验者优先。
 - id: job018
+  col: 2
   jobTitle: 流媒体研发工程师
   hot: new
   time: 2016-07-27
@@ -30,6 +32,7 @@
   - 4、除C/C++外，至少熟练掌握shell、Python、Ruby、Go等1种编程语言；
   - 5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。
 - id: job019
+  col: 3
   jobTitle: 安全工程师
   hot: new
   time: 2016-07-27
@@ -46,6 +49,7 @@
   - 5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。
   - 网申链接：http://www.baishancloud.com/
 - id: job020
+  col: 1
   jobTitle: 流媒体研发运维工程师
   hot: new
   time: 2016-07-27
@@ -61,6 +65,7 @@
   - 4、具备很强的分析和解决问题的能力，对于攻关疑难问题具有强烈的兴趣；
   - 5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。
 - id: job021
+  col: 2
   jobTitle: 直播客户端开发岗
   hot: new
   time: 2016-07-27

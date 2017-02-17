@@ -1,4 +1,5 @@
 - id: job117
+  col: 1
   jobTitle: 知识产权专员
   hot: hot
   time: 2016-10-12
@@ -14,6 +15,7 @@
   - 4、具有敏锐的分析能力。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006037%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job118
+  col: 2
   jobTitle: 人事行政专员
   hot: hot
   time: 2016-10-12
@@ -29,6 +31,7 @@
   - 4、具有积极向上的热情与稳定的情绪管理能力。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006035%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job119
+  col: 3
   jobTitle: 会计助理
   hot: hot
   time: 2016-10-12
@@ -45,6 +48,7 @@
   - 4、具有积极向上的热情与稳定的情绪管理能力。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006036%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job120
+  col: 1
   jobTitle: 销售经理
   hot: hot
   time: 2016-10-12
@@ -61,6 +65,7 @@
   - 5、强大的内心动力，积极，乐观，自信，勇于追求，战无不胜的精神。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006034%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job121
+  col: 2
   jobTitle: 售前工程师
   hot: hot
   time: 2016-10-12
@@ -75,6 +80,7 @@
   - 5、超快的应急反应与解决客户问题的能力。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006031%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job121
+  col: 3
   jobTitle: 产品经理
   hot: hot
   time: 2016-10-12
@@ -91,6 +97,7 @@
   - 5、优秀的沟通和协调能力。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006033%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job122
+  col: 1
   jobTitle: 研发运维工程师
   hot: hot
   time: 2016-10-12
@@ -105,6 +112,7 @@
   - 5、较好的团队协作及沟通能力。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006030%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job123
+  col: 2
   jobTitle: 前端研发工程师
   hot: hot
   time: 2016-10-12
@@ -119,6 +127,7 @@
   - 5、善于学习和思考，勤于动手，不怕繁琐，注重客户体验。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006028%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job124
+  col: 3
   jobTitle: web研发工程师
   hot: hot
   time: 2016-10-12
@@ -133,6 +142,7 @@
   - 5、善于学习和思考，勤于动手，不怕繁琐，重视流程规范。
   applicationURL: http://www.dajie.com/account/login?redir=http%3A%2F%2Fcts.dajie.com%2Fcts%2Fwish%2FapplyPage%3FjobId%3D9005100100000006029%26isCanTalent%3D%26isApplyNew%3Dfalse
 - id: job125
+  col: 1
   jobTitle: 系统研发工程师
   hot: hot
   time: 2016-10-12

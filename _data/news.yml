@@ -1,13 +1,25 @@
+
+
 - url: 2017/01/20/news-29
   bg_img: bg.jpg
   title: 白山云科技获可信云服务认证 
   source: 网易
   time: 2017-02-13
+- url: 2017/01/20/news-30
+  bg_img: bg.jpg
+  title: “乐高式松耦合”架构实战
+  source: CSDN
+  time: 2017-01-04
 - url: 2017/01/20/news-01
   bg_img: bg.jpg
   title: 白山：首创 “乐高式松耦合”架构
   source: 至顶网
   time: 2016-12-01
+- url: 2017/01/20/news-31
+  bg_img: bg.jpg
+  title: 2016，我们的选择| CBNweekly年终特刊
+  source: 第一财经周刊
+  time: 2016-11-26
 - url: 2017/01/20/news-02
   bg_img: 02.jpg
   title: Embrace delivery, storage and linkage for a 'post-cloud era'
@@ -62,7 +74,7 @@
   bg_img: 12.jpg
   title: 中国新市场14大肉搏战 
   source: 财富
-  time: 2016-8-30
+  time: 2016-08-30
 - url: 2017/01/20/news-13
   bg_img: 13.jpg
   title: “互联网+金融”已成共识，但你可知API如何“点数成金”？

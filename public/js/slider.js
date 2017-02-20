@@ -27,10 +27,7 @@
             var self = this;
             var picNum = this.sliderBox.find("div.slider").length - 1;
             this.timer = setInterval(function() {
-                self.index++;
-                if (self.index > picNum) {
-                    self.index = 0;
-                }
+                self.index = (self.index + 1) % picNum;
                 self.scrollPlay();
                 self.preIndex = self.index;
             }, this.config.residenceTime);

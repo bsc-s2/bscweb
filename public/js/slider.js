@@ -25,7 +25,7 @@
     slider.prototype = {
         startTimer: function() {
             var self = this;
-            var picNum = this.sliderBox.find("div.slider").length - 1;
+            var picNum = this.sliderBox.find("div.slider").length;
             this.timer = setInterval(function() {
                 self.index = (self.index + 1) % picNum;
                 self.scrollPlay();

@@ -1,54 +1,60 @@
 (function($) {
-    var defaultConfig = { btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 };
-    var myTimer = null;
-    var index = 0;
-    var preIndex = 0;
-    var btnObj = {};
+    var defaultConfig = { btnFocusStyle: 'overview-button-hover', residenceTime: 3000 };
 
-    function scrollPlay(sliderBox) {
-        if (index == preIndex) {
-            return;
-        }
-        var mybtnFocusStyle = sliderBox.config.btnFocusStyle;
-        btnObj.eq(index).addClass(mybtnFocusStyle).siblings().removeClass(mybtnFocusStyle);
-        var sliders = sliderBox.find('.slider');
-        var preObj = sliders.eq(preIndex);
-        var indexObj = sliders.eq(index);
+    var slider = function(sliderBox) {
+        var self = this;
+        this.sliderBox = sliderBox;
+        this.config = sliderBox.config;
+        this.index = 0;
+        this.preIndex = 0;
 
-        var leftValue = 100;
-        if (index < preIndex) {
-            leftValue *= -1;
-        }
-        preObj.stop(true, true).animate({ 'left': (-1) * leftValue + '%' });
-        indexObj.css('left', leftValue + '%').stop(true, true).animate({ 'left': '0%' });
-    }
-
-    function startTimer(sliderBox) {
-        var picNum = sliderBox.find('.slider').length - 1;
-        myTimer = setInterval(function() {
-            index++;
-            if (index > picNum) {
-                index = 0;
+        this.btnObjs = this.sliderBox.next('div.slider-btn').find("ul li");
+        this.btnObjs.click(function() {
+            clearInterval(self.timer);
+            self.index = $(this).index();
+            if (self.index != self.preIndex) {
+                self.scrollPlay();
+                self.preIndex = self.index;
             }
-            scrollPlay(sliderBox);
-            preIndex = index;
-        }, sliderBox.config.residenceTime);
-    }
-
-    function autoPlay(sliderBox) {
-        btnObj = sliderBox.next('div.slider-btn').find("ul li");
-
-        btnObj.click(function() {
-            clearInterval(myTimer);
-            index = $(this).index();
-            if (index != preIndex) {
-                scrollPlay(sliderBox);
-                preIndex = index;
-            }
-            startTimer(sliderBox);
+            self.startTimer();
         });
-        startTimer(sliderBox);
-    }
+
+        this.startTimer();
+    };
+
+    slider.prototype = {
+        startTimer: function() {
+            var self = this;
+            var picNum = this.sliderBox.find("div.slider").length - 1;
+            this.timer = setInterval(function() {
+                self.index++;
+                if (self.index > picNum) {
+                    self.index = 0;
+                }
+                self.scrollPlay();
+                self.preIndex = self.index;
+            }, this.config.residenceTime);
+        },
+        scrollPlay: function() {
+            var index = this.index;
+            var preIndex = this.preIndex;
+            if (index == preIndex) {
+                return;
+            }
+
+            var mybtnFocusStyle = this.config.btnFocusStyle;
+            this.btnObjs.eq(index).addClass(mybtnFocusStyle).siblings().removeClass(mybtnFocusStyle);
+            var sliders = this.sliderBox.find('.slider');
+            var preObj = sliders.eq(preIndex);
+            var indexObj = sliders.eq(index);
+            var leftValue = 100;
+            if (index < preIndex) {
+                leftValue *= -1;
+            }
+            preObj.stop(true, true).animate({ 'left': leftValue * (-1) + '%' });
+            indexObj.css('left', leftValue + '%').stop(true, true).animate({ 'left': '0%' });
+        }
+    };
 
     $.fn.sliderPlay = function(myConfig) {
         var a = $(this);
@@ -56,7 +62,7 @@
         if (myConfig && typeof myConfig === "object") {
             a.config = $.extend({}, defaultConfig, myConfig);
         }
-        autoPlay(a);
+        myslider = new slider(a);
         return this;
     };
 })(jQuery);

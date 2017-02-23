@@ -11,7 +11,7 @@
 @media (max-width:767px) {
     .list-content {
         margin: 10px auto;
-        min-width: 500px;
+        /*min-width: 500px;*/
         text-align: left;
         width: 80%
     }
@@ -331,12 +331,24 @@
 }
 
 .list-brief {
-    margin: 140px 100px 10px;
+    margin: 50px 100px 10px;
+}
+
+@media (min-width:768px) {
+    .list-brief {
+        margin: 50px 100px 10px;
+    }
+}
+
+@media (max-width:767px) {
+    .list-brief {
+        margin: 50px 0 10px;
+    }
 }
 
 .list-brief h3 {
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 30px;
+    line-height: 50px;
 }
 
 .list-brief h4 {

@@ -289,7 +289,12 @@ li.press-brief {
     min-height: -moz-calc(100% - 107px - 2em);
     /*chrome safari*/
     min-height: -webkit-calc(100% - 107px - 2em);
-    margin: 0 0 0 14rem;
+}
+
+@media (min-width:768px) {
+    .post {
+        margin: 0 0 0 14rem;
+    }
 }
 
 .post-content {
@@ -678,4 +683,8 @@ a.image-link {
 
 .pad0 {
     padding: 0 !important;
+}
+
+.img-full {
+    width: 100%;
 }

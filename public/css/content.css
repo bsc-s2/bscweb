@@ -203,10 +203,11 @@
     margin-bottom: 400px;
 }
 
-.ccx-h {
+
+/*.ccx-h {
     position: relative;
     left: 10%;
-}
+}*/
 
 .ccx-h h2 {
     font-size: 38px;
@@ -388,7 +389,7 @@
 }
 
 .list-brief {
-    margin: 140px 25% 10px 25%;
+    margin: 140px 100px 10px;
 }
 
 .list-brief h3 {

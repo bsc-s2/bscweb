@@ -1,6 +1,6 @@
 
 <div class="job-container">
-    <ul id="myTabs" class="job-ul hidden-xs">
+    <ul id="myTabs" class="job-ul">
         <li class="job-li active"><a href="#sh" class="job-a" data-toggle="tab">社会招聘</a></li>
         <li class="job-li"><a href="#xy" class="job-a" data-toggle="tab">校园招聘</a></li>
         <div class="clearfix"></div>
@@ -8,7 +8,7 @@
     <div class="tab-content">
         <div class="tab-pane fade in active" id="sh">
             {% assign ccs=site.data.careers-social %}
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 {% for cc in ccs %}
                 {% if cc.col == 1 %}
                 <div class="mar-b-20 pad0">
@@ -38,7 +38,7 @@
                 {% endif %}
                 {% endfor %}
             </div>
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 {% for cc in ccs %}
                 {% if cc.col == 2 %}
                 <div class="mar-b-20 pad0">
@@ -68,7 +68,7 @@
                 {% endif %}
                 {% endfor %}
             </div>
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 {% for cc in ccs %}
                 {% if cc.col == 3 %}
                 <div class="mar-b-20 pad0">
@@ -101,7 +101,7 @@
         </div>
         <div class="tab-pane fade" id="xy">
             {% assign cxys=site.data.careers-xy %}
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 {% for cxy in cxys %}
                 {% if cxy.col == 1 %}
                 <div class="mar-b-20 pad0">
@@ -127,7 +127,7 @@
                 {% endif %}
                 {% endfor %}
             </div>
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 {% for cxy in cxys %}
                 {% if cxy.col == 2 %}
                 <div class="mar-b-20 pad0">
@@ -153,7 +153,7 @@
                 {% endif %}
                 {% endfor %}
             </div>
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 {% for cxy in cxys %}
                 {% if cxy.col == 3 %}
                 <div class="mar-b-20 pad0">

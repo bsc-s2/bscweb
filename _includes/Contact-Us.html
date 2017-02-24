@@ -1,22 +1,28 @@
 <div id="contact">
     <div class="container content-bg">
         <div class="row mar20">
-            <div class="col-lg-8">
+            <div class="col-sm-8">
+                {% assign cufs = site.data.contact-us-office-cn %}
+                {% assign myOffset = 0 %}
+                {% for i in (1..3) %}
                 <div class="row">
-                    {% assign cufs = site.data.contact-us-office-cn %}
-                    {% for cuf in cufs %}
-                    <div class="col-lg-6">
-                        <div class="pad10">
+                    {% for cuf in cufs offset:myOffset limit:2 %}
+                    <div class="col-sm-6">
+                        <div class="">
                             <h4 class="office-h4">{{cuf.name}}</h4>
                             <img src="{{ site.baseurl }}public/image/contact/{{cuf.imgName}}" alt="" class="contact-map">
                             <h3 class="office-h3">{{cuf.blueName}}</h3>
                             <p class="contact-p">{{cuf.addr}}</p>
                         </div>
                     </div>
+                    {% assign myOffset = (i*2) %}
                     {% endfor %}
                 </div>
+                   
+                {% endfor %}
             </div>
-            <div class="col-lg-4">
+            <div class="visible-xs content-line"></div>
+            <div class="col-sm-4">
                 {% assign cuos = site.data.contact-us-others-cn %}
                 {% for cuo in cuos %}
                 <div class="pad15 mar-b-20 ta-l">
@@ -24,7 +30,7 @@
                     <p class="contact-p">{{cuo.phone}}</p>
                     <p class="contact-p">{{cuo.mail}}</p>
                 </div>
-                <div class="clearfix">&nbsp;</div>
+                <div class="clearfix"></div>
                 {% endfor %}
             </div>
         </div>

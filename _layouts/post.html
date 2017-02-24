@@ -7,6 +7,11 @@
 
 {% include sidebar.html %}
 
+{% if page.post_head_image %}
+<div class="headimg-box head-img">
+    <img src="{{ site.baseurl }}{{ page.post_head_image }}" class="img">
+</div>
+{% endif %}
 <div class="content container my-container">
     {% if page.post_background %}
     <div class="post" style="background: {{ page.post_background }};">
@@ -18,13 +23,6 @@
                 <img class="logo" src="{{ site.baseurl }}public/image/logo_black.png" height="40px">
             </div>
             <img class="logo visible-xs" src="{{ site.baseurl }}public/image/logo_black.png" height="32px">
-
-
-            {% if page.post_head_image %}
-            <div class="headimg-box head-img">
-                <img src="{{ site.baseurl }}{{ page.post_head_image }}" class="img">
-            </div>
-            {% endif %}
 
             <div class="post-content">
                 {{ content }}

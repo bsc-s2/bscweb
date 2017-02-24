@@ -58,19 +58,34 @@ strong {
 }
 
 .job-a {
-    background-color: #2f8dcc;
+    background-color: #3499dc;
     cursor: pointer;
     border: 1px solid #3499dc;
     color: #fff;
-    line-height: 100px;
     font-size: 24px;
     display: block;
 }
 
-.job-a:hover {
-    background-color: #eeefea;
-    border: 0;
-    color: #129593;
+@media (min-width:768px) {
+    .job-a {
+        line-height: 100px;
+    }
+    .job-a:hover,
+    .job-li.active .job-a:hover {
+        background-color: #eeefea;
+        border: 1px solid #eeefea;
+        color: #129593;
+    }
+}
+
+@media (max-width:767px) {
+    .job-a {
+        line-height: 60px;
+    }
+}
+
+.job-li.active a {
+    background-color: #2f8dcc;
 }
 
 .job-col-2 {
@@ -123,8 +138,8 @@ strong {
 
 .clearfix:before,
 .clearfix:after {
-    display: table;
-    content: " ";
+    display: block;
+    content: "";
 }
 
 .clearfix:after {
@@ -179,10 +194,10 @@ strong {
 .my-container {
     padding: 0 !important;
     height: 100%;
+    width: 100%;
 }
 
 .content-page-header {
-    height: 80px;
     background-color: #fff;
 }
 
@@ -295,10 +310,9 @@ li.press-brief {
     .post {
         margin: 0 0 0 14rem;
     }
-}
-
-.post-content {
-    padding: 0 8%;
+    .post-content {
+        margin: 100px 8% 0;
+    }
 }
 
 .list-content+div.content-office {
@@ -475,7 +489,8 @@ a.image-link {
     font-size: 22px;
 }
 
-@media (min-width:768px) {
+
+/*@media (min-width:768px) {
     .container {
         width: 750px;
     }
@@ -494,7 +509,7 @@ a.image-link {
     .container {
         width: 100%;
     }
-}
+}*/
 
 
 /*.head-img {
@@ -504,6 +519,12 @@ a.image-link {
 .head-img .img {
     max-height: 320px;
     width: 100%;
+}
+
+@media (min-width:768px) {
+    .head-img {
+        margin-top: 80px;
+    }
 }
 
 .head-img-about {
@@ -524,16 +545,6 @@ a.image-link {
 
 .culture-customers {
     margin: auto;
-}
-
-.job-li.active a {
-    background-color: #3499dc;
-}
-
-.job-li.active .job-a:hover {
-    background-color: #eeefea;
-    border: 0;
-    color: #129593;
 }
 
 .msr-b-80 {
@@ -569,7 +580,7 @@ a.image-link {
 
 .office-h3 {
     color: #3499ed;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 500;
 }
 
@@ -688,4 +699,14 @@ a.image-link {
 
 .img-full {
     width: 100%;
+}
+
+.products-box {
+    width: 80%;
+    margin: 100px auto 0;
+}
+
+.content-line {
+    margin-top: 30px;
+    border: 1px solid #777;
 }

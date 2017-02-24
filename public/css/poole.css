@@ -246,6 +246,13 @@ pre code {
 .en-index {
     position: absolute;
     top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    /* IE 9 */
+    -webkit-transform: translate(-50%, -50%);
+    /* Safari and Chrome */
+    -o-transform: translate(-50%, -50%);
 }
 
 .logo {
@@ -316,11 +323,7 @@ pre code {
         font-size: 16px;
     }
     .en-index {
-        position: absolute;
-        top: 50%;
-        margin-left: -228px;
-        margin-top: -101px;
-        left: 50%;
+        margin-left: 7rem;
     }
     .bottom-nav {
         position: absolute;

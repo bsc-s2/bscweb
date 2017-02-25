@@ -11,7 +11,6 @@
 @media (max-width:767px) {
     .list-content {
         margin: 10px auto;
-        /*min-width: 500px;*/
         text-align: left;
         width: 80%
     }
@@ -151,12 +150,6 @@
 .bottom-400 {
     margin-bottom: 400px;
 }
-
-
-/*.ccx-h {
-    position: relative;
-    left: 10%;
-}*/
 
 .ccx-h h2 {
     font-size: 38px;
@@ -401,7 +394,6 @@
     padding-top: 10px;
     color: #3499ed;
     font-weight: 300;
-    /*white-space: nowrap;*/
 }
 
 .management-p {

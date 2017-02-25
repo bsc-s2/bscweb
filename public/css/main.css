@@ -315,33 +315,6 @@ li.press-brief {
     }
 }
 
-.list-content+div.content-office {
-    margin-top: 20px;
-}
-
-.office-list-container {
-    padding-top: 20px;
-}
-
-.sub-title {
-    padding-bottom: .5em;
-    font-size: 18px;
-    line-height: 22px;
-    border-bottom: 2px solid;
-    font-weight: 600;
-    margin-bottom: .5em;
-    font-family: 'Microsoft Yahei';
-}
-
-.office-info {
-    margin-bottom: .5em !important;
-    font-size: 14px;
-    line-height: 16px;
-    font-family: 'Hevitica', Arial;
-    font-weight: 300;
-    word-spacing: 0em;
-}
-
 .color-2 {
     color: #3499ed;
 }
@@ -489,33 +462,6 @@ a.image-link {
     font-size: 22px;
 }
 
-
-/*@media (min-width:768px) {
-    .container {
-        width: 750px;
-    }
-    .job-container {
-        width: 100%;
-    }
-}
-
-@media (min-width:992px) {
-    .container {
-        width: 970px;
-    }
-}
-
-@media (min-width:1200px) {
-    .container {
-        width: 100%;
-    }
-}*/
-
-
-/*.head-img {
-    margin: -80px 0 0 0;
-}*/
-
 .head-img .img {
     max-height: 320px;
     width: 100%;
@@ -569,6 +515,16 @@ a.image-link {
     font-weight: 200;
 }
 
+@media(max-width:767px) {
+    .office-h3 {
+        margin-top: 0 !important;
+    }
+}
+
+.office-info {
+    margin-bottom: 20px;
+}
+
 .content-bg {
     text-align: left;
 }
@@ -591,6 +547,25 @@ a.image-link {
     color: #fff;
 }
 
+.contact-box {
+    padding: 15px;
+    text-align: left;
+}
+
+@media(min-width:768px) {
+    .contact-box {
+        margin-bottom: 20px;
+    }
+    .office-h4 {
+        margin-top: 20px;
+    }
+}
+
+.content-line {
+    margin-top: 10px;
+    border: 1px dashed #777;
+}
+
 .ta-l {
     text-align: left;
 }
@@ -600,7 +575,12 @@ a.image-link {
     background-color: #fff;
     font-size: 16px;
     font-weight: 300;
-    padding-left: 175px;
+}
+
+@media (min-width:768px) {
+    .bottom-nav-cn {
+        padding-left: 175px;
+    }
 }
 
 .bottom-nav-cn a.sidebar-nav-item {
@@ -704,9 +684,4 @@ a.image-link {
 .products-box {
     width: 80%;
     margin: 100px auto 0;
-}
-
-.content-line {
-    margin-top: 30px;
-    border: 1px solid #777;
 }

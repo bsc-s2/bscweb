@@ -1,30 +1,30 @@
 - name: 北京办公室
-  col: 1
+  index1: 1
   imgName: 20160715043904871.png
   blueName: OFFICE BEIJING
   addr: 北京市朝阳区酒仙桥北路甲10号 电子城IT产业园201号楼E门5层
 - name: 上海办公室
-  col: 2
+  index1: 2
   imgName: 20160715045042406.png
   blueName: OFFICE SHANGHAI
   addr: 上海市普陀区中江路388弄6号 新城控股大厦B座5层
 - name: 深圳办公室
-  col: 1
+  index1: 3
   imgName: 20160715045142765.png
   blueName: OFFICE SHENZHEN
   addr: 广东省深圳市南山区高新南四道 丽雅查尔顿618室
 - name: 西雅图办公室
-  col: 2
+  index1: 4
   imgName: 20160715051024610.png
   blueName: OFFICE SEATTLE
   addr: 777 108th Ave NE, Suite 2050 Bellevue, WA 98005
 - name: 厦门研发中心
-  col: 1
+  index1: 5
   imgName: 20160715045328892.png
   blueName: R&D CENTRE XIAMEN
   addr: 福建省厦门市思明区软件园二期 望海路14号之二4楼
 - name: 贵安研发中心
-  col: 2
+  index1: 6
   imgName: 20160715051227574.png
   blueName: R&D CENTRE GUIAN
   addr: 贵州贵安新区高端装备制造产业园 标准厂房12号楼一层

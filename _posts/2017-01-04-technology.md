@@ -11,16 +11,24 @@ title: 技术
 </div>
 <div class="technology">
     <div class="col-sm-6 col-xs-12 mar-b-20">
-        <img src="{{ site.baseurl }}public/image/technology/technology-03.jpg">
+        <img src="{{ site.baseurl }}public/image/technology/technology-03.png">
     </div>
     <div class="col-sm-6 col-xs-12 mar-b-20">
-        <img src="{{ site.baseurl }}public/image/technology/technology-04.jpg">
+        <img src="{{ site.baseurl }}public/image/technology/technology-04.png">
     </div>
     {% assign technologys = site.data.technology %}
-    {% for ts in technologys %}
+    {% assign myOffset = 0 %}
+    {% for i in (0..3) %}
+    <div class="row">
+    {% for ts in technologys offset:myOffset limit:3 %}
     <div class="col-sm-4 col-xs-12 mar-b-20">
         <img class="img-full" src="{{ site.baseurl }}public/image/technology/{{ts.imgName}}">
     </div>
+    {% if forloop.last%}
+    {% assign myOffset = ts.index1 %}
+    {% endif %}
     {% endfor %} 
+    </div> 
+    {% endfor %}
 </div>
 <div class="clean"></div>

@@ -15,10 +15,6 @@ a:visited {
     text-decoration: none;
 }
 
-.color-1 {
-    color: #707070;
-}
-
 strong {
     font-weight: 700;
 }
@@ -37,12 +33,20 @@ strong {
     clear: both;
 }
 
+.color-1 {
+    color: #707070;
+}
+
 .color-2 {
     color: #3499ed;
 }
 
 .color-3 {
     color: #323232;
+}
+
+.color-4 {
+    color: #2ba6e2;
 }
 
 .mar-t-60 {
@@ -833,10 +837,6 @@ a.image-link {
 
 .ccx-y .col-xs-6 {
     text-align: center;
-}
-
-.ccx-first {
-    color: #2ba6e2;
 }
 
 .ccx-second {

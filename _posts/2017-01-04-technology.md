@@ -3,17 +3,17 @@ layout: post
 title: 技术
 ---
 
-<div class="ccx-6 mar-b-20">
+<div class="col-xs-6 mar-b-20 ">
     <img src="{{ site.baseurl }}public/image/technology/technology-01.jpg">
 </div>
-<div class="ccx-6 mar-b-20">
+<div class="col-xs-6 mar-b-20">
     <img src="{{ site.baseurl }}public/image/technology/technology-02.jpg">
 </div>
 <div class="technology">
-    <div class="col-sm-6 col-xs-12 mar-b-20">
+    <div class="col-sm-6 col-xs-12 mar-b-20 technology-6">
         <img src="{{ site.baseurl }}public/image/technology/technology-03.png">
     </div>
-    <div class="col-sm-6 col-xs-12 mar-b-20">
+    <div class="col-sm-6 col-xs-12 mar-b-20 technology-6">
         <img src="{{ site.baseurl }}public/image/technology/technology-04.png">
     </div>
     {% assign technologys = site.data.technology %}

@@ -156,7 +156,10 @@ strong {
         margin: 0 0 0 14rem;
     }
     .post-content {
-        margin: 80px 8% 0;
+        width: 90%;
+        max-width: 990px;
+        margin: auto;
+        margin-top: 80px;
     }
     .head-img {
         margin-top: 80px;
@@ -621,9 +624,7 @@ a.image-link {
 
 .customers-box {
     box-shadow: 0 0 2px 2px #ccc;
-    padding: 15px;
     background-color: #fff;
-    height: 208px;
     line-height: 208px;
 }
 
@@ -641,6 +642,27 @@ a.image-link {
 
 .culture-customers {
     margin: auto;
+}
+
+@media(min-width:990px) {
+    .customers-box {
+        height: 208px;
+        padding: 15px;
+    }
+}
+
+@media(min-width:768px) {
+    .customers-box {
+        height: 170px;
+        padding: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .customers-box {
+        height: 90px;
+        padding: 5px;
+    }
 }
 
 
@@ -715,15 +737,27 @@ a.image-link {
 
 /* news */
 
-.news-centent {
-    width: 70%;
-    float: left;
+.zh_page {
+    margin-top: 80px;
+}
+
+.news-content {
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.news-content p {
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 30px;
 }
 
 .news-correlation {
-    width: 25%;
-    float: left;
-    margin-left: 5%;
+    width: 95%;
+    max-width: 400px;
+    margin: auto;
 }
 
 .news-correlation h5 {
@@ -1026,7 +1060,9 @@ a.image-link {
 
 @media (min-width:768px) {
     .list-brief {
-        margin: 50px 100px 10px;
+        width: 90%;
+        margin: auto;
+        max-width: 700px;
     }
 }
 

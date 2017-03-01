@@ -7,27 +7,19 @@
 
 {% include sidebar.html %}
 
-<div class="content my-container">
+<div class="content container my-container">
     <div class="post">
         <div class="content-page-header hidden-xs">
             <img class="logo" src="{{ site.baseurl }}public/image/logo_black.png" height="40px">
         </div>
         <img class="logo visible-xs" src="{{ site.baseurl }}public/image/logo_black.png" height="32px">
         <div class="zh_page">
-            <div class="news-centent">
-                {{ content }}
+            <div class="col-sm-8">
+                <div class="news-content">
+                    {{ content }}
+                </div>
             </div>
-            <div class="news-correlation">
-                <h5>相关阅读 <span><a href="{{ site.baseurl}}{% post_url 2017-01-20-news %}">进入新闻首页</a></span></h5>
-                <ul>
-                    <li><a href="{{ site.baseurl}}{% post_url 2017-01-20-news-01 %}">白山：首创“乐高式松耦合”架构</a></li>
-                    <li><a href="{{ site.baseurl}}{% post_url 2017-01-20-news-02 %}">Embrace delivery, storage and
-                        linkage for a 'post-cloud era'</a></li>
-                    <li><a href="{{ site.baseurl}}{% post_url 2017-01-20-news-01 %}">从互联网+到“AI+”：中国互联网经济新动能</a></li>
-                    <li><a href="{{ site.baseurl}}{% post_url 2017-01-20-news-01 %}">管理技术人，更要学会沟通</a></li>
-                    <li><a href="{{ site.baseurl}}{% post_url 2017-01-20-news-01 %}">重构数据价值 云链网络共同体</a></li>
-                </ul>
-            </div>
+            {% include news-relatedReading.html %}
             <div class="clean"></div>
         </div>
     </div>

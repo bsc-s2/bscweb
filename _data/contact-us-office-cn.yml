@@ -7,17 +7,17 @@
   index1: 2
   imgName: 20160715045042406.png
   blueName: OFFICE SHANGHAI
-  addr: 上海市普陀区中江路388弄6号 新城控股大厦B座5层
+  addr: 上海市普陀区中江路388弄6号 新城控股大厦B座3层
 - name: 深圳办公室
   index1: 3
   imgName: 20160715045142765.png
   blueName: OFFICE SHENZHEN
   addr: 广东省深圳市南山区高新南四道 丽雅查尔顿618室
-- name: 西雅图办公室
+- name: 广州办公室
   index1: 4
-  imgName: 20160715051024610.png
-  blueName: OFFICE SEATTLE
-  addr: 777 108th Ave NE, Suite 2050 Bellevue, WA 98004
+  imgName: 20160715051227574.png
+  blueName: OFFICE GUANGZHOU
+  addr: 广州市天河区科韵路12号 方圆E时光2816
 - name: 厦门研发中心
   index1: 5
   imgName: 20160715045328892.png
@@ -27,4 +27,10 @@
   index1: 6
   imgName: 20160715051227574.png
   blueName: R&D CENTRE GUIAN
-  addr: 贵州贵安新区高端装备制造产业园 标准厂房12号楼一层
+  addr: 贵州省贵安新区高端装备制造产业园 南部区内12号楼一层
+- name: 西雅图办公室
+  index1: 7
+  imgName: 20160715051024610.png
+  blueName: OFFICE SEATTLE
+  addr: 777 108th Ave NE, Suite 2050 Bellevue, WA 98004
+

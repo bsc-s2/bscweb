@@ -1,10 +1,10 @@
-- traditional-img: cdn-11.jpg
+- traditional-img: cdn-11.png
   traditional-info:
   - 以CACHE系统为核心
   - 强耦合结构
   - 扩增需求需要整体升级
   - 周期长 成本高 滞后严重
-  cdn-x-img: cdn-12.jpg
+  cdn-x-img: cdn-12.png
   cdn-x-info:
   - 以管理平台为核心 松耦合结构
   - 模块化开放平台

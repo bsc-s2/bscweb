@@ -673,6 +673,7 @@ a.image-link {
 
 .office-info {
     margin-bottom: 20px;
+    text-align: left;
 }
 
 .content-bg {
@@ -971,8 +972,8 @@ a.image-link {
     .img-vs {
         margin: 200px auto;
     }
-    .mar-b-80-sm {
-        margin-bottom: 80px;
+    .mar-b-40-sm {
+        margin-bottom: 40px;
     }
 }
 

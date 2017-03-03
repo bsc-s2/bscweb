@@ -7,8 +7,7 @@ jQuery(document).ready(function() {
     function setBlocksItCol() {
         var winWidth = $(window).width();
         var col = 2 + ((winWidth - 767) > 0) + ((winWidth - 1099) > 0);
-        $('#blocksItContainer').width('100%');
-        $('#blocksItContainer').BlocksIt({
+        $('#blocksItContainer').width('100%').BlocksIt({
             numOfCol: col,
             offsetX: 8,
             offsetY: 8

@@ -3,7 +3,7 @@ layout: post
 title: 技术
 ---
 
-<div class="clearfix mar-b-80-sm">
+<div class="clearfix mar-b-40-sm">
     <div class="col-xs-6 mar-b-20 ">
         <img src="{{ site.baseurl }}public/image/technology/technology-01.jpg">
     </div>
@@ -11,7 +11,7 @@ title: 技术
         <img src="{{ site.baseurl }}public/image/technology/technology-02.jpg">
     </div>
 </div>
-<div class="clearfix technology mar-b-80-sm">
+<div class="clearfix technology mar-b-40-sm">
     <div class="col-sm-6 col-xs-12 mar-b-20 technology-6">
         <img src="{{ site.baseurl }}public/image/technology/technology-03.png">
     </div>

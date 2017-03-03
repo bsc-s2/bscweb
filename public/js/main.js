@@ -3,8 +3,6 @@ jQuery(document).ready(function() {
         $('#blocksItContainer').css('visibility', 'visible');
         setBlocksItCol();
     };
-    $('#contact').parent('.post').parent('.content').parent('body').css('background', 'url(../../../../public/image/black-bg.jpg) no-repeat');
-    $('#contact').parent('.post').parent('.content').parent('body').css('background-size', 'cover');
 
     function setBlocksItCol() {
         var winWidth = $(window).width();

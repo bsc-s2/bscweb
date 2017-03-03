@@ -141,7 +141,8 @@ html {
  * with a 25%-wide `.sidebar`.
  */
 
-.content {
+
+/*.content {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
@@ -158,7 +159,7 @@ html {
         margin-left: 10rem;
         margin-right: 2rem;
     }
-}
+}*/
 
 
 /*

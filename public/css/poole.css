@@ -261,14 +261,6 @@ pre code {
     top: 1rem;
 }
 
-.bottom-nav {
-    position: absolute;
-    width: 100%;
-    right: 0;
-    text-align: center;
-    background-color: #555;
-}
-
 @media (max-width:767px) {
     .sign-in,
     .chinese {
@@ -324,12 +316,6 @@ pre code {
     }
     .en-index {
         margin-left: 7rem;
-    }
-    .bottom-nav {
-        position: absolute;
-        width: 100%;
-        right: 0;
-        text-align: center;
     }
 }
 

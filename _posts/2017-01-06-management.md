@@ -7,7 +7,7 @@ title: 白山领导力
     <h2>白山领导力</h2>
     <hr>
 </div>
-<div class="list-management">
+<div class="list-management mar-b-80-sm">
     <div class="management-box">
         <img class="management-img" src="{{ site.baseurl }}public/image/management/management-01.jpg">
         <h4 class="management-h4">霍涛Jason Huo</h4>

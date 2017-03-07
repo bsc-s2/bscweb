@@ -1,69 +1,63 @@
 (function($) {
-    var configObj = { btnFocusStyle: 'overview-button-hover', speed: 3000 };
-    var clearTime = null;
-    var $index = 0;
-    var $qianindex = 0;
-    var btnObj = {};
+    var defaultConfig = { btnFocusStyle: 'overview-button-hover', residenceTime: 3000 };
 
-    function scrollPlay(sliderBox) {
-        btnObj.eq($index).addClass(configObj.btnFocusStyle).siblings().removeClass(configObj.btnFocusStyle);
-        var preObj = sliderBox.find('.slider').eq($qianindex);
-        var indexObj = sliderBox.find('.slider').eq($index);
-        if ($index > $qianindex) {
-            primarySlideAnimate(preObj, indexObj, true);
-        } else {
-            primarySlideAnimate(preObj, indexObj, false);
-        }
-    }
+    var slider = function(sliderBox) {
+        var self = this;
+        this.sliderBox = sliderBox;
+        this.config = sliderBox.config;
+        this.index = 0;
+        this.preIndex = 0;
 
-    function primarySlideAnimate(preObj, indexObj, direction) {
-        var leftValue = '100%';
-        var leftValueNegative = '-100%';
-        if (direction) {
-            leftValue = '100%';
-            leftValueNegative = '-100%';
-        } else {
-            leftValue = '-100%';
-            leftValueNegative = '100%';
-        }
-        preObj.stop(true, true).animate({ 'left': leftValueNegative });
-        indexObj.css('left', leftValue).stop(true, true).animate({ 'left': '0%' });
-    }
-
-    function autoPlay(sliderBox) {
-        btnObj = sliderBox.next('div.slider-btn').find("ul li");
-        var picNum = sliderBox.find('.slider').length - 1;
-
-        function setTime() {
-            clearTime = setInterval(function() {
-
-                $index++;
-                if ($index > picNum) {
-                    $index = 0;
-                }
-                scrollPlay(sliderBox);
-                $qianindex = $index;
-            }, configObj.speed);
-        }
-
-        btnObj.click(function() {
-            clearInterval(clearTime);
-            $index = $(this).index();
-            if ($index != $qianindex) {
-                scrollPlay(sliderBox);
-                $qianindex = $index;
+        this.btnObjs = this.sliderBox.next('div.slider-btn').find("ul li");
+        this.btnObjs.click(function() {
+            clearInterval(self.timer);
+            self.index = $(this).index();
+            if (self.index != self.preIndex) {
+                self.scrollPlay();
+                self.preIndex = self.index;
             }
-            setTime();
+            self.startTimer();
         });
 
-        setTime();
-    }
+        this.startTimer();
+    };
+
+    slider.prototype = {
+        startTimer: function() {
+            var self = this;
+            var picNum = this.sliderBox.find("div.slider").length;
+            this.timer = setInterval(function() {
+                self.index = (self.index + 1) % picNum;
+                self.scrollPlay();
+                self.preIndex = self.index;
+            }, this.config.residenceTime);
+        },
+        scrollPlay: function() {
+            var index = this.index;
+            var preIndex = this.preIndex;
+            if (index == preIndex) {
+                return;
+            }
+
+            var mybtnFocusStyle = this.config.btnFocusStyle;
+            this.btnObjs.eq(index).addClass(mybtnFocusStyle).siblings().removeClass(mybtnFocusStyle);
+            var sliders = this.sliderBox.find('.slider');
+            var preObj = sliders.eq(preIndex);
+            var indexObj = sliders.eq(index);
+            var leftValue = index < preIndex ? -100 : 100;
+
+            preObj.stop(true, true).animate({ 'left': leftValue * (-1) + '%' });
+            indexObj.css('left', leftValue + '%').stop(true, true).animate({ 'left': '0%' });
+        }
+    };
 
     $.fn.sliderPlay = function(myConfig) {
+        var a = $(this);
+        a.config = defaultConfig;
         if (myConfig && typeof myConfig === "object") {
-            $.extend(configObj, myConfig);
+            a.config = $.extend({}, defaultConfig, myConfig);
         }
-        autoPlay($(this));
+        myslider = new slider(a);
         return this;
     };
 })(jQuery);

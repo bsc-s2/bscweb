@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-02-15T15:11:21+08:00</updated>
+ <updated>2017-03-07T14:28:29+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -17,120 +17,120 @@
    <link href="http://www.baishancloud.com/2016/08/01/Contact-Us/"/>
    <updated>2016-08-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/08/01/Contact-Us</id>
-   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
-    &lt;div class=&quot;office-list-container&quot;&gt;
+   <content type="html">&lt;div class=&quot;office-list-container row&quot;&gt;
+    
+    
+    &lt;div class=&quot;content-office col-xs-12&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Beijing Office&lt;/h3&gt;
         
         
-        &lt;div class=&quot;content-office col-xs-12&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Beijing Office&lt;/h3&gt;
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Jia-10 Jiuxianqiao North Rd., E-5/F, Block 201 BEZ Park, Chaoyang District, Beijing, China&lt;/p&gt;
-            
-            
-        &lt;/div&gt;
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Jia-10 Jiuxianqiao North Rd., E-5/F, Block 201 BEZ Park, Chaoyang District, Beijing, China&lt;/p&gt;
         
-        &lt;div class=&quot;content-office col-xs-12&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Shanghai Office&lt;/h3&gt;
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;6 Lane 388, Zhongjiang Rd., B-5/F, Future Land Holding Mansion, Putuo District, Shanghai, China&lt;/p&gt;
-            
-            
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;content-office col-xs-12&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Shenzhen Office&lt;/h3&gt;
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Gaoxinnan 4th Rd, 618 Lia Chariton Building, Nanshan District, Shenzhen, Guangdong Province, China&lt;/p&gt;
-            
-            
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;content-office col-xs-12&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Seattle Office&lt;/h3&gt;
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;777 108th Ave NE, Suite 2050, Bellevue, WA 98005&lt;/p&gt;
-            
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Global@baishancloud.com; Sales-us@baishancloud.com&lt;/p&gt;
-            
-            
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;content-office col-xs-12&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Guangzhou Office&lt;/h3&gt;
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;-12 Keyun Rd , W-2822 Fineland E Times Square, Tianhe District, Guangzhou, Guangdong Province, China&lt;/p&gt;
-            
-            
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;content-office col-xs-12&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Xiamen R&amp;D Center&lt;/h3&gt;
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;41-507 Wanghai Rd., Software Park II, Siming District, Xiamen, Fujian, China&lt;/p&gt;
-            
-            
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;content-office col-xs-12&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Guian R&amp;D Center&lt;/h3&gt;
-            
-            
-            &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Midpiece Qianzhong Ave, 2/F, Block 23, High-End Instrument Manufacturing Park, Guian District, Guiyang, Guizhou Province, China&lt;/p&gt;
-            
-            
-        &lt;/div&gt;
         
     &lt;/div&gt;
-    &lt;div class=&quot;col-xs-12 mar-t-60&quot;&gt;
+    
+    &lt;div class=&quot;content-office col-xs-12&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Shanghai Office&lt;/h3&gt;
         
         
-        &lt;div class=&quot;col-xs-6&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Technology Consulting&lt;/h3&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-1&lt;/p&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;techs@baishancloud.com&lt;/p&gt;
-        &lt;/div&gt;
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;6 Lane 388, Zhongjiang Rd., B-5/F, Future Land Holding Mansion, Putuo District, Shanghai, China&lt;/p&gt;
         
-        &lt;div class=&quot;col-xs-6&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Marketing&lt;/h3&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-3&lt;/p&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;market@baishancloud.com&lt;/p&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;col-xs-6&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Sales&lt;/h3&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-2&lt;/p&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;support@baishancloud.com&lt;/p&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;col-xs-6&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Media &amp; PR&lt;/h3&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-5&lt;/p&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;pr@baishancloud.com&lt;/p&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;col-xs-6&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Investor Relations&lt;/h3&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-6&lt;/p&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;ir@baishancloud.com&lt;/p&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;col-xs-6&quot;&gt;
-            &lt;h3 class=&quot;sub-title color-2&quot;&gt;Human Resources&lt;/h3&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-4&lt;/p&gt;
-            &lt;p class=&quot;office-info info-above&quot;&gt;hr@baishancloud.com&lt;/p&gt;
-        &lt;/div&gt;
         
     &lt;/div&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+    
+    &lt;div class=&quot;content-office col-xs-12&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Shenzhen Office&lt;/h3&gt;
+        
+        
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Gaoxinnan 4th Rd, 618 Lia Chariton Building, Nanshan District, Shenzhen, Guangdong Province, China&lt;/p&gt;
+        
+        
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;content-office col-xs-12&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Seattle Office&lt;/h3&gt;
+        
+        
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;777 108th Ave NE, Suite 2050, Bellevue, WA 98004&lt;/p&gt;
+        
+        
+        
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Global@baishancloud.com; Sales-us@baishancloud.com&lt;/p&gt;
+        
+        
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;content-office col-xs-12&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Guangzhou Office&lt;/h3&gt;
+        
+        
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;-12 Keyun Rd , W-2822 Fineland E Times Square, Tianhe District, Guangzhou, Guangdong Province, China&lt;/p&gt;
+        
+        
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;content-office col-xs-12&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Xiamen R&amp;D Center&lt;/h3&gt;
+        
+        
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;41-507 Wanghai Rd., Software Park II, Siming District, Xiamen, Fujian, China&lt;/p&gt;
+        
+        
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;content-office col-xs-12&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Guian R&amp;D Center&lt;/h3&gt;
+        
+        
+        &lt;p class=&quot;office-info&quot; style=&quot;margin-bottom: .5em;&quot;&gt;Midpiece Qianzhong Ave, 2/F, Block 23, High-End Instrument Manufacturing Park, Guian District, Guiyang, Guizhou Province, China&lt;/p&gt;
+        
+        
+    &lt;/div&gt;
+    
 &lt;/div&gt;
+
+&lt;div class=&quot;row mar-t-60&quot;&gt;
+    
+    
+    &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Technology Consulting&lt;/h3&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-1&lt;/p&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;techs@baishancloud.com&lt;/p&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Marketing&lt;/h3&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-3&lt;/p&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;market@baishancloud.com&lt;/p&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Sales&lt;/h3&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-2&lt;/p&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;support@baishancloud.com&lt;/p&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Media &amp; PR&lt;/h3&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-5&lt;/p&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;pr@baishancloud.com&lt;/p&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Investor Relations&lt;/h3&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-6&lt;/p&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;ir@baishancloud.com&lt;/p&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+        &lt;h3 class=&quot;sub-title color-2&quot;&gt;Human Resources&lt;/h3&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;4000813388-4&lt;/p&gt;
+        &lt;p class=&quot;office-info info-above&quot;&gt;hr@baishancloud.com&lt;/p&gt;
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 </content>
  </entry>
  
@@ -139,11 +139,7 @@
    <link href="http://www.baishancloud.com/2016/07/01/Careers/"/>
    <updated>2016-07-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/07/01/Careers</id>
-   <content type="html">&lt;p class=&quot;headimg-box-careers &quot;&gt;
-    &lt;img src=&quot;/en/public/image/careersBg.jpg&quot; class=&quot;img head-img head-img-careers&quot;/&gt;
-&lt;/p&gt;
-
-&lt;div class=&quot;job-container&quot;&gt;
+   <content type="html">&lt;div class=&quot;job-container&quot;&gt;
     &lt;ul class=&quot;job-ul hidden-xs&quot;&gt;
         &lt;li class=&quot;job-li&quot;&gt;&lt;a href=&quot;#sh&quot; class=&quot;job-a&quot;&gt;Job Openings (China)&lt;/a&gt;&lt;/li&gt;
         &lt;li class=&quot;job-li&quot;&gt;&lt;a href=&quot;#xy&quot; class=&quot;job-a&quot;&gt;Job Openings (U.S.)&lt;/a&gt;&lt;/li&gt;
@@ -498,497 +494,496 @@
    <link href="http://www.baishancloud.com/2016/06/01/BSC-Culture/"/>
    <updated>2016-06-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/06/01/BSC-Culture</id>
-   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
-    &lt;div class=&quot;culture-top msr-b-40&quot;&gt;
-        &lt;h1 class=&quot;head-title color-3&quot;&gt;BaishanCloud Corporate Culture&lt;/h1&gt;
-        &lt;p&gt;At BSC, our entire focus is on our employees - their sense of accomplishments and their happiness as members
-            of the BSC family. A strong emphasis on teamwork has helped to create a relaxed and yet efficient work
-            environment for our staff.&lt;/p&gt;
+   <content type="html">&lt;div class=&quot;culture-top msr-b-40&quot;&gt;
+    &lt;h1 class=&quot;head-title color-3&quot;&gt;BaishanCloud Corporate Culture&lt;/h1&gt;
+    &lt;p&gt;At BSC, our entire focus is on our employees - their sense of accomplishments and their happiness as members
+        of the BSC family. A strong emphasis on teamwork has helped to create a relaxed and yet efficient work
+        environment for our staff.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;blocksItContainer&quot;&gt;
+    
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20161010064923749.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064923749.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div id=&quot;blocksItContainer&quot;&gt;
-        
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20161010064923749.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064923749.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20161010064909742.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064909742.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
                     &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
         &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20161010064909742.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064909742.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20161010064854707.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064854707.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20161010064831965.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064831965.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816071521520.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071521520.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816071459524.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071459524.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816071437897.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071437897.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070949455.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070949455.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070757769.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070757769.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070449533.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070449533.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070413934.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070413934.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070357204.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070357204.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070340879.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070340879.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070322186.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070322186.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070302517.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070302517.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070025287.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070025287.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816070009301.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070009301.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816065946565.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065946565.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816065725989.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065725989.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816065449252.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065449252.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816065125686.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065125686.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816065109339.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065109339.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816065054312.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065054312.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816065020632.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065020632.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816064922932.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064922932.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816064904470.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064904470.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816064828574.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064828574.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816063923333.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816063923333.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160816063411886.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816063411886.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160713042343328.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160713042343328.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20160706020851963.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160706020851963.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;culture-imgbox&quot;&gt;
-            &lt;div class=&quot;post-thumb&quot;&gt;
-                &lt;img src=&quot;/en/public/image/Culture/20161010065226479.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010065226479.jpg&quot;
-                   data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
-                    &lt;div class=&quot;post-hover text-center&quot;&gt;
-                        &lt;div class=&quot;inside&quot;&gt;
-                            &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
-                            &lt;h4&gt;&lt;/h4&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
     &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20161010064854707.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064854707.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20161010064831965.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010064831965.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816071521520.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071521520.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816071459524.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071459524.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816071437897.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816071437897.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070949455.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070949455.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070757769.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070757769.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070449533.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070449533.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070413934.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070413934.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070357204.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070357204.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070340879.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070340879.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070322186.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070322186.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070302517.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070302517.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070025287.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070025287.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816070009301.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816070009301.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816065946565.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065946565.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816065725989.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065725989.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816065449252.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065449252.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816065125686.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065125686.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816065109339.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065109339.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816065054312.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065054312.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816065020632.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816065020632.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816064922932.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064922932.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816064904470.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064904470.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816064828574.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816064828574.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816063923333.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816063923333.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160816063411886.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160816063411886.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160713042343328.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160713042343328.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20160706020851963.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20160706020851963.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;culture-imgbox&quot;&gt;
+        &lt;div class=&quot;post-thumb&quot;&gt;
+            &lt;img src=&quot;/en/public/image/Culture/20161010065226479.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;a class=&quot;image-link&quot; href=&quot;/en/public/image/Culture/20161010065226479.jpg&quot;
+                data-lightbox=&quot;example-set&quot; data-title=&quot;&quot;&gt;
+                &lt;div class=&quot;post-hover text-center&quot;&gt;
+                    &lt;div class=&quot;inside&quot;&gt;
+                        &lt;span class=&quot;glyphicon glyphicon-search&quot;&gt;&lt;/span&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
 &lt;/div&gt;
 </content>
  </entry>
@@ -998,7 +993,7 @@
    <link href="http://www.baishancloud.com/2016/05/08/BaishanCloud-Announces-the-Establishment-of-a-North-American-Subsidiary/"/>
    <updated>2016-05-08T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/08/BaishanCloud-Announces-the-Establishment-of-a-North-American-Subsidiary</id>
-   <content type="html">&lt;h2&gt;BaishanCloud Announces the Establishment of a North American Subsidiary&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;&lt;center&gt;BaishanCloud Announces the Establishment of a North American Subsidiary&lt;/center&gt;&lt;/h2&gt;
 
 &lt;hr&gt;
 
@@ -1024,7 +1019,7 @@
    <link href="http://www.baishancloud.com/2016/05/07/An-Entrepreneur-with-a-Rational-Impulse/"/>
    <updated>2016-05-07T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/07/An-Entrepreneur-with-a-Rational-Impulse</id>
-   <content type="html">&lt;h2&gt;An Entrepreneur with a &amp;quot;Rational Impulse&amp;quot;&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;&lt;center&gt;An Entrepreneur with a &amp;quot;Rational Impulse&amp;quot;&lt;/center&gt;&lt;/h2&gt;
 
 &lt;hr&gt;
 
@@ -1057,7 +1052,7 @@
    <link href="http://www.baishancloud.com/2016/05/06/BaishanCloud-is-Awarded-Top-Cloud-Industry-Awards/"/>
    <updated>2016-05-06T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/06/BaishanCloud-is-Awarded-Top-Cloud-Industry-Awards</id>
-   <content type="html">&lt;h2&gt;BaishanCloud is Awarded Top Cloud Industry Awards&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;&lt;center&gt;BaishanCloud is Awarded Top Cloud Industry Awards&lt;/center&gt;&lt;/h2&gt;
 
 &lt;hr&gt;
 
@@ -1082,7 +1077,7 @@
    <link href="http://www.baishancloud.com/2016/05/05/BaishanCloud-Appoints-Chief-Technology-Officer/"/>
    <updated>2016-05-05T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/05/BaishanCloud-Appoints-Chief-Technology-Officer</id>
-   <content type="html">&lt;h2&gt;BaishanCloud Appoints Chief Technology Officer&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;&lt;center&gt;BaishanCloud Appoints Chief Technology Officer&lt;/center&gt;&lt;/h2&gt;
 
 &lt;hr&gt;
 
@@ -1107,7 +1102,7 @@
    <link href="http://www.baishancloud.com/2016/05/04/BaishanCloud-Launches-Cloud-Storage-Product/"/>
    <updated>2016-05-04T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/04/BaishanCloud-Launches-Cloud-Storage-Product</id>
-   <content type="html">&lt;h2&gt;BaishanCloud Launches Cloud Storage Product&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;&lt;center&gt;BaishanCloud Launches Cloud Storage Product&lt;/center&gt;&lt;/h2&gt;
 
 &lt;hr&gt;
 
@@ -1140,7 +1135,7 @@
    <link href="http://www.baishancloud.com/2016/05/03/BaishanCloud-Announces-Completion-of-Series-B-Private-Equity-Financing/"/>
    <updated>2016-05-03T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/03/BaishanCloud-Announces-Completion-of-Series-B-Private-Equity-Financing</id>
-   <content type="html">&lt;h2&gt;BaishanCloud Announces Completion of Series B Private Equity Financing&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;&lt;center&gt;BaishanCloud Announces Completion of Series B Private Equity Financing&lt;/center&gt;&lt;/h2&gt;
 
 &lt;hr&gt;
 
@@ -1167,7 +1162,7 @@
    <link href="http://www.baishancloud.com/2016/05/02/BaishanCloud-Receives-Trusted-Cloud-Certification/"/>
    <updated>2016-05-02T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/02/BaishanCloud-Receives-Trusted-Cloud-Certification</id>
-   <content type="html">&lt;h2&gt;BaishanCloud Receives Trusted Cloud Certification&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;&lt;center&gt;BaishanCloud Receives Trusted Cloud Certification&lt;/center&gt;&lt;/h2&gt;
 
 &lt;hr&gt;
 
@@ -1192,8 +1187,8 @@
    <link href="http://www.baishancloud.com/2016/05/01/BSC-Press/"/>
    <updated>2016-05-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/05/01/BSC-Press</id>
-   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
-&lt;h2 class=&quot;head-title&quot;&gt;BaishanCloud Press&lt;/h2&gt;
+   <content type="html">&lt;h2 class=&quot;head-title&quot;&gt;BaishanCloud Press&lt;/h2&gt;
+
 &lt;ul class=&quot;ul-press&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/02/BaishanCloud-Receives-Trusted-Cloud-Certification/&quot;&gt;&lt;strong&gt;BaishanCloud Receives Trusted Cloud Certification&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
@@ -1217,7 +1212,6 @@
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/08/BaishanCloud-Announces-the-Establishment-of-a-North-American-Subsidiary/&quot;&gt;&lt;strong&gt;BaishanCloud Announces the Establishment of a North American Subsidiary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     &lt;li class=&quot;press-brief&quot;&gt;[Beijing, March 9, 2016] BaishanCloud (BSC), a leading provider of cloud managed services in China, today launched a cloud warehouse network (CWN-X) product ...&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
 </content>
  </entry>
  
@@ -1226,322 +1220,319 @@
    <link href="http://www.baishancloud.com/2016/04/01/Customers/"/>
    <updated>2016-04-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/04/01/Customers</id>
-   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
-    &lt;div class=&quot;culture-top msr-b-40&quot;&gt;
-        &lt;h1 class=&quot;head-title&quot;&gt;Representative Customers&lt;/h1&gt;
-        &lt;p&gt;BSC cloud managed services have gained considerable market traction in the marketplace. Service innovations
-            and service quality are the driving forces behind rapid BSC service adaptations. &lt;/p&gt;
-    &lt;/div&gt;
-    
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/1-ACFUN.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/2-bilibili.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/3-miaopai.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/4-baisibudejie.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/5-meituan.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/6-souhu.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/7-jinritoutiao.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/8-qichezhijia.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/9-fenghuangjinrong.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/10-lianjiawang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/11-wanmeishijie.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/12-37wan.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/13-jumeiyoupin.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/14-dangdangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/15-qunaer.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/16-guaziershouche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/17-shenzhouzuche.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/18-yidaoyongche.JPEG&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/19-dingdangkuaiyao.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/20-tantan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/21-haozan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/22-kuaiya.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/23-baofengyingyin.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/24-xunyou.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/25-douyou.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/26-kongzhongwang.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/27-fenghuangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/28-soufangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/29-yiche.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/30-jiuxianwang.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/31-youyuan.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/33-kugouyinyue.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/33-kuwoyinyue.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/34-baobaoshu.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/35-benlaishenghuo.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/36-miyabaobei.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/37-taomiwang.gif&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/38-liufangjian.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/39-diyishipin.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/40-muzhiwan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/41-xinlangleju.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/42-mafengwo.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/43-liepinwang.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/44-yonglepiaowu.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/45-liebao.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/46-fengniaowang.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/47-zhongguoribaohaiwaiban.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/48-cankaoxiaoxi.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/49-shouqizuche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/50-didapinche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-md-3 col-lg-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/en/public/image/Customers/51-ailihui.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+   <content type="html">&lt;div class=&quot;culture-top msr-b-40&quot;&gt;
+    &lt;h1 class=&quot;head-title&quot;&gt;Representative Customers&lt;/h1&gt;
+    &lt;p&gt;BSC cloud managed services have gained considerable market traction in the marketplace. Service innovations
+        and service quality are the driving forces behind rapid BSC service adaptations. &lt;/p&gt;
 &lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/1-ACFUN.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/2-bilibili.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/3-miaopai.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/4-baisibudejie.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/5-meituan.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/6-souhu.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/7-jinritoutiao.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/8-qichezhijia.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/9-fenghuangjinrong.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/10-lianjiawang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/11-wanmeishijie.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/12-37wan.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/13-jumeiyoupin.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/14-dangdangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/15-qunaer.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/16-guaziershouche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/17-shenzhouzuche.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/18-yidaoyongche.JPEG&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/19-dingdangkuaiyao.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/20-tantan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/21-haozan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/22-kuaiya.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/23-baofengyingyin.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/24-xunyou.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/25-douyou.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/26-kongzhongwang.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/27-fenghuangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/28-soufangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/29-yiche.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/30-jiuxianwang.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/31-youyuan.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/33-kugouyinyue.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/33-kuwoyinyue.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/34-baobaoshu.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/35-benlaishenghuo.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/36-miyabaobei.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/37-taomiwang.gif&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/38-liufangjian.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/39-diyishipin.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/40-muzhiwan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/41-xinlangleju.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/42-mafengwo.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/43-liepinwang.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/44-yonglepiaowu.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/45-liebao.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/46-fengniaowang.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/47-zhongguoribaohaiwaiban.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/48-cankaoxiaoxi.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/49-shouqizuche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/50-didapinche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+    &lt;div class=&quot;customers-box&quot;&gt;
+        &lt;img src=&quot;/en/public/image/Customers/51-ailihui.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 </content>
  </entry>
  
@@ -1550,146 +1541,234 @@
    <link href="http://www.baishancloud.com/2016/03/05/CLN-X/"/>
    <updated>2016-03-05T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/03/05/CLN-X</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cln-01.png&quot; class=&quot;products-title&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cln-01.png&quot; class=&quot;products-title&quot;&gt;
+&lt;div&gt;
+    &lt;h4&gt;&lt;strong&gt;A Cloud Management Service Platform&lt;/strong&gt;&lt;/h4&gt;
+    &lt;p&gt;CLN-X is a cloud managed service platform focusing on cloud data resource exchanges and interactions. It addresses the needs of enterprise customers for data integration and unification in migrating to their desired cloud. CLN-X offers adaptations, security, and acceleration services for enterprise APIs.&lt;/p&gt;
+    &lt;p&gt;CLN-X is an event-driven computing platform to ensure connections of any data and business logic. Supplemented by BSC’s widely deployed cloud delivery and cloud storage networks, CLN-X significantly enhances the efficiency of data usage by enterprises. It helps bridge private and public clouds to allow data to flow more freely.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CLN-X(Cloud Linkage Network)&lt;/strong&gt;&lt;/h4&gt;
+    &lt;img src=&quot;/en/public/image/products/cln-02.png&quot;&gt;
+&lt;/div&gt;&lt;/p&gt;
 
-&lt;h4&gt;&lt;strong&gt;A Cloud Management Service Platform&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;CLN-X is a cloud managed service platform focusing on cloud data resource exchanges and interactions. It addresses the needs of enterprise customers for data integration and unification in migrating to their desired cloud. CLN-X offers adaptations, security, and acceleration services for enterprise APIs.&lt;/p&gt;
-
-&lt;p&gt;CLN-X is an event-driven computing platform to ensure connections of any data and business logic. Supplemented by BSC’s widely deployed cloud delivery and cloud storage networks, CLN-X significantly enhances the efficiency of data usage by enterprises. It helps bridge private and public clouds to allow data to flow more freely.&lt;/p&gt;
-
-&lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CLN-X(Cloud Linkage Network)&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cln-02.png&quot;&gt;&lt;/p&gt;
-
-&lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CLN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cln-03.png&quot;&gt;
-    &lt;p&gt;API auto generation and adaptation&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Auto generation of APIs without coding&lt;/li&gt;
-        &lt;li&gt;Transformation of inputs or outputs to adapt to API data formats&lt;/li&gt;
-    &lt;/ul&gt;
+&lt;div&gt;
+    &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CLN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
+    
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cln-03.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;API auto generation and adaptation&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Auto generation of APIs without coding&lt;/li&gt; 
+                
+                &lt;li&gt;Transformation of inputs or outputs to adapt to API data formats&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cln-04.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;API acceleration&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;L2 cache – caching APIs and supporting cache-control setting within milliseconds&lt;/li&gt; 
+                
+                &lt;li&gt;Transforming API asynchronization&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cln-05.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;API security&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;API access control and flow control – controlling authority and flow based on the identification of API callers&lt;/li&gt; 
+                
+                &lt;li&gt;API firewall – a HTTP firewall protects APIs from HTTP DDoS attacks&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
 &lt;/div&gt;
 
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cln-04.png&quot;&gt;
-    &lt;p&gt;API acceleration&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;L2 cache – caching APIs and supporting cache-control setting within milliseconds&lt;/li&gt;
-        &lt;li&gt;Transforming API asynchronization&lt;/li&gt;
-    &lt;/ul&gt;
+&lt;div&gt;
+    &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CLN-X Products and Solutions&lt;/strong&gt;&lt;/h4&gt;
+    
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cln-06.png&quot;&gt;
+                &lt;h6&gt;API auto generation&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Data ETL (Extract and Transform and Loading) and auto-generation of APIs for enterprises - formatting various types of data based on customer needs and extracting valuable information and transforming it to API interfaces&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cln-07.png&quot;&gt;
+                &lt;h6&gt;API acceleration&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Improving the performance of enterprise APIs while reducing the load of back-end services.&lt;/li&gt;
+                    
+                    &lt;li&gt;Use of L2 cache and API asynchronization to decrease the response time of APIs while retaining the reliability of the backend&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cln-08.png&quot;&gt;
+                &lt;h6&gt;API adaptation and management&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Adapting APIs from input to output as an API gateway&lt;/li&gt;
+                    
+                    &lt;li&gt;Integrating different API formats and transforming them into unified and standardized RESTful interfaces&lt;/li&gt;
+                    
+                    &lt;li&gt;Managing API interfaces in a consolidated portal and maintaining the consistency of APIs and their documentation&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cln-09.png&quot;&gt;
+                &lt;h6&gt;API protection&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Making APIs secure through API access controls, API flow controls, and the API firewall&lt;/li&gt;
+                    
+                    &lt;li&gt;Analyzing data to ascertain the features of attacks and to block attacks through a big data computing platform&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
 &lt;/div&gt;
-
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cln-05.png&quot;&gt;
-    &lt;p&gt;API security&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;API access control and flow control – controlling authority and flow based on the identification of API callers&lt;/li&gt;
-        &lt;li&gt;API firewall – a HTTP firewall protects APIs from HTTP DDoS attacks&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CLN-X Product and Solution&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cln-06.png&quot;&gt;
-    &lt;h6&gt;API auto generation&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Data ETL (Extract and Transform and Loading) and auto-generation of APIs for enterprises - formatting various types of data based on customer needs and extracting valuable information and transforming it to API interfaces&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cln-07.png&quot;&gt;
-    &lt;h6&gt;API acceleration&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Improving the performance of enterprise APIs while reducing the load of back-end services.&lt;/li&gt;
-        &lt;li&gt;Use of L2 cache and API asynchronization to decrease the response time of APIs while retaining the reliability of the backend&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cln-08.png&quot;&gt;
-    &lt;h6&gt;API adaptation and management&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Adapting APIs from input to output as an API gateway&lt;/li&gt;
-        &lt;li&gt;Integrating different API formats and transforming them into unified and standardized RESTful interfaces&lt;/li&gt;
-        &lt;li&gt;Managing API interfaces in a consolidated portal and maintaining the consistency of APIs and their documentation&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cln-09.png&quot;&gt;
-    &lt;h6&gt;API protection&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Making APIs secure through API access controls, API flow controls, and the API firewall&lt;/li&gt;
-        &lt;li&gt;Analyzing data to ascertain the features of attacks and to block attacks through a big data computing platform&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
 
 &lt;h4 style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;CLN-X Product Innovations&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;The following unique cloud linkage product innovations reflect BSC’s commitment and efforts in technology development. These innovations will better address the needs of data-integration and data-migration of enterprise customers&lt;/p&gt;
 
 &lt;div class=&quot;products-sliderbox products-sliderbox-cln&quot; id=&quot;sliderBox&quot;&gt;
+    
+    
+    
     &lt;div class=&quot;products-slider products-slider-hover slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cln-10.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;WAN API bridging&lt;/i&gt;&lt;/h4&gt;
+         
         &lt;ul class=&quot;cln&quot;&gt;
+          
+             
             &lt;li&gt;L2 cache control - caching APIs and supporting cache-control setting within milliseconds, and supporting an intelligent API policy and a customized cache policy&lt;/li&gt;
+             
             &lt;li&gt;Asynchronized APIs – putting customer requests into a queue to reduce the back-end load&lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
+    
     &lt;div class=&quot;products-slider slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cln-11.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Intelligently event-driven&lt;/i&gt;&lt;/h4&gt;
+         
         &lt;ul class=&quot;cln&quot;&gt;
+          
+             
             &lt;li&gt;Protocol conversion – merging long-loop requests to reduce the back-end load&lt;/li&gt;
+             
             &lt;li&gt;Distributed processing – supporting API auto scaling processing&lt;/li&gt;
+             
             &lt;li&gt;Back-end protection – reducing the back-end load through full/half asynchronized APIs&lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
+    
     &lt;div class=&quot;products-slider slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cln-12.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Real-time anti HTTP DDoS attack mechanism&lt;/i&gt;&lt;/h4&gt;
+        
         &lt;ul class=&quot;cln-narrow&quot;&gt;
+          
+             
             &lt;li&gt;Anti HTTP DDoS attack firewall – using a big-data algorithm to analyze the access-log of enterprises to accurately pinpoint attackers&lt;/li&gt;
+             
             &lt;li&gt;API access control and API flow control - control of authorization and traffic volume based on the callers’ classifications of their APIs&lt;/li&gt;
+             
             &lt;li&gt;Kernel-level interception – a faster interception than that at the application level&lt;/li&gt;
-            &lt;li&gt;Auto recognition of verification codes – supporting auto recognition of verification codes to avoid erroneous interceptions &lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
+    
     &lt;div class=&quot;products-slider slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cln-13.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;API auto generation&lt;/i&gt;&lt;/h4&gt;
+         
         &lt;ul class=&quot;cln&quot;&gt;
+          
+             
             &lt;li&gt;Splitting and restructuring of webpages&lt;/li&gt;
+             
             &lt;li&gt;API auto generation – auto-generating APIs without coding&lt;/li&gt;
-            &lt;li&gt;API adaptation - transforming API inputs and API outputs to standardize and unify APIs &lt;/li&gt;
+             
+            &lt;li&gt;API adaptation - transforming API inputs and API outputs to standardize and unify APIs&lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
 &lt;/div&gt;
 
 &lt;div class=&quot;slider-btn my-sliderbtn my-sliderbtn-Products&quot;&gt;
@@ -1711,195 +1790,292 @@
    <link href="http://www.baishancloud.com/2016/03/04/CWN-X/"/>
    <updated>2016-03-04T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/03/04/CWN-X</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cwn-01.png&quot; class=&quot;products-title&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cwn-01.png&quot; class=&quot;products-title&quot;&gt;
+&lt;div&gt;
+    &lt;h4&gt;&lt;strong&gt;A Distributed Cloud Storage Service Platform&lt;/strong&gt;&lt;/h4&gt;
+    &lt;p&gt;CWN-X is a fully distributed object storage product focusing on storage of the most frequently accessed data and on intelligent data transfers among public and private clouds. Based on multi-tiered data storage architecture, hardware technology with high IO performance, and a high network bandwidth, CWN-X significantly improves read-write speed and capacity management, thereby helping enterprise customers greatly increase the efficiency of their storage usage.&lt;/p&gt;
+    &lt;p&gt;CWN-X has a substantial ability to scale out and it is capable of handling demand for storage of ultra-large-scale unstructured data. Deployed edge storage nodes enhance edge computing capabilities and data mining effectiveness. Tiered storage based on the frequency of data access allows customers to reduce storage costs.CWN-X can achieve service availability of 99.99% and durability of 99.99999999999%.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CWN-X(Cloud Warehouse Network)&lt;/strong&gt;&lt;/h4&gt;
+    &lt;img src=&quot;/en/public/image/products/cwn-02.png&quot;&gt;
+&lt;/div&gt;&lt;/p&gt;
 
-&lt;h4&gt;&lt;strong&gt;A Distributed Cloud Storage Service Platform&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;CWN-X is a fully distributed object storage product focusing on storage of the most frequently accessed data and on intelligent data transfers among public and private clouds. Based on multi-tiered data storage architecture, hardware technology with high IO performance, and a high network bandwidth, CWN-X significantly improves read-write speed and capacity management, thereby helping enterprise customers greatly increase the efficiency of their storage usage.&lt;/p&gt;
-
-&lt;p&gt;CWN-X has a substantial ability to scale out and it is capable of handling demand for storage of ultra-large-scale unstructured data. Deployed edge storage nodes enhance edge computing capabilities and data mining effectiveness. Tiered storage based on the frequency of data access allows customers to reduce storage costs.CWN-X can achieve service availability of 99.99% and durability of 99.99999999999%.&lt;/p&gt;
-
-&lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CWN-X(Cloud Warehouse Network)&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cwn-02.png&quot;&gt;&lt;/p&gt;
-
-&lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CWN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-03.png&quot;&gt;
-    &lt;p&gt;Hot Data Optimization - accelerates data transmission&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Intelligent data detection&lt;/li&gt;
-        &lt;li&gt;Tiered data storage&lt;/li&gt;
-        &lt;li&gt;High IO storage&lt;/li&gt;
-        &lt;li&gt;Auto data migration&lt;/li&gt;
-    &lt;/ul&gt;
+&lt;div&gt;
+    &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CWN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
+    
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cwn-03.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;Hot Data Optimization - accelerates data transmission&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Intelligent data detection&lt;/li&gt; 
+                
+                &lt;li&gt;Tiered data storage&lt;/li&gt; 
+                
+                &lt;li&gt;High IO storage&lt;/li&gt; 
+                
+                &lt;li&gt;Auto data migration&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cwn-04.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;Flexible Service Management - tailored services and solutions&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;On-demand storage scale-out&lt;/li&gt; 
+                
+                &lt;li&gt;Customization based on application and file size/content type&lt;/li&gt; 
+                
+                &lt;li&gt;Agile modifications&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cwn-05.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;Software Defined Storage - hybrid cloud storage architecture&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Flexible and extensible migration for less frequently accessed data&lt;/li&gt; 
+                
+                &lt;li&gt;Data migration among public and private clouds&lt;/li&gt; 
+                
+                &lt;li&gt;Real-time data interactions with cloud delivery services&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cwn-06.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;High Availability - enhanced services&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Balancing load burst amongst service nodes within seconds&lt;/li&gt; 
+                
+                &lt;li&gt;Resource isolation and tenant quotas&lt;/li&gt; 
+                
+                &lt;li&gt;Multi-regional access across data centers&lt;/li&gt; 
+                
+                &lt;li&gt;Disc IO throttle&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
 &lt;/div&gt;
 
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-04.png&quot;&gt;
-    &lt;p&gt;Flexible Service Management - tailored services and solutions&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;On-demand storage scale-out&lt;/li&gt;
-        &lt;li&gt;Customization based on application and file size/content type&lt;/li&gt;
-        &lt;li&gt;Agile modifications&lt;/li&gt;
-    &lt;/ul&gt;
+&lt;div&gt;
+    &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CWN-X Products and Solutions&lt;/strong&gt;&lt;/h4&gt;
+    
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-07.png&quot;&gt;
+                &lt;h6&gt;Online storage optimization&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;By separating hot and cold data, the BSC cross IDC storage system maximizes hot data performance and reduces cold data storage costs by 70%, as opposed to the standard 3-copy replication policy&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-08.png&quot;&gt;
+                &lt;h6&gt;Data migration&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;BSC’s internal data migration is powered by a self-managed sub-system, which automatically detects and recovers broken data in a single IDC or in cross multiple IDCs&lt;/li&gt;
+                    
+                    &lt;li&gt;BSC’s cross-cloud data migration tool-kit provides end-users with full control of their data layout across IDCs or across cloud providers&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-09.png&quot;&gt;
+                &lt;h6&gt;Security management&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;BSC provides RESTful APIs in the HTTPS protocol, thus protecting users from network sniffers or man-in-the-middle attacks&lt;/li&gt;
+                    
+                    &lt;li&gt;Compatible with Amazon S3 Signature-v4, BSC deploys a very strong signature algorithm to protect users from hash collision attacks&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-10.png&quot;&gt;
+                &lt;h6&gt;Integration of CDN-X&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;CWN-X is closely integrated with the BSC cloud delivery platform. Such integration allows users to access their data more rapidly when data-changing events affect cloud delivery by cloud storage services&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-11.png&quot;&gt;
+                &lt;h6&gt;Multimedia processing&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;The closer the computing server is to the storage server, the more quickly a job is completed. BSC helps its users achieve maximum performance by providing them with well-defined computing tasks, such as music/video transcoding and scheduling to their closest data sources&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-12.png&quot;&gt;
+                &lt;h6&gt;Multi-upload options&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Through HTTP PUT/POST, users can upload their data from anywhere in the world without any additional devices&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-13.png&quot;&gt;
+                &lt;h6&gt;Offline downloading&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;The offline downloading service is a data import scheduler subsystem that reliably imports data from user-specified URLs. It allows users to import a large amount of data in several PBs&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cwn-14.png&quot;&gt;
+                &lt;h6&gt;Integrated SaaS&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Supporting services, such as &quot;lambda&quot; and &quot;callback,&quot; provide users with more power to control data and allow user applications to react to data activities more effectively and efficiently&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
 &lt;/div&gt;
 
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-05.png&quot;&gt;
-    &lt;p&gt;Software Defined Storage - hybrid cloud storage architecture&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Flexible and extensible migration for less frequently accessed data&lt;/li&gt;
-        &lt;li&gt;Data migration among public and private clouds&lt;/li&gt;
-        &lt;li&gt;Real-time data interactions with cloud delivery services&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-06.png&quot;&gt;
-    &lt;p&gt;High Availability - enhanced services&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Balancing load burst amongst service nodes within seconds&lt;/li&gt;
-        &lt;li&gt;Resource isolation and tenant quotas&lt;/li&gt;
-        &lt;li&gt;Multi-regional access across data centers&lt;/li&gt;
-        &lt;li&gt;Disc IO throttle&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CWN-X Products and Solutions&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-07.png&quot;&gt;
-    &lt;h6&gt;Online storage optimization&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;By separating hot and cold data, the BSC cross IDC storage system maximizes hot data performance and reduces cold data storage costs by 70%, as opposed to the standard 3-copy replication policy&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-08.png&quot;&gt;
-    &lt;h6&gt;Data migration&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;BSC’s internal data migration is powered by a self-managed sub-system, which automatically detects and recovers broken data in a single IDC or in cross multiple IDCs&lt;/li&gt;
-        &lt;li&gt;BSC’s cross-cloud data migration tool-kit provides end-users with full control of their data layout across IDCs or across cloud providers&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-09.png&quot;&gt;
-    &lt;h6&gt;Security management&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;BSC provides RESTful APIs in the HTTPS protocol, thus protecting users from network sniffers or man-in-the-middle attacks&lt;/li&gt;
-        &lt;li&gt;Compatible with Amazon S3 Signature-v4, BSC deploys a very strong signature algorithm to protect users from hash collision attacks&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-10.png&quot;&gt;
-    &lt;h6&gt;Integration of CDN-X&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;CWN-X is closely integrated with the BSC cloud delivery platform. Such integration allows users to access their data more rapidly when data-changing events affect cloud delivery by cloud storage services&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-11.png&quot;&gt;
-    &lt;h6&gt;Multimedia processing&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;The closer the computing server is to the storage server, the more quickly a job is completed. BSC helps its users achieve maximum performance by providing them with well-defined computing tasks, such as music/video transcoding and scheduling to their closest data sources&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-12.png&quot;&gt;
-    &lt;h6&gt;Multi-upload options&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Through HTTP PUT/POST, users can upload their data from anywhere in the world without any additional devices&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-13.png&quot;&gt;
-    &lt;h6&gt;Offline downloading&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;The offline downloading service is a data import scheduler subsystem that reliably imports data from user-specified URLs. It allows users to import a large amount of data in several PBs&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cwn-14.png&quot;&gt;
-    &lt;h6&gt;Integrated SaaS&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Supporting services, such as &quot;lambda&quot; and &quot;callback,&quot; provide users with more power to control data and allow user applications to react to data activities more effectively and efficiently&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;h4 style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;CWN-X Product Innovations&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;font-size: 18px;margin-top: 30px;&quot;&gt;&lt;strong&gt;CWN-X Product Innovations&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;The following unique cloud storage product innovations reflect BSC’s continued commitment and efforts to develop technology. Compared with traditional storage, these innovative features significantly help enhance the performance and qualities of BSC’s storage services.&lt;/p&gt;
 
 &lt;div class=&quot;products-sliderbox products-sliderbox-cwn&quot; id=&quot;sliderBox&quot;&gt;
+    
+    
+    
     &lt;div class=&quot;products-slider products-slider-hover slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cwn-15.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Self-Structured Edge Storage&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;Utilizing an optical data center interconnect (DCI) to ensure uploading and downloading from the closest IDC to significantly improve the user experience.&lt;/p&gt;
     &lt;/div&gt;
+    
+    
     &lt;div class=&quot;products-slider slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cwn-16.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Multi Active Peer Storage Nodes&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;Using a decentralized replicated configuration, it ensures large file synchronization and cross IDC failovers within seconds, thus increasing the availability of storage services.&lt;/p&gt;
     &lt;/div&gt;
+    
+    
     &lt;div class=&quot;products-slider slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cwn-17.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Auto Detection of Data Access Frequency&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;A hierarchical multi-tiered data storage ensures an asynchronous merger of fresh and historical data.&lt;/p&gt;
     &lt;/div&gt;
+    
+    
     &lt;div class=&quot;products-slider slider&quot;&gt;
+    
         &lt;img src=&quot;/en/public/image/products/cwn-18.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Intelligent Quality Control&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;A real-time auto mechanism that guarantees the availability of quality services. It also includes an auto data recovery system.&lt;/p&gt;
     &lt;/div&gt;
+    
 &lt;/div&gt;
 
 &lt;div class=&quot;slider-btn my-sliderbtn my-sliderbtn-Products&quot;&gt;
@@ -1921,196 +2097,315 @@
    <link href="http://www.baishancloud.com/2016/03/03/CDN-X/"/>
    <updated>2016-03-03T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/03/03/CDN-X</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cdn-01.png&quot; class=&quot;products-title&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cdn-01.png&quot; class=&quot;products-title&quot;&gt;
+&lt;div&gt;
+    &lt;h4&gt;&lt;strong&gt;A More Intelligent Cloud Delivery Service Platform&lt;/strong&gt;&lt;/h4&gt;
+    &lt;p&gt;CDN-X is an innovative cloud delivery service platform providing the following services ‒ webpage acceleration, downloading, video-on-demand streaming, live streaming, network load balance, and dynamic acceleration. Its open and flexible platform, supported by BSC loosely coupled network architecture, can rapidly add new features to provide customers with customized solutions.&lt;/p&gt;
+    &lt;p&gt;As an integral part of the BSC cloud-managed services, CDN-X reflects and incorporates many of BSC’s product innovations. Unlike traditional content delivery, these product innovations allow BSC cloud delivery services to be more Rapid, more Stable, more Transparent, as well as more Tailored and more Secure.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CDN-X(Cloud Devlivery Network)&lt;/strong&gt;&lt;/h4&gt;
+    &lt;img src=&quot;/en/public/image/products/cdn-02.png&quot;&gt;
+&lt;/div&gt;&lt;/p&gt;
 
-&lt;h4&gt;&lt;strong&gt;A More Intelligent Cloud Delivery Service Platform&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;CDN-X is an innovative cloud delivery service platform providing the following services ‒ webpage acceleration, downloading, video-on-demand streaming, live streaming, network load balance, and dynamic acceleration. Its open and flexible platform, supported by BSC loosely coupled network architecture, can rapidly add new features to provide customers with customized solutions.&lt;/p&gt;
-
-&lt;p&gt;As an integral part of the BSC cloud-managed services, CDN-X reflects and incorporates many of BSC’s product innovations. Unlike traditional content delivery, these product innovations allow BSC cloud delivery services to be more Rapid, more Stable, more Transparent, as well as more Tailored and more Secure.&lt;/p&gt;
-
-&lt;h4 class=&quot;centent-top&quot;&gt;&lt;strong&gt;CDN-X(Cloud Devlivery Network)&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/en/public/image/products/cdn-02.png&quot;&gt;&lt;/p&gt;
-
-&lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CDN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-03.png&quot;&gt;
-    &lt;p&gt;More Rapid&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;TCP/IP-based optimization&lt;/li&gt;
-        &lt;li&gt;Distributed DNS architecture&lt;/li&gt;
-        &lt;li&gt;Agile configuration management&lt;/li&gt;
-        &lt;li&gt;Innovative purging system&lt;/li&gt;
-    &lt;/ul&gt;
+&lt;div&gt;
+    &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;Key CDN-X Platform Features&lt;/strong&gt;&lt;/h4&gt;
+    
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cdn-03.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;More Rapid22&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;TCP/IP-based optimization&lt;/li&gt; 
+                
+                &lt;li&gt;Distributed DNS architecture&lt;/li&gt; 
+                
+                &lt;li&gt;Agile configuration management&lt;/li&gt; 
+                
+                &lt;li&gt;Innovative purging system&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cdn-04.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;More Stable&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Elastic engineering architecture&lt;/li&gt; 
+                
+                &lt;li&gt;Early detection of dynamic changes&lt;/li&gt; 
+                
+                &lt;li&gt;Timely responses&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cdn-05.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;More Transparent&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Transparent billing&lt;/li&gt; 
+                
+                &lt;li&gt;Real-time traffic&lt;/li&gt; 
+                
+                &lt;li&gt;Transparent user access data&lt;/li&gt; 
+                
+                &lt;li&gt;Transparent user behavior data&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cdn-06.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;More Tailored&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Loosely coupled network architecture&lt;/li&gt; 
+                
+                &lt;li&gt;Customized solutions&lt;/li&gt; 
+                
+                &lt;li&gt;High scalability&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;products-list clearfix&quot;&gt;
+        &lt;div class=&quot;cdn-features-imgbox&quot;&gt;
+            &lt;img src=&quot;/en/public/image/products/cdn-07.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cdn-feature-listbox&quot;&gt;
+            &lt;p&gt;More Tailored&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;Anti-CC attacks&lt;/li&gt; 
+                
+                &lt;li&gt;Advanced DDoS protection&lt;/li&gt; 
+                
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
 &lt;/div&gt;
 
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-04.png&quot;&gt;
-    &lt;p&gt;More Stable&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Elastic engineering architecture&lt;/li&gt;
-        &lt;li&gt;Early detection of dynamic changes&lt;/li&gt;
-        &lt;li&gt;Timely responses&lt;/li&gt;
-    &lt;/ul&gt;
+&lt;div&gt;
+    &lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CDN-X Products and Solutions&lt;/strong&gt;&lt;/h4&gt;
+    
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cdn-08.png&quot;&gt;
+                &lt;h6&gt;Webpage Acceleration&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;p&gt;To enable an overall optimal online experience, regardless of location.&lt;/p&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;A decrease in purging time from minutes to second&lt;/li&gt;
+                    
+                    &lt;li&gt;Providing network capacity on demand&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cdn-09.png&quot;&gt;
+                &lt;h6&gt;Video Streaming&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;p&gt;Highest quality media streaming delivery on any device&lt;/p&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Fluency ratio: 97.1％&lt;/li&gt;
+                    
+                    &lt;li&gt;Buffer time reduction: 41.5%&lt;/li&gt;
+                    
+                    &lt;li&gt;First frame time reduction: 42.7%&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cdn-10.png&quot;&gt;
+                &lt;h6&gt;Live Streaming&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;p&gt;Fluent live streaming to level up user quantity&lt;/p&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Live streaming opening in seconds&lt;/li&gt;
+                    
+                    &lt;li&gt;Video stuttering ratio reduction: 35.5%&lt;/li&gt;
+                    
+                    &lt;li&gt;Concurrently supporting tens of millions&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cdn-11.png&quot;&gt;
+                &lt;h6&gt;Dynamic Acceleration&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;p&gt;Consistent user experience on dynamically generated contents to increase profit opportunities&lt;/p&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Dynamic content loading speed increase: 41.9%&lt;/li&gt;
+                    
+                    &lt;li&gt;HTTP request reduction: 35.5%&lt;/li&gt;
+                    
+                    &lt;li&gt;Concurrent request increase: 210%&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-sm-3&quot;&gt;
+            &lt;div class=&quot;products-blue&quot;&gt;
+                &lt;img src=&quot;/en/public/image/products/cdn-12.png&quot;&gt;
+                &lt;h6&gt;Download Acceleration&lt;/h6&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-9&quot;&gt;
+            &lt;div class=&quot;products-blue-info&quot;&gt;
+                &lt;p&gt;Effective file delivery of any size to optimize the user experience&lt;/p&gt;
+                &lt;ul&gt;
+                    
+                    &lt;li&gt;Customizable tool for real-time monitoring&lt;/li&gt;
+                    
+                    &lt;li&gt;Guaranteed average download time of no less than 2.4Mb/s&lt;/li&gt;
+                    
+                    &lt;li&gt;Network availability of over 99.9%&lt;/li&gt;
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
 &lt;/div&gt;
 
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-05.png&quot;&gt;
-    &lt;p&gt;More Transparent&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Transparent billing&lt;/li&gt;
-        &lt;li&gt;Real-time traffic&lt;/li&gt;
-        &lt;li&gt;Transparent user access data&lt;/li&gt;
-        &lt;li&gt;Transparent user behavior data&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-06.png&quot;&gt;
-    &lt;p&gt;More Tailored&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Loosely coupled network architecture&lt;/li&gt;
-        &lt;li&gt;Customized solutions&lt;/li&gt;
-        &lt;li&gt;High scalability&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-list&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-07.png&quot;&gt;
-    &lt;p&gt;More Tailored&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Anti-CC attacks&lt;/li&gt;
-        &lt;li&gt;Advanced DDoS protection&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h4 style=&quot;margin-top: 50px;&quot;&gt;&lt;strong&gt;CDN-X Products and Solutions&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-08.png&quot;&gt;
-    &lt;h6&gt;Webpage Acceleration&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;p&gt;To enable an overall optimal online experience, regardless of location.&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;A decrease in purging time from minutes to second&lt;/li&gt;
-        &lt;li&gt;Providing network capacity on demand&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-09.png&quot;&gt;
-    &lt;h6&gt;Video Streaming&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;p&gt;Highest quality media streaming delivery on any device&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Fluency ratio：97.1％&lt;/li&gt;
-        &lt;li&gt;Buffer time reduction: 41.5%&lt;/li&gt;
-        &lt;li&gt;First frame time reduction：42.7%&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-10.png&quot;&gt;
-    &lt;h6&gt;Live Streaming&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;p&gt;Fluent live streaming to level up user quantity.&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Live streaming opening in seconds&lt;/li&gt;
-        &lt;li&gt;Video stuttering ratio reduction: 35.5%&lt;/li&gt;
-        &lt;li&gt;Concurrently supporting tens of millions&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-11.png&quot;&gt;
-    &lt;h6&gt;Dynamic Acceleration&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;p&gt;Consistent user experience on dynamically generated contents to increase profit opportunities.&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Dynamic content loading speed increase: 41.9%&lt;/li&gt;
-        &lt;li&gt;HTTP request reduction: 35.5%&lt;/li&gt;
-        &lt;li&gt;Concurrent request increase: 210%&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;products-blue&quot;&gt;
-    &lt;img src=&quot;/en/public/image/products/cdn-12.png&quot;&gt;
-    &lt;h6&gt;Download Acceleration&lt;/h6&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;products-blue-info&quot;&gt;
-    &lt;p&gt;Effective file delivery of any size to optimize the user experience.&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Customizable tool for real-time monitoring&lt;/li&gt;
-        &lt;li&gt;Guaranteed average download time of no less than 2.4Mb/s&lt;/li&gt;
-        &lt;li&gt;Network availability of over 99.9%&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;h4 style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;CDN-X Product Innovations&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;font-size: 18px;margin-top: 30px;&quot;&gt;&lt;strong&gt;CDN-X Product Innovations&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;The following unique innovations in cloud delivery products reflect BSC’s commitment and efforts in technology development. Adapted in China for the first time, these innovations have helped BSC significantly improve and enhance the quality of its cloud delivery services.&lt;/p&gt;
 
 &lt;div class=&quot;products-sliderbox products-sliderbox-cdn&quot; id=&quot;sliderBox&quot;&gt;
+
+
+
     &lt;div class=&quot;products-slider products-slider-hover slider&quot;&gt;
+
         &lt;img src=&quot;/en/public/image/products/cdn-13.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Instant Purging&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Real-time content purging within seconds&lt;/i&gt;&lt;/p&gt;
+         
         &lt;ul class=&quot;cdn&quot;&gt;
+          
+             
             &lt;li&gt;Avoidance of single node failures&lt;/li&gt;
+             
             &lt;li&gt;A caching algorithm to timely distribute content to all nodes&lt;/li&gt;
+             
             &lt;li&gt;Timely receipt and feedback of each system delivery&lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
+
     &lt;div class=&quot;products-slider slider&quot;&gt;
+
         &lt;img src=&quot;/en/public/image/products/cdn-14.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Intelligent DNS&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Distributed DNS and a dynamic IP library&lt;/i&gt;&lt;/p&gt;
+         
         &lt;ul class=&quot;cdn&quot;&gt;
+          
+             
             &lt;li&gt;LDNS visits to the main DNS in the closest proximity to where the LDNS servers are located&lt;/li&gt;
+             
             &lt;li&gt;Enhanced anti-attack capability&lt;/li&gt;
+             
             &lt;li&gt;Intelligent traffic routing&lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
+
     &lt;div class=&quot;products-slider slider&quot;&gt;
+
         &lt;img src=&quot;/en/public/image/products/cdn-15.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Protocol Optimization&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Avoiding data retransmission and easing of traffic congestion&lt;/i&gt;&lt;/p&gt;
+        
         &lt;ul class=&quot;cdn-narrow&quot;&gt;
+          
+             
             &lt;li&gt;A congestion control algorithm to increase download speed and stability&lt;/li&gt;
+             
             &lt;li&gt;Pre-detection of packet losses&lt;/li&gt;
+             
             &lt;li&gt;Applicable to all transport layer applications using TCP protocol&lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
+
     &lt;div class=&quot;products-slider slider&quot;&gt;
+
         &lt;img src=&quot;/en/public/image/products/cdn-16.png&quot;&gt;
         &lt;h4&gt;&lt;i&gt;Webpage Optimization&lt;/i&gt;&lt;/h4&gt;
         &lt;p&gt;&lt;i&gt;Splitting and restructuring of webpages&lt;/i&gt;&lt;/p&gt;
+         
         &lt;ul class=&quot;cdn&quot;&gt;
+          
+             
             &lt;li&gt;Streaming technology - splitting webpages into smaller pieces and pushing them to web browsers to achieve priority execution. Prioritized loading for key URLs&lt;/li&gt;
+             
             &lt;li&gt;Preloading pages to be visited based on visit history and complete advance DNS resolution&lt;/li&gt;
+            
         &lt;/ul&gt;
     &lt;/div&gt;
+ 
 &lt;/div&gt;
 
 &lt;div class=&quot;slider-btn my-sliderbtn my-sliderbtn-Products&quot;&gt;
@@ -2138,21 +2433,38 @@
 
 &lt;p&gt;Product innovations, along with operational efficiencies and improved quality of services, are the leading business drivers behind BSC service adoption. New and improved features and functionalities of BSC cloud managed services now provide customers with additional benefits. The BSC service provision focuses on the customization of services and reductions in time-to-market for customers.&lt;/p&gt;
 
-&lt;div class=&quot;list-overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CDN-X:&lt;/strong&gt;A unique BSC cloud delivery service platform coupled with innovative features now enable much faster, more stable, more transparent, and tailored cloud delivery services.&lt;/p&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list-overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CWN-X:&lt;/strong&gt;A fully distributed cloud storage service platform, along with edge storage focusing on the storage of hot data, significantly increases the accuracy of data access and ensures high service availability.&lt;/p&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list-overview&quot;&gt;&lt;p&gt;&lt;strong&gt;CLN-X:&lt;/strong&gt;A multi cloud management service platform concentrating on data migration and data integration for enterprises in linking with public and private clouds. It offers adaptation, security, and acceleration services for enterprise APIs.&lt;/p&gt;&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list-overview&quot;&gt;&lt;a href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list-overview&quot;&gt;&lt;a href=&quot;/en//2016/03/04/CWN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;list-overview&quot;&gt;&lt;a href=&quot;/en//2016/03/05/CLN-X/&quot;&gt;More&lt;/a&gt;&lt;/div&gt;
-
-&lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-4&quot;&gt;
+        &lt;p class=&quot;products-dis&quot;&gt;
+            &lt;strong&gt;CDN-X:&lt;/strong&gt;
+            A unique BSC cloud delivery service platform coupled with innovative features now enable much faster, more stable, more transparent, and tailored cloud delivery services.
+        &lt;/p&gt;
+        &lt;a class=&quot;visible-xs products-more&quot; href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;More&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-4&quot;&gt;
+        &lt;p class=&quot;products-dis&quot;&gt;
+            &lt;strong&gt;CWN-X:&lt;/strong&gt;
+            A fully distributed cloud storage service platform, along with edge storage focusing on the storage of hot data, significantly increases the accuracy of data access and ensures high service availability.
+            &lt;/p&gt;
+            &lt;a class=&quot;visible-xs products-more&quot; href=&quot;/en//2016/03/04/CWN-X/&quot;&gt;More&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;div class=&quot;col-sm-4&quot;&gt;
+        &lt;p class=&quot;products-dis&quot;&gt;
+            &lt;strong&gt;CLN-X:&lt;/strong&gt;
+            A multi cloud management service platform concentrating on data migration and data integration for enterprises in linking with public and private clouds. It offers adaptation, security, and acceleration services for enterprise APIs.
+        &lt;/p&gt;
+        &lt;a class=&quot;visible-xs products-more&quot; href=&quot;/en//2016/03/05/CLN-X/&quot;&gt;More&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-4 hidden-xs&quot;&gt;
+        &lt;a class=&quot;products-more&quot; href=&quot;/en//2016/03/03/CDN-X/&quot;&gt;More&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-4 hidden-xs&quot;&gt;
+        &lt;a class=&quot;products-more&quot; href=&quot;/en//2016/03/04/CWN-X/&quot;&gt;More&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-4 hidden-xs&quot;&gt;
+        &lt;a class=&quot;products-more&quot; href=&quot;/en//2016/03/05/CLN-X/&quot;&gt;More&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 class=&quot;centent-top&quot;&gt;CCX Architecture&lt;/h2&gt;
 
@@ -2177,8 +2489,6 @@
         &lt;li class=&quot;overview-button&quot;&gt;&lt;/li&gt;
     &lt;/ul&gt;
 &lt;/div&gt;
-
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 </content>
  </entry>
  
@@ -2195,75 +2505,69 @@
    <link href="http://www.baishancloud.com/2016/02/01/Management/"/>
    <updated>2016-02-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/02/01/Management</id>
-   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
-&lt;h1 class=&quot;head-title&quot;&gt;Key Management Team&lt;/h1&gt;
+   <content type="html">&lt;h1 class=&quot;head-title&quot;&gt;Key Management Team&lt;/h1&gt;
+
 &lt;p&gt;Since April 2015, as a rapidly growing start-up company BaishanCloud has attracted the best manpower in China to form a well-balanced team in every aspect of its business. The management team averages 15 years of work experience in the IT industry, both in China and overseas, and has strong skills in business operations, execution, and implementation. Key network design, R&amp;amp;D, and product development team leaders all have BAT experience and diversified leadership backgrounds in technology innovation and development.&lt;/p&gt;
+
 &lt;p&gt;Young, energetic, and driven by the desire to achieve success, the team has quickly established its name in the industry based on its solid business and service performance.&lt;/p&gt;
     
-&lt;div class=&quot;management-info management-info-first&quot;&gt;
+
+&lt;div class=&quot;management-info management-info-first clearfix&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/jason_huo.png&quot;&gt;
     &lt;h2&gt;Jason Huo&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Executive Officer&lt;/p&gt;
     &lt;p&gt;Jason co-founded BSC in 2015 based on the concept of CCX - Cloud Connects Everything.  As the first company in China to introduce cloud-linkage services, Jason quickly assembled his dream team and led it to a higher level.  Jason now oversees general management of daily business operations, corporate business strategy, and product direction.  Prior to founding BSC, Jason held a number of important managerial positions at ChinaCache, including acting COO in 2011, and he participated in its IPO.&lt;/p&gt;
     &lt;p&gt;Jason holds a B.S. degree in Computer Science from Shandong Normal University and a  MBA from Beijing University of Science and Technology.  He is a member of the Chinese Communications Standards Association and a council member of the Capital Internet Society.&lt;/p&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
     
-&lt;div class=&quot;management-info&quot;&gt;
+
+&lt;div class=&quot;management-info clearfix&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/robert_sha.png&quot;&gt;
     &lt;h2&gt;Robert Sha&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Financial Officer&lt;/p&gt;
     &lt;p&gt;Robert, a co-founder of BSC in 2015, oversees financial operations of the company, including daily financial operations, risk management, and management of capital flows and investments.  Before founding BSC, from 2003 to 2011 Robert worked as CFO at ChinaCache and he eventually participated in its Nasdaq IPO.  From 2012 to 2014, Robert worked as CFO at China Auto Rentals and The Six Room Holdings.&lt;/p&gt;
     &lt;p&gt;Robert holds a B.S. degree in Accounting and a M.S. in Economics, both from Nankai University.  He is a member of the CICA and a fellowship member of the FCCA in the United Kingdom.&lt;/p&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management-info&quot;&gt;
+&lt;div class=&quot;management-info clearfix&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/jason_dai.png&quot;&gt;
     &lt;h2&gt;Jason Dai&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Marketing Officer&lt;/p&gt;
     &lt;p&gt;Jason, a co-founder of BSC in 2015, is in charge of corporate marketing strategy and promotion of related brand-name marketing.  Jason has over 15 years of experience in the IT industry.  Prior to BSC, Jason worked at ChinaCache where he was a VP in charge of the IDC/ Cloud Computing business unit.   Before his position at ChinaCache, he held several senior positions at various Internet companies,  including Neusoft Network Services Company and Beijing Flash Interactive Technology.&lt;/p&gt;
     &lt;p&gt;Jason holds a B.S. degree in Metal Working from Northeastern University.&lt;/p&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management-info&quot;&gt;
+&lt;div class=&quot;management-info clearfix&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/john_tong.png&quot;&gt;
     &lt;h2&gt;John Tong&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Chief Technology Officer&lt;/p&gt;
     &lt;p&gt;John, a co-founder of BSC in 2016, is responsible for corporate technology implementation, product strategy, and daily R&amp;amp;D operations.  Prior to joining BSC, John worked at Sina for 17 years where his responsibilities included CDN, Big Data, and Cloud Computing.  Serving as GM of the Sina R&amp;amp;D Center in 2014, he was responsible for development of the overall technical system and management of cloud computing operations.  As a cloud computing pioneer, John is credited with rolling out one of the earliest public cloud services in China.&lt;/p&gt;
     &lt;p&gt;John holds a B.S. degree in MIS from North China University of Technology and an MBA degree from Guanghua School of Management at Peking University.&lt;/p&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management-info&quot;&gt;
+&lt;div class=&quot;management-info clearfix&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/terence_wang.png&quot;&gt;
     &lt;h2&gt;Terence Wang&lt;/h2&gt;
     &lt;p&gt;Co-Founder and Vice President of Products&lt;/p&gt;
     &lt;p&gt;Terence, a co-founder of BSC in 2015, is in charge of corporate product development, including product design, implementation, upgrading, and optimization.  Terence has over 10 years of experience in the CDN industry.  He previously worked as senior director of pre-sales at ChinaNet Center where he managed the technical team.  Terence holds three national patents in CDN.&lt;/p&gt;
     &lt;p&gt;Terence received a B.S. degree in Information Engineering from Beijing University of Posts and Telecommunications&lt;/p&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management-info&quot;&gt;
+&lt;div class=&quot;management-info clearfix&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/wei_an.png&quot;&gt;
     &lt;h2&gt;Wei An&lt;/h2&gt;
     &lt;p&gt;Partner and Vice-President of International Business Strategy&lt;/p&gt;
     &lt;p&gt;Wei joined BSC in 2016 to oversee corporate international business strategies, corporate communications, and partnership alliances.  Wei has over 25 years of experience in the IT and telecom industries, having held senior managerial positions in sales, marketing, business development, general management, and corporate communications at Excel/Lucent Technologies, Asiainfo, Salira Network Systems, Fleishman &amp;amp; Hillard, and ChinaCache.  As a key member of their management teams, Wei participated in successful IPOs of four start-ups, both in the United States and in China.&lt;/p&gt;
     &lt;p&gt;Wei holds a B.A. degree in English from Beijing Second Institute of Foreign languages and a M.A. in Comparative Government and International Relations from the University of Cincinnati in the United States.&lt;/p&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;management-info&quot;&gt;
+&lt;div class=&quot;management-info clearfix&quot;&gt;
     &lt;img src=&quot;/en/public/image/management/eddie_zhao.png&quot;&gt;
     &lt;h2&gt;Eddie Zhao&lt;/h2&gt;
     &lt;p&gt;Partner, Vice President, and GM of Global Business Operations  &lt;/p&gt;
     &lt;p&gt;In 2015 Eddie became a partner at BSC where he is responsible for international business operations and business development.  He has over 10 years of experience in business operations, consulting, sales, and marketing.  He previously held key managerial positions at China Railcom, Digital China, and ChinaCache.  Most recently, Eddie worked as senior product manager at Cummins, Inc., where he assumed full marketing responsibilities for product global expansions.&lt;/p&gt;
     &lt;p&gt;Eddie holds a B.S. degree in MIS from Beijing Capital University of Economy and Business and an MBA from the Kelly School of Business of Indiana University in the United States.&lt;/p&gt;
-    &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2272,24 +2576,14 @@
    <link href="http://www.baishancloud.com/2016/01/01/About-Us/"/>
    <updated>2016-01-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2016/01/01/About-Us</id>
-   <content type="html">&lt;p class=&quot;headimg-box-about&quot;&gt;
-&lt;img src=&quot;/en/public/image/about_us.png&quot; class=&quot;img head-img head-img-about&quot;&gt;
-&lt;/p&gt;
-
-&lt;h1&gt;BaishanCloud Corporate Overview&lt;/h1&gt;
-
-&lt;hr&gt;
-
-&lt;div class=&quot;list-content&quot;&gt;
-
-&lt;p&gt;Founded in April 2015, BaishanCloud(BSC) is a provider of cloud managed services, specializing in cloud resource exchanges and interactions. With a strong emphasis on data governance, BSC’s cloud managed product suite is comprised of three major services – cloud delivery, cloud storage and cloud linkages.  &lt;/p&gt;
-
-&lt;p&gt;BSC was the first company to introduce the CCX concept– Cloud Connects Everything – to the China market.  Leveraging its robust and loosely coupled cloud delivery and cloud storage network, BSC provides a cloud management platform to fulfill the data-migration and data-integration needs of enterprise customers.   The platform provides data storage, data integration, data acceleration, and data analytics services.&lt;/p&gt;
-
-&lt;p&gt;BSC has experienced rapid growth since its inception and its innovative cloud products have achieved considerable traction in the marketplace.  Its customer base and enhanced software-development capabilities have grown rapidly, making it a trusted and preferred provider of cloud managed services in China.  As of July 2016, BSC had completed three rounds of private equity financing.&lt;/p&gt;
-
-&lt;p&gt;Headquartered in Beijing, BSC now has offices in Shanghai, Shenzhen, and Seattle, as well as R&amp;D centers in Xiamen and Guian.&lt;/p&gt;
-
+   <content type="html">&lt;div class=&quot;list-content&quot;&gt;
+    &lt;div class=&quot;about-us&quot;&gt;
+        &lt;h1 class=&quot;ta-c&quot;&gt;BaishanCloud Corporate Overview&lt;/h1&gt;
+        &lt;p&gt;Founded in April 2015, BaishanCloud(BSC) is a provider of cloud managed services, specializing in cloud resource exchanges and interactions. With a strong emphasis on data governance, BSC’s cloud managed product suite is comprised of three major services – cloud delivery, cloud storage and cloud linkages.  &lt;/p&gt;
+        &lt;p&gt;BSC was the first company to introduce the CCX concept– Cloud Connects Everything – to the China market.  Leveraging its robust and loosely coupled cloud delivery and cloud storage network, BSC provides a cloud management platform to fulfill the data-migration and data-integration needs of enterprise customers.   The platform provides data storage, data integration, data acceleration, and data analytics services.&lt;/p&gt;
+        &lt;p&gt;BSC has experienced rapid growth since its inception and its innovative cloud products have achieved considerable traction in the marketplace.  Its customer base and enhanced software-development capabilities have grown rapidly, making it a trusted and preferred provider of cloud managed services in China.  As of July 2016, BSC had completed three rounds of private equity financing.&lt;/p&gt;
+        &lt;p&gt;Headquartered in Beijing, BSC now has offices in Shanghai, Shenzhen, and Seattle, as well as R&amp;D centers in Xiamen and Guian.&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 </content>
  </entry>

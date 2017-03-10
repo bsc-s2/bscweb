@@ -1387,11 +1387,23 @@ management-position {
 
 @media(min-width:768px) {
     .index-center-title {
+        font-size: 50px;
+    }
+    .index-center {
+        margin-top: -100px;
+        margin-left: calc(-275px + 7rem);
+        width: 550px;
+    }
+}
+
+@media(min-width:1000px) {
+    .index-center-title {
         font-size: 70px;
     }
     .index-center {
         margin-top: -120px;
         margin-left: calc(-385px + 7rem);
+        width: 770px;
     }
 }
 
@@ -1404,6 +1416,6 @@ management-position {
         margin-left: -110px;
     }
     .index-center-img {
-        min-heigth: 60px;
+        min-height: 60px;
     }
 }

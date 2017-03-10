@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="/zh/public/css/poole.css">
     <link rel="stylesheet" href="/zh/public/css/syntax.css">
     <link rel="stylesheet" href="/zh/public/css/hyde.css">
-    <link rel="stylesheet" href="/zh/public/css/content.css">
     <link rel="stylesheet" href="/zh/public/css/bootstrap.css">
     <link rel="stylesheet" href="/zh/public/css/lightbox.min.css">
     <link rel="stylesheet" href="/zh/public/css/main.css">
@@ -32,15 +31,15 @@
 </head>
 
 
-<body style="background-color: #FFF;">
+<body>
 
 <div class="sidebar hidden-xs">
     <div class="sidebar-sticky">
-        <ul class="nav_list" id="nav">
+        <ul id="nav">
             <li><a class="sidebar-nav-item " href="/zh/">首页</a></li>
             <li class="">
-                <a class="sidebar-nav-item nav-xs-first dropdown-toggle" data-target="#" data-toggle="dropdown">服务</a>
-                <ul class="dropdown-menu my-dropdown">
+                <a id="mdNav" class="sidebar-nav-item nav-xs-first dropdown-toggle" data-target="#" data-toggle="dropdown">服务</a>
+                <ul class="dropdown-menu my-dropdown" aria-labelledby="mdNav">
                     <li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
                     <li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
                     <li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
@@ -58,45 +57,51 @@
     </div>
 </div>
 
-<button class="nav-xs collapsed visible-xs" data-toggle="collapse" data-target="#navXS">
+<button class="nav-xs collapsed visible-xs"  id="navXSButton">
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
 </button>
 <div class="clearfix nav-xs-bg"></div>
-<div class="collapse nav-xs-content hidden-sm hidden-md hidden-lg" id="navXS">
-    <ul class="nav navbar-nav">
-        <li><a class="nav-xs-first" href="/zh/">首页</a></li>
-        <li class="dropdown">
-            <a class="nav-xs-first dropdown-toggle" href="#" data-toggle="dropdown">服务</a>
-            <ul class="dropdown-menu">
-                <li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
-                <li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
-                <li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
-            </ul>
-        </li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/04/technology/">技术</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/06/01/BSC-Culture/">生活</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/04/01/Customers/">客户</a></li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/05/brief/">白山简介</a></li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/06/management/">白山领导力</a></li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/20/news/">白山新闻</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/07/01/Careers/">白山招聘</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/08/01/Contact-Us/">联系白山</a></li>
-    </ul>
+<div class="nav-xs-box" id="navXSBox">
+    <div class="nav-xs-close"></div>
+    <div class="nav-xs-content visible-xs" id="navXSContent">
+        <ul class="nav navbar-nav">
+            <li><a class="nav-xs-first" href="/zh/">首页</a></li>
+            <li class="">
+                <a id="xsNavButton" class="nav-xs-first">服务</a>
+                <ul class="xs-products-ul" id="xsNav">
+                    <li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
+                    <li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
+                    <li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
+                </ul>
+            </li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/04/technology/">技术</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/06/01/BSC-Culture/">生活</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/04/01/Customers/">客户</a></li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/05/brief/">白山简介</a></li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/06/management/">白山领导力</a></li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/20/news/">白山新闻</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/07/01/Careers/">白山招聘</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/08/01/Contact-Us/">联系白山</a></li>
+        </ul>
+    </div>
 </div>
 
 
 
-<div class="content my-container">
-    <div class="post">
+    <div class="container my-container">
         <div class="content-page-header hidden-xs">
-            <img class="logo" src="/zh/public/image/logo_black.png" height="40px">
-        </div>
+    <img src="/zh/public/image/logo_black.png" height="40px">
+</div>
+
+    <div class="post">
+       
         <img class="logo visible-xs" src="/zh/public/image/logo_black.png" height="32px">
-        <div class="zh_page">
-            <div class="news-centent">
-                <h2>白山亮相数博会 用“云链”激活大数据</h2>
+        <div class="post-content">
+            <div class="col-sm-8">
+                <div class="news-content">
+                    <h2>白山亮相数博会 用“云链”激活大数据</h2>
 
 <hr>
 
@@ -130,23 +135,27 @@
 
 <p>继去年10月推出云链系列首款云分发产品CDN-X之后，白山还将陆续推出云转存CWN-X和云链接CLN-X等系列产品，助力用户激活大数据。</p>
 
+                </div>
             </div>
-            <div class="news-correlation">
-                <h5>相关阅读 <span><a href="/zh//2017/01/20/news/">进入新闻首页</a></span></h5>
-                <ul>
-                    <li><a href="/zh//2017/01/20/news-01/">白山：首创“乐高式松耦合”架构</a></li>
-                    <li><a href="/zh//2017/01/20/news-02/">Embrace delivery, storage and
-                        linkage for a 'post-cloud era'</a></li>
-                    <li><a href="/zh//2017/01/20/news-01/">从互联网+到“AI+”：中国互联网经济新动能</a></li>
-                    <li><a href="/zh//2017/01/20/news-01/">管理技术人，更要学会沟通</a></li>
-                    <li><a href="/zh//2017/01/20/news-01/">重构数据价值 云链网络共同体</a></li>
-                </ul>
-            </div>
+            <div class="col-sm-4">
+    <div class="news-correlation">
+        <h5>相关阅读 <span><a href="/zh//2017/01/20/news/">进入新闻首页</a></span></h5>
+        <ul>
+            <li><a href="/zh//2017/01/20/news-01/">白山：首创“乐高式松耦合”架构</a></li>
+            <li><a href="/zh//2017/01/20/news-02/">Embrace delivery, storage and
+                linkage for a 'post-cloud era'</a></li>
+            <li><a href="/zh//2017/01/20/news-01/">从互联网+到“AI+”：中国互联网经济新动能</a></li>
+            <li><a href="/zh//2017/01/20/news-01/">管理技术人，更要学会沟通</a></li>
+            <li><a href="/zh//2017/01/20/news-01/">重构数据价值 云链网络共同体</a></li>
+        </ul>
+    </div>
+</div>
+
             <div class="clean"></div>
         </div>
     </div>
 
-    <div class="bottom-nav bottom-nav-cn">
+    <div class="bottom-nav-cn hidden-xs">
     <h4>白山服务热线: <em>400-081-3388</em></h4>
     
     
@@ -356,49 +365,6 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <a class="sidebar-nav-item"
-       href="/zh//2016/05/01/BSC-Press/">白山新闻</a>
     
     
     

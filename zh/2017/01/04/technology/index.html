@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="/zh/public/css/poole.css">
     <link rel="stylesheet" href="/zh/public/css/syntax.css">
     <link rel="stylesheet" href="/zh/public/css/hyde.css">
-    <link rel="stylesheet" href="/zh/public/css/content.css">
     <link rel="stylesheet" href="/zh/public/css/bootstrap.css">
     <link rel="stylesheet" href="/zh/public/css/lightbox.min.css">
     <link rel="stylesheet" href="/zh/public/css/main.css">
@@ -34,13 +33,13 @@
 
 <body>
 
-<div class="sidebar hidden-xs">
+    <div class="sidebar hidden-xs">
     <div class="sidebar-sticky">
-        <ul class="nav_list" id="nav">
+        <ul id="nav">
             <li><a class="sidebar-nav-item " href="/zh/">首页</a></li>
             <li class="">
-                <a class="sidebar-nav-item nav-xs-first dropdown-toggle" data-target="#" data-toggle="dropdown">服务</a>
-                <ul class="dropdown-menu my-dropdown">
+                <a id="mdNav" class="sidebar-nav-item nav-xs-first dropdown-toggle" data-target="#" data-toggle="dropdown">服务</a>
+                <ul class="dropdown-menu my-dropdown" aria-labelledby="mdNav">
                     <li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
                     <li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
                     <li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
@@ -58,165 +57,208 @@
     </div>
 </div>
 
-<button class="nav-xs collapsed visible-xs" data-toggle="collapse" data-target="#navXS">
+<button class="nav-xs collapsed visible-xs"  id="navXSButton">
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
 </button>
 <div class="clearfix nav-xs-bg"></div>
-<div class="collapse nav-xs-content hidden-sm hidden-md hidden-lg" id="navXS">
-    <ul class="nav navbar-nav">
-        <li><a class="nav-xs-first" href="/zh/">首页</a></li>
-        <li class="dropdown">
-            <a class="nav-xs-first dropdown-toggle" href="#" data-toggle="dropdown">服务</a>
-            <ul class="dropdown-menu">
-                <li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
-                <li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
-                <li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
-            </ul>
-        </li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/04/technology/">技术</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/06/01/BSC-Culture/">生活</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/04/01/Customers/">客户</a></li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/05/brief/">白山简介</a></li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/06/management/">白山领导力</a></li>
-        <li><a class="nav-xs-first" href="/zh//2017/01/20/news/">白山新闻</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/07/01/Careers/">白山招聘</a></li>
-        <li><a class="nav-xs-first" href="/zh//2016/08/01/Contact-Us/">联系白山</a></li>
-    </ul>
+<div class="nav-xs-box" id="navXSBox">
+    <div class="nav-xs-close"></div>
+    <div class="nav-xs-content visible-xs" id="navXSContent">
+        <ul class="nav navbar-nav">
+            <li><a class="nav-xs-first" href="/zh/">首页</a></li>
+            <li class="">
+                <a id="xsNavButton" class="nav-xs-first">服务</a>
+                <ul class="xs-products-ul" id="xsNav">
+                    <li><a class="" href="/zh//2017/01/01/cdn-x/">CDN-X 云分发</a></li>
+                    <li><a class="" href="/zh//2017/01/02/cwn-x/">CWN-X 云存储</a></li>
+                    <li><a class="" href="/zh//2017/01/03/cln-x/">CLN-X 云聚合</a></li>
+                </ul>
+            </li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/04/technology/">技术</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/06/01/BSC-Culture/">生活</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/04/01/Customers/">客户</a></li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/05/brief/">白山简介</a></li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/06/management/">白山领导力</a></li>
+            <li><a class="nav-xs-first" href="/zh//2017/01/20/news/">白山新闻</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/07/01/Careers/">白山招聘</a></li>
+            <li><a class="nav-xs-first" href="/zh//2016/08/01/Contact-Us/">联系白山</a></li>
+        </ul>
+    </div>
 </div>
 
 
-
-<div class="content container my-container">
     
+    
+    <div class="container my-container">
+        
+        <div class="content-page-header hidden-xs">
+    <img src="/zh/public/image/logo_black.png" height="40px">
+</div>
+
+
+        
+        
+        
         <div class="post">
-            
-
-            <div class="content-page-header hidden-xs">
-                <img class="logo" src="/zh/public/image/logo_black.png" height="40px">
-            </div>
+        
             <img class="logo visible-xs" src="/zh/public/image/logo_black.png" height="32px">
-
-
-            
-
             <div class="post-content">
-                <div class="ccx-6">
-    <img src="/zh/public/image/technology/technology-01.jpg">
+                <div class="clearfix mar-b-40-sm">
+    <div class="col-xs-6 mar-b-20 ">
+        <img src="/zh/public/image/technology/technology-01.jpg">
+    </div>
+    <div class="col-xs-6 mar-b-20">
+        <img src="/zh/public/image/technology/technology-02.jpg">
+    </div>
 </div>
 
-<div class="ccx-6">
-    <img src="/zh/public/image/technology/technology-02.jpg">
-</div>
-
-<div class="bottom-100"></div>
-
-<div class="technology">
-    <div class="ccx-6">
-        <img src="/zh/public/image/technology/technology-03.jpg">
-        <div class="technology-hover">
-            <h2>松耦合 可插拔 多维度 高拓展</h2>
-        </div>
+<div class="clearfix technology mar-b-40-sm">
+    <div class="col-sm-6 col-xs-12 mar-b-20 technology-6">
+        <img src="/zh/public/image/technology/technology-03.png">
     </div>
-    <div class="ccx-6">
-        <img src="/zh/public/image/technology/technology-04.jpg">
-        <div class="technology-hover">
-            <h2>可视化 全采样 实时性 全日志</h2>
-        </div>
+    <div class="col-sm-6 col-xs-12 mar-b-20 technology-6">
+        <img src="/zh/public/image/technology/technology-04.png">
     </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-05.png">
-        <div class="technology-hover">
-            <h3>SHAQUE</h3>
-            <p>秒级实现全网内容更新</p>
+    
+    <div class="col-sm-4 col-xs-12">
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-05.png">
         </div>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-08.png">
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-11.png">
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-14.png">
+        </div>
+        
+        
+        
+        
+        
+        
     </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-06.png">
-        <div class="technology-hover">
-            <h3>TUNA</h3>
-            <p>解决TCP重传、窗口拥塞与慢启动</p>
+    <div class="col-sm-4 col-xs-12">
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-06.png">
         </div>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-09.png">
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-12.png">
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-15.png">
+        </div>
+        
+        
+        
+        
     </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-07.png">
-        <div class="technology-hover">
-            <h3>MANTA</h3>
-            <p>感知、拆分、重构整合页面内容端</p>
+    <div class="col-sm-4 col-xs-12">
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-07.png">
         </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-08.png">
-        <div class="technology-hover">
-            <h3>DOLFIN</h3>
-            <p>DNS云化、动态IP库、秒切、四维智能调度</p>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-10.png">
         </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-09.png">
-        <div class="technology-hover">
-            <h3>ATROX</h3>
-            <p>六大维度智能计算 锁定热数据</p>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-13.png">
         </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-10.png">
-        <div class="technology-hover">
-            <h3>XASTRO</h3>
-            <p>多中心存储光纤互联 大文件秒级同步</p>
+        
+        
+        
+        
+        
+        
+        
+        <div class="mar-b-20">
+            <img class="img-full" src="/zh/public/image/technology/technology-16.png">
         </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-11.png">
-        <div class="technology-hover">
-            <h3>ARAKNID</h3>
-            <p>边缘存储节点自组网 数据上传双就近</p>
-        </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-12.png">
-        <div class="technology-hover">
-            <h3>OCTOPUX</h3>
-            <p>实时自检机制&nbsp; 24小时自我修复</p>
-        </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-13.png">
-        <div class="technology-hover">
-            <h3>CAMELEO</h3>
-            <p>快速判断异常IP 即时抵御未知攻击</p>
-        </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-14.png">
-        <div class="technology-hover">
-            <h3>MACAL</h3>
-            <p>无状态计算集群 触发式运行机制</p>
-        </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-15.png">
-        <div class="technology-hover">
-            <h3>CORAL</h3>
-            <p>API自动构建 数据快速开放</p>
-        </div>
-    </div>
-    <div class="ccx-4">
-        <img src="/zh/public/image/technology/technology-16.jpg">
-        <div class="technology-hover">
-            <h3>FINBEQ</h3>
-            <p>广域网负载均衡 &nbsp;API聚合网关</p>
-        </div>
+        
+        
     </div>
 </div>
 
 <div class="clean"></div>
 
             </div>
-        </div>
+        </div><!--post-->
 
-        <div class="bottom-nav bottom-nav-cn">
+        <div class="bottom-nav-cn hidden-xs">
     <h4>白山服务热线: <em>400-081-3388</em></h4>
     
     
@@ -431,49 +473,6 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <a class="sidebar-nav-item"
-       href="/zh//2016/05/01/BSC-Press/">白山新闻</a>
-    
-    
-    
-    
-    
     <a class="sidebar-nav-item"
        href="/zh//2016/04/01/Customers/">白山客户</a>
     
@@ -483,8 +482,8 @@
 </div>
 
 
-    </div>
-    
+    </div><!--container-->
+
     <script src="/zh/public/js/jquery-2.2.4.js"></script>
     <script src="/zh/public/js/main.js"></script>
     <script src="/zh/public/js/bootstrap.min.js"></script>

@@ -65,21 +65,23 @@
     </div>
 </div>
 
-<button class="nav-xs collapsed visible-xs" data-toggle="collapse" data-target="#navXS">
+<button class="nav-xs collapsed visible-xs"  id="navXSButton">
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
 </button>
 <div class="clearfix nav-xs-bg"></div>
-<div class="collapse nav-xs-content hidden-sm hidden-md hidden-lg" id="navXS">
+<div class="nav-xs-box" id="navXSBox">
+    <div class="nav-xs-close"></div>
+    <div class="nav-xs-content visible-xs" id="navXSContent">
     <ul class="nav navbar-nav">
         <li><a class="nav-xs-first" href="/en/">Homepage</a></li>
         <li><a class="nav-xs-first" href="/en//2016/01/01/About-Us/">About Us</a></li>
         <li><a class="nav-xs-first" href="/en//2016/02/01/Management/">Management</a>
         </li>
-        <li class="dropdown">
-            <a class="nav-xs-first dropdown-toggle" href="#" data-toggle="dropdown">Products</a>
-            <ul class="dropdown-menu">
+            <li class="">
+            <a id="xsNavButton" class="nav-xs-first">Products</a>
+                <ul class="xs-products-ul" id="xsNav">
                 <li><a class="" href="/en//2016/03/02/Overview/">Overview</a></li>
                 <li><a class="" href="/en//2016/03/03/CDN-X/">CDN-X</a></li>
                 <li><a class="" href="/en//2016/03/04/CWN-X/">CWN-X</a></li>
@@ -96,6 +98,7 @@
         <li><a class="nav-xs-first" href="/en//2016/08/01/Contact-Us/">Contact Us</a>
         </li>
     </ul>
+    </div>
 </div>
 
 

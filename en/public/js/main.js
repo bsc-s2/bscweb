@@ -3,6 +3,22 @@ jQuery(document).ready(function() {
         $('#blocksItContainer').css('visibility', 'visible');
         setBlocksItCol();
     };
+    $("#navXSContent").click(function() {
+        event.stopPropagation();
+    });
+    $("#navXSButton").click(function() {
+        $("#navXSBox").css('display', 'block').removeClass('navhide').addClass('navshow');
+    });
+    var $navXSBox = $("#navXSBox");
+    $navXSBox.click(function() {
+        $navXSBox.removeClass('navshow').addClass('navhide');
+        setTimeout(function() {
+            $navXSBox.css('display', 'none');
+        }, 500);
+    });
+    $("#xsNavButton").click(function() {
+        $('#xsNav').toggle();
+    });
 
     function setBlocksItCol() {
         var winWidth = $(window).width();

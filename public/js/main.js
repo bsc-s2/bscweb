@@ -9,10 +9,11 @@ jQuery(document).ready(function() {
     $("#navXSButton").click(function() {
         $("#navXSBox").css('display', 'block').removeClass('navhide').addClass('navshow');
     });
-    $("#navXSBox").click(function() {
-        $("#navXSBox").removeClass('navshow').addClass('navhide');
+    var $navXSBox = $("#navXSBox");
+    $navXSBox.click(function() {
+        $navXSBox.removeClass('navshow').addClass('navhide');
         setTimeout(function() {
-            $("#navXSBox").css('display', 'none');
+            $navXSBox.css('display', 'none');
         }, 500);
     });
     $("#xsNavButton").click(function() {

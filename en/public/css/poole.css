@@ -282,6 +282,7 @@ pre code {
         top: 30px;
         font-weight: 600;
         font-size: 16px;
+        z-index: 99;
     }
     .sign-in {
         right: 180px;
@@ -297,9 +298,17 @@ pre code {
 @media (max-width:767px) {
     .sign-in,
     .chinese {
-        float: right;
+        display: inline;
+        position: absolute;
+        top: 60px;
+        font-size: 16px;
         z-index: 99;
-        margin: 10px;
+    }
+    .sign-in {
+        right: 80px;
+    }
+    .chinese {
+        right: 20px;
     }
 }
 

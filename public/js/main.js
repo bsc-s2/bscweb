@@ -19,6 +19,9 @@ jQuery(document).ready(function() {
     $("#xsNavButton").click(function() {
         $('#xsNav').toggle();
     });
+    $("#productsDropdownButton").click(function() {
+        $('#productsDropdown').toggle();
+    });
 
     function setBlocksItCol() {
         var winWidth = $(window).width();

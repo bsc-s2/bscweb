@@ -1353,6 +1353,7 @@ management-position {
 
 .index-prodects {
     background-color: #b0bac3;
+    display: none;
 }
 
 .index-xs-products {

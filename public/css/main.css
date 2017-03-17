@@ -259,6 +259,10 @@ strong {
     text-align: left;
 }
 
+.job-content p {
+    word-break: break-all;
+}
+
 .job-content li {
     list-style: disc outside;
     padding: .5em;

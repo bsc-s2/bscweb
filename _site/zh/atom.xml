@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-03-17T15:59:09+08:00</updated>
+ <updated>2017-03-17T17:03:57+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -4002,102 +4002,15 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
-                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job017&quot;&gt;
-                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;PHP研发工程师&lt;/span&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job901&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发流媒体研发工程师&lt;/span&gt; 
                         
-                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt;
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-                        &lt;div id=&quot;job017&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
-                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
-                            
-                            &lt;p&gt;1、负责/参与公司运营支撑体系的架构与开发；&lt;/p&gt;
-                            
-                            &lt;p&gt;2、对公司产品的服务质量负责，通过持续完善运维自动化和平台化，不断提高服务效率和服务稳定性；&lt;/p&gt;
-                            
-                            &lt;p&gt;3、对运营效率负责，通过持续完善运营自动化功能提高运营效率。&lt;/p&gt;
-                            
-                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
-                            
-                            &lt;p&gt;1、LAMP 3年以上开发经验、熟练掌握mysql的使用，有mysql性能优化经验；&lt;/p&gt;
-                            
-                            &lt;p&gt;2、扎实的数据结构和算法基础，熟悉操作系统原理，拥有良好的系统架构能力；&lt;/p&gt;
-                            
-                            &lt;p&gt;3、掌握shell、Perl、Python等常用脚本语言中的一种或多种；&lt;/p&gt;
-                            
-                            &lt;p&gt;4、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题；&lt;/p&gt;
-                            
-                            &lt;p&gt;5、之前有大规模网站开发经验，对php+mysql+css+js的开发具备经验者优先；&lt;/p&gt;
-                            
-                            &lt;p&gt;6、有UI/UE设计/开发经验者优先。&lt;/p&gt;
-                            
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                
-                
-                
-                
-                
-                
-                
-                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
-                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job020&quot;&gt;
-                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;流媒体研发运维工程师&lt;/span&gt;
-                        
-                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt;
-                        
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
-                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-                        &lt;div id=&quot;job020&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
-                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
-                            
-                            &lt;p&gt;1、负责公司核心平台的运维；&lt;/p&gt;
-                            
-                            &lt;p&gt;2、负责运维相关工具、系统的研发；&lt;/p&gt;
-                            
-                            &lt;p&gt;3、对平台服务质量和运维效率负责，推动产品架构设计与改进优化。&lt;/p&gt;
-                            
-                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
-                            
-                            &lt;p&gt;1、计算机或相关专业本科以上学历，有运维自动化开发经验；&lt;/p&gt;
-                            
-                            &lt;p&gt;2、熟悉Linux(类Unix)操作系统，熟悉TCP/IP、http协议；&lt;/p&gt;
-                            
-                            &lt;p&gt;3、精通或熟练掌握Linux环境下的PHP、PYTHON、SHELL等1至2种语言，对计算机体系结构有一定理解 ；&lt;/p&gt;
-                            
-                            &lt;p&gt;4、具备很强的分析和解决问题的能力，对于攻关疑难问题具有强烈的兴趣；&lt;/p&gt;
-                            
-                            &lt;p&gt;5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
-                            
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                
-                
-                
-                
-            &lt;/div&gt;
-            &lt;div class=&quot;col-md-6 col-lg-4&quot;&gt;
-                
-                
-                
-                
-                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
-                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job018&quot;&gt;
-                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;流媒体研发工程师&lt;/span&gt;
-                        
-                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt;
-                        
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
-                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-                        &lt;div id=&quot;job018&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&amp;北京&lt;/p&gt;
+                        &lt;div id=&quot;job901&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门/深圳&lt;/p&gt;
                             &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                             
                             &lt;p&gt;1、负责流媒体产品线的核心架构设计、开发和维护；&lt;/p&gt;
@@ -4109,80 +4022,497 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             &lt;p&gt;&amp;nbsp;&lt;/p&gt;
                             &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
                             
-                            &lt;p&gt;1、具有流媒体相关开发经验（编解码、播放器或流媒体服务器），有完整构建过大型直播服务经验者优先；&lt;/p&gt;
+                            &lt;p&gt;1、计算机相关专业本科以上学历，2年以上相关工作经验;&lt;/p&gt;
                             
-                            &lt;p&gt;2、熟练使用Linux，熟练掌握网络开发基础，熟练掌握C/C++语言；&lt;/p&gt;
+                            &lt;p&gt;2、 编解码、播放器或流媒体服务器相关开发经验，有完整构建过大型直播服务经验者优先；&lt;/p&gt;
                             
-                            &lt;p&gt;3、有丰富的编码能力和实践经验，有完善的项目开发经验；&lt;/p&gt;
+                            &lt;p&gt;3、熟练使用Linux，熟练掌握网络开发基础，熟练掌握C/C++语言；&lt;/p&gt;
                             
-                            &lt;p&gt;4、除C/C++外，至少熟练掌握shell、Python、Ruby、Go等1种编程语言；&lt;/p&gt;
+                            &lt;p&gt;4、有丰富的编码能力和实践经验，有完善的项目开发经验；&lt;/p&gt;
                             
-                            &lt;p&gt;5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
+                            &lt;p&gt;5、除C/C++外，至少熟练掌握shell、Python、Ruby、Go等1种编程语言；&lt;/p&gt;
                             
+                            &lt;p&gt;6、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
+                 
                 
+                 
                 
-                
-                
-                
+                 
                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
-                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job021&quot;&gt;
-                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;直播客户端开发岗&lt;/span&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job904&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发web研发工程师&lt;/span&gt; 
                         
-                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt;
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-                        &lt;div id=&quot;job021&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                        &lt;div id=&quot;job904&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
                             &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                             
-                            &lt;p&gt;1、负责Android / IOS 视频播放器及SDK 的设计与开发；&lt;/p&gt;
+                            &lt;p&gt;1、参与公司运营支撑体系的架构与开发；&lt;/p&gt;
                             
-                            &lt;p&gt;2、负责播放器与云平台接入的架构设计与开发；&lt;/p&gt;
+                            &lt;p&gt;2、对公司产品的服务质量负责，持续完善运维自动化和平台化，不断提高服务效率和服务稳定性；&lt;/p&gt;
                             
-                            &lt;p&gt;3、负责持续跟进播放器/SDK的功能、性能及稳定性优化，根据客户需求定制开发。&lt;/p&gt;
+                            &lt;p&gt;3、对运营效率负责，持续完善运营自动化功能提高运营效率。&lt;/p&gt;
                             
                             &lt;p&gt;&amp;nbsp;&lt;/p&gt;
                             &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
                             
-                            &lt;p&gt;1、三年以上Android / IOS 视频播放器相关开发经验；&lt;/p&gt;
+                            &lt;p&gt;1、计算机相关专业本科以上学历，3年以上相关工作经验；&lt;/p&gt;
                             
-                            &lt;p&gt;2、熟悉多媒体相关基础知识，熟悉多媒体播放器和FFMpeg等常见开源多媒体框架；&lt;/p&gt;
+                            &lt;p&gt;2、LAMP开发经验，熟练掌握mysql的使用，有mysql性能优化经验；&lt;/p&gt;
                             
-                            &lt;p&gt;3、熟悉并从事HEVC/H.264/H.263/MPEG4/2/AVS/HEAAC/EAC-3等音视频图像编解码、容器Parser算法研究和实践；&lt;/p&gt;
+                            &lt;p&gt;3、扎实的数据结构和算法基础，熟悉操作系统原理，拥有良好的系统架构能力；&lt;/p&gt;
                             
-                            &lt;p&gt;4、熟悉并从事HLS/DASH,RTMP,P2P,XMPP,RTSP等协议开发；&lt;/p&gt;
+                            &lt;p&gt;4、掌握shell、perl、python等常用脚本语言中的一种或多种；&lt;/p&gt;
                             
-                            &lt;p&gt;5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
+                            &lt;p&gt;5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题；&lt;/p&gt;
                             
+                            &lt;p&gt;6、之前有大规模网站开发经验，对php+mysql+css+js的开发具备经验者优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;7、cdn行业从业经验者优先。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                
+                 
+                
+                 
+                
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job907&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发研发运维工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job907&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责公司核心平台的运维；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责运维相关工具、系统的研发；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、对平台服务质量和运维效率负责，推动产品架构设计与改进优化；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、根据实际业务学习和探索自动化运维的方向。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历， 3年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、熟悉常见开源监控系统zabbix，nagios，open-falcon等，深入了解监控系统架构者优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、熟悉常见负载均衡架构，如LVS,nginx等基础软件的搭建维护；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、熟悉Linux(类Unix)操作系统，熟悉TCP/IP、http协议。对计算机及网络硬件有实际调优经验者佳；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、精通Linux环境下的PERL、PYTHON、SHELL、LUA等1至2种语言，熟练使用如puppet，saltstack，ansible等任意一种常见自动化运维工具；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、有大规模服务器集群管理经验者优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;7、主动性强，较强的分析及解决问题的能力，乐于挑战并解决技术上的疑难问题；&lt;/p&gt;
+                            
+                            &lt;p&gt;8、较强的抗压能力，良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                
+                 
+                
+                 
+                
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job910&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发大数据分析工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job910&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、 负责公司运营相关数据采集架构设计与开发；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、 根据采集数据进行运营质量分析；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、 根据质量分析结果推动相关产品组件优化以及风险规避。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、 计算机相关专业本科以上学历，3年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、 熟悉 ElasticSearch/Hadoop 等生态系统的各个组件部署、运维、监控；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、 熟悉Linux(类Unix)操作系统，熟练配置网络环境；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、 有扎实的计算机基础，熟悉python或go等编程语言；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、 有优秀的分析问题解决问题能力，对分析和处理有挑战的问题充满激情。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                
+                 
+                
+                 
+                
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job913&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发资源规划工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job913&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责对新节点、设备上线进行评估、规划；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责制定节点流量规划调整；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、负责节点使用优化；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、负责跟踪节点建设进展识别并规避风险。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，2年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、有编程经验、数据分析经验者、成本优化相关工作经验者优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、有良好的计算机及网络基础，熟悉Linux系统优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、具备较强的学习能力、分析能力和良好的大局统筹观；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、对数字敏感，具有较强的成本意识。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                
+                 
+                
+                 
+                
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job916&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云存储研发工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job916&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、团队协作解决软件、运维工具、测试中的复杂的工程问题；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、设计和实现可靠的自动化测试框架；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、设计, 实现和整和大规模系统；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、对领域内的新技术具有敏锐的嗅觉, 并能够主导对新技术的研究和应用；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、与内部沟通, 确立对系统架构的共识, 制定开发计划。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、本科或硕士以上学历，计算机相关专业；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、3年以上大规模分布式系统的设计和实现经验，c, cpp, java或 python 等的系统开发经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、具备面向对象的编程思想；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、对技术有激情，喜欢钻研，具有较强的独立工作能力和解决问题的能力。&lt;/p&gt;
+                            
+                            &lt;p&gt;加分项：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、对分布式系统架构, 人工智能, 编译器, 数据库, 网络有深刻理解或原创想法；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、良好的计算机原理知识, 对数据结构, 算法, 软件设计有深刻理解；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、出色的编程实践经验: 包括数据库sql, tcp/udp, http 协议等。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                
+                 
+                
+                 
+                
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job919&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;产品售前工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job919&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责对接销售与研发，挖掘客户核心需求，结合现有产品和技术团队定制服务方案；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责客户服务质量追踪，持续跟踪客户服务质量并能不断提供优化方案；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、负责产品规划和产品设计，不断优化现有产品或者开创新的产品方向。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、本科以上学历，3年以上产品售前相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、熟悉linux操作系统，熟练awk, sed, grep, bash-script 等；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、熟悉 HTTP 协议;掌握网络基本知识，了解网络优化知识优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、熟悉网站建设，做过小型网站者优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、云相关产品经理工作经验者优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、出色的口头表达和文字表达能力;&lt;/p&gt;
+                            
+                            &lt;p&gt;7、敏捷的应急反应能力及沟通协调与解决问题的能力。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;lucy.li@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                
+                 
+                
+                 
+                
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job922&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;销售经理&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job922&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京、广州、深圳&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责客户线索挖掘与拓展计划设计与实施工作； &lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责大客户关系维护与业务需求解决方案设计与协调工作；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、完成与勇于突破公司的业绩目标。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、本科以上学历，3年以上互联网行业或政府、大型企业销售工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、具有云服务公司的成功销售案例者优先； &lt;/p&gt;
+                            
+                            &lt;p&gt;3、出色的沟通协调能力，超强的抗压能力与寻求突破的意愿；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、强大的内心动力，积极，乐观，自信，勇于追求，战无不胜的精神。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                
+                 
+                
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-6 col-lg-4&quot;&gt;
+                 
+                
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job902&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发高级流媒体转码工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job902&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门/深圳&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责直播/点播转码系统的日常开发与运营；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责直播/点播转码系统的架构升级及优化；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、视频编解码及封装格式的研究与定制优化。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，5年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、熟练使用Linux，熟练掌握网络开发基础，熟练掌握C/C++语言；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、熟悉流媒体常用封装格式，如HLS,RTMP,FLV,MP4；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、熟练使用FFmpeg 框架及相关接口；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、熟悉常用音视频编码格式（如H264,AAC），有H265项目经验优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
                 
+                 
                 
-            &lt;/div&gt;
-            &lt;div class=&quot;col-md-6 col-lg-4&quot;&gt;
+                 
                 
-                
-                
-                
-                
+                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
-                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job019&quot;&gt;
-                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;安全工程师&lt;/span&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job905&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发配置分发及管理&lt;/span&gt; 
                         
-                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt;
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2016-07-27&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-                        &lt;div id=&quot;job019&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
-                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&amp;北京&lt;/p&gt;
+                        &lt;div id=&quot;job905&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责线上大规模服务器配置的分发，灰度，版本等的设计和实现；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、提供配置下发管理的统一入口；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、提供配置管理系统的统一配置管理界面。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，3年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、精通Python或者Go语言；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、有大规模服务器/集群配置分发管理的架构经验者优先。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                
+                 
+                
+                 
+                
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job908&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发运维工程师（日志系统）&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job908&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责公司大数据平台的运维；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责运维相关研发；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、负责推动产品架构设计与改进优化。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，2年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、熟悉Linux(类Unix)操作系统，熟练配置网络环境；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、熟悉Hadoop生态系统的各个组件部署、运维、监控以及故障处理；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、精通或熟练掌握Linux环境下的PYTHON/SHELL等1至2种语言，对计算机体系结构有一定理解 ；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、具备很强的分析和解决问题的能力，对于攻关疑难问题具有强烈的兴趣。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                
+                 
+                
+                 
+                
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job911&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发系统安全工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job911&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
                             &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
                             
                             &lt;p&gt;1、负责云节点安全、web安全、操作系统安全、硬件安全等立体安全体系的规划和实施；&lt;/p&gt;
@@ -4191,36 +4521,546 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                             
                             &lt;p&gt;3、跟踪国际/国内安全社区的安全动态，进行安全漏洞分析和针对漏洞的安全加固；&lt;/p&gt;
                             
+                            &lt;p&gt;4、跟踪国内外重大入侵、攻击行为，对比我们的安全体系不断升级加固现有安全体系。&lt;/p&gt;
+                            
                             &lt;p&gt;&amp;nbsp;&lt;/p&gt;
                             &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
                             
-                            &lt;p&gt;1、本科以上学历，对安全攻防有研究、有一定的安全实战经验；&lt;/p&gt;
+                            &lt;p&gt;1、计算机相关专业本科以上学历，2年以上相关工作经验；&lt;/p&gt;
                             
-                            &lt;p&gt;2、至少熟练掌握php、C、Python、Ruby等1种编程语言；&lt;/p&gt;
+                            &lt;p&gt;2、对安全攻防有研究、有一定的安全实战经验；&lt;/p&gt;
                             
-                            &lt;p&gt;3、具有渗透攻击经验者优先；&lt;/p&gt;
+                            &lt;p&gt;3、至少熟练掌握php、C、Python、Ruby等1种编程语言；&lt;/p&gt;
                             
-                            &lt;p&gt;4、超强的前沿性研究与实际应用结合的能力。&lt;/p&gt;
+                            &lt;p&gt;4、具有渗透攻击经验者优先；&lt;/p&gt;
                             
-                            &lt;p&gt;5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
+                            &lt;p&gt;5、超强的前沿性研究与实际应用结合的能力；&lt;/p&gt;
                             
-                            &lt;p&gt;网申链接：http://www.baishancloud.com/&lt;/p&gt;
+                            &lt;p&gt;6、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。&lt;/p&gt;
                             
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                
+                 
+                
+                 
+                
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job914&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发网络规划师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job914&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、核心CDN节点架构设计及网络质量监控；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、机房建设相关架构设计；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、CDN节点建设及维护工作；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、构建运维工具，提高部门/公司工作效率；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、与安全部门对接，主要负责网络侧安全。&lt;/p&gt;
+                            
+                            &lt;p&gt;6、SDN网络环境研究。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，5年以上ICD/CDN行业工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、熟悉大型IDC网络及传输网络，拥有CCIE DC认证最佳；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、精通TCP/IP协议，精通BGP、OSPF、ISIS等动态路由协议，熟悉并可部署SDN环境 ；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、精通Shell/Perl/Python脚本语言及LNMP环境，可独立开发web运维工具；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、有很强的网络安全意识，可以制定网络安全策略；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、出色的沟通和表达能力，优秀的分析问题解决问题能力, 良好的工作流程和文档制定撰写习惯。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                
+                 
+                
+                 
+                
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job917&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;研究院资深架构师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job917&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责云计算创新领域研究及核心技术的开发；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、物联网技术预研和技术难点攻关。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业硕士及以上学历，5年以上相关工作经验； &lt;/p&gt;
+                            
+                            &lt;p&gt;2、至少精通两种常用语言及相关框架；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、有云计算系统或大型分布式系统研发成功经验，同时有过失败经验者更佳；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、永远有一颗好奇心，乐于钻研，对未知领域能持续兴奋；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、有机器学习领域研究实践的优先考虑。 &lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                
+                 
+                
+                 
+                
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job920&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;HRBP&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job920&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责组织实施公司招聘策略，合理配置人才，保障高质高量的团队建设；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、有效开展公司人才赋能，营造学习氛围，不断提升业务效率；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、负责全面激励机制的有效渗透，以及文化价值观的有效传承；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、创建多渠道、形式和内容丰富新颖的文化宣导活动，并组织实施宣传和员工关怀。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、本科以上学历，5年以上互联网公司人力资源管理工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、人力资源六大模块中有一至两项突出擅长；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、掌握最新专业知识和行业最佳实践，准确理解企业战略发展方向和各部门运作机制；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、具备最前沿的人力资源视角，永远热爱人力资源；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、出色的表达与沟通协调能力，优秀的复杂人力资源问题解决能力；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、良好的职业素养及高度执行力，创新开放，视野开阔，追求卓越。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                
+                 
+                
+                 
+                
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job923&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;财务专员&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job923&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责员工报销及备用金管理；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责银行支付、收款业务及网银盾管理；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、负责编制现金流量表，监督现金支出和现金支出预算分析；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、负责银行账户维护，做到日清月结；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、按时清理帐目，杜绝个人长期欠款。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、会计学相关专业统招本科及以上学历，1年以上互联网公司相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、英语6级以上，能够看懂英文报表；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、认真细致，责任心强，出色的沟通和协调能力，良好的团队协作精神；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、能够接受国内出差；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、北京户籍优先考虑。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
                 
                 
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-6 col-lg-4&quot;&gt;
+                 
+                 
+                 
+                 
+                 
                 
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job903&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发系统研发工程师（C/C++方向）&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job903&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责/参与公司核心系统的设计、全网规划与布局；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、独立完成系统的功能设计和开发，并对线上运行情况负责；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、对系统的质量负责，将系统的功能、性能、稳定性做到极致。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，3年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、基于c/c++ 的linux编程经验，有独立负责项目的成功经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、扎实的数据结构和算法基础，熟悉操作系统原理；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、熟悉cdn原理和http协议；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、至少熟练掌握shell、perl、python、php等常用脚本语言中的一种或多种；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题；&lt;/p&gt;
+                            
+                            &lt;p&gt;7、具有高性能服务器开发经验者或大规模分布式系统开发经验者优先。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                 
+                 
+                 
+                 
+                 
                 
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job906&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发web前端工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job906&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责公司运营支撑平台的开发；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责公司运维自动化工具及平台的开发。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，3年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、熟练掌握至少一种Web开发框架（Python/PHP/Go/JAVA），熟悉基本原理及实现；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、良好及其敏锐的业务需求把控能力，能独立负责从需求分析到产品上线整个研发流程体系；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、有运维自动化系统开发相关经验者优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、有前后端分离开发经验者优先。 &lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                 
+                 
+                 
+                 
+                 
                 
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job909&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发运维工程师（基础运维）&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job909&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、负责公司内部网络设计，搭建，维护，故障排除等；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、负责内部信息系统维护；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、配合项目进行线上服务器运维工作。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，2年以上相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、熟悉CentOS或其他Linux操作系统；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、熟悉lamp、lnmp；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、熟悉Shell、Python等至少一种脚本语言；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、熟悉交换机、路由器等网络设备配置管理，以及相关网络原理，有相关局域网搭建维护经验和虚拟化工作经验优先考虑。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                 
+                 
+                 
+                 
+                 
                 
-            &lt;/div&gt; 
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job912&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发项目经理&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job912&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1. 负责核心大客户项目的运作，提供精细化服务；&lt;/p&gt;
+                            
+                            &lt;p&gt;2. 关注产品及运营细节，对客户服务质量负责，积极提供有效改善建议，促进公司产品完善；&lt;/p&gt;
+                            
+                            &lt;p&gt;3. 为客户提供专业的技术支持服务。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1. 计算机相关专业本科以上学历，2年以上互联网行业售前、售后工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;2. 熟悉TCP/IP、HTTP协议、RTMP协议及CDN原理，了解网站架构及运行；&lt;/p&gt;
+                            
+                            &lt;p&gt;3. 熟练掌握linux环境下perl、python、shell等1至2种语言；&lt;/p&gt;
+                            
+                            &lt;p&gt;4. 良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题；&lt;/p&gt;
+                            
+                            &lt;p&gt;5. 具有较强的学习能力，富有责任心。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;naijie.zhu@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                 
+                 
+                 
+                 
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job915&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;云分发资源建设工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job915&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、CDN节点建设及维护工作；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、办公网日常维护工作；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、核心CDN节点网络设备配置管理及策略下发；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、适当做一些研究类工作，如SDN等；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、未来传输网络及波分设备维护。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、计算机相关专业本科以上学历，3年以上IDC/CDN/互联网相关工作经验优先；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、具有Linux系统运维经验，精于系统故障问题排查、处理；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、熟练配置思科、华为、Juniper等网络设备配置、维护及排错经验，有CCNP及类似认证优先考虑；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、熟悉PBR、OSPF、BGP等动态路由协议，了解SDN环境，2年以上中等规模网络维护经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、有一定的安全基础，了解DDOS攻击类型及防御方式；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、熟悉Shell/Perl/Python脚本语言；&lt;/p&gt;
+                            
+                            &lt;p&gt;7、出色的沟通和协调能力，优秀的分析问题解决问题能力， 良好的工作流程和文档制定撰写习惯。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                 
+                 
+                 
+                 
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job918&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;研究院嵌入式研发工程师&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job918&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: &lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、物联网云服务交叉领域的技术研究；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、嵌入式系统和智能硬件领域的新技术预研；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、工业物联网相关的技术研究。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、 电子、自动化专业硕士及以上学历，2年以上相关工作经验； &lt;/p&gt;
+                            
+                            &lt;p&gt;2、 有良好、全面的软硬件基础，熟悉常用模拟、高速数字电路设计；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、有计算机视觉、机器学习、最优化理论、机器人、自动控制等相关经验的优先； &lt;/p&gt;
+                            
+                            &lt;p&gt;4、有良好、全面的软硬件基础，熟悉常用模拟、高速数字电路设计；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、永远有一颗好奇心，乐于钻研，对未知领域能持续兴奋；&lt;/p&gt;
+                            
+                            &lt;p&gt;6、有云服务领域智能硬件开发经验者优先。 &lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                 
+                 
+                 
+                 
+                 
+                
+                &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
+                    &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job921&quot;&gt;
+                        &lt;span class=&quot;color-2 fs16 job-p  job-p-sh pull-left&quot;&gt;人力资源专员&lt;/span&gt; 
+                        
+                        &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
+                        
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-17&lt;/span&gt;
+                        &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+                        &lt;div id=&quot;job921&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
+                            &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;岗位职责:&lt;/p&gt;
+                            
+                            &lt;p&gt;1、协助人力资源信息化系统运营和维护；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、协助进行全面福利管理工作；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、负责员工入离职手续办理，人事档案管理；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、负责员工工作证件办理；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、负责办公区行政运营工作。&lt;/p&gt;
+                            
+                            &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                            &lt;p class=&quot;job-blue&quot;&gt;任职要求：&lt;/p&gt;
+                            
+                            &lt;p&gt;1、本科或以上学历，人力资源或相关专业；&lt;/p&gt;
+                            
+                            &lt;p&gt;2、1年以上人力资源信息化或薪酬福利模块相关工作经验；&lt;/p&gt;
+                            
+                            &lt;p&gt;3、熟练使用各类办公软件；&lt;/p&gt;
+                            
+                            &lt;p&gt;4、工作有条理性、计划性，亲和力强，正直踏实，沟通协调能力强，团队协作精神；&lt;/p&gt;
+                            
+                            &lt;p&gt;5、热爱人力资源，良好的职业素养及高度执行力，创新开放，追求卓越。&lt;/p&gt;
+                            
+                            &lt;p class=&quot;job-blue&quot;&gt;简历发送邮箱：&lt;/p&gt;
+                            &lt;p&gt;jenny.zhou@baishancloud.com&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                 
+                 
+                 
+                 
+                 
+                
+            &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;clearfix tab-pane fade&quot; id=&quot;xy&quot;&gt;
             
             &lt;div class=&quot;col-md-6 col-lg-4&quot;&gt;
-                
+                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job125&quot;&gt;
@@ -4248,12 +5088,12 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-                
-                
-                
-                
-                
-                
+                 
+                 
+                 
+                 
+                 
+                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job117&quot;&gt;
@@ -4289,15 +5129,15 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-                
-                
-                
+                 
+                 
+                 
                 
             &lt;/div&gt;
             &lt;div class=&quot;col-md-6 col-lg-4&quot;&gt;
-                
-                
-                
+                 
+                 
+                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job124&quot;&gt;
@@ -4331,12 +5171,12 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-                
-                
-                
-                
-                
-                
+                 
+                 
+                 
+                 
+                 
+                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job127&quot;&gt;
@@ -4370,15 +5210,15 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-                
+                 
                 
             &lt;/div&gt;
             &lt;div class=&quot;col-md-6 col-lg-4&quot;&gt;
-                
-                
-                
-                
-                
+                 
+                 
+                 
+                 
+                 
                 
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job122&quot;&gt;
@@ -4412,11 +5252,11 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-                
-                
-                
-                
-                
+                 
+                 
+                 
+                 
+                 
                 
             &lt;/div&gt;
         &lt;/div&gt;

@@ -13,27 +13,28 @@
         {% include post-head.html %} 
         {% if page.post_head_url %}
         <div class="headimg-box head-img">
-            <a href='{{ page.post_head_url }}'><img src="{{ site.baseurl }}{{ page.post_head_image }}" class="img"></a>
+            <a href='{{ page.post_head_url }}'><img src="{{ site.baseurl }}{{ page.post_head_image1 }}" class="img"></a>
         </div>
-        {% else if page.post_head_image %}
+        {% endif %}
+        {% if page.post_head_image %}
         <div class="headimg-box head-img">
             <img src="{{ site.baseurl }}{{ page.post_head_image }}" class="img">
         </div>
         {% endif %} 
         {% if page.post_background %}
         <div class="post" style="background: {{ page.post_background }};">
-        {% else %}
-        <div class="post">
-        {% endif %}
-            <img class="logo visible-xs" src="{{ site.baseurl }}public/image/logo_black_cn.png" height="32px">
-            <div class="post-content">
-                {{ content }}
-            </div>
-        </div> <!--post-->
+            {% else %}
+            <div class="post">
+                {% endif %}
+                <img class="logo visible-xs" src="{{ site.baseurl }}public/image/logo_black_cn.png" height="32px">
+                <div class="post-content">
+                    {{ content }}
+                </div>
+            </div><!--post-->
 
             {% include bottom.html %}
 
-    </div><!--container-->
+        </div><!--container-->
 
         <script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
         <script src="{{ site.baseurl }}public/js/main.js"></script>

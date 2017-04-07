@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-03-24T20:06:20+08:00</updated>
+ <updated>2017-04-07T20:22:10+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-34&quot;&gt;&lt;strong&gt;白山云科技联合贵安新区率先成立云后产业基金&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山官网 | 2017-04-07 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;4月7日，贵安新区白山煦安产业投资基金成立签约仪式在贵安新区隆重举行，贵州省政府副秘书长、贵州省大数据局局长马宁宇到场揭牌...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-33&quot;&gt;&lt;strong&gt;一场完美的“秒杀”：API加速的业务逻辑&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--运维帮 | 2017-03-23 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;一天清晨，我被一个客户电话惊醒，客户异常焦急，寻问CDN能不能帮助他们解决“秒杀”的问题，他们昨天刚刚进行了“整点秒杀活动”，结果并发量过大，导致服务宕机，...&lt;/p&gt;
 &lt;/div&gt;
@@ -181,6 +186,33 @@
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>白山云科技联合贵安新区率先成立云后产业基金</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-34/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-34</id>
+   <content type="html">&lt;h2&gt;白山云科技联合贵安新区率先成立云后产业基金&lt;/h2&gt;
+
+&lt;p&gt;4月7日，贵安新区白山煦安产业投资基金成立签约仪式在贵安新区隆重举行，贵州省政府副秘书长、贵州省大数据局局长马宁宇到场揭牌。&lt;/p&gt;
+
+&lt;p&gt;贵州省委、省政府将大数据作为贵州省的战略重点之一。作为第八个国家级新区，贵安新区正以云计算和大数据产业发展为战略引擎，拥有广泛充分的改革活力和灵活优惠的产业政策。&lt;/p&gt;
+
+&lt;p&gt;贵安新区白山煦安产业投资基金（简称“煦安基金”）由贵州白山云科技有限公司（简称“白山”）与贵安新区新兴产业发展基金共同发起，是国内率先成立的针对云后服务市场的专业化投资基金。&lt;/p&gt;
+
+&lt;p&gt;煦安基金由贵安新区新兴产业发展基金管理有限公司作为基金管理人，协同白山富有技术背景和投资经验的成员，共同组成基金管理团队。首期规模2亿元，将按市场化方式运作。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/g73alxb315lubx8qjjwt0exm/WechatIMG2.jpeg&quot; alt=&quot;WechatIMG2.jpeg-7610.1kB&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;随着云计算在国内的快速成长，服务于云厂商和企业客户的云后市场“星星之火”正在燃起。与日趋成熟的美国云后市场相比，国内云后市场成“燎原之势”尚需资本增添火力。煦安基金在这一背景下成立。&lt;/p&gt;
+
+&lt;p&gt;煦安基金将投资云后服务新兴企业，培育云后行业生态，打通上下游资源，形成覆盖数据全生命周期的全产业链格局；白山也将利用自身技术领先优势和行业影响力，支持贵安新区大数据产业发展和人才培养。煦安基金的投资引领作用，将推动相关产业入驻新区，加速云后产业发展，为新的经济增长提供资本保障。&lt;/p&gt;
+
+&lt;p&gt;目前，贵州大数据产业发展成果显著。高通ARM架构服务器处理器芯片研发中心、富士康（贵州）第四代绿色产业园、三大通信运营商数据中心、华为云数据中心、浪潮中软大数据应用创新中心、北斗卫星产业园等重大项目纷纷落户贵安，已形成强劲的集聚效应。&lt;/p&gt;
+
+&lt;p&gt;作为贵安新区新兴产业发展基金领投B轮融资并重点支持的企业，白山率先在国内提供云链服务。通过实现数据与数据的连接，白山为数据的传输、存储、消费和治理提供全生命周期服务。目前，白山已经为今日头条、美团、秒拍、搜狐、汽车之家、暴风集团等两百多家企业客户提供服务。&lt;/p&gt;
 </content>
  </entry>
  

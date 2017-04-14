@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-04-13T20:52:08+08:00</updated>
+ <updated>2017-04-14T11:39:02+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -201,9 +201,13 @@
    <id>http://www.baishancloud.com/2017/01/20/news-35</id>
    <content type="html">&lt;h2&gt;Story About BaishanCloud&lt;/h2&gt;
 
-&lt;div style=&quot;height:100px;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;margin-top:50px;&quot; class=&quot;visible-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=j0393x6qqfe&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=j0393x6qqfe&amp;amp;width=500&amp;amp;height=375&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;375&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;div style=&quot;margin:100px 0 300px;&quot; class=&quot;hidden-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=j0393x6qqfe&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;375&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;
 </content>
  </entry>
  

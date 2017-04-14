@@ -339,15 +339,6 @@ strong {
     margin-left: 4px;
 }
 
-.ul-press li:nth-child(odd) a {
-    font-size: 18px;
-    line-height: 22px;
-    color: #428bca;
-    font-weight: 600;
-    font-family: 'Microsoft Yahei';
-    padding-top: 10px;
-}
-
 .ul-press li:nth-child(odd) {
     padding-top: 10px;
 }

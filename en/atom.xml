@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-04-13T21:05:09+08:00</updated>
+ <updated>2017-04-14T12:28:04+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -995,9 +995,13 @@
    <id>http://www.baishancloud.com/2016/05/09/Story-About-BaishanCloud</id>
    <content type="html">&lt;h2&gt;&lt;center&gt;Story About BaishanCloud&lt;/center&gt;&lt;/h2&gt;
 
-&lt;div style=&quot;height:100px;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;margin-top:50px;&quot; class=&quot;visible-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=s0393y8zgb8&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=s0393y8zgb8&amp;amp;width=500&amp;amp;height=375&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;375&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;div style=&quot;margin:100px 0 300px;&quot; class=&quot;hidden-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=s0393y8zgb8&amp;amp;width=500&amp;amp;height=375&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;375&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;
 </content>
  </entry>
  
@@ -1203,9 +1207,14 @@
    <content type="html">&lt;h2 class=&quot;head-title&quot;&gt;BaishanCloud Press&lt;/h2&gt;
 
 &lt;ul class=&quot;ul-press&quot;&gt;
+
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/09/Story-About-BaishanCloud/&quot;&gt;&lt;strong&gt; Story About BaishanCloud&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
     &lt;li class=&quot;press-brief&quot;&gt;Story About BaishanCloud&lt;/li&gt;
+
+    &lt;div style=&quot;&quot; class=&quot;hidden-xs&quot;&gt;
+    &lt;p style=&quot;&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=s0393y8zgb8&amp;amp;width=300&amp;amp;height=175&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;175&quot; width=&quot;300&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/div&gt;
 
     &lt;li&gt;&lt;a href=&quot;/en//2016/05/02/BaishanCloud-Receives-Trusted-Cloud-Certification/&quot;&gt;&lt;strong&gt;BaishanCloud Receives Trusted Cloud Certification&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 

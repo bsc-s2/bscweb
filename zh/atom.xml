@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-04-14T11:39:02+08:00</updated>
+ <updated>2017-05-04T12:04:22+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-36&quot;&gt;&lt;strong&gt;白山“云聚合”初露锋芒，API经济新玩家入场&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山官网 | 2017-05-04 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;机场、电梯，城市的各个角落，云计算的广告不再陌生；网购、游戏，生活的方方面面，云计算的力量润物无声。然而，现有云厂商的服务并不能满足用户的多样化和持续性需求，鸿沟显而易见...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-35&quot;&gt;&lt;strong&gt;Story About BaishanCloud&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山官网 | 2017-04-13 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;白山云科技的过去、现在和未来，正在海外市场收获更多关注...&lt;/p&gt;
 &lt;/div&gt;
@@ -191,6 +196,26 @@
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>白山“云聚合”初露锋芒，API经济新玩家入场</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-36/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-36</id>
+   <content type="html">&lt;h2&gt;白山“云聚合”初露锋芒，API经济新玩家入场&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/teb6wkl3hvi4dbvoi8xj841z/%E9%85%8D%E5%9B%BE.jpg.png&quot; alt=&quot;配图.jpg.png-1098kB&quot;&gt;
+机场、电梯，城市的各个角落，云计算的广告不再陌生；网购、游戏，生活的方方面面，云计算的力量润物无声。然而，现有云厂商的服务并不能满足用户的多样化和持续性需求，鸿沟显而易见。即便我们拥有顶级豪车，也同样需要保养、维修，甚至改装。正如汽车市场的兴盛催生了汽车后市场，公有云行业的强风也同样助燃了云后市场的烈焰。&lt;/p&gt;
+
+&lt;p&gt;基于这样的行业前瞻，5月4日，白山云科技（简称“白山”）推出面向云后市场、专注数据连接的云聚合产品CLN-X。白山云聚合的产品矩阵，首先围绕作为云端连接器的API相关领域。&lt;/p&gt;
+
+&lt;p&gt;在白山联合创始人兼CEO霍涛看来，API经济的发展正在惠及越来越多的用户，但这并不意味着数据和应用的“孤岛”理所当然地会被迅速攻克。标准程度不足，安全隐患频现，效率亟待提升……各类企业和组织机构尚不能畅享API之便利。&lt;/p&gt;
+
+&lt;p&gt;正是看到这样巨大的潜在需求，白山云聚合产品将首先围绕API的网关、防护和加速，为客户的数字化转型打通任督二脉。同时，配合此前推出的云分发CDN-X、云存储CWN-X，白山的产品和服务将覆盖数据从传输、存储到消费、治理的全生命周期。&lt;/p&gt;
+
+&lt;p&gt;白山是国内率先开拓云后市场的企业之一，其服务聚焦于数据与数据的连接。目前，白山为今日头条、美团、秒拍、搜狐、汽车之家、暴风集团等近三百家客户提供服务。&lt;/p&gt;
 </content>
  </entry>
  

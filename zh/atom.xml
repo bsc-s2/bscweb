@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-05-04T12:04:22+08:00</updated>
+ <updated>2017-06-06T16:11:41+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,16 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-38&quot;&gt;&lt;strong&gt;马凯副总理考察白山云科技，关注云后市场发展&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山微信公号 | 2017-05-31 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;5 月 26 日下午，中共中央政治局委员、国务院副总理马凯，在国务院常务副秘书长丁学东，工业和信息化部部长苗圩，国家发改委副...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-37&quot;&gt;&lt;strong&gt;2017数博会：行业大咖热议API经济&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山微信公号 | 2017-05-27 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;日前，在2017数博会 “云链”服务论坛上，章鱼大数据CEO秦松疆、摩拜单车创始人兼CTO夏一平...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-36&quot;&gt;&lt;strong&gt;白山“云聚合”初露锋芒，API经济新玩家入场&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山官网 | 2017-05-04 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;机场、电梯，城市的各个角落，云计算的广告不再陌生；网购、游戏，生活的方方面面，云计算的力量润物无声。然而，现有云厂商的服务并不能满足用户的多样化和持续性需求，鸿沟显而易见...&lt;/p&gt;
 &lt;/div&gt;
@@ -196,6 +206,52 @@
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2017数博会：行业大咖热议API经济</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-38/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-38</id>
+   <content type="html">&lt;h2&gt;马凯副总理考察白山云科技，关注云后市场发展&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/u5t9rmq11zz6wqaq2kutci41/%E9%A9%AC%E5%87%AF%E5%89%AF%E6%80%BB%E7%90%86%E5%90%88%E5%BD%B1%E5%A4%A7%E6%A0%BC%E5%BC%8F.jpg&quot; alt=&quot;马凯副总理合影大格式.jpg-1762kB&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;5 月 26 日下午，中共中央政治局委员、国务院副总理马凯，在国务院常务副秘书长丁学东，工业和信息化部部长苗圩，国家发改委副主任林念修，贵州省常务副省长秦如培，贵州省委常委王晓光，贵州省政府副秘书长、省大数据局局长马宁宇，贵州贵安新区党工委书记马长青，贵安新区管委会主任孙登峰，贵安新区党工委副书记宗文等中央、国家部委及贵州有关领导陪同下，专程莅临贵州白山云科技有限公司（简称“白山”）考察。&lt;/p&gt;
+
+&lt;p&gt;白山联合创始人兼CEO霍涛向马凯副总理一行介绍了公司发展和相关创新技术、白山与贵州大数据产业的相互促进，以及云后市场的最新趋势。&lt;/p&gt;
+
+&lt;p&gt;考察过程中，马凯副总理对于白山的创新技术与产品服务，特别是其对于云计算消费升级、企业数字化转型和数据开放共享的推动作用表达了浓厚兴趣，对相关问题进行详细了解。同时，马凯副总理对白山引入云链服务，为数据传输、存储、消费和治理提供全生命周期服务的商业模式表示赞赏，希望企业再接再厉，积极探索更多新的商业模式。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/79dfdh3svvowv4cubqzap02k/12.jpg&quot; alt=&quot;12.jpg-182.3kB&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;白山是国内率先引入云链服务（CCX）的企业，为客户高效提供数据内容应用与交换的定制化服务。云链服务的核心是建立数据的连接，其包括云分发、云存储、云聚合，针对数据内容的高速分发、在线存储、治理与整合需求，建立网络服务系统。目前，白山服务于微软、今日头条、小米、美团、秒拍等近三百家大中型互联网及企业客户。2016年，白山营收达两亿元，并实现盈利。&lt;/p&gt;
+
+&lt;p&gt;自2015年4月在贵州成立以来，白山获得了贵州各级政府的大力支持。2016年7月，贵安新区新兴产业发展基金和贵安金融投资有限公司领投白山过亿元B轮融资，切实鼓励白山技术创新；今年4月，贵安新区新兴产业发展基金联合白山共同成立煦安基金，进一步支持云后市场发展。同时，白山通过自身快速而稳健的成长，在增加税收、促进本地人才培养和就业、吸引更多优质企业落户贵安等方面，支持贵州大数据产业的健康发展。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2017数博会：行业大咖热议API经济</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-37/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-37</id>
+   <content type="html">&lt;h2&gt;2017数博会：行业大咖热议API经济&lt;/h2&gt;
+
+&lt;p&gt;日前，在2017数博会 “云链”服务论坛上，章鱼大数据CEO秦松疆、摩拜单车创始人兼CTO夏一平、Synopsys中国区副总裁李鹤、白山合伙人兼工程副总裁丛磊等行业专家就数字化转型、API经济创新实践等热点话题各抒己见。&lt;/p&gt;
+
+&lt;p&gt;数字化转型为各行各业创造了更具想象力的发展空间，也是企业在大数据时代的持续发展之路。据李鹤介绍，近30年来，Synopsys积累了4亿多行源代码并持续进行数字化转型升级：从最初的磁带、光盘存储交付用户，到网络存储交付，再到数字化转型中软件代码缺陷和漏洞检测——Synopsys的数字化转型也在不断演进。&lt;/p&gt;
+
+&lt;p&gt;夏一平分享道，摩拜在创业初期就坚持走数字化之路，并认为数字化转型的核心在于让数据产生更大的价值。依托摩拜的人工智能平台“魔方”，对海量大数据挖掘分析，指导运营团队高效精准运营，通过数据的高效应用大幅提升运营效率。&lt;/p&gt;
+
+&lt;p&gt;全球市场正在不断掀起一波又一波数字化浪潮。然而在已有20多年数字化、信息化经验的秦松疆看来，数字化转型的核心是思维模式的转变，当前很多数字化还仅仅是将现有流程照搬到计算机、网络上，并没有对业务流程进行升级和优化，不仅增加了大量工作，工作的效率并未获得提升。&lt;/p&gt;
+
+&lt;p&gt;如何助力数字化转型？丛磊认为数字化可以分为两个阶段：信息化与API化。信息化将各类资产转化为数据，API则可以改造已有的业务流程。&lt;/p&gt;
+
+&lt;p&gt;过去在美国科罗拉多州，居民就医报销流程十分繁琐，涉及政府职能部门、联邦公民管理系统、国家医疗系统、州市医疗系统等多个体系。如今，该州医疗体系通过应用API，智能化融合跨系统数据处理， 提升了整体服务效率。&lt;/p&gt;
+
+&lt;p&gt;API正在互联网世界起着不可或缺的连接作用。对内，API促进企业数字化转型；对外，API正在成为打破数据壁垒、使信息充分流动的利器。据Gartner数据显示，2016年美国50%的B2B贸易通过WebAPI完成。API经济的发展正在惠及越来越多的用户。&lt;/p&gt;
 </content>
  </entry>
  

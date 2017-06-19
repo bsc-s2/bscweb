@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-06-19T20:27:50+08:00</updated>
+ <updated>2017-06-19T20:51:14+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,7 +18,7 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
-&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-38&quot;&gt;&lt;strong&gt;瞄准千亿级“云后市场”蓝海，这家初创公司凭什么吸引到13位合伙人？&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--麻省理工科技创业 | 2017-06-19 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-39&quot;&gt;&lt;strong&gt;瞄准千亿级“云后市场”蓝海，这家初创公司凭什么吸引到13位合伙人？&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--麻省理工科技创业 | 2017-06-19 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;据《中国云计算产业报告》预计，到2020年，全球云计算市场规模将超过2000亿美元。云市场潜力巨大，服务于云厂商和企业...&lt;/p&gt;
 &lt;/div&gt;
 
@@ -236,7 +236,7 @@
 &lt;p&gt;对于白山最初的三位创始人霍涛、代翔、沙涌来说，创业再做CDN （Content  Delivery Network，云分发）业务并不是一件难事，因为他们都曾就职于蓝汛，而蓝汛是中国第一家CDN服务提供商。但是，他们并不打算成为另一个蓝汛。 &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/97lc0v0gdzfrn4adgw3v4j16/3.jpg&quot; alt=&quot;3.jpg-32.2kB&quot;&gt;
-图 | 从左至右：白山CMO代翔、CEO霍涛、CFO沙涌&lt;/p&gt;
+                         &lt;center&gt;   图 | 从左至右：白山CMO代翔、CEO霍涛、CFO沙涌&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;在基础云资源IaaS层之上，应用SaaS之下的泛PaaS层是一块巨大的“云服务后市场”，这是白山瞄准的市场突破口。&lt;/p&gt;
 
@@ -247,7 +247,7 @@
 &lt;p&gt;“这就是微创新。日本、德国就存在大量微创新式的企业，也许只精于某类基础器件的改良和生产，但同样可以在市场中处于不败之地”，霍涛说。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/jyv3iatpk6tqk873hu10tzzb/5.jpg&quot; alt=&quot;5.jpg-29.1kB&quot;&gt;
-图 | 白山联合创始人兼CEO霍涛&lt;/p&gt;
+                   &lt;center&gt;图 | 白山联合创始人兼CEO霍涛&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;凭借积累起来的“微创新”，量变终于引发质变，白山在泛云服务市场上杀出了一条血路：135天实现带宽量从0到500G的突破；9个月签约120家大中型企业客户。&lt;/p&gt;
 
@@ -257,8 +257,9 @@
 
 &lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/cfx9aila68nl7rxuwg591oiy/6.jpg&quot; alt=&quot;6.jpg-12.3kB&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;基于“云链”新玩法&lt;/strong&gt;
-白山是国内首家提出云链概念的公司，为了让这个概念落地，他们决定设计了这三条业务线：云分发（CDN-X）、云存储（CWN-X）和云聚合（CLN-X）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;基于“云链”新玩法&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;白山是国内首家提出云链概念的公司，为了让这个概念落地，他们决定设计了这三条业务线：云分发（CDN-X）、云存储（CWN-X）和云聚合（CLN-X）。&lt;/p&gt;
 
 &lt;p&gt;通俗来说，云分发负责“发货”，为数据内容提供快速分发服务；云存储相当于“商品仓库”，为数据内容提供快速可靠安全的定制化存储；而云聚合就相当于“物流中心”，负责数据治理和多云管理，其中，多云管理相当于为客户做多品牌选择，扮演的是私人管家的角色。这三条线有机地串联在一起，覆盖数据从传输、储存到消费、治理的完整生命周期。&lt;/p&gt;
 
@@ -311,7 +312,7 @@
 &lt;p&gt;霍涛说：“白山的未来发展策略首先要实现国际化，团队国际化人才比较多，我们的业务也是国际化的。白山成立不到一年成立了海外子公司，一般创业公司很少在这个时间点挑战出海。这也是因为我们有自信，我们相信自己对市场趋势的判断。”&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/ffvfs9t4eh83sd0r73mizf67/10.jpg&quot; alt=&quot;10.jpg-40.8kB&quot;&gt;
-图 | 白山开放式的办公环境&lt;/p&gt;
+                 &lt;center&gt; 图 | 白山开放式的办公环境&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;其实，霍涛从很早的时候就开始着手海外挖人了。在他看来，中国早期九十年代末留美的人才，现在在工程和技术上积累了大量经验，而中国的部分科技类企业已经发展起来了（包括创业公司），“值得他们回来”。&lt;/p&gt;
 
@@ -3756,7 +3757,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
  </entry>
  
  <entry>
-   <title>CND-X 云分发</title>
+   <title>CDN-X 云分发</title>
    <link href="http://www.baishancloud.com/2017/01/01/cdn-x/"/>
    <updated>2017-01-01T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/01/cdn-x</id>

@@ -598,6 +598,11 @@ strong {
     display: inline-block;
 }
 
+.policeIcon {
+    background: url(../image/policeIcon.png) no-repeat;
+    padding-left:20px;
+}
+
 
 /* sideBar */
 

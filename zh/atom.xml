@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-06-29T17:06:26+08:00</updated>
+ <updated>2017-07-05T12:37:36+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-41&quot;&gt;&lt;strong&gt;签约国美金融，白山推出云聚合“深度威胁识别”产品&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--中国网 | 2017-07-05 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;API作为IT业务咽喉要道，时常面临着各类安全威胁。针对这一业界难题，7月5日，白山云科技（简称“白山”）云聚合产品矩阵...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-40&quot;&gt;&lt;strong&gt;白山云科技携手微软，推出云服务新模式&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--搜狐科技 | 2017-06-28 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;2017年6月28日，白山云科技（简称“白山”）宣布与微软合作，双方将充分发挥各自在公有云、云分发等领域的优势，将技术创新与市场应用相结合...&lt;/p&gt;
 &lt;/div&gt;
@@ -216,6 +221,27 @@
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>签约国美金融，白山推出云聚合“深度威胁识别”产品</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-41/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-41</id>
+   <content type="html">&lt;h2&gt;签约国美金融，白山推出云聚合“深度威胁识别”产品&lt;/h2&gt;
+
+&lt;p&gt;API作为IT业务咽喉要道，时常面临着各类安全威胁。针对这一业界难题，7月5日，白山云科技（简称“白山”）云聚合产品矩阵，率先推出“深度威胁识别”产品（ATD， Advanced Threat Detection），有效提升企业API（应用程序编程接口）安全防护能力。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/zna01uppzl8mfsjb3lt5n27b/%E5%9B%BE%E7%89%871.png&quot; alt=&quot;图片1.png-1285.2kB&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;白山ATD的表现已得到实战验证。作为国美控股旗下从事金融发展与投资业务的战略管控平台，国美金融在应用ATD以来成功识别各种安全威胁，如刷单、恶意注册、虚拟开户等深层业务风险，识别准确率达100%，并将其安全威胁数量降低96%以上。&lt;/p&gt;
+
+&lt;p&gt;API安全水平的提升，源于白山云聚合团队对传统解决方案的变革：率先在安全领域引入流式分析，实现毫秒级识别防御应用层CC攻击；引入机器学习，消灭“羊毛党”的可乘之机；同时利用全网IP信用等级降低误拦率，预防未知安全威胁；通过内核级丢包技术，造成攻击方请求超时，提高攻击者的成本1000倍以上，极大遏制危险的发生。&lt;/p&gt;
+
+&lt;p&gt;同时，与传统方案多为公有云或硬件部署、透明度和数据可视化程度不足、网络串行方式接入等不同，白山ATD以软件形式支持私有云部署，基于开源组件提高透明性并实现数据可视化，通过旁路部署而实现对原业务本身零干扰。&lt;/p&gt;
+
+&lt;p&gt;白山率先在国内开拓云后市场，其云聚合产品首先围绕云端连接器的API相关领域，专注于数据与数据的连接，为企业解决API加速、安全和网关等问题。目前，白山服务于国美金融、微软、今日头条、小米、美团、秒拍等近三百家大中型互联网及企业客户。&lt;/p&gt;
 </content>
  </entry>
  

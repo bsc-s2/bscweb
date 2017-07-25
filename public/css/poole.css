@@ -232,14 +232,16 @@ pre code {
 }
 
 .sign-in,
-.chinese {
+.chinese,
+.hub {
     display: inline;
     position: absolute;
     z-index: 99;
 }
 
 .sign-in a,
-.chinese a {
+.chinese a,
+.hub a {
     color: rgb(255, 255, 255);
 }
 
@@ -310,6 +312,13 @@ pre code {
     }
     .chinese {
         right: 80px;
+        top: 30px;
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .hub {
+        right: 250px;
         top: 30px;
         font-weight: 600;
         font-size: 16px;

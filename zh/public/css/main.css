@@ -217,6 +217,7 @@ strong {
     color: #fff;
     font-size: 24px;
     display: block;
+    text-align: center;
 }
 
 .job-li.active a {
@@ -1124,15 +1125,22 @@ a.image-link {
 @media (min-width:768px) {
     .ccx-h h2 {
         font-size: 38px;
+        text-align: center;
     }
     .ccx-h h3 {
         font-size: 24px;
+        text-align: center;
     }
     .ccx-dy h2 {
         font-size: 38px;
+        text-align: center;
     }
     .ccx-dy h2+img {
         margin: 50px auto;
+        text-align: center;
+    }
+    .ccx-dy h4 {
+        text-align: center;
     }
     .ccx-gd {
         height: 500px;
@@ -1192,35 +1200,11 @@ a.image-link {
 
 /* brief */
 
-.list-brief h3 {
-    font-size: 30px;
-    line-height: 50px;
-}
-
-.list-brief h4 {
-    font-size: 20px;
-    line-height: 30px;
-}
-
-.list-brief p {
+.brief-content p {
     font-size: 16px;
     line-height: 30px;
     text-align: left;
     margin-bottom: 20px;
-}
-
-@media (min-width:768px) {
-    .list-brief {
-        width: 90%;
-        margin: auto;
-        max-width: 700px;
-    }
-}
-
-@media (max-width:767px) {
-    .list-brief {
-        margin: 50px 20px 10px;
-    }
 }
 
 

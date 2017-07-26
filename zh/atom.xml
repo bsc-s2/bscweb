@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-07-26T16:04:53+08:00</updated>
+ <updated>2017-07-26T16:07:43+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -3369,8 +3369,12 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
 &lt;li&gt;ATD
 软件定义的API应用防护系统，有效抵抗应用层攻击，摆脱应用层业务风险。机器学习在安全领域的率先实践，摒弃传统“安全策略模式”，深度学习访问行为，精准抵御攻击，拦截非法操作，帮助企业防范和抵御未知安全风险。&lt;/li&gt;
 &lt;li&gt;API加速
-面向下一代互联网的加速产品。业内率先推出毫秒级接口缓存技术，结合底层协议优化技术，有效优化高并发请求下企业接口服务能力，实现终端用户快速访问，同时充分降低企业服务端压力，保护业务正常运行。。
-##白山历程&lt;/li&gt;
+面向下一代互联网的加速产品。业内率先推出毫秒级接口缓存技术，结合底层协议优化技术，有效优化高并发请求下企业接口服务能力，实现终端用户快速访问，同时充分降低企业服务端压力，保护业务正常运行。。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;白山历程&lt;/h2&gt;
+
+&lt;ul&gt;
 &lt;li&gt;2015年4月23日，白山启程&lt;/li&gt;
 &lt;li&gt;2015年8月1日，第一个商业客户搜狐签约&lt;/li&gt;
 &lt;li&gt;2015年9月3日，第一次完成直播任务带宽200G&lt;/li&gt;

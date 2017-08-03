@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-07-28T13:16:52+08:00</updated>
+ <updated>2017-08-03T11:12:59+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-43&quot;&gt;&lt;strong&gt;白山云科技助力海康威视提升存储效率&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--中新网 | 2017-08-02 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;白山云科技8月2日宣布与海康威视深化合作，借助定制化的冷热分级云存储解决方案，助力海康威视大幅提升海量视频的存储效率...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-42&quot;&gt;&lt;strong&gt;白山云科技荣获可信云“安全类技术创新奖”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--中国网 | 2017-07-26 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;7月26日，白山云科技凭借“深度威胁识别”产品（ATD， Advanced Threat Detection）在有效提升企业API（应用程序编程接口）安全防护能力方面的创新技术和卓越表现，荣获可信云“安全类技术创新奖”...&lt;/p&gt;
 &lt;/div&gt;
@@ -226,6 +231,27 @@
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>白山云科技助力海康威视提升存储效率</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-43/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-43</id>
+   <content type="html">&lt;h2&gt;白山云科技助力海康威视提升存储效率&lt;/h2&gt;
+
+&lt;p&gt;白山云科技8月2日宣布与海康威视深化合作，借助定制化的冷热分级云存储解决方案，助力海康威视大幅提升海量视频的存储效率。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.zybuluo.com/bsc-jane/aor92cbzyj2d1c3w9z4bdmyf/%E5%9B%BE%E7%89%871.png&quot; alt=&quot;图片1.png-193.5kB&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;海康威视是以视频为核心的物联网解决方案和数据运营服务提供商，面向全球提供安防、可视化管理与大数据服务。市场调研机构IHS报告显示，海康威视近六年蝉联全球视频监控市场占有率第一。&lt;/p&gt;
+
+&lt;p&gt;其产品和解决方案应用于150多个国家和地区，在北京奥运会、上海世博会、巴西世界杯等世界级安保项目中发挥了重要作用。在视频监控大联网和高清化的趋势下，海康威视正在进一步提升海量数据存储效率。&lt;/p&gt;
+
+&lt;p&gt;白山云科技自主研发的数据温度测量技术，将数据冷热分级，显著提升存储效率。借助在云分发领域积累的优势，白山云科技的自组边缘存储技术实时就近上传数据。对等多活存储技术实现异地灾备，并通过自激质量控制，实时自检修复，确保存储数据万无一失。此外，白山云科技对数据进行智能化全生命周期管理，闪速删除过期数据，及时释放存储空间，节约存储成本。另悉，海康威视的数据经加密处理后发送到云存储，确保用户的隐私安全。&lt;/p&gt;
+
+&lt;p&gt;白山云科技是国内首家云链（CCX）服务提供商，其产品包括云分发、云存储、云聚合，为数据的传输、存储、消费和治理提供全生命周期服务。目前，白山云科技服务于微软、今日头条、小米、美团、秒拍、国美金融等近三百家大中型互联网及企业客户。&lt;/p&gt;
 </content>
  </entry>
  

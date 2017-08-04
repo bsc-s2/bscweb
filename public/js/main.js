@@ -22,6 +22,13 @@ jQuery(document).ready(function() {
     $("#productsDropdownButton").click(function() {
         $('#productsDropdown').toggle();
     });
+    /*video*/
+    $('#videoTrigger').click(function() {
+        $("#videoBox").css('display', 'block');
+    })
+    $('#videoClose').click(function() {
+        $("#videoBox").css('display', 'none');
+    })
 
     function setBlocksItCol() {
         var winWidth = $(window).width();
@@ -58,5 +65,6 @@ jQuery(document).ready(function() {
 
     ga('create', 'UA-91873933-1', 'auto');
     ga('send', 'pageview');
+
 
 });

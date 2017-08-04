@@ -10,7 +10,14 @@
 {{ content }}
 
 {% include bottom.html %}
-
+<div class="video-box" id="videoBox">
+    <div class="video-sub-box">
+        <div class="video-close">
+            <input type="button" class="video-close-button" id="videoClose">
+        </div>
+        <video class="video-content" controls="controls" src="{{ site.baseurl }}public/image/index/WeChatSight102.mp4"></video>
+    </div>
+</div>
 <script src="{{ site.baseurl }}public/js/jquery-2.2.4.js"></script>
 <script src="{{ site.baseurl }}public/js/TweenLite.min.js"></script>
 <script src="{{ site.baseurl }}public/js/EasePack.min.js"></script>

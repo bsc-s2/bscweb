@@ -25,8 +25,10 @@ jQuery(document).ready(function() {
     /*video*/
     $('#videoTrigger').click(function() {
         $("#videoBox").css('display', 'block');
+        $('#indexVideo')[0].play();
     })
     $('#videoClose').click(function() {
+        $('#indexVideo')[0].pause();
         $("#videoBox").css('display', 'none');
     })
 

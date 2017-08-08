@@ -22,6 +22,15 @@ jQuery(document).ready(function() {
     $("#productsDropdownButton").click(function() {
         $('#productsDropdown').toggle();
     });
+    /*video*/
+    $('#videoTrigger').click(function() {
+        $("#videoBox").css('display', 'block');
+        $('#indexVideo')[0].play();
+    })
+    $('#videoClose').click(function() {
+        $('#indexVideo')[0].pause();
+        $("#videoBox").css('display', 'none');
+    })
 
     function setBlocksItCol() {
         var winWidth = $(window).width();
@@ -58,5 +67,6 @@ jQuery(document).ready(function() {
 
     ga('create', 'UA-91873933-1', 'auto');
     ga('send', 'pageview');
+
 
 });

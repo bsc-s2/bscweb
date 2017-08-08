@@ -125,6 +125,7 @@
                 </a>
             </div>
         </div><!--row-->
+        <div class="video-triger" id="videoTrigger"><span>观看视频</span></div>
     </div><!--index-header-->
     <div class="visible-xs">
         <div class="dropdown">
@@ -483,7 +484,14 @@
     <p class="copyright policeIcon">京公网安备 11010502032269号</p>
 </div>
 
-
+<div class="video-box" id="videoBox">
+    <div class="video-sub-box">
+        <div class="video-close">
+            <input type="button" class="video-close-button" id="videoClose">
+        </div>
+        <video id="indexVideo" class="video-content" controls="controls" controlsList="nodownload" src="http://video.baishancloud.com/%E7%99%BD%E5%B1%B1%E4%BA%A7%E5%93%81%E7%89%87.mp4"></video>
+    </div>
+</div>
 <script src="/zh/public/js/jquery-2.2.4.js"></script>
 <script src="/zh/public/js/TweenLite.min.js"></script>
 <script src="/zh/public/js/EasePack.min.js"></script>

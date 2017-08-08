@@ -1383,6 +1383,54 @@ management-position {
     margin: 0;
 }
 
+.video-triger {
+    text-align: center;
+    line-height: 30px;
+    margin-top: 50px;
+    font-size: 15px;
+    cursor: pointer;
+    background: url(../image/index/videoPlay.png) 315px center no-repeat transparent;
+}
+.video-box {
+    position: absolute;
+    width: 100%;
+    bottom: -121px;
+    z-index: 1001;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+    left: 0;
+    overflow: hidden;
+    margin: auto;
+    line-height: 100%;
+    padding-bottom: 121px;
+}
+.video-sub-box {
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    text-align: center;
+}
+.video-close {
+    position: relative;
+    height: 25%;
+    cursor: pointer;
+    background: url(../image/index/videoCancel.png) center right no-repeat transparent;
+}
+.video-close-button{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 40px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+.video-content {
+    height: 75%;
+    margin: auto;
+}
 @media(min-width:768px) {
     .index-center-title {
         font-size: 50px;

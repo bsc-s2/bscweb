@@ -26,6 +26,7 @@ jQuery(document).ready(function() {
     $('#videoTrigger').click(function() {
         $("#videoBox").css('display', 'block');
         $('#indexVideo')[0].play();
+        _gaq.push(['_trackEvent', 'Videos', 'click', 'Product film']);
     })
     $('#videoClose').click(function() {
         $('#indexVideo')[0].pause();

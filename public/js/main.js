@@ -26,11 +26,15 @@ jQuery(document).ready(function() {
     $('#videoTrigger').click(function() {
         $("#videoBox").css('display', 'block');
         $('#indexVideo')[0].play();
-        _gaq.push(['_trackEvent', 'Videos', 'click', 'Product film']);
+        ga('send', 'event', 'Videos', 'play', 'Product film');
+        
     })
     $('#videoClose').click(function() {
         $('#indexVideo')[0].pause();
         $("#videoBox").css('display', 'none');
+        var myVideo = document.getElementById("indexVideo");
+        ga('send', 'event', 'Videos', 'close', 'Product film', parseInt(myVideo.currentTime));
+        
     })
 
     function setBlocksItCol() {
@@ -66,7 +70,7 @@ jQuery(document).ready(function() {
         m.parentNode.insertBefore(a, m);
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', 'UA-91873933-1', 'auto');
+    ga('create', 'UA-104746510-1', 'auto');
     ga('send', 'pageview');
 
 

@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-08-25T15:05:33+08:00</updated>
+ <updated>2017-08-28T12:03:24+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -3646,9 +3646,9 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
  
  <entry>
    <title>白山简介</title>
-   <link href="http://www.baishancloud.com/2017/01/05/brief/"/>
+   <link href="http://www.baishancloud.com/2017/01/05/brief11/"/>
    <updated>2017-01-05T00:00:00+08:00</updated>
-   <id>http://www.baishancloud.com/2017/01/05/brief</id>
+   <id>http://www.baishancloud.com/2017/01/05/brief11</id>
    <content type="html">&lt;h2&gt;白山简介&lt;/h2&gt;
 
 &lt;p&gt;白山是国内首家云链服务提供商，为客户提供高效数据内容应用与交换的定制化服务。云链服务（CCX）的核心是建立数据与数据的连接，为数据的传输、存储、消费和治理提供全生命周期服务。其包括云分发CDN-X、云存储CWN-X、云聚合CLN-X，针对数据内容的高速分发、在线存储、治理与整合需求，建立网络服务系统。&lt;/p&gt;
@@ -3723,6 +3723,25 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
 &lt;li&gt;2017年5月4日，白山云聚合产品CLN-X发布&lt;/li&gt;
 &lt;li&gt;2017年5月25日，马凯副总理考察贵安新区办公室，关注云后市场发展&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>白山简介</title>
+   <link href="http://www.baishancloud.com/2017/01/05/brief/"/>
+   <updated>2017-01-05T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/05/brief</id>
+   <content type="html">&lt;div style=&quot;padding:15px;margin-bottom:100px;&quot;&gt;
+&lt;h2 style=&quot;margin-bottom:30px;&quot;&gt;&lt;center&gt;北京白山耘科技有限公司简介&lt;/center&gt;&lt;/h2&gt;
+
+&lt;p&gt;北京白山耘科技有限公司是国内率先引入云链服务的企业，为客户提供高效数据内容应用与交换的定制化服务。&lt;/p&gt;
+
+&lt;p&gt;云链服务（CCX）的核心是建立数据与数据的连接，为数据的传输、存储、消费和治理提供全生命周期服务。其包括云分发、云存储、云聚合，针对数据内容的高速分发、在线存储、治理与整合需求，建立网络服务系统。&lt;/p&gt;
+
+&lt;p&gt;自2015年4月成立以来，北京白山耘科技有限公司以云分发为切入点，在泛云服务市场上迅速崛起，首款云分发产品CDN-X迅速进入行业第一梯队。2016年6月，白山发布云存储产品CWN-X。作为白山“云链”系列的第二款产品，其属于分布式对象存储，专注于热数据的存储及存储间的数据转移，广受市场好评。 2017年5月，白山发布云聚合CLN-X，抢先布局云后市场，与CDN-X、CWN-X构成完整的云链服务体系。&lt;/p&gt;
+
+&lt;p&gt;目前，北京白山耘科技有限公司已签约包括微软、今日头条、小米、美团、秒拍等近三百家大中型互联网及企业客户。目前员工中68%为研发人员。&lt;/p&gt;
+&lt;/div&gt;
 </content>
  </entry>
  

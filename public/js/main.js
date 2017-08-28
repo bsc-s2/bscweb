@@ -1,4 +1,13 @@
 jQuery(document).ready(function() {
+    // let contentHeight = $('.my-container').css('height').slice(0,-2)
+    // let windowHeight = $(window).height()
+    // let postHeight = $('.post').css('height').slice(0,-2)
+    // let bottomHeight = $('.bottom-nav-cn').css('height').slice(0,-2)
+    // if (contentHeight < windowHeight) {
+    //     let prevHeight = contentHeight - postHeight
+    //     let targetHeight = `${windowHeight - bottomHeight - prevHeight}px`
+    //     $('.post').css('height', targetHeight)
+    // }
     window.onload = function() {
         $('#blocksItContainer').css('visibility', 'visible');
         setBlocksItCol();

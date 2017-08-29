@@ -13,10 +13,9 @@
         {% include post-head.html %} 
         {% if page.post_head_url %}
         <div class="headimg-box head-img">
-            <a href='{{ page.post_head_url }}'><img src="{{ site.baseurl }}/{{ page.post_head_image1 }}" class="img"></a>
+            <a href='{{ page.post_head_url }}'><img src="{{ site.baseurl }}/{{ page.post_head_image }}" class="img"></a>
         </div>
-        {% endif %}
-        {% if page.post_head_image %}
+        {% else if page.post_head_image %}
         <div class="headimg-box head-img">
             <img src="{{ site.baseurl }}/{{ page.post_head_image }}" class="img">
         </div>

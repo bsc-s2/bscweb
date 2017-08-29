@@ -8,6 +8,10 @@ jQuery(document).ready(function() {
     //     let targetHeight = `${windowHeight - bottomHeight - prevHeight}px`
     //     $('.post').css('height', targetHeight)
     // }
+    $('#headerwrap').click(function(){
+        console.log('sdddd');
+        $('#jobLink').trigger('click');
+    })
     window.onload = function() {
         $('#blocksItContainer').css('visibility', 'visible');
         setBlocksItCol();

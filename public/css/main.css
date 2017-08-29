@@ -211,17 +211,21 @@ strong {
 }
 
 .job-a {
-    background-color: #3499dc;
     cursor: pointer;
-    border: 1px solid #3499dc;
-    color: #fff;
+    background-color: #eeefea;
+    border: 1px solid #eeefea;
+    color: #129593;
     font-size: 24px;
     display: block;
     text-align: center;
 }
-
+.job-li:first-child {
+    border-right: 3px solid #129593
+}
 .job-li.active a {
-    background-color: #2f8dcc;
+    background-color: #3499dc;
+    border: 1px solid #3499dc;
+    color: #fff;
 }
 
 .job-title {
@@ -315,11 +319,10 @@ strong {
     .job-a {
         line-height: 100px;
     }
-    .job-a:hover,
-    .job-li.active .job-a:hover {
-        background-color: #eeefea;
-        border: 1px solid #eeefea;
-        color: #129593;
+    .job-a:hover{
+        background-color: #3499dc;
+        border: 1px solid #3499dc;
+        color: #fff;
     }
 }
 
@@ -1464,4 +1467,42 @@ management-position {
     .index-center-img {
         min-height: 60px;
     }
+}
+/* 2017jobs*/
+.link-small{
+    width:165px;
+    position: absolute;
+    right: 20px;
+    bottom:30px;
+}
+.link-small .index-center-title{
+    font-size:13px !important;
+    margin-bottom:10px;
+}
+.link-small .index-center-products-title{
+    font-size:10px !important;
+    margin:0;
+}
+.link-small .index-center-title,
+.link-small .index-center-products-title{
+    font-weight: 300;
+    text-align: center;
+}
+.link-small .index-center-products-title-border {
+    border-right: 1px solid #fff;
+}
+.link-small .index-center-imgbox {
+    padding: 0 5px !important;
+}
+.job-center{
+    height:30rem;
+    position: absolute;
+    left: 14rem;
+    right:0;
+    top:50%;
+    margin-top:-15rem;
+}
+.job-center img{
+    height:30rem;
+    margin: 0 auto;
 }

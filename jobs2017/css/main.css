@@ -547,7 +547,7 @@ header .define-baishan {
 }
 @media(max-width:767px) {
     header {
-        background: url(../img/head-xs.jpg) no-repeat rgb(0, 52, 118);
+        background: url(../img/head-xs.png) no-repeat rgb(0, 52, 118);
         background-size: 100% auto;
     }
     header .baishan-2018 {

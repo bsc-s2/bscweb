@@ -1394,6 +1394,17 @@ management-position {
     cursor: pointer;
     background: url(../image/index/videoPlay.png) 315px center no-repeat transparent;
 }
+.video-triger-job {
+    text-align: center;
+}
+.video-triger-job span{
+    color:#fff;
+    line-height:50px;
+    padding:10px 0 10px 30px;
+    cursor: pointer;
+    font-size: 15px;
+    background: url(../image/index/videoPlay.png) 0 center no-repeat transparent;    
+}
 .video-box {
     position: absolute;
     width: 100%;
@@ -1505,4 +1516,9 @@ management-position {
 .job-center img{
     height:30rem;
     margin: 0 auto;
+}
+.head-campus{
+    background: url(../image/careersBg-campus.png) right center no-repeat,linear-gradient(to bottom, #20499e,#2758ab 50%, #224da2);
+    background-size: auto 150%;
+    padding: 50px 0 50px 20rem;
 }

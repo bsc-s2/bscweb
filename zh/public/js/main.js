@@ -37,6 +37,7 @@ jQuery(document).ready(function() {
     });
     /*video*/
     $('#videoTrigger').click(function() {
+        event.stopPropagation();
         $("#videoBox").css('display', 'block');
         $('#indexVideo')[0].play();
         ga('send', 'event', 'Videos', 'play', 'Product film');

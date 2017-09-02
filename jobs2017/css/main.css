@@ -282,6 +282,7 @@ header .define-baishan {
     height:45px;
     padding-top:10px;
     padding-bottom: 10px;
+    line-height:25px;
 }
 .tab-content .job-title div{
     box-sizing:border-box;

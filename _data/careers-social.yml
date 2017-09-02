@@ -3,7 +3,7 @@
   jobTitle: 云分发高级流媒体转码工程师
   hot: new
   time: 2017-08-30
-  jobLocation: 厦门/深圳  
+  jobLocation: 厦门/深圳
   keyResponsibilities:
   - 1、负责直播/点播转码系统的日常开发与运营；
   - 2、负责直播/点播转码系统的架构升级及优化； 
@@ -21,7 +21,7 @@
   jobTitle: 云分发系统研发工程师（C/C++方向）
   hot: new
   time: 2017-08-30
-  jobLocation: 厦门  
+  jobLocation: 厦门
   keyResponsibilities:
   - 1、负责/参与公司核心系统的设计、全网规划与布局；
   - 2、独立完成系统的功能设计和开发，并对线上运行情况负责；
@@ -40,7 +40,7 @@
   jobTitle: 云分发web研发工程师
   hot: hot
   time: 2017-08-30
-  jobLocation: 厦门  
+  jobLocation: 厦门
   keyResponsibilities:
   - 1、参与公司运营支撑体系的架构与开发；
   - 2、对公司产品的服务质量负责，持续完善运维自动化和平台化，不断提高服务效率和服务稳定性；
@@ -59,7 +59,7 @@
   jobTitle: 云分发研发运维工程师
   hot: hot
   time: 2017-08-30
-  jobLocation: 厦门  
+  jobLocation: 厦门
   keyResponsibilities:
   - 1、负责公司核心平台的运维；
   - 2、负责运维相关工具、系统的研发；
@@ -80,7 +80,7 @@
   jobTitle: 云分发运维工程师（日志系统）
   hot: hot
   time: 2017-08-30
-  jobLocation: 北京 
+  jobLocation: 北京
   keyResponsibilities:
   - 1、负责公司大数据平台的运维；
   - 2、负责运维相关研发；
@@ -94,10 +94,10 @@
   email: naijie.zhu@baishancloud.com
 - id: job906
   col: 3
-  jobTitle: 云分发网络规划师	
+  jobTitle: 云分发网络规划师
   hot: hot
   time: 2017-08-30
-  jobLocation: 北京  
+  jobLocation: 北京
   keyResponsibilities:
   - 1、核心CDN节点架构设计及网络质量监控； 
   - 2、机房建设相关架构设计；
@@ -115,10 +115,10 @@
   email: jenny.zhou@baishancloud.com
 - id: job907
   col: 1
-  jobTitle: 云分发资源建设工程师	
+  jobTitle: 云分发资源建设工程师
   hot: hot
   time: 2017-08-30
-  jobLocation: 北京  
+  jobLocation: 北京
   keyResponsibilities:
   - 1、CDN节点建设及维护工作；
   - 2、办公网日常维护工作；
@@ -136,10 +136,10 @@
   email: jenny.zhou@baishancloud.com
 - id: job908
   col: 2
-  jobTitle: 云存储研发工程师 	
+  jobTitle: 云存储研发工程师
   hot: hot
   time: 2017-08-30
-  jobLocation: 北京  
+  jobLocation: 北京
   keyResponsibilities:
   - 1、团队协作解决软件、运维工具、测试中的复杂的工程问题；
   - 2、设计和实现可靠的自动化测试框架；
@@ -159,10 +159,10 @@
 
 - id: job909
   col: 3
-  jobTitle: 云存储研发运维工程师  
+  jobTitle: 云存储研发运维工程师
   hot: hot
   time: 2017-08-30
-  jobLocation: 北京  
+  jobLocation: 北京
   keyResponsibilities:
   - 1、团队协作解决软件, 运维工具, 测试中的复杂的工程问题；
   - 2、负责云服务体系的可用性建设；
@@ -182,10 +182,10 @@
 
 - id: job910
   col: 1
-  jobTitle: 云聚合机器学习工程师 
+  jobTitle: 云聚合机器学习工程师
   hot: hot
   time: 2017-08-30
-  jobLocation: 北京  
+  jobLocation: 北京
   keyResponsibilities:
   - 1、利用数据挖掘、机器学习相关算法，解决云聚合产品业务需求；
   - 2、基于海量文本数据，挖掘信息模型，并将机器学习前沿技术应用于关键业务环节；
@@ -206,7 +206,7 @@
   jobTitle: 云聚合linux系统工程师
   hot: new
   time: 2017-08-30
-  jobLocation: 北京  
+  jobLocation: 北京
   keyResponsibilities:
   - 1、负责公司私有云/公有云产品的安装、维护、升级，监控和故障处理；
   - 2、负责KAFKA，STORM，ZOOKEEPER，ELK集群维护；
@@ -225,10 +225,10 @@
 
 - id: job912
   col: 3
-  jobTitle: HRBP   
+  jobTitle: HRBP
   hot: hot
   time: 2017-08-30
-  jobLocation: 北京  
+  jobLocation: 北京
   keyResponsibilities:
   - 1、负责组织实施公司招聘策略，合理配置人才，保障高质高量的团队建设；
   - 2、有效开展公司人才赋能，营造学习氛围，不断提升业务效率；

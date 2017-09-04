@@ -17,7 +17,7 @@
                 <img src="{{ site.baseurl }}/{{ page.post_head_image }}" alt="" class="">
             </a>
         </div>
-        {% else if page.post_head_image %}
+        {% elsif page.post_head_image %}
         <div class="headimg-box head-img">
             <img src="{{ site.baseurl }}/{{ page.post_head_image }}" class="img">
         </div>
@@ -35,7 +35,7 @@
 
             {% include bottom.html %}
 
-        </div><!--container-->
+    </div><!--container-->
 
         <script src="{{ site.baseurl }}/public/js/jquery-2.2.4.js"></script>
         <script src="{{ site.baseurl }}/public/js/main.js"></script>

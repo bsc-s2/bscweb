@@ -1517,8 +1517,39 @@ management-position {
     height:30rem;
     margin: 0 auto;
 }
-.head-campus{
-    background: url(../image/careersBg-campus.png) right center no-repeat,linear-gradient(to bottom, #20499e,#2758ab 50%, #224da2);
-    background-size: auto 150%;
-    padding: 50px 0 50px 20rem;
+@media(min-width:1100px) {
+    .head-campus{
+        background: url(../image/careersBg-campus.png) center center no-repeat,linear-gradient(to right, #134ba1 , #117FCD 70%, #137dcb);
+        background-size: auto 150%;
+        padding: 50px 0 50px 14rem;
+        height:40%;
+    }
+    .head-campus img{
+        margin-left:calc(50% - 650px + 20rem);
+        height:90%;
+    }
+}
+@media(max-width:1099px) {
+    .head-campus{
+        height:300px;
+        background: url(../image/careersBg-campus.png) left center no-repeat,linear-gradient(to right, #134ba1 , #117FCD 70%, #137dcb);
+        background-size: auto 150%;
+        padding: 25px 0;
+    }
+    .head-campus img{
+        height:250px;
+        margin-left:calc(50% - 200px);
+    }
+}
+@media(max-width:767px) {
+    .head-campus{
+        height:150px;
+        background: url(../image/careersBg-campus.png) center center no-repeat,linear-gradient(to right, #134ba1 , #117FCD 70%, #137dcb);
+        background-size: auto 150%;
+        padding: 25px 0;
+    }
+    .head-campus img{
+        height:100px;
+        margin-left:calc(50% - 170px);
+    }
 }

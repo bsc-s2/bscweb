@@ -12,12 +12,17 @@
         target = {x: width/2, y: height/2};
 
         largeHeader = document.getElementById('large-header');
+        
         largeHeader.style.height = height+'px';
 
         canvas = document.getElementById('demo-canvas');
+        canvas1 = document.getElementById('demo-canvas1');
         canvas.width = width;
         canvas.height = height;
         ctx = canvas.getContext('2d');
+        canvas1.width = width;
+        canvas1.height = height;
+        ctx1 = canvas1.getContext('2d');
 
         // create points
         points = [];
@@ -101,6 +106,8 @@
         largeHeader.style.height = height+'px';
         canvas.width = width;
         canvas.height = height;
+        canvas1.width = width;
+        canvas1.height = height;
     }
 
     // animation
@@ -114,6 +121,7 @@
     function animate() {
         if(animateHeader) {
             ctx.clearRect(0,0,width,height);
+            ctx1.clearRect(0,0,width,height);
             for(var i in points) {
                 // detect points in range
                 if(Math.abs(getDistance(target, points[i])) < 4000) {
@@ -154,6 +162,11 @@
             ctx.lineTo(p.closest[i].x, p.closest[i].y);
             ctx.strokeStyle = 'rgba(156,217,249,'+ p.active+')';
             ctx.stroke();
+            ctx1.beginPath();
+            ctx1.moveTo(p.x, p.y);
+            ctx1.lineTo(p.closest[i].x, p.closest[i].y);
+            ctx1.strokeStyle = 'rgba(156,217,249,'+ p.active+')';
+            ctx1.stroke();
         }
     }
 
@@ -173,6 +186,10 @@
             ctx.arc(_this.pos.x, _this.pos.y, _this.radius, 0, 2 * Math.PI, false);
             ctx.fillStyle = 'rgba(156,217,249,'+ _this.active+')';
             ctx.fill();
+            ctx1.beginPath();
+            ctx1.arc(_this.pos.x, _this.pos.y, _this.radius, 0, 2 * Math.PI, false);
+            ctx1.fillStyle = 'rgba(156,217,249,'+ _this.active+')';
+            ctx1.fill();
         };
     }
 

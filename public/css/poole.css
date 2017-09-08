@@ -298,11 +298,20 @@ pre code {
         z-index: -1;
         width: 100%;
     }
+    .header-campus{
+        background: url(../image/campus.png) no-repeat 14rem top;
+        background-size: 100% 100%;
+    }
+    .header-ssl{
+        background: url(../image/ssl.png) no-repeat 14rem top;
+        background-size: 100% 100%;
+    }
     .logo {
         display: inline;
         position: absolute;
         left: 210px;
         top: 20px;
+        z-index: 2;
     }
     .sign-in {
         right: 180px;

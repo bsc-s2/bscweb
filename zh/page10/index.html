@@ -97,15 +97,49 @@
 <div class="sign-in"><a href="http://www.qingcdn.com/account/index/login">登录</a></div>
 <div class="chinese"><a href="/en/">English</a></div>
 <div id="headerwrap" name="home">
-    <div id="large-header" class="headerwrap">
+    <!-- <div id="large-header" class="headerwrap ">
         <div class="index-center visible-xs">
             <div class="index-center-title">国内首家云链服务提供商</div>
-        </div><!--index-header-->
+        </div>
         <canvas id="demo-canvas"></canvas>
+    </div> -->
+    <div class="headerwrap visible-xs">
+        <div class="index-center">
+            <div class="index-center-title">国内首家云链服务提供商</div>
+        </div><!--index-header-->
+        <!-- <canvas id="demo-canvas"></canvas> -->
     </div>
-    <div class="job-center hidden-xs">
-        <img src="/zh/public/image/campus-text.png" alt="">
-        <div class="video-triger-job" id="videoTrigger"><span>观看视频</span></div>
+    
+    <div id="large-header" class="clearfix index-slider-box hidden-xs">
+        <div id="index-slider" class="carousel slide my-slider" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators my-slider-ol">
+                <li data-target="#index-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#index-slider" data-slide-to="1"></li>
+            </ol>
+            
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner my-slider-box" role="listbox">
+                <div id="campusURL" class="item active header-campus my-slider-item">
+                    <div class="job-center">
+                        <img src="/zh/public/image/campus-text.png" alt="">
+                        <div class="video-triger-job" id="videoTrigger">
+                            <span>观看视频</span>
+                        </div>
+                    </div>
+                    <canvas id="demo-canvas"></canvas>
+                </div>
+                <div id="sslURL" class="item header-ssl my-slider-item">
+                    <div class="job-center title-top">
+                        <img src="/zh/public/image/ssl-text.png" alt="">
+                        <div class="video-triger-job" id="videoTriggerssl">
+                            <span>观看视频</span>
+                        </div>
+                    </div>
+                    <canvas id="demo-canvas1"></canvas>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- <div class="index-center hidden-xs">
         <img src="/zh/public/image/campus-text.png" alt="" style="margin:0;"> -->
@@ -221,6 +255,7 @@
     </div>
 </div>
 <a href="https://www.baishancloud.com/jobs2017/" style="display:none"><span id="jobLink">link</span></a>
+<a href="https://www.oschina.net/event/2264590" style="display:none"><span id="sslLink">link</span></a>
 <div class="clean"></div>
 
 
@@ -418,8 +453,8 @@
 <script src="/zh/public/js/TweenLite.min.js"></script>
 <script src="/zh/public/js/EasePack.min.js"></script>
 <script src="/zh/public/js/demo-1.js"></script>
-<script src="/zh/public/js/main.js"></script>
 <script src="/zh/public/js/bootstrap.min.js"></script>
+<script src="/zh/public/js/main.js"></script>
 <script src="/zh/public/js/lightbox-plus-jquery.min.js"></script>
 <script src="/zh/public/js/blocksit.min.js"></script>
 <script src="/zh/public/js/smoothscroll.js"></script>

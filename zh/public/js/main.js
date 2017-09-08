@@ -1,7 +1,9 @@
 jQuery(document).ready(function() {
-    $('#headerwrap').click(function(){
-        console.log('sdddd');
+    $('#campusURL').click(function(){
         $('#jobLink').trigger('click');
+    })
+    $('#sslURL').click(function(){
+        $('#sslLink').trigger('click');
     })
     window.onload = function() {
         $('#blocksItContainer').css('visibility', 'visible');
@@ -28,6 +30,13 @@ jQuery(document).ready(function() {
     });
     /*video*/
     $('#videoTrigger').click(function(event) {
+        event.stopPropagation();
+        $("#videoBox").css('display', 'block');
+        $('#indexVideo')[0].play();
+        ga('send', 'event', 'Videos', 'play', 'Product film');
+        
+    })
+    $('#videoTriggerssl').click(function(event) {
         event.stopPropagation();
         $("#videoBox").css('display', 'block');
         $('#indexVideo')[0].play();
@@ -61,7 +70,9 @@ jQuery(document).ready(function() {
     });
     $('.ccx-gd').sliderPlay({ btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 });
     $('.slider-cdn-xs').sliderPlay({ btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 });
-
+    $('.carousel').carousel({
+    interval: 3000
+    })
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
         i[r] = i[r] || function() {

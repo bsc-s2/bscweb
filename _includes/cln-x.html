@@ -1,0 +1,88 @@
+<div class="clearfix mar-b-40-sm">
+    <div class="ccx-h">
+        <h2>核心功能</h2>
+    </div>
+    <div class="transition-tab hidden-xs data-hive-core">
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#core-1" data-toggle="tab">数据采集</a></li>
+            <li role="presentation"><a href="#core-2" data-toggle="tab">数据梳理</a></li>
+            <li role="presentation"><a href="#core-3" data-toggle="tab">API管理</a></li>
+            <li role="presentation"><a href="#core-4" data-toggle="tab">iPaaS应用集成</a></li>
+        </ul>
+        <div class="tab-content">
+            {% assign dhcs = site.data.data-hive-core %}
+            {% for dhc in dhcs %}
+            {% if forloop.first %}
+            <div role="tabpanel" class="tab-pane active" id="{{dhc.id}}">
+            {% else %}
+            <div role="tabpanel" class="tab-pane" id="{{dhc.id}}">
+            {% endif %}
+                <div class="core-flex">
+                    <div class="core-img">
+                        <img src="{{ site.baseurl }}/public/image/cln/{{dhc.img}}">
+                    </div>
+                    <div class="core-info">
+                        {% for io in dhc.info %}
+                        <h3>{{io}}</h3>
+                        {% endfor %}
+                    </div>
+                    <div class="clean"></div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="slider-cdn-xs visible-xs">
+        {% assign acce = site.data.data-hive-core %}
+        {% for ac in acce %}
+        {% if forloop.first %}
+        <div class="ccx-dy ccx-dy-first date-hive-core-slider-phone slider">
+        {% else %}
+        <div class="ccx-dy date-hive-core-slider-phone slider">
+        {% endif %}
+            <div class="col-xs-4 cdn-application">
+                <img class="img-center" src="{{ site.baseurl }}/public/image/cln/{{ac.img}}">
+            </div>
+            <div class="col-xs-8 core-info-phone">
+                {% for io in ac.info %}
+                <h3>{{io}}</h3>
+                {% endfor %}
+            </div>
+            <div class="clean"></div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="ccx-btn slider-btn core-slider-btn-phone visible-xs">
+        <ul class="clearfix">
+            <li class="ccx-btn-hover"></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="ccx-h">
+        <h2>解决方案</h2>
+        <div id="solution" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#solution" data-slide-to="0" class="active"></li>
+                <li data-target="#solution" data-slide-to="1"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <div class="item solution-item active">
+                    <img src="" alt="">
+                </div>
+                <div class="item solution-item">
+                    <img src="" alt="">
+                </div>
+            </div>
+            <a class="left carousel-control" href="#solution" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#solution" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</div>

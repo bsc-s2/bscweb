@@ -1,3 +1,4 @@
+@import url(data-hive.css);
 * {
     outline: none !important;
 }
@@ -1162,9 +1163,11 @@ a.image-link {
 @media (max-width:767px) {
     .ccx-h h2 {
         font-size: 24px;
+        text-align: center;
     }
     .ccx-h h3 {
         font-size: 18px;
+        text-align: center;
     }
     .ccx-dy h2 {
         font-size: 26px;
@@ -1584,3 +1587,4 @@ management-position {
 .my-slider-ol{
     padding-left: 14rem;
 }
+

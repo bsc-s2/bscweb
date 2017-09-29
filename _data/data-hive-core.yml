@@ -1,0 +1,18 @@
+- id: core-1
+  img: data-hive-core-1.png
+  info:
+  - 一站式实时接入多数据源、五分钟、零开发打通数据孤岛
+- id: core-2
+  img: data-hive-core-2.png
+  info:
+  - 首创机器学习标签梳理引擎，分钟级智能数据梳理，标准自动映射
+- id: core-3
+  img: data-hive-core-3.png
+  info:
+  - 提供API设计、生成、运行、分析、安全的全生命周期管理
+- id: core-4
+  img: data-hive-core-4.png
+  info:
+  - 基于容器的混合云集成平台
+  - 支撑微服务架构和监控预警系统
+  - 提供应用集成、组件编排服务

@@ -21,7 +21,7 @@
 .data-hive-core ul.nav-tabs li.active a{
     border:none;
     color:#1266BD;
-    box-shadow: 0 0 10px 3px #e5e9eb;
+    box-shadow: 0 -4px 20px 1px #ebeded;
 }
 .data-hive-core ul.nav-tabs li a:hover:after,
 .data-hive-core ul.nav-tabs li.active a:after{
@@ -37,7 +37,7 @@
 }
 .data-hive-core .tab-pane {
     border-radius:4px;
-    box-shadow: 0 0 10px 3px #e5e9eb;
+    box-shadow: 0 0 10px 2px #ebeded;
     padding: 50px 80px;
 }
 .data-hive-core .tab-content .tab-pane:first {

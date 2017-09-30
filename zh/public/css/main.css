@@ -1,3 +1,4 @@
+@import url(data-hive.css);
 * {
     outline: none !important;
 }
@@ -49,8 +50,20 @@ strong {
     color: #2ba6e2;
 }
 
+.color-5 {
+    color: #1266BD;
+}
+
+.mar-t-70 {
+    margin-top: 70px;
+}
+
 .mar-t-60 {
     margin-top: 60px;
+}
+
+.mar-t-40 {
+    margin-top: 40px;
 }
 
 .mar-t-15 {
@@ -89,8 +102,32 @@ strong {
     padding-top: 20px;
 }
 
+.fs30 {
+    font-size: 30px;
+}
+
+.fs24 {
+    font-size: 24px;
+}
+
 .fs22 {
     font-size: 22px;
+}
+
+.fs20 {
+    font-size: 20px;
+}
+
+.fs16 {
+    font-size: 16px;
+}
+
+.fs14 {
+    font-size: 14px;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 .row {
@@ -435,6 +472,7 @@ strong {
 }
 
 .nav-xs {
+    z-index: 1;
     position: relative;
     float: right;
     padding: 9px 10px;
@@ -1106,6 +1144,103 @@ a.image-link {
     font-size: 16px;
 }
 
+.white-triangle {
+    height:0;
+    width:0;
+    overflow: hidden;
+    font-size: 0;
+    line-height: 0;
+    border-color:#F5F8FA #F5F8FA white #F5F8FA;
+    border-style:solid;
+    border-width:16px;
+    position: relative;
+    left: 65px;
+}
+
+.cln-baishan-logo img {
+    position: absolute;
+    height: 40px;
+    width: auto !important;
+    top: 20px;
+    left: 20rem;
+}
+
+.cln-products-head {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 100px;
+    padding-left: 14rem;
+    background-color: #F5F8FA;
+    width: 100%;
+    z-index: 0;
+    padding-bottom: 0px;
+    box-shadow: 0px -5px 15px #eeeeee inset;
+}
+
+.cln-products-head-part {
+    width: 90%;
+    max-width: 990px;
+    margin: auto;
+}
+
+.cln-products-head img {
+    width: 50%;
+}
+
+.cln-products-head-tab {
+    padding-top: 60px;
+}
+
+.cln-products-head-tab span {
+    padding: 0 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cln-products-head-tab span a:hover {
+    color: #1266BD;
+}
+
+.cln-products-head-tab span:nth-child(1) {
+    color: #1266BD;
+}
+
+.cln-products-head-tab span:nth-child(2) {
+    border-left: 1px solid #bbbbbb;
+    border-right: 1px solid #bbbbbb;
+}
+
+.cln-products-content {
+    margin-top: 200px;
+}
+
+.cln-products-content-left {
+    padding-left: 50px;
+}
+
+.cln-products-content-right {
+    padding-left: 50px;
+}
+
+.cln-advantage {
+    text-align: center;
+}
+
+.cln-advantage img {
+    margin: auto;
+    height: 75px;
+    margin-top: 30px;
+}
+
+hr {
+    margin: 70px 0;
+}
+
+.cln-main-title {
+    margin: 70px 0 50px;
+}
+
 .cln-cloud {
     margin-bottom: 50px;
 }
@@ -1127,7 +1262,7 @@ a.image-link {
 
 @media (min-width:768px) {
     .ccx-h h2 {
-        font-size: 38px;
+        font-size: 30px;
         text-align: center;
     }
     .ccx-h h3 {
@@ -1135,7 +1270,7 @@ a.image-link {
         text-align: center;
     }
     .ccx-dy h2 {
-        font-size: 38px;
+        font-size: 30px;
         text-align: center;
     }
     .ccx-dy h2+img {
@@ -1162,9 +1297,11 @@ a.image-link {
 @media (max-width:767px) {
     .ccx-h h2 {
         font-size: 24px;
+        text-align: center;
     }
     .ccx-h h3 {
         font-size: 18px;
+        text-align: center;
     }
     .ccx-dy h2 {
         font-size: 26px;
@@ -1584,3 +1721,203 @@ management-position {
 .my-slider-ol{
     padding-left: 14rem;
 }
+
+#solution {
+    background-color: #F5F8FA;
+}
+#solution .carousel-inner .item .solution-img-1 {
+    margin: 20% 10% 0;
+    max-width: 80%;
+}
+#solution .carousel-inner .item .solution-img-2 {
+    margin: 20% 15% 0 10%;
+    max-width: 75%;
+}
+#solution .carousel-indicators li {
+    border: 1px solid #1266BD;
+}
+#solution .carousel-indicators .active {
+    background-color: #1266BD;
+}
+#solution .carousel-control.left,
+#solution .carousel-control.right {
+    background-image: none;
+}
+#solution .position-top-1 {
+    position: relative;
+    top: -360px;
+}
+#solution .position-top-2 {
+    position: relative;
+    top: -330px;
+}
+#solution .position-bottom {
+    position: relative;
+    top: -10px;
+}
+#solution .carousel-caption {
+    text-shadow: 0 0 0;
+}
+.cln-advantage-main-title {
+    font-size: 20px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+.cln-products-head-tab span {
+    font-size: 24px;
+    font-weight: bold;
+}
+.data-hive-core .tab-pane {
+    padding: 80px;
+}
+@media(max-width:1200px) {
+    .white-triangle {
+        left: 50px;
+    }
+    .cln-products-head {
+        padding-left: 15rem;
+    }
+    .cln-products-head img {
+        width: 208px;
+    }
+    .cln-products-head-tab {
+        padding-top: 40px;
+    }
+    .cln-products-head-tab span {
+        padding: 0 15px;
+    }
+    .cln-advantage-main-title {
+        font-size: 18px;
+        margin-top: 40px;
+        font-weight: bold;
+    }
+    .data-hive-core ul.nav-tabs li a {
+        font-size: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .data-hive-core .tab-pane h3 {
+        font-size: 18px;
+    }
+    #solution .position-top-1 {
+        top: -330px;
+    }
+    #solution .position-top-2 {
+        top: -300px;
+    }
+    #solution .position-bottom {
+        top: -40px;
+    }
+}
+@media(max-width:992px) {
+    .white-triangle {
+        left: 40px;
+    }
+    .cln-products-head img {
+        width: 150px;
+    }
+    .cln-products-head-tab {
+        padding-top: 30px;
+        padding-left: 60px;
+    }
+    .cln-products-head-tab span {
+        padding: 0 5px;
+    }
+    .data-hive-core ul.nav-tabs li a {
+        font-size: 18px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .data-hive-core .tab-pane h3 {
+        font-size: 16px;
+    }
+    #solution .carousel-inner .item .solution-img-1 {
+        margin: 30% 10% 0;
+        max-width: 80%;
+    }
+    #solution .carousel-inner .item .solution-img-2 {
+        margin: 30% 15% 0 10%;
+        max-width: 75%;
+    }
+    #solution .position-bottom {
+        top: -80px;
+    }
+}
+@media (max-width:767px) {
+    .cln-products-head {
+        padding-top: 70px;
+        padding-left: 0px;
+    }
+    .cln-products-head img {
+        width: 215px;
+    }
+    .cln-products-head-tab {
+        padding-top: 0px;
+        padding-left: 10px;
+    }
+    .cln-products-head-tab span {
+        padding: 0 10px;
+    }
+    .white-triangle {
+        border-width:10px;
+        left: 45px;
+    }
+    .cln-products-content-left {
+        margin-top: 50px;
+        padding-left: 30px;
+    }
+    .cln-products-content-right {
+        padding-left: 30px;
+    }
+    .cln-baishan-logo img {
+        left: 35px;
+    }
+    #solution .carousel-inner .item .solution-img-1 {
+        margin: 40% 10% 0;
+        max-width: 80%;
+    }
+    #solution .carousel-inner .item .solution-img-2 {
+        margin: 40% 15% 0 10%;
+        max-width: 75%;
+    }
+    #solution .position-top-1 {
+        top: -230px;
+    }
+    #solution .position-top-2 {
+        top: -200px;
+    }
+    #solution .position-bottom {
+        top: -200px;
+    }
+}
+@media(max-width:500px) {
+    #solution .position-top-1 {
+        top: -150px;
+    }
+    #solution .position-top-2 {
+        top: -120px;
+    }
+    #solution .position-bottom {
+        top: 0px;
+    }
+}
+@media(max-width:375px) {
+    .cln-products-head img {
+        width: 70%;
+    }
+    .cln-products-head-tab {
+        padding-top: 10px;
+        padding-left: 15px;
+    }
+    #solution .position-top-1 {
+        top: -150px;
+    }
+    #solution .position-top-2 {
+        top: -120px;
+    }
+    #solution .position-bottom {
+        top: 0px;
+    }
+}
+
+

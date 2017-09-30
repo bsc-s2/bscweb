@@ -71,7 +71,7 @@ jQuery(document).ready(function() {
     $('.ccx-gd').sliderPlay({ btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 });
     $('.slider-cdn-xs').sliderPlay({ btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 });
     $('.carousel').carousel({
-    interval: 3000
+        interval: 3000
     })
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;

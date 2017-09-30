@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-09-30T16:48:48+08:00</updated>
+ <updated>2017-09-30T22:11:57+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -3964,7 +3964,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
     &lt;/div&gt;
     &lt;div class=&quot;col-xs-12 cln-products-content-right col-sm-6&quot;&gt;
         &lt;p class=&quot;color-5 fs14&quot;&gt;以创新API技术为载体&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;提供应用、数据、IoT的跨界l链接&lt;/p&gt;
+        &lt;p class=&quot;color-5 fs14&quot;&gt;提供应用、数据、IoT的跨界链接&lt;/p&gt;
         &lt;p class=&quot;color-5 fs14&quot;&gt;解决现存IT环境“数据孤岛”问题&lt;/p&gt;
         &lt;p class=&quot;color-5 fs14&quot;&gt;让数据流通更智慧、应用集成更敏捷、IoT服务更安全&lt;/p&gt;
     &lt;/div&gt;
@@ -3977,7 +3977,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
         &lt;img src=&quot;/zh/public/image/cln/cln-02.png&quot;&gt;
         &lt;p class=&quot;cln-advantage-main-title&quot;&gt;脱码API构建&lt;/p&gt;
         &lt;p class=&quot;fs16 mar-b-20&quot;&gt;数据智能发现&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;程序动态切片和重组&lt;/p&gt;
+        &lt;p class=&quot;color-5 fs14&quot;&gt;程序智能组态构建&lt;/p&gt;
         &lt;p class=&quot;color-5 fs14&quot;&gt;智能发现并理解API&lt;/p&gt;
         &lt;p class=&quot;color-5 fs14&quot;&gt;快速模型驱动API构建&lt;/p&gt;
     &lt;/div&gt;

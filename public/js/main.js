@@ -1,9 +1,7 @@
 jQuery(document).ready(function() {
-    $('#campusURL').click(function(){
+    $('#headerwrap').click(function(){
+        console.log('sdddd');
         $('#jobLink').trigger('click');
-    })
-    $('#sslURL').click(function(){
-        $('#sslLink').trigger('click');
     })
     window.onload = function() {
         $('#blocksItContainer').css('visibility', 'visible');
@@ -36,13 +34,6 @@ jQuery(document).ready(function() {
         ga('send', 'event', 'Videos', 'play', 'Product film');
         
     })
-    $('#videoTriggerssl').click(function(event) {
-        event.stopPropagation();
-        $("#videoBox").css('display', 'block');
-        $('#indexVideo')[0].play();
-        ga('send', 'event', 'Videos', 'play', 'Product film');
-        
-    })
     $('#videoClose').click(function() {
         $('#indexVideo')[0].pause();
         $("#videoBox").css('display', 'none');
@@ -50,7 +41,6 @@ jQuery(document).ready(function() {
         ga('send', 'event', 'Videos', 'close', 'Product film', parseInt(myVideo.currentTime));
         
     })
-
     function setBlocksItCol() {
         var winWidth = $(window).width();
         var col = 2 + ((winWidth - 767) > 0) + ((winWidth - 1099) > 0);
@@ -70,9 +60,6 @@ jQuery(document).ready(function() {
     });
     $('.ccx-gd').sliderPlay({ btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 });
     $('.slider-cdn-xs').sliderPlay({ btnFocusStyle: 'ccx-btn-hover', residenceTime: 3000 });
-    $('.carousel').carousel({
-        interval: 3000
-    })
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
         i[r] = i[r] || function() {
@@ -85,9 +72,6 @@ jQuery(document).ready(function() {
         a.src = g;
         m.parentNode.insertBefore(a, m);
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
     ga('create', 'UA-91873933-1', 'auto');
     ga('send', 'pageview');
-
-
 });

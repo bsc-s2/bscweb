@@ -8,7 +8,7 @@ title: 技术
         <img src="{{ site.baseurl }}/public/image/technology/technology-01.jpg">
     </div>
     <div class="col-xs-6 mar-b-20">
-        <img src="{{ site.baseurl }}/public/image/technology/technology-02.jpg">
+        <img src="{{ site.baseurl }}/public/image/technology/technology-02.jpeg">
     </div>
 </div>
 <div class="clearfix technology mar-b-40-sm">

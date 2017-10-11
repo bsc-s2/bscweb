@@ -932,10 +932,13 @@ a.image-link {
     max-width: 600px;
     margin: auto;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .news-content h2{
+    display: inline-block;
     margin-bottom: 30px;
+    text-align: left;
 }
 
 .news-content p {

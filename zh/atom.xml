@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-09-30T22:11:57+08:00</updated>
+ <updated>2017-10-11T16:47:37+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-46&quot;&gt;&lt;strong&gt;我们再接再厉&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--央视网 | 2017-10-03 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;央视财经频道经济信息联播栏目推出十九大系列报道《砥砺奋进的五年--企业创新再出发》，白山云科技作为创新企业代表，成为报道第一集的典型案例。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-45&quot;&gt;&lt;strong&gt;HTTPS新升级，白山云服务安全性能持续迭代&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--搜狐 | 2017-09-19 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;9月19日，白山云科技宣布，通过一系列技术突破，上线新版HTTPS加速服务，使服务器端性能提高4倍...&lt;/p&gt;
 &lt;/div&gt;
@@ -240,6 +245,25 @@
 &lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>我们再接再厉</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-46/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-46</id>
+   <content type="html">&lt;h2&gt;我们再接再厉&lt;/h2&gt;
+
+&lt;p&gt;央视财经频道经济信息联播栏目推出十九大系列报道《砥砺奋进的五年--企业创新再出发》，白山云科技作为创新企业代表，成为报道第一集的典型案例。&lt;/p&gt;
+
+&lt;div style=&quot;margin-top:50px;&quot; class=&quot;visible-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=c0558p6gix2&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin:100px 0 300px;&quot; class=&quot;hidden-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;http://v.qq.com/iframe/player.html?vid=c0558p6gix2&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;375&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/div&gt;
 </content>
  </entry>
@@ -3787,7 +3811,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
         &lt;img src=&quot;/zh/public/image/technology/technology-01.jpg&quot;&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-xs-6 mar-b-20&quot;&gt;
-        &lt;img src=&quot;/zh/public/image/technology/technology-02.jpg&quot;&gt;
+        &lt;img src=&quot;/zh/public/image/technology/technology-02.jpeg&quot;&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -5147,7 +5171,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                         
                         &lt;i class=&quot;new pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-08-30&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-05&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job901&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门/深圳&lt;/p&gt;
@@ -5243,7 +5267,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                         
                         &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-08-30&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-15&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job907&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
@@ -5343,7 +5367,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                         
                         &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-08-30&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-15&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job913&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京、广州、深圳&lt;/p&gt;
@@ -5477,7 +5501,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                         
                         &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-08-30&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-15&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job908&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
@@ -5581,7 +5605,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                         
                         &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-08-30&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-23&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job914&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
@@ -5780,7 +5804,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                         
                         &lt;i class=&quot;hot pull-left&quot;&gt;&lt;/i&gt; 
                         
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-08-30&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-15&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job912&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京&lt;/p&gt;
@@ -5865,7 +5889,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job121&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;网络工程师&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job121&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京5人&lt;/p&gt;
@@ -5904,7 +5928,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job118&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;项目运营工程师&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job118&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门5人／贵安5人&lt;/p&gt;
@@ -5941,7 +5965,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job115&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;HRBP&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job115&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京2人／厦门2人／贵安2人&lt;/p&gt;
@@ -5983,7 +6007,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job124&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;web研发工程师（PHP）&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job124&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门5人&lt;/p&gt;
@@ -6020,7 +6044,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job120&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;技术支持工程师&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job120&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京2人&lt;/p&gt;
@@ -6055,7 +6079,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job117&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;销售经理&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job117&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京5人&lt;/p&gt;
@@ -6094,7 +6118,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job114&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;知识产权专员&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job114&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门5人&lt;/p&gt;
@@ -6136,7 +6160,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job122&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;研发运维工程师&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job122&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京5人／厦门5人／贵安15人&lt;/p&gt;
@@ -6173,7 +6197,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job119&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;资源规划工程师&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job119&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 厦门5人&lt;/p&gt;
@@ -6208,7 +6232,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job116&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;财务专员&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job116&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京2人／贵安2人&lt;/p&gt;
@@ -6247,7 +6271,7 @@ API的交付与运营管理平台，帮助企业提升研发效率，降低研�
                 &lt;div class=&quot;mar-b-20 pad0&quot;&gt;
                     &lt;div class=&quot;job-title job-title-cn collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#job113&quot;&gt;
                         &lt;span class=&quot;color-2 fs16 job-p job-p-xy pull-left&quot;&gt;海贼王者计划-管培生&lt;/span&gt;
-                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-03-16&lt;/span&gt;
+                        &lt;span class=&quot;pull-right fs16&quot;&gt;2017-09-01&lt;/span&gt;
                         &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
                         &lt;div id=&quot;job113&quot; class=&quot;collapse job-content job-content-cn color-1&quot;&gt;
                             &lt;p class=&quot;p-joblocation&quot;&gt;工作地点: 北京14人&lt;/p&gt;

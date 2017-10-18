@@ -1,0 +1,48 @@
+<div class="clearfix cln-products-head mar-b-40-sm">
+    <div class="cln-products-head-part">
+        <div class="cln-baishan-logo">
+            <img src="{{ site.baseurl }}/public/image/logo_black_cn.png" alt="baishan logo">
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-6">
+            <img src="{{ site.baseurl }}/public/image/cln/cln-01.png">
+        </div>
+        <div class="col-xs-12 cln-products-head-tab col-sm-8 col-md-6">
+            <span><a class="color-3" href="{{ site.baseurl}}{% post_url 2017-01-03-cln-x %}">数聚蜂巢</a></span>
+            <span class="focus">ATD</a></span>
+            <span><a class="color-3" href="{{ site.baseurl}}{% post_url 2017-01-03-cln-x-API %}">API加速</a></span>
+            <div class="white-triangle-2"></div>
+        </div>
+    </div>
+</div>
+<div class="clearfix cln-products-content cln-ATD-API mar-b-40-sm">
+    <div class="cln-ATD-API-part1">
+        <h2 class="cln-main-title">让业务更安全</h2>
+        <p class="bold">识别传统安全产品无法分析的深层次业务威胁，如僵尸网络、低频爬虫、恶意刷单刷票、薅羊毛等，保证业务的健康运行。</p>
+    </div>
+    <hr>
+    <div class="cln-ATD-API-part2">
+        <img src="{{ site.baseurl }}/public/image/cln/cln-ATD-1.png">
+        <p class="bold">无需修改任何代码，无埋点简单旁路部署即可通过实时流式大数据分析，对访问行为进行数据建模，通过个群分离和机器学习聚类算法，深入业务进行多维度毫秒级实时分析，有效识别各种深层次威胁并做相应的可视化展现，最终根据他们的威胁程度做不同的处置，保证客户的业务健康运转。</p>
+    </div>
+    <hr>
+    <div class="cln-ATD-API-advantage">
+        <h2 class="cln-main-title">核心优势</h2>
+        <p class="bold">结合自身数据，提供成熟的威胁识别服务。</p>
+        {% assign advs = site.data.cln-ATD-advantage %}
+        {% for adv in advs %}
+        <div class="advantage-content clearfix">
+            <div class="advantage-content-left col-md-3 col-xs-4">
+                <img src="{{ site.baseurl }}/public/image/cln/{{adv.img}}">
+            </div>
+            <div class="advantage-content-right col-md-9 col-xs-8">
+                <h3>{{adv.head}}</h3>
+                <p>{{adv.info}}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="cln-ATD-API-see-demo clearfix">
+        <h2 class="cln-main-title">立即体验您的专有深度威胁识别系统</h2>
+        <a href="http://atd.juhe.baishancloud.com">查看DEMO</a>
+    </div>
+</div>

@@ -74,4 +74,53 @@ jQuery(document).ready(function() {
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
     ga('create', 'UA-91873933-1', 'auto');
     ga('send', 'pageview');
+
+
+    //cln-API L2 Cache svg js start
+    $("#step-1").hide();
+    $("#step-2").hide();
+    $("#step-3").hide();
+    $("#step-4").hide();
+
+    function showStep(step) {
+        $("#step-1").hide('slow');
+        $("#step-2").hide('slow');
+        $("#step-3").hide('slow');
+        $("#step-4").hide('slow');
+        $("#step-" + step).show('slow');
+    }
+    
+    $("._step_").mouseout(function(){
+        showStep(-1);
+    });
+
+    var auto = true;
+    var i = 1;
+    setInterval(function(){
+        if ( !auto ) return;
+            showStep(i);
+        if ( i > 4 ) {
+            i = 1;
+        } else {
+            i++;
+        }
+    }, 2500);
+
+    $("#oval-step-1").mouseover(function() {
+        auto = false;
+        showStep(1);
+    });
+    $("#oval-step-2").mouseover(function() {
+        auto = false;
+        showStep(2);
+    });
+    $("#oval-step-3").mouseover(function() {
+        auto = false;
+        showStep(3);
+    });
+    $("#oval-step-4").mouseover(function() {
+        auto = false;
+        showStep(4);
+    });
+    //cln-API L2 Cache svg js end
 });

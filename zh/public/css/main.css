@@ -1147,7 +1147,9 @@ a.image-link {
     font-size: 16px;
 }
 
-.white-triangle {
+.white-triangle-1,
+.white-triangle-2,
+.white-triangle-3 {
     height:0;
     width:0;
     overflow: hidden;
@@ -1158,6 +1160,14 @@ a.image-link {
     border-width:16px;
     position: relative;
     left: 65px;
+}
+
+.white-triangle-2 {
+    left: 200px;
+}
+
+.white-triangle-3 {
+    left: 330px;
 }
 
 .cln-baishan-logo img {
@@ -1205,7 +1215,7 @@ a.image-link {
     color: #1266BD;
 }
 
-.cln-products-head-tab span:nth-child(1) {
+.cln-products-head-tab span.focus {
     color: #1266BD;
 }
 
@@ -1238,6 +1248,7 @@ a.image-link {
 
 hr {
     margin: 70px 0;
+    border-top: 1px solid #ccc;
 }
 
 .cln-main-title {
@@ -1743,8 +1754,14 @@ management-position {
     padding: 80px;
 }
 @media(max-width:1200px) {
-    .white-triangle {
+    .white-triangle-1 {
         left: 50px;
+    }
+    .white-triangle-2 {
+        left: 150px;
+    }
+    .white-triangle-3 {
+        left: 255px;
     }
     .cln-products-head {
         padding-left: 15rem;
@@ -1782,8 +1799,14 @@ management-position {
     }
 }
 @media(max-width:992px) {
-    .white-triangle {
+    .white-triangle-1 {
         left: 40px;
+    }
+    .white-triangle-2 {
+        left: 120px;
+    }
+    .white-triangle-3 {
+        left: 205px;
     }
     .cln-products-head img {
         width: 150px;
@@ -1830,9 +1853,17 @@ management-position {
     .cln-products-head-tab span {
         padding: 0 10px;
     }
-    .white-triangle {
+    .white-triangle-1 {
         border-width:10px;
         left: 45px;
+    }
+    .white-triangle-2 {
+        border-width:10px;
+        left: 145px;
+    }
+    .white-triangle-3 {
+        border-width:10px;
+        left: 235px;
     }
     .cln-products-content-left {
         margin-top: 50px;
@@ -1843,6 +1874,7 @@ management-position {
     }
     .cln-baishan-logo img {
         left: 35px;
+        height: 32px;
     }
     #solution .carousel-inner .item .solution-img-1 {
         margin: 40% 10% 0;
@@ -1892,4 +1924,110 @@ management-position {
     }
 }
 
+.cln-ATD-API {
+    text-align: center;
+    margin-top: 260px;
+}
+.cln-ATD-API-part1 {
+    margin-bottom: 90px;
+    padding: 0 10%;
+}
+.cln-ATD-API-part2 {
+    padding: 0 10%;
+}
+.cln-ATD-API-part2 p {
+    margin-top: 60px;
+    text-align: left;
+}
+.cln-ATD-API-advantage {
+    padding: 0 12%;
+    margin-bottom: 100px;
+}
+.cln-ATD-API-advantage>p {
+    margin-bottom: 80px;
+}
+.cln-ATD-API-advantage .advantage-content {
+    text-align: left;
+    margin: 40px 0;
+}
+.cln-ATD-API-advantage .advantage-content-left {
+    padding-top: 20px;
+}
+.cln-ATD-API-see-demo {
+    background-color: #F5F8FA;
+    padding: 60px 0px 80px;
+}
+.cln-ATD-API-see-demo a {
+    display: inline-block;
+    border: 4px solid #3378E0;
+    background-color: #F5F8FA;
+    padding: 8px 30px;
+    color: #3378E0;
+    font-size: 26px;
+    font-weight: bold;
+}
 
+@media(max-width:992px) {
+    .cln-ATD-API-part2 h2 {
+        margin-bottom: 10px;
+    }
+    .cln-ATD-API-part2 p.svg {
+        margin-top: 10px;
+    }
+}
+
+@media(max-width:768px) {
+    .cln-ATD-API {
+        margin-top: 200px;
+    }
+    .cln-ATD-API h2 {
+        font-size: 26px;
+    }
+    .cln-ATD-API h3 {
+        font-size: 22px;
+    }
+    .cln-ATD-API-part2 h2 {
+        margin-bottom: 0px;
+    }
+    .cln-ATD-API-part2 p.svg {
+        margin-top: 0px;
+    }
+    .cln-ATD-API-see-demo {
+        padding: 30px 0px 80px;
+    }
+    .cln-ATD-API-see-demo h2 {
+        font-size: 24px;
+    }
+    .cln-ATD-API-see-demo a {
+        padding: 5px 20px;
+        font-size: 20px;
+    }
+}
+
+@media(max-width:767px) {
+    .cln-ATD-API {
+        margin-top: 260px;
+    }
+}
+
+@media(max-width:375px) {
+    .cln-ATD-API {
+        margin-top: 280px;
+    }
+    .cln-ATD-API h2 {
+        font-size: 24px;
+    }
+    .cln-ATD-API h3 {
+        font-size: 20px;
+    }
+    .cln-ATD-API-advantage {
+        padding: 0 10%;
+    }
+    .cln-ATD-API-see-demo h2 {
+        font-size: 20px;
+    }
+    .cln-ATD-API-see-demo a {
+        padding: 5px 20px;
+        font-size: 18px;
+    }
+}

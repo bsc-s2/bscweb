@@ -203,6 +203,7 @@ strong {
         width: 90%;
         max-width: 990px;
         margin: auto;
+        min-height: 500px;
     }
     .list-content p {
         margin-bottom: 20px;

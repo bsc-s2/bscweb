@@ -203,7 +203,6 @@ strong {
         width: 90%;
         max-width: 990px;
         margin: auto;
-        min-height: 500px;
     }
     .list-content p {
         margin-bottom: 20px;
@@ -1354,12 +1353,18 @@ hr {
 
 
 /* brief */
+.brief-warp {
+    width: 70%;
+    min-width: 300px;
+    margin: 50px auto;
+}
 
-.brief-content p {
+.brief-warp p {
     font-size: 16px;
     line-height: 30px;
     text-align: left;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 

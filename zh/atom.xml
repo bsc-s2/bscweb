@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-11-15T11:56:27+08:00</updated>
+ <updated>2017-11-16T19:46:19+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-49&quot;&gt;&lt;strong&gt;摘得IDC年度大奖，贵州怎样破题数字化转型？&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山微信公号 | 2017-11-15 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;1月14日，贵州省政府的“云上贵州”项目获2017年“IDC数字化转型大奖——领导力转型领军者”。白山云科技的新型技术产品“云聚合”，助力“云上贵州”引领数字化...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-48&quot;&gt;&lt;strong&gt;白山成为央视《经济半小时》中国经济新坐标专题典型案例&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--央视网 | 2017-11-03 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;中央电视台《经济半小时》栏目日前播出《中国经济新坐标：大数据大机遇》专题节目，素描贵州大数据产业进行时...&lt;/p&gt;
 &lt;/div&gt;
@@ -256,6 +261,25 @@
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>摘得IDC年度大奖，贵州怎样破题数字化转型？</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-49/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-49</id>
+   <content type="html">&lt;h2&gt;摘得IDC年度大奖，贵州怎样破题数字化转型？&lt;/h2&gt;
+
+&lt;p&gt;11月14日，贵州省政府的“云上贵州”项目获2017年“IDC数字化转型大奖——领导力转型领军者”。白山云科技的新型技术产品“云聚合”，助力“云上贵州”引领数字化转型。&lt;/p&gt;
+
+&lt;p&gt;IDC数字化转型大奖旨在表彰亚太地区内运用数字化和颠覆性技术在一个或多个业务领域成功规划并实施了数字化转型的组织。“云上贵州”应用云聚合等创新成果，凭借在数据开放、普惠于民方面的卓越表现，从候选项目中脱颖而出，最终摘得这一年度大奖。&lt;/p&gt;
+
+&lt;p&gt;“云上贵州”平台是全国首个实现政府数据和公共数据“统筹存储、统筹共享、统筹标准和统筹安全”的关键信息基础设施。该平台促进政府数据资源的开发利用，鼓励企业、社会组织和个人利用数据资源开展商业模式创新，满足公众和企业对政府数据的“知情权”和“使用权”。&lt;/p&gt;
+
+&lt;p&gt;贵州率先上云，是多种技术突破综合运用的结果。白山的云聚合产品为政府数据共享开放提供了整体解决方案，覆盖了数据的采集、加工、存储、API接口封装等全生命周期管理、目录管理和数据应用等多项功能模块。&lt;/p&gt;
+
+&lt;p&gt;白山的云聚合产品助力“云上贵州”10天内将数据集数量扩充3.3倍， API数量提升5.3倍，梳理了24000多个数据元目录，效率提升4倍，准确率提升至99%。这显著加快了政府相关数据开放的进度，为更多政府部门、企业和各类机构的数据开放共享和数字化转型开拓了新思路，具有典型的借鉴意义。&lt;/p&gt;
 </content>
  </entry>
  

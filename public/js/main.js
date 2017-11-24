@@ -41,7 +41,7 @@ jQuery(document).ready(function() {
         ga('send', 'event', 'Videos', 'close', 'Product film', parseInt(myVideo.currentTime));
         
     })
-    /* login analygics */
+    /* login analytics */
     $('#login').click(function(event) {
         ga('send', 'event', 'Login');
         

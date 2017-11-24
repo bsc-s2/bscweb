@@ -41,6 +41,11 @@ jQuery(document).ready(function() {
         ga('send', 'event', 'Videos', 'close', 'Product film', parseInt(myVideo.currentTime));
         
     })
+    /* login analygics */
+    $('#login').click(function(event) {
+        ga('send', 'event', 'Login');
+        
+    })
     function setBlocksItCol() {
         var winWidth = $(window).width();
         var col = 2 + ((winWidth - 767) > 0) + ((winWidth - 1099) > 0);

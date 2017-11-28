@@ -79,6 +79,7 @@ jQuery(document).ready(function() {
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
     ga('create', 'UA-91873933-1', 'auto');
     ga('send', 'pageview');
+    ga('set', 'userId', 'USER_ID');
 
 
     //cln-API L2 Cache svg js start

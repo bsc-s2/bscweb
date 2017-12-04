@@ -170,3 +170,38 @@
 .solution2-scene .h4-special{
     padding-left: 0;
 }
+@media (max-width: 767px) {
+    .solution-title-card{
+        margin-left: 0;
+    }
+    .solution-scene,
+    .solution-brief,
+    .solution-architecture{
+        padding: 0 15px;
+    }
+    .solution-scene p,
+    .solution-brief p,
+    .solution-brief .point{
+        padding-left: 0;
+    }
+    .solution-scene h4,
+    .solution-brief .point h4{
+        display: block;
+        padding-left: 0;
+    }
+}
+@media (max-width: 1200px){
+    .solution-title-card{
+        margin-top: 180px;
+    }
+}
+@media (max-width: 992px){
+    .solution-title-card{
+        margin-top: 160px;
+    }
+}
+@media (max-width: 767px){
+    .solution-title-card{
+        margin-top: 200px;
+    }
+}

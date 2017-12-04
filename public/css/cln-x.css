@@ -80,10 +80,14 @@
     font-size: 20px;
     color: #fff;
     text-align: center;
-    width: 100%;
+    width: calc(100% - 30px);
+    width: -moz-calc(100% - 30px);
+    /*chrome safari*/
+    width: -webkit-calc(100% - 30px);
+    box-sizing: border-box;
 }
 .solution-card .solution-title h2{
-    padding: 5px 0;
+    padding: 5px 30px;
     margin: 0;
 }
 /* 解决方案页面*/
@@ -154,7 +158,6 @@
     color: #A2202A;
 }
 .solution-scene,
-.solution-architecture,
 .solution-brief{
     margin-bottom: 50px;
 }
@@ -203,5 +206,42 @@
 @media (max-width: 767px){
     .solution-title-card{
         margin-top: 200px;
+    }
+}
+@media (min-width: 992px) {
+    .solution-title-card{
+        margin-left: 0;
+    }
+    .solution-scene,
+    .solution-brief,
+    .solution-architecture{
+        padding: 0 15px;
+    }
+    .solution-scene p,
+    .solution-brief p,
+    .solution-brief .point{
+        padding-left: 0;
+    }
+    .solution-scene h4,
+    .solution-brief .point h4{
+        display: block;
+        padding-left: 0;
+    }
+}
+@media (max-width: 855px) and (min-width: 768px) {
+    .advantage-card {
+        height: 240px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .advantage-card img,
+    .advantage-card div.advantage-content
+    {
+        display: block;
+        text-align: center;
+    }
+    .advantage-card img
+    {
+        margin: 0 auto 10px;
     }
 }

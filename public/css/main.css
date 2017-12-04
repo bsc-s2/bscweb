@@ -1,4 +1,5 @@
 @import url(data-hive.css);
+@import url(cln-x.css);
 * {
     outline: none !important;
 }
@@ -1709,43 +1710,6 @@ management-position {
         height:100px;
         margin-left:calc(50% - 170px);
     }
-}
-
-#solution {
-    background-color: #F5F8FA;
-}
-#solution .carousel-inner .item .solution-img-1 {
-    margin: 20% 10% 0;
-    max-width: 80%;
-}
-#solution .carousel-inner .item .solution-img-2 {
-    margin: 20% 15% 0 10%;
-    max-width: 75%;
-}
-#solution .carousel-indicators li {
-    border: 1px solid #1266BD;
-}
-#solution .carousel-indicators .active {
-    background-color: #1266BD;
-}
-#solution .carousel-control.left,
-#solution .carousel-control.right {
-    background-image: none;
-}
-#solution .position-top-1 {
-    position: relative;
-    top: -360px;
-}
-#solution .position-top-2 {
-    position: relative;
-    top: -330px;
-}
-#solution .position-bottom {
-    position: relative;
-    top: -10px;
-}
-#solution .carousel-caption {
-    text-shadow: 0 0 0;
 }
 .cln-advantage-main-title {
     font-size: 20px;

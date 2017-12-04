@@ -14,121 +14,14 @@
         </div>
     </div>
 </div>
-<div class="clearfix cln-products-content mar-b-40-sm">
-    <div class="col-xs-12 cln-products-content-left col-sm-6">
-        <p class="fs30 bold">数聚蜂巢</p>
-        <p class="fs20 bold">连接数据孤岛</p>
-        <p class="fs20 bold">重塑数据价值</p>
-    </div>
-    <div class="col-xs-12 cln-products-content-right col-sm-6">
-        <p class="color-5 fs14">以创新API技术为载体</p>
-        <p class="color-5 fs14">提供应用、数据、IoT的跨界链接</p>
-        <p class="color-5 fs14">解决现存IT环境“数据孤岛”问题</p>
-        <p class="color-5 fs14">让数据流通更智慧、应用集成更敏捷、IoT服务更安全</p>
-    </div>
-</div>
-<hr>
-<div class="clearfix cln-advantage mar-b-40-sm">
-    <h2 class="cln-main-title">核心优势</h2>
-    <div class="col-xs-6 col-sm-6 col-md-3">
-        <img src="{{ site.baseurl }}/public/image/cln/cln-02.png">
-        <p class="cln-advantage-main-title">脱码API构建</p>
-        <p class="fs16 mar-b-20">数据智能发现</p>
-        <p class="color-5 fs14">程序智能组态构建</p>
-        <p class="color-5 fs14">智能发现并理解API</p>
-        <p class="color-5 fs14">快速模型驱动API构建</p>
-    </div>
-    <div class="col-xs-6 col-sm-6 col-md-3">
-        <img src="{{ site.baseurl }}/public/image/cln/cln-03.png">
-        <p class="cln-advantage-main-title">规模化敏捷运行</p>
-        <p class="fs16 mar-b-20">轻量稳定易拓展</p>
-        <p class="color-5 fs14">深度性能检测与优化</p>
-        <p class="color-5 fs14">横向自动弹性扩容</p>
-        <p class="color-5 fs14">智能监控与容错</p>
-    </div>
-    <div class="col-xs-6 col-sm-6 col-md-3">
-        <img src="{{ site.baseurl }}/public/image/cln/cln-04.png">
-        <p class="cln-advantage-main-title">应用跨界融合网络</p>
-        <p class="fs16 mar-b-20">跨界多元融合</p>
-        <p class="color-5 fs14">多元异构数据融合</p>
-        <p class="color-5 fs14">横向无缝应用集成</p>
-        <p class="color-5 fs14">面向混合云融合</p>
-    </div>
-    <div class="col-xs-6 col-sm-6 col-md-3">
-        <img src="{{ site.baseurl }}/public/image/cln/cln-05.png">
-        <p class="cln-advantage-main-title">深度威胁识别ATD</p>
-        <p class="fs16 mar-b-20">用AI武装安全</p>
-        <p class="color-5 fs14">聚类算法精准识别威胁</p>
-        <p class="color-5 fs14">半监督学习自我优化</p>
-        <p class="color-5 fs14">秒级判断实时预警</p>
-    </div>
-</div>
-<hr>
-
-<div class="clearfix mar-b-40-sm">
-    <div class="ccx-h">
-        <h2 class="cln-main-title">核心功能</h2>
-    </div>
-    <div class="transition-tab hidden-xs data-hive-core">
-        <ul class="nav nav-tabs" role="tablist">
-            <li role="presentation" class="active"><a href="#core-1" data-toggle="tab">数据采集</a></li>
-            <li role="presentation"><a href="#core-2" data-toggle="tab">数据梳理</a></li>
-            <li role="presentation"><a href="#core-3" data-toggle="tab">API管理</a></li>
-            <li role="presentation"><a href="#core-4" data-toggle="tab">iPaaS应用集成</a></li>
-        </ul>
-        <div class="tab-content">
-            {% assign dhcs = site.data.data-hive-core %}
-            {% for dhc in dhcs %}
-            {% if forloop.first %}
-            <div role="tabpanel" class="tab-pane active" id="{{dhc.id}}">
-            {% else %}
-            <div role="tabpanel" class="tab-pane" id="{{dhc.id}}">
-            {% endif %}
-                <div class="core-flex">
-                    <div class="core-img">
-                        <img src="{{ site.baseurl }}/public/image/cln/{{dhc.img}}">
-                    </div>
-                    <div class="core-info">
-                        {% for io in dhc.info %}
-                        <h3>{{io}}</h3>
-                        {% endfor %}
-                    </div>
-                    <div class="clean"></div>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-    <div class="slider-cdn-xs visible-xs">
-        {% assign acce = site.data.data-hive-core %}
-        {% for ac in acce %}
-        {% if forloop.first %}
-        <div class="ccx-dy ccx-dy-first date-hive-core-slider-phone slider">
-        {% else %}
-        <div class="ccx-dy date-hive-core-slider-phone slider">
-        {% endif %}
-            <div class="col-xs-4 cdn-application">
-                <img class="img-center" src="{{ site.baseurl }}/public/image/cln/{{ac.img}}">
-            </div>
-            <div class="col-xs-8 core-info-phone">
-                {% for io in ac.info %}
-                <h3>{{io}}</h3>
-                {% endfor %}
-            </div>
-            <div class="clean"></div>
-        </div>
-        {% endfor %}
-    </div>
-    <div class="ccx-btn slider-btn core-slider-btn-phone visible-xs">
-        <ul class="clearfix">
-            <li class="ccx-btn-hover"></li>
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
+<div class="clearfix cln-products-content cln-ATD-API mar-b-40-sm">
+    <div class="cln-ATD-API-part1">
+        <h2 class="cln-main-title">打通数据孤岛，重塑数据价值</h2>
+        <p class="bold">数聚蜂巢解决了系统、数据和IoT之间的孤岛连接问题，是一个松耦合敏捷的混合集成平台(HIP)，以API实现孤岛系统的数据融合、应用重组和业务构建。
+        </p>
     </div>
     <hr>
-    <div class="ccx-h mar-t-70">
+    <div class="ccx-h">
         <div id="solution" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#solution" data-slide-to="0" class="active"></li>
@@ -136,32 +29,15 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item solution-item active">
-                    <img class="solution-img-1" src="{{ site.baseurl }}/public/image/cln/cln-solution-1.png">
+                    <img class="solution-img-1" src="{{ site.baseurl }}/public/image/cln/cln-defore.png">
                     <div class="carousel-caption">
-                        <div class="position-top-1">
-                            <h2 class="color-3">企业客户解决方案</h2>
-                            <p class="fs20 bold color-3">赋能企业数字化转型</p>
-                        </div>
-                        <div class="position-bottom color-5">
-                            <p>提升客户体验</p>
-                            <p>优化运营流程</p>
-                            <p>重塑商业模式</p>
-                        </div>
+                        <h3 class="color-3 position-top">没有数聚蜂巢</h3>
                     </div>
                 </div>
                 <div class="item solution-item">
-                    <img class="solution-img-2" src="{{ site.baseurl }}/public/image/cln/cln-solution-2.png">
+                    <img class="solution-img-2" src="{{ site.baseurl }}/public/image/cln/cln-after.png">
                     <div class="carousel-caption">
-                        <div class="position-top-2">
-                            <h2 class="color-3">政府客户解决方案</h2>
-                            <p class="fs20 bold color-3">赋能政府数据共享开放</p>
-                        </div>
-                        <div class="position-bottom color-5">
-                            <p>敏捷数据采集，打通“数据孤岛”</p>
-                            <p>智能目录梳理，摸清数据“家底”</p>
-                            <p>高效脱敏脱密，保障数据安全</p>
-                            <p>自动 API 构建，促进数据流通</p>
-                        </div>
+                        <h3 class="color-3 position-top">有了数聚蜂巢，链接不再困难</h3>
                     </div>
                 </div>
             </div>
@@ -173,6 +49,87 @@
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
+        </div>
+    </div>
+    <hr>
+    <div class="">
+        <h2 class="cln-main-title">产品构成</h2>
+        <img src="{{ site.baseurl }}/public/image/cln/constitute.jpeg" alt="">
+    </div>
+    <hr>
+    <div class="advantage clearfix">
+        <h2 class="cln-main-title">产品优势</h2>
+        <div class="col-xs-12 col-md-6 advantage-card">
+            <img src="{{ site.baseurl }}/public/image/cln/advantage-1.png" alt="">
+            <div class="advantage-content">
+                <h4>数据智能发现</h4>
+                <p>脱码API构建</p>
+                <p>程序智能组态构建</p>
+                <p>智能发现并理解API</p>
+                <p>快速模型驱动API构建</p>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6 advantage-card">
+            <img src="{{ site.baseurl }}/public/image/cln/advantage-2.png" alt="">
+            <div class="advantage-content">
+                <h4>跨界多元融合</h4>
+                <p>应用跨界融合</p>
+                <p>多元异构数据融合</p>
+                <p>横向无缝应用集成</p>
+                <p>面向混合云融合</p>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6 advantage-card">
+            <img src="{{ site.baseurl }}/public/image/cln/advantage-3.png" alt="">
+            <div class="advantage-content">
+                <h4>轻量稳定易拓展</h4>
+                <p>规模化敏捷运行</p>
+                <p>深度性能检测与优化</p>
+                <p>横向自动弹性扩容</p>
+                <p>智能监控与容错</p>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6 advantage-card">
+            <img src="{{ site.baseurl }}/public/image/cln/advantage-4.png" alt="">
+            <div class="advantage-content">
+                <h4>用AI武装安全</h4>
+                <p>深度威胁识别ATD</p>
+                <p>聚类算法精准识别威胁</p>
+                <p>半监督学习自我优化</p>
+                <p>秒级判断实时预警</p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="solution">
+        <h2 class="cln-main-title">解决方案</h2>
+        <div class="col-xs-6 solution-card">
+            <a src="{{ site.baseurl }}{% post_url 2017-01-03-solution-1 %}"><img src="{{ site.baseurl }}/public/image/cln/solution-1.jpg" alt=""></a>
+            <div class="solution-title">
+                <h2>双模政务资源目录</h2>
+                <h2>解决方案</h2>
+            </div>
+        </div>
+        <div class="col-xs-6 solution-card">
+            <img src="{{ site.baseurl }}/public/image/cln/solution-2.jpg" alt="">
+            <div class="solution-title">
+                <h2>新型政务数据共享交换</h2>
+                <h2>解决方案</h2>
+            </div>
+        </div>
+        <div class="col-xs-6 solution-card">
+            <img src="{{ site.baseurl }}/public/image/cln/solution-3.jpg" alt="">
+            <div class="solution-title">
+                <h2>互联网+政务</h2>
+                <h2>解决方案</h2>
+            </div>
+        </div>
+        <div class="col-xs-6 solution-card">
+            <img src="{{ site.baseurl }}/public/image/cln/solution-4.jpg" alt="">
+            <div class="solution-title">
+                <h2>企业数字化转型</h2>
+                <h2>解决方案</h2>
+            </div>
         </div>
     </div>
 </div>

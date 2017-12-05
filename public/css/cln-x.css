@@ -1,4 +1,6 @@
-
+.banner-wrap{
+    width: 100%;
+}
 #solution {
     background-color: #fff;
 }

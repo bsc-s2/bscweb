@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-11-28T16:01:10+08:00</updated>
+ <updated>2017-12-07T13:22:02+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-50&quot;&gt;&lt;strong&gt;白山签约Booking，用户获更流畅在线旅游服务&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--搜狐 | 2017-11-23 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;2017年11月23日，白山云科技有限公司（下称“白山”）宣布签约全球领先的在线旅游服务公司Booking.com，通过定制化的云链解决方案，显著提升客户网络服务平台的访问速度，明显增强...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-49&quot;&gt;&lt;strong&gt;摘得IDC年度大奖，贵州怎样破题数字化转型？&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山微信公号 | 2017-11-15 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;1月14日，贵州省政府的“云上贵州”项目获2017年“IDC数字化转型大奖——领导力转型领军者”。白山云科技的新型技术产品“云聚合”，助力“云上贵州”引领数字化...&lt;/p&gt;
 &lt;/div&gt;
@@ -261,6 +266,25 @@
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>白山签约Booking，用户获更流畅在线旅游服务</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-50/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-50</id>
+   <content type="html">&lt;h2&gt;白山签约Booking，用户获更流畅在线旅游服务&lt;/h2&gt;
+
+&lt;p&gt;2017年11月23日，白山云科技有限公司（下称“白山”）宣布签约全球领先的在线旅游服务公司Booking.com，通过定制化的云链解决方案，显著提升客户网络服务平台的访问速度，明显增强其稳定性，从而为终端用户带来更为流畅的应用体验。这是白山继今年6月宣布携手微软之后，又一次对外透露国际合作进展。&lt;/p&gt;
+
+&lt;p&gt;目前Booking.com支持40余种语言，业务遍布全球12万个目的地以上，日均客房预订间夜数超过150万。白山首先针对性地分析研究Booking.com承载高访问压力和看重跨域服务速度及稳定性的业务特点，根据用户的地区分布情况，动态选择覆盖方案。不仅如此，白山特别采取最优链路算法，结合TCP自适应算法优化，以及内核裁剪和定制，最大程度地在CDN网络中，应用多种核心优化技术，减少响应时间，增加稳定性。&lt;/p&gt;
+
+&lt;p&gt;借助白山高效的云分发平台，Booking.com在首屏加载速度、页面响应时间等用户体验方面提升明显。根据第三方测试平台Catchpoint数据显示，白山的技术服务使得Booking.com的首包时间缩短89%，页面响应速度提升92%，提升速度的同时获得了更强大的可用性与稳定性，从而助力Booking.com实现用户更快、更稳、更安全的网络预订服务。&lt;/p&gt;
+
+&lt;p&gt;在白山合伙人兼全球业务副总裁赵鹏（Eddie Zhao）看来，云链带来的数字化服务品质提升，正在触及世界的各个角落。“随着越来越多的跨国公司应用白山的云链服务，终端用户将获得更加迅捷而稳定的网络服务体验。白山日益强壮的全球覆盖和拓展能力也会持续为跨国公司提供高附加值服务。” &lt;/p&gt;
+
+&lt;p&gt;白山是中国首家云链服务提供商，通过云分发、云存储、云聚合产品，为数据的传输、存储、消费和治理提供全生命周期服务。2016年3月，白山在西雅图成立美国公司。目前，白山服务于微软、海康威视、秒拍、国美金融等三百多家大中型互联网及企业客户。&lt;/p&gt;
 </content>
  </entry>
  
@@ -4009,6 +4033,113 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
  
  <entry>
    <title>CLN-X 云聚合</title>
+   <link href="http://www.baishancloud.com/2017/01/03/solution-2/"/>
+   <updated>2017-01-03T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/03/solution-2</id>
+   <content type="html">&lt;div class=&quot;clearfix cln-products-head mar-b-40-sm&quot;&gt;
+    &lt;div class=&quot;cln-products-head-part&quot;&gt;
+        &lt;div class=&quot;cln-baishan-logo&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/logo_black_cn.png&quot; alt=&quot;baishan logo&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-4 col-md-6&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/cln/cln-01.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 cln-products-head-tab col-sm-8 col-md-6&quot;&gt;
+            &lt;span class=&quot;focus&quot;&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x/&quot;&gt;数聚蜂巢&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-ATD/&quot;&gt;ATD&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-API/&quot;&gt;API加速&lt;/a&gt;&lt;/span&gt;
+            &lt;div class=&quot;white-triangle-1&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;solution-title-card solution2-title&quot;&gt;
+    &lt;h3&gt;数聚蜂巢&lt;/h3&gt;
+    &lt;h4&gt;新型政务数据共享交换解决方案&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-brief solution2-brief&quot;&gt;
+    &lt;h3&gt;方案简介:&lt;/h3&gt;
+    &lt;h3&gt;统一标准 集中管理 多方共享&lt;/h3&gt;
+    &lt;p&gt;白山新型政务数据共享交换解决方案是基于数聚蜂巢平台，融合API经济思维、云计算、大数据、AI等先进技术，为政府行业提供数据采集、加工、共享、开放的“一站式”服务。针对目前政府行业信息系统孤立、数据分散的现状，以及建立各种政务数据共享交换平台、“互联网+政务服务“平台和应用的要求，通过数据采集、加工、共享、开放等功能，实现跨系统、跨部门、跨层级、跨地区的数据共享和开放。通过分布式集群的架构，保障政务数据共享交换的高性能、高可靠；通过API驱动的数据交换，实现平台的易用性、安全性。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-architecture&quot;&gt;
+    &lt;h3&gt;方案架构:&lt;/h3&gt;
+    &lt;img src=&quot;/zh/public/image/cln/solution-page2.png&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-scene solution2-scene&quot;&gt;
+    &lt;h3&gt;适用场景:&lt;/h3&gt;
+    &lt;h4 class=&quot;h4-special&quot;&gt;省、市、县共享交换平台&lt;/h4&gt;
+    &lt;p&gt;&lt;b&gt;国发[2016] 55号 《政务信息资源共享管理办法》&lt;/b&gt;，明确要求各省、市需建立各级共享交换节点，通过各交换节点进行各级政府的数据共享交换。&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;国办发[2017] 39号 《政务信息系统整合共享实施方案》&lt;/b&gt;，明确加快部门内部信息系统整合共享;推进接入统一数据共享交换平台，加快公共数据开放网站建设; 推进全国政务信息共享网站建设;开展政务信息资源目录编制;加快构建政务信 息共享标准体系。&lt;/p&gt;
+    &lt;h4&gt;互联网+政务服务平台&lt;/h4&gt;
+    &lt;p&gt;&lt;b&gt;国发[2016] 51号 《“互联网+政务服务”指导意见》&lt;/b&gt;，明确从优化再造政务服务、融合升级平台渠道、夯实支撑基础、加强组织保障等方面，对加快推进“互联网+政务服务”工作。&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;国办函[2016] 108号 《“互联网+政务服务”技术体系建设指南》&lt;/b&gt;，明确各省市网上政务服务平台，各厅局业务协同以及数据汇聚产生的数据交换共享和开放需求。&lt;/p&gt;
+&lt;/div&gt;
+    
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CLN-X 云聚合</title>
+   <link href="http://www.baishancloud.com/2017/01/03/solution-1/"/>
+   <updated>2017-01-03T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/03/solution-1</id>
+   <content type="html">&lt;div class=&quot;clearfix cln-products-head mar-b-40-sm&quot;&gt;
+    &lt;div class=&quot;cln-products-head-part&quot;&gt;
+        &lt;div class=&quot;cln-baishan-logo&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/logo_black_cn.png&quot; alt=&quot;baishan logo&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-4 col-md-6&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/cln/cln-01.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 cln-products-head-tab col-sm-8 col-md-6&quot;&gt;
+            &lt;span class=&quot;focus&quot;&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x/&quot;&gt;数聚蜂巢&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-ATD/&quot;&gt;ATD&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-API/&quot;&gt;API加速&lt;/a&gt;&lt;/span&gt;
+            &lt;div class=&quot;white-triangle-1&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;solution-title-card solution1-title&quot;&gt;
+    &lt;h3&gt;数聚蜂巢&lt;/h3&gt;
+    &lt;h4&gt;双模政务数据资源目录解决方案&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-brief&quot;&gt;
+    &lt;h3&gt;方案简介:&lt;/h3&gt;
+    &lt;h3&gt;一站式 双模式 速梳理 助发展&lt;/h3&gt;
+    &lt;p&gt;白山双模政务数据资源目录解决方案是基于数聚蜂巢平台，融合API经济思维、大数据、AI等先进技术，为政府行业提供政务数据采集、加工、梳理、审计、管理、可视化的一站式服务。&lt;/p&gt;
+    &lt;p&gt;该方案助力各级政府高质高效完成政务数据目录梳理、“摸清家底”，使能“政务数据共享开放”、“一号一窗一网”，以及未来更多政务数据民用、政用、商用模式的创新发展。&lt;/p&gt;
+    &lt;div class=&quot;point&quot;&gt;
+        &lt;h4&gt;&lt;span class=&quot;glyphicon glyphicon-star&quot;&gt;&lt;/span&gt;摸清家底&lt;/h4&gt;
+        &lt;h4&gt;&lt;span class=&quot;glyphicon glyphicon-star&quot;&gt;&lt;/span&gt;政务数据共享开放&lt;/h4&gt;
+        &lt;h4&gt;&lt;span class=&quot;glyphicon glyphicon-star&quot;&gt;&lt;/span&gt;一号一窗一网&lt;/h4&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-architecture&quot;&gt;
+    &lt;h3&gt;方案架构:&lt;/h3&gt;
+    &lt;img src=&quot;/zh/public/image/cln/solution-page1.png&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-scene&quot;&gt;
+    &lt;h3&gt;适用场景:&lt;/h3&gt;
+    &lt;h4 class=&quot;h4-special&quot;&gt;各省、市、县目录平台&lt;/h4&gt;
+    &lt;p&gt;&lt;b&gt;国发[2015] 50号《促进大数据发展行动纲要》&lt;/b&gt;，明确要求各省、自治区、直辖市人民政府，国务院各部委、各直属机构建立政府和社会互动的大数据采集形成机制，制定政府数据共享开放目录。&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;国发[2016] 51号 《政务信息资源共享管理暂行办法》&lt;/b&gt;，明确要求构促进大数据发展部际联席会议指导和组织国务院各部门、各地方政府编制政务信息资源目录，组织编制国家政务信息资源目录。&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;国发[2016] 55号 《“互联网+政务服务”工作的指导意见》&lt;/b&gt;，明确要求各省( 区、市)人民政府、国务院各部门，编制政务服务事项目录，2017年底前通过本级政府门户网站集中公开发布，并实时更新、动态管理。&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;国办函[2016] 108号 《“互联网+政务服务”技术体系建设指南》&lt;/b&gt;，明确列出了技术体系建设涉及的5个主要标准规范要点，分别对政务服务事项实施清单要素、公共信息资源目录信息、数据交换、实名注册协议、评估参考指标体系等进行规范。&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;国办发[2017] 39号 《政务信息系统整合共享实施方案》&lt;/b&gt;，明确要求各省、自治区、直辖市人民政府，国务院各部委、各直属机构统一标准规范，建立动态更新的政务信息资源目录体系，确保政务信息有序开放、共享、使用。(2017年12月底前)。&lt;/p&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CLN-X 云聚合</title>
    <link href="http://www.baishancloud.com/2017/01/03/cln-x/"/>
    <updated>2017-01-03T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/03/cln-x</id>
@@ -4029,256 +4160,107 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;clearfix cln-products-content mar-b-40-sm&quot;&gt;
-    &lt;div class=&quot;col-xs-12 cln-products-content-left col-sm-6&quot;&gt;
-        &lt;p class=&quot;fs30 bold&quot;&gt;数聚蜂巢&lt;/p&gt;
-        &lt;p class=&quot;fs20 bold&quot;&gt;连接数据孤岛&lt;/p&gt;
-        &lt;p class=&quot;fs20 bold&quot;&gt;重塑数据价值&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xs-12 cln-products-content-right col-sm-6&quot;&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;以创新API技术为载体&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;提供应用、数据、IoT的跨界链接&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;解决现存IT环境“数据孤岛”问题&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;让数据流通更智慧、应用集成更敏捷、IoT服务更安全&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;hr&gt;
-&lt;div class=&quot;clearfix cln-advantage mar-b-40-sm&quot;&gt;
-    &lt;h2 class=&quot;cln-main-title&quot;&gt;核心优势&lt;/h2&gt;
-    &lt;div class=&quot;col-xs-6 col-sm-6 col-md-3&quot;&gt;
-        &lt;img src=&quot;/zh/public/image/cln/cln-02.png&quot;&gt;
-        &lt;p class=&quot;cln-advantage-main-title&quot;&gt;脱码API构建&lt;/p&gt;
-        &lt;p class=&quot;fs16 mar-b-20&quot;&gt;数据智能发现&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;程序智能组态构建&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;智能发现并理解API&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;快速模型驱动API构建&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xs-6 col-sm-6 col-md-3&quot;&gt;
-        &lt;img src=&quot;/zh/public/image/cln/cln-03.png&quot;&gt;
-        &lt;p class=&quot;cln-advantage-main-title&quot;&gt;规模化敏捷运行&lt;/p&gt;
-        &lt;p class=&quot;fs16 mar-b-20&quot;&gt;轻量稳定易拓展&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;深度性能检测与优化&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;横向自动弹性扩容&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;智能监控与容错&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xs-6 col-sm-6 col-md-3&quot;&gt;
-        &lt;img src=&quot;/zh/public/image/cln/cln-04.png&quot;&gt;
-        &lt;p class=&quot;cln-advantage-main-title&quot;&gt;应用跨界融合网络&lt;/p&gt;
-        &lt;p class=&quot;fs16 mar-b-20&quot;&gt;跨界多元融合&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;多元异构数据融合&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;横向无缝应用集成&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;面向混合云融合&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-xs-6 col-sm-6 col-md-3&quot;&gt;
-        &lt;img src=&quot;/zh/public/image/cln/cln-05.png&quot;&gt;
-        &lt;p class=&quot;cln-advantage-main-title&quot;&gt;深度威胁识别ATD&lt;/p&gt;
-        &lt;p class=&quot;fs16 mar-b-20&quot;&gt;用AI武装安全&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;聚类算法精准识别威胁&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;半监督学习自我优化&lt;/p&gt;
-        &lt;p class=&quot;color-5 fs14&quot;&gt;秒级判断实时预警&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;div class=&quot;clearfix mar-b-40-sm&quot;&gt;
-    &lt;div class=&quot;ccx-h&quot;&gt;
-        &lt;h2 class=&quot;cln-main-title&quot;&gt;核心功能&lt;/h2&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;transition-tab hidden-xs data-hive-core&quot;&gt;
-        &lt;ul class=&quot;nav nav-tabs&quot; role=&quot;tablist&quot;&gt;
-            &lt;li role=&quot;presentation&quot; class=&quot;active&quot;&gt;&lt;a href=&quot;#core-1&quot; data-toggle=&quot;tab&quot;&gt;数据采集&lt;/a&gt;&lt;/li&gt;
-            &lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#core-2&quot; data-toggle=&quot;tab&quot;&gt;数据梳理&lt;/a&gt;&lt;/li&gt;
-            &lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#core-3&quot; data-toggle=&quot;tab&quot;&gt;API管理&lt;/a&gt;&lt;/li&gt;
-            &lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#core-4&quot; data-toggle=&quot;tab&quot;&gt;iPaaS应用集成&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;div class=&quot;tab-content&quot;&gt;
-            
-            
-            
-            &lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane active&quot; id=&quot;core-1&quot;&gt;
-            
-                &lt;div class=&quot;core-flex&quot;&gt;
-                    &lt;div class=&quot;core-img&quot;&gt;
-                        &lt;img src=&quot;/zh/public/image/cln/data-hive-core-1.png&quot;&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;core-info&quot;&gt;
-                        
-                        &lt;h3&gt;一站式实时接入多数据源、五分钟、零开发打通数据孤岛&lt;/h3&gt;
-                        
-                    &lt;/div&gt;
-                    &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            
-            
-            &lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane&quot; id=&quot;core-2&quot;&gt;
-            
-                &lt;div class=&quot;core-flex&quot;&gt;
-                    &lt;div class=&quot;core-img&quot;&gt;
-                        &lt;img src=&quot;/zh/public/image/cln/data-hive-core-2.png&quot;&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;core-info&quot;&gt;
-                        
-                        &lt;h3&gt;首创机器学习标签梳理引擎，分钟级智能数据梳理，标准自动映射&lt;/h3&gt;
-                        
-                    &lt;/div&gt;
-                    &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            
-            
-            &lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane&quot; id=&quot;core-3&quot;&gt;
-            
-                &lt;div class=&quot;core-flex&quot;&gt;
-                    &lt;div class=&quot;core-img&quot;&gt;
-                        &lt;img src=&quot;/zh/public/image/cln/data-hive-core-3.png&quot;&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;core-info&quot;&gt;
-                        
-                        &lt;h3&gt;提供API设计、生成、运行、分析、安全的全生命周期管理&lt;/h3&gt;
-                        
-                    &lt;/div&gt;
-                    &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            
-            
-            &lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane&quot; id=&quot;core-4&quot;&gt;
-            
-                &lt;div class=&quot;core-flex&quot;&gt;
-                    &lt;div class=&quot;core-img&quot;&gt;
-                        &lt;img src=&quot;/zh/public/image/cln/data-hive-core-4.png&quot;&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;core-info&quot;&gt;
-                        
-                        &lt;h3&gt;基于容器的混合云集成平台，支撑微服务架构和监控预警系统&lt;/h3&gt;
-                        
-                        &lt;h3&gt;提供应用集成、组件编排服务&lt;/h3&gt;
-                        
-                    &lt;/div&gt;
-                    &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;slider-cdn-xs visible-xs&quot;&gt;
-        
-        
-        
-        &lt;div class=&quot;ccx-dy ccx-dy-first date-hive-core-slider-phone slider&quot;&gt;
-        
-            &lt;div class=&quot;col-xs-4 cdn-application&quot;&gt;
-                &lt;img class=&quot;img-center&quot; src=&quot;/zh/public/image/cln/data-hive-core-1.png&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-xs-8 core-info-phone&quot;&gt;
-                
-                &lt;h3&gt;一站式实时接入多数据源、五分钟、零开发打通数据孤岛&lt;/h3&gt;
-                
-            &lt;/div&gt;
-            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&quot;ccx-dy date-hive-core-slider-phone slider&quot;&gt;
-        
-            &lt;div class=&quot;col-xs-4 cdn-application&quot;&gt;
-                &lt;img class=&quot;img-center&quot; src=&quot;/zh/public/image/cln/data-hive-core-2.png&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-xs-8 core-info-phone&quot;&gt;
-                
-                &lt;h3&gt;首创机器学习标签梳理引擎，分钟级智能数据梳理，标准自动映射&lt;/h3&gt;
-                
-            &lt;/div&gt;
-            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&quot;ccx-dy date-hive-core-slider-phone slider&quot;&gt;
-        
-            &lt;div class=&quot;col-xs-4 cdn-application&quot;&gt;
-                &lt;img class=&quot;img-center&quot; src=&quot;/zh/public/image/cln/data-hive-core-3.png&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-xs-8 core-info-phone&quot;&gt;
-                
-                &lt;h3&gt;提供API设计、生成、运行、分析、安全的全生命周期管理&lt;/h3&gt;
-                
-            &lt;/div&gt;
-            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-        &lt;div class=&quot;ccx-dy date-hive-core-slider-phone slider&quot;&gt;
-        
-            &lt;div class=&quot;col-xs-4 cdn-application&quot;&gt;
-                &lt;img class=&quot;img-center&quot; src=&quot;/zh/public/image/cln/data-hive-core-4.png&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-xs-8 core-info-phone&quot;&gt;
-                
-                &lt;h3&gt;基于容器的混合云集成平台，支撑微服务架构和监控预警系统&lt;/h3&gt;
-                
-                &lt;h3&gt;提供应用集成、组件编排服务&lt;/h3&gt;
-                
-            &lt;/div&gt;
-            &lt;div class=&quot;clean&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-    &lt;/div&gt;
-    &lt;div class=&quot;ccx-btn slider-btn core-slider-btn-phone visible-xs&quot;&gt;
-        &lt;ul class=&quot;clearfix&quot;&gt;
-            &lt;li class=&quot;ccx-btn-hover&quot;&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;/li&gt;
-        &lt;/ul&gt;
+&lt;div class=&quot;clearfix cln-products-content cln-ATD-API mar-b-40-sm&quot;&gt;
+    &lt;div class=&quot;cln-ATD-API-part1&quot;&gt;
+        &lt;h2 class=&quot;cln-main-title&quot;&gt;打通数据孤岛，重塑数据价值&lt;/h2&gt;
+        &lt;p class=&quot;bold&quot;&gt;数聚蜂巢解决了系统、数据和IoT之间的孤岛连接问题，是一个松耦合敏捷的混合集成平台(HIP)，以API实现孤岛系统的数据融合、应用重组和业务构建。
+        &lt;/p&gt;
     &lt;/div&gt;
     &lt;hr&gt;
-    &lt;div class=&quot;ccx-h mar-t-70&quot;&gt;
-        &lt;div id=&quot;solution&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-            &lt;ol class=&quot;carousel-indicators&quot;&gt;
-                &lt;li data-target=&quot;#solution&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-                &lt;li data-target=&quot;#solution&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-            &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
-                &lt;div class=&quot;item solution-item active&quot;&gt;
-                    &lt;img class=&quot;solution-img-1&quot; src=&quot;/zh/public/image/cln/cln-solution-1.png&quot;&gt;
-                    &lt;div class=&quot;carousel-caption&quot;&gt;
-                        &lt;div class=&quot;position-top-1&quot;&gt;
-                            &lt;h2 class=&quot;color-3&quot;&gt;企业客户解决方案&lt;/h2&gt;
-                            &lt;p class=&quot;fs20 bold color-3&quot;&gt;赋能企业数字化转型&lt;/p&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;position-bottom color-5&quot;&gt;
-                            &lt;p&gt;提升客户体验&lt;/p&gt;
-                            &lt;p&gt;优化运营流程&lt;/p&gt;
-                            &lt;p&gt;重塑商业模式&lt;/p&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;item solution-item&quot;&gt;
-                    &lt;img class=&quot;solution-img-2&quot; src=&quot;/zh/public/image/cln/cln-solution-2.png&quot;&gt;
-                    &lt;div class=&quot;carousel-caption&quot;&gt;
-                        &lt;div class=&quot;position-top-2&quot;&gt;
-                            &lt;h2 class=&quot;color-3&quot;&gt;政府客户解决方案&lt;/h2&gt;
-                            &lt;p class=&quot;fs20 bold color-3&quot;&gt;赋能政府数据共享开放&lt;/p&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;position-bottom color-5&quot;&gt;
-                            &lt;p&gt;敏捷数据采集，打通“数据孤岛”&lt;/p&gt;
-                            &lt;p&gt;智能目录梳理，摸清数据“家底”&lt;/p&gt;
-                            &lt;p&gt;高效脱敏脱密，保障数据安全&lt;/p&gt;
-                            &lt;p&gt;自动 API 构建，促进数据流通&lt;/p&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
+    &lt;div class=&quot;banner-wrap&quot;&gt;
+        &lt;img src=&quot;/zh/public/image/cln/cln-defore.png&quot; alt=&quot;&quot; id='bannerImg'&gt;
+    &lt;/div&gt;
+    &lt;hr&gt;
+    &lt;div class=&quot;&quot;&gt;
+        &lt;h2 class=&quot;cln-main-title&quot;&gt;产品构成&lt;/h2&gt;
+        &lt;img src=&quot;/zh/public/image/cln/constitute.png&quot; alt=&quot;&quot;&gt;
+    &lt;/div&gt;
+    &lt;hr&gt;
+    &lt;div class=&quot;advantage clearfix&quot;&gt;
+        &lt;h2 class=&quot;cln-main-title&quot;&gt;产品优势&lt;/h2&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+            &lt;div class=&quot;advantage-card&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/advantage-1.png&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;advantage-content&quot;&gt;
+                    &lt;h4&gt;数据智能发现&lt;/h4&gt;
+                    &lt;p&gt;脱码API构建&lt;/p&gt;
+                    &lt;p&gt;程序智能组态构建&lt;/p&gt;
+                    &lt;p&gt;智能发现并理解API&lt;/p&gt;
+                    &lt;p&gt;快速模型驱动API构建&lt;/p&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
-            &lt;a class=&quot;left carousel-control&quot; href=&quot;#solution&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-                &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-                &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+            &lt;div class=&quot;advantage-card&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/advantage-2.png&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;advantage-content&quot;&gt;
+                    &lt;h4&gt;跨界多元融合&lt;/h4&gt;
+                    &lt;p&gt;应用跨界融合&lt;/p&gt;
+                    &lt;p&gt;多元异构数据融合&lt;/p&gt;
+                    &lt;p&gt;横向无缝应用集成&lt;/p&gt;
+                    &lt;p&gt;面向混合云融合&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+            &lt;div class=&quot;advantage-card&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/advantage-3.png&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;advantage-content&quot;&gt;
+                    &lt;h4&gt;轻量稳定易拓展&lt;/h4&gt;
+                    &lt;p&gt;规模化敏捷运行&lt;/p&gt;
+                    &lt;p&gt;深度性能检测与优化&lt;/p&gt;
+                    &lt;p&gt;横向自动弹性扩容&lt;/p&gt;
+                    &lt;p&gt;智能监控与容错&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;
+            &lt;div class=&quot;advantage-card&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/advantage-4.png&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;advantage-content&quot;&gt;
+                    &lt;h4&gt;用AI武装安全&lt;/h4&gt;
+                    &lt;p&gt;深度威胁识别ATD&lt;/p&gt;
+                    &lt;p&gt;聚类算法精准识别威胁&lt;/p&gt;
+                    &lt;p&gt;半监督学习自我优化&lt;/p&gt;
+                    &lt;p&gt;秒级判断实时预警&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;hr&gt;
+    &lt;div class=&quot;solution&quot;&gt;
+        &lt;h2 class=&quot;cln-main-title&quot;&gt;解决方案&lt;/h2&gt;
+        &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
+            &lt;a href=&quot;/zh/2017/01/03/solution-1/&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/solution-1.jpg&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;solution-title&quot;&gt;
+                    &lt;h2&gt;双模政务资源目录&lt;/h2&gt;
+                    &lt;h2&gt;解决方案&lt;/h2&gt;
+                &lt;/div&gt;
             &lt;/a&gt;
-            &lt;a class=&quot;right carousel-control&quot; href=&quot;#solution&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-                &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-                &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
+            &lt;a href=&quot;/zh/2017/01/03/solution-2/&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/solution-2.jpg&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;solution-title&quot;&gt;
+                    &lt;h2&gt;新型政务数据共享交换&lt;/h2&gt;
+                    &lt;h2&gt;解决方案&lt;/h2&gt;
+                &lt;/div&gt;
             &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/cln/solution-3.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;div class=&quot;solution-title&quot;&gt;
+                &lt;h2&gt;互联网+政务&lt;/h2&gt;
+                &lt;h2&gt;解决方案&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/cln/solution-4.jpg&quot; alt=&quot;&quot;&gt;
+            &lt;div class=&quot;solution-title&quot;&gt;
+                &lt;h2&gt;企业数字化转型&lt;/h2&gt;
+                &lt;h2&gt;解决方案&lt;/h2&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;

@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: "微软雅黑", Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     color: #555;
     font-weight: 300;
 }
@@ -314,7 +314,6 @@ strong {
 
 .job-content-cn {
     font-size: 14px;
-    font-family: 微软雅黑;
     line-height: 26px;
 }
 

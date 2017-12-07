@@ -39,6 +39,8 @@
 /* 产品优势 */
 .advantage-card {
     text-align: left;
+    margin: 15px auto;
+    width: 300px;
 }
 .advantage-card img,
 .advantage-card .advantage-content{
@@ -91,13 +93,16 @@
 .solution-card .solution-title h2{
     padding: 5px 30px;
     margin: 0;
+    font-size: 28px;
 }
 /* 解决方案页面*/
 .solution-title-card{
     position: absolute;
     top: 20px;
     left: 0px;
-    width: 100%;
+    width: calc(100% - 14rem);
+    width: -moz-calc(100% - 14rem);
+    width: -webkit-calc(100% - 14rem);
     margin-top: 200px;
     margin-left: 14rem;
     padding: 40px 20px;
@@ -230,7 +235,7 @@
         padding-left: 0;
     }
 }
-@media (max-width: 855px) and (min-width: 768px) {
+/* @media (max-width: 855px) and (min-width: 768px) {
     .advantage-card {
         height: 240px;
         text-align: center;
@@ -246,4 +251,4 @@
     {
         margin: 0 auto 10px;
     }
-}
+} */

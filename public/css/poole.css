@@ -279,7 +279,7 @@ pre code {
 
 @media (min-width:768px) {
     .headerwrap {
-        background: url(../image/campus.png) no-repeat center top;
+        background: url(../image/background.png) no-repeat center top;
         text-align: center;
         background-attachment: relative;
         background-position: center center;

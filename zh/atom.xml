@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-12-26T23:46:14+08:00</updated>
+ <updated>2017-12-27T00:29:22+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -9477,7 +9477,7 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/3-miaopai.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/3-miaopai.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9489,7 +9489,7 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/5-meituan.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/5-meituan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9507,13 +9507,13 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/8-qichezhijia.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/8-qichezhijia.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/10-lianjiawang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/10-lianjiawang.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9543,7 +9543,7 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/15-qunaer.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/15-qunaer.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9670,12 +9670,6 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
             &lt;img src=&quot;/zh/public/image/Customers/36-GGVC.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/45-liebao.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     

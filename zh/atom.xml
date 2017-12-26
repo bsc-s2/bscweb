@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-12-26T13:35:54+08:00</updated>
+ <updated>2017-12-26T23:46:14+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -9459,7 +9459,13 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/1-ACFUN.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/0-weiruan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
+        &lt;div class=&quot;customers-box&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/1-xiaomi.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9477,7 +9483,7 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/4-baisibudejie.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/4-yingke.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9507,12 +9513,6 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/9-fenghuangjinrong.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
             &lt;img src=&quot;/zh/public/image/Customers/10-lianjiawang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -9525,7 +9525,7 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/12-37wan.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/12-liebao.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9537,7 +9537,7 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/14-dangdangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/14-wanda.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9549,61 +9549,61 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/16-guaziershouche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/16-weipinhui.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/17-shenzhouzuche.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/17-xindongfang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/18-yidaoyongche.JPEG&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/18-xinhuawang.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/19-dingdangkuaiyao.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/19-zhilianzhaopin.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/20-tantan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/20-ZHRMGHG.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/21-haozan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/21-booking.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/22-kuaiya.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/22-CCTV.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/23-baofengyingyin.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/23-guomei.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/24-xunyou.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/24-haikangweishi.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/25-douyou.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/25-Kono.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9621,37 +9621,37 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/28-soufangwang.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/28-baofeng.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/29-yiche.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/29-yunshangguizhou.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/30-jiuxianwang.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/30-yidianzixun.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/31-youyuan.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/31-paipai.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/33-kugouyinyue.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/32-kunlunyouxi.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/33-kuwoyinyue.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/33-360.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -9663,103 +9663,19 @@ style='font-family:华文仿宋'&gt;日期：年月日&lt;/span&gt;&lt;/b&gt;&lt
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/35-benlaishenghuo.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/35-juren.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/36-miyabaobei.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/37-taomiwang.gif&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/38-liufangjian.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/39-diyishipin.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/40-muzhiwan.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/41-xinlangleju.png&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/42-mafengwo.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/43-liepinwang.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/44-yonglepiaowu.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/Customers/36-GGVC.jpg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
         &lt;div class=&quot;customers-box&quot;&gt;
             &lt;img src=&quot;/zh/public/image/Customers/45-liebao.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/46-fengniaowang.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/47-zhongguoribaohaiwaiban.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/48-cankaoxiaoxi.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/49-shouqizuche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/50-didapinche.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;col-xs-4 col-sm-4 col-md-3 mar-b-20&quot;&gt;
-        &lt;div class=&quot;customers-box&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/Customers/51-ailihui.jpeg&quot; alt=&quot;&quot; class=&quot;img-center&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     

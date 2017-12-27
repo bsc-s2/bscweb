@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2017-12-27T00:29:22+08:00</updated>
+ <updated>2017-12-27T17:32:47+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -4189,8 +4189,21 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;hr&gt;
+    &lt;div class=&quot;squeegee-bg&quot;&gt;
+        &lt;div id=&quot;squeegee&quot; class=&quot;squeegee-wrap&quot;&gt;
+            &lt;div class=&quot;squeegee-handle&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;squeegee-before&quot;&gt;
+                &lt;h4&gt;...没有数聚蜂巢&lt;/h4&gt;
+                &lt;div&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;squeegee-after&quot;&gt;
+                &lt;h4&gt;&lt;/h4&gt;
+                &lt;div&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
     &lt;div class=&quot;banner-wrap&quot;&gt;
-        &lt;img src=&quot;/zh/public/image/cln/cln-defore.png&quot; alt=&quot;&quot; id='bannerImg'&gt;
+        &lt;img src=&quot;/zh/public/image/cln/cln-before.png&quot; alt=&quot;&quot; id='bannerImg'&gt;
     &lt;/div&gt;
     &lt;hr&gt;
     &lt;div class=&quot;&quot;&gt;
@@ -4286,6 +4299,10 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;script src=&quot;/zh/public/js/jquery-2.2.4.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/zh/public/js/squeegee.js&quot;&gt;&lt;/script&gt;
 </content>
  </entry>
  

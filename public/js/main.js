@@ -133,7 +133,7 @@ jQuery(document).ready(function() {
     // cln-x banner
     const img = document.getElementById("bannerImg")
     const urlArray = $('#bannerImg').attr('src').split('/')
-    const srcArray = ['cln-defore.png','cln-after.png']
+    const srcArray = ['cln-before.png','test.png']
     const len = srcArray.length - 1
     let index = 0
     setInterval(function() {
@@ -152,4 +152,5 @@ jQuery(document).ready(function() {
             index = 0
         }
     },4000)
+
 });

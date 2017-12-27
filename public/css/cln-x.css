@@ -254,7 +254,7 @@
     z-index: 100;
     overflow: visible;
     position: absolute;
-    left: 0;
+    left: 190px;
 }
 
 .squeegee-before,
@@ -265,12 +265,12 @@
 
 .squeegee-before {
     right: 0;
-    width: 100%;
+    width: 800px;
 }
 
 .squeegee-after{
     left: 0;
-    width: 0;
+    width: 190px;
 }
 
 .squeegee-before div,
@@ -298,7 +298,7 @@
     text-align: left;
     white-space: nowrap;
     overflow: hidden;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
 }
 .squeegee-before h4 {

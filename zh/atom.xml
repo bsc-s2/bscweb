@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2018-01-05T12:05:12+08:00</updated>
+ <updated>2018-01-15T11:01:19+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -4077,6 +4077,117 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
  
  <entry>
    <title>CLN-X 云聚合</title>
+   <link href="http://www.baishancloud.com/2017/01/03/solution-4/"/>
+   <updated>2017-01-03T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/03/solution-4</id>
+   <content type="html">&lt;div class=&quot;clearfix cln-products-head mar-b-40-sm&quot;&gt;
+    &lt;div class=&quot;cln-products-head-part&quot;&gt;
+        &lt;div class=&quot;cln-baishan-logo&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/logo_black_cn.png&quot; alt=&quot;baishan logo&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-4 col-md-6&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/cln/cln-01.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 cln-products-head-tab col-sm-8 col-md-6&quot;&gt;
+            &lt;span class=&quot;focus&quot;&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x/&quot;&gt;数聚蜂巢&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-ATD/&quot;&gt;ATD&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-API/&quot;&gt;API加速&lt;/a&gt;&lt;/span&gt;
+            &lt;div class=&quot;white-triangle-1&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;solution-title-card solution4-title&quot;&gt;
+    &lt;h3&gt;数聚蜂巢&lt;/h3&gt;
+    &lt;h4&gt;企业数字化转型解决方案&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-brief&quot;&gt;
+    &lt;h3&gt;方案简介:&lt;/h3&gt;
+    &lt;h3&gt;用API成就企业数字化转型&lt;/h3&gt;
+    &lt;p&gt;数字化转型（Digital Transformation，简称 DX）是指企业运用第三平台技术，包括云计算、大数据、社交和移动，通过新的产品和服务、新的业务模式和新的关系创造价值和竞争优势。新时代下，企业应对数字化转型的速度，以及创造数字化产品、服务和体验的能力，将决定其未来&lt;/p&gt;
+    &lt;img src=&quot;/zh/public/image/cln/brief-page4.png&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-architecture&quot;&gt;
+    &lt;h3&gt;方案架构:&lt;/h3&gt;
+    &lt;h3 class=&quot;h4-special&quot;&gt;基于API的数字化开放重构&lt;/h3&gt;
+    &lt;p&gt;随着API经济的兴起，业务流程和数据不再受困于应用内部，数据和应用“孤岛”问题也会因此得到有效改善，从而进一步帮助企业缩短创新周期、提高生产效率，最终获得新的业务增长、快速应对数字化转型。&lt;/p&gt;
+    &lt;p&gt;IDC预测，到2021年，超过一半的全球2000强企业，将用API开放生态系统完成其平均1/3的数字化服务交互，中国市场也将如此。&lt;/p&gt;
+    &lt;img src=&quot;/zh/public/image/cln/solution-page4.png&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-scene solution4-scene&quot;&gt;
+    &lt;h3&gt;适用场景:&lt;/h3&gt;
+    &lt;h4 class=&quot;h4-special&quot;&gt;解决IT转型中可能的“挑战”&lt;/h4&gt;
+    &lt;img src=&quot;/zh/public/image/cln/screen-page4.png&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+    
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CLN-X 云聚合</title>
+   <link href="http://www.baishancloud.com/2017/01/03/solution-3/"/>
+   <updated>2017-01-03T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/03/solution-3</id>
+   <content type="html">&lt;div class=&quot;clearfix cln-products-head mar-b-40-sm&quot;&gt;
+    &lt;div class=&quot;cln-products-head-part&quot;&gt;
+        &lt;div class=&quot;cln-baishan-logo&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/logo_black_cn.png&quot; alt=&quot;baishan logo&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-4 col-md-6&quot;&gt;
+            &lt;img src=&quot;/zh/public/image/cln/cln-01.png&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-xs-12 cln-products-head-tab col-sm-8 col-md-6&quot;&gt;
+            &lt;span class=&quot;focus&quot;&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x/&quot;&gt;数聚蜂巢&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-ATD/&quot;&gt;ATD&lt;/a&gt;&lt;/span&gt;
+            &lt;span&gt;&lt;a class=&quot;color-3&quot; href=&quot;/zh/2017/01/03/cln-x-API/&quot;&gt;API加速&lt;/a&gt;&lt;/span&gt;
+            &lt;div class=&quot;white-triangle-1&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;solution-title-card solution3-title&quot;&gt;
+    &lt;h3&gt;数聚蜂巢&lt;/h3&gt;
+    &lt;h4&gt;互联网+政务解决方案&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-brief&quot;&gt;
+    &lt;h3&gt;方案简介:&lt;/h3&gt;
+    &lt;h3&gt;从“群众跑腿”到“数据跑路”&lt;/h3&gt;
+    &lt;p&gt;白山互联网+政务解决方案基于数聚蜂巢平台，依托API经济思维，借助云计算、大数据、人工智能等互联网高新信息技术，助力建设高效、便捷、经济的政务服务，实现“惠民、惠企、惠政”。&lt;/p&gt;
+    &lt;p&gt;本方案以API作为业务数据的载体，组建API数据资源池，实现跨层级、跨区域、跨部门业务系统的共享调用和数据交换，打通数据孤岛，优化办事业务流程，提升民众和企业办事效率，改善民众和企业的办事体验，真正做到让“群众跑腿”变成让“数据跑路”。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-architecture&quot;&gt;
+    &lt;h3&gt;方案架构:&lt;/h3&gt;
+    &lt;img src=&quot;/zh/public/image/cln/solution-page3.png&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;clearfix solution-scene solution2-scene solution3-scene&quot;&gt;
+    &lt;h3&gt;适用场景:&lt;/h3&gt;
+    &lt;h4 class=&quot;h4-special&quot;&gt;一号一窗一网&lt;/h4&gt;
+    &lt;p&gt;以API为载体，打通数据孤岛，重组业务逻辑，优化办事流程，提升民众体验&lt;/p&gt;
+    &lt;img src=&quot;/zh/public/image/cln/screen-page3-1.png&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;白山数聚蜂巢能够针对B/S、C/S、DB等多种类型业务快速生成API，组成API资源池，不依赖原长技术，无需反复沟通，缩短流程，减轻对接技术难度，快速实现业务互联互通，提升效率，降低成本。&lt;/p&gt;
+    &lt;h4&gt;电子政务-大数据应用&lt;/h4&gt;
+    &lt;img src=&quot;/zh/public/image/cln/screen-page3-2.png&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;数聚蜂巢以API为数据载体&lt;/p&gt;
+    &lt;p&gt;针对已有API的业务系统，使用API适配成统一REST API；&lt;/p&gt;
+    &lt;p&gt;针对B/S架构业务系统使用B2A方式生成API；&lt;/p&gt;
+    &lt;p&gt;针对C/S架构，使用C2A生成API；&lt;/p&gt;
+    &lt;p&gt;针对具有数据库权限的业务系统使用D2A方式生成API；&lt;/p&gt;
+    &lt;p&gt;支持结构化数据，半结构化、非结构化数据处理，满足多种业务架构，且实现和数据的实时交互。&lt;/p&gt;
+    &lt;h4&gt;智慧城市&lt;/h4&gt;
+    &lt;img src=&quot;/zh/public/image/cln/screen-page3-3.png&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;数聚蜂巢不依赖原厂商，适用已有API、B/S、C/S、DB等业务类型，自主生成接口，针对不同数据使用统一标准，以API为数据载体，将来源不同、格式异同的数据标准统一，减少人工干预，降低数据获取和使用的复杂程度，提升智慧城市建设效率。&lt;/p&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CLN-X 云聚合</title>
    <link href="http://www.baishancloud.com/2017/01/03/solution-2/"/>
    <updated>2017-01-03T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/03/solution-2</id>
@@ -4105,7 +4216,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 &lt;div class=&quot;clearfix solution-brief solution2-brief&quot;&gt;
     &lt;h3&gt;方案简介:&lt;/h3&gt;
     &lt;h3&gt;统一标准 集中管理 多方共享&lt;/h3&gt;
-    &lt;p&gt;白山新型政务数据共享交换解决方案是基于数聚蜂巢平台，融合API经济思维、云计算、大数据、AI等先进技术，为政府行业提供数据采集、加工、共享、开放的“一站式”服务。针对目前政府行业信息系统孤立、数据分散的现状，以及建立各种政务数据共享交换平台、“互联网+政务服务“平台和应用的要求，通过数据采集、加工、共享、开放等功能，实现跨系统、跨部门、跨层级、跨地区的数据共享和开放。通过分布式集群的架构，保障政务数据共享交换的高性能、高可靠；通过API驱动的数据交换，实现平台的易用性、安全性。&lt;/p&gt;
+    &lt;p&gt;白山新型政务数据共享交换解决方案是基于数聚蜂巢平台，融合API经济思维、云计算、大数据、特征工程等先进技术，为政府行业提供数据采集、加工、共享、开放的“一站式”服务。针对目前政府行业信息系统孤立、数据分散的现状，以及建立各种政务数据共享交换平台、“互联网+政务服务“平台和应用的要求，通过数据采集、加工、共享、开放等功能，实现跨系统、跨部门、跨层级、跨地区的数据共享和开放。通过分布式集群的架构，保障政务数据共享交换的高性能、高可靠；通过API驱动的数据交换，实现平台的易用性、安全性。&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;clearfix solution-architecture&quot;&gt;
@@ -4156,7 +4267,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 &lt;div class=&quot;clearfix solution-brief&quot;&gt;
     &lt;h3&gt;方案简介:&lt;/h3&gt;
     &lt;h3&gt;一站式 双模式 速梳理 助发展&lt;/h3&gt;
-    &lt;p&gt;白山双模政务数据资源目录解决方案是基于数聚蜂巢平台，融合API经济思维、大数据、AI等先进技术，为政府行业提供政务数据采集、加工、梳理、审计、管理、可视化的一站式服务。&lt;/p&gt;
+    &lt;p&gt;白山双模政务数据资源目录解决方案是基于数聚蜂巢平台，融合API经济思维、大数据、特征工程等先进技术，为政府行业提供政务数据采集、加工、梳理、审计、管理、可视化的一站式服务。&lt;/p&gt;
     &lt;p&gt;该方案助力各级政府高质高效完成政务数据目录梳理、“摸清家底”，使能“政务数据共享开放”、“一号一窗一网”，以及未来更多政务数据民用、政用、商用模式的创新发展。&lt;/p&gt;
     &lt;div class=&quot;point&quot;&gt;
         &lt;h4&gt;&lt;span class=&quot;glyphicon glyphicon-star&quot;&gt;&lt;/span&gt;摸清家底&lt;/h4&gt;
@@ -4306,18 +4417,22 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
             &lt;/a&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/cln/solution-3.jpg&quot; alt=&quot;&quot;&gt;
-            &lt;div class=&quot;solution-title&quot;&gt;
-                &lt;h2&gt;互联网+政务&lt;/h2&gt;
-                &lt;h2&gt;解决方案&lt;/h2&gt;
-            &lt;/div&gt;
+            &lt;a href=&quot;/zh/2017/01/03/solution-3/&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/solution-3.jpg&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;solution-title&quot;&gt;
+                    &lt;h2&gt;互联网+政务&lt;/h2&gt;
+                    &lt;h2&gt;解决方案&lt;/h2&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
-            &lt;img src=&quot;/zh/public/image/cln/solution-4.jpg&quot; alt=&quot;&quot;&gt;
-            &lt;div class=&quot;solution-title&quot;&gt;
-                &lt;h2&gt;企业数字化转型&lt;/h2&gt;
-                &lt;h2&gt;解决方案&lt;/h2&gt;
-            &lt;/div&gt;
+            &lt;a href=&quot;/zh/2017/01/03/solution-4/&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/solution-4.jpg&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;solution-title&quot;&gt;
+                    &lt;h2&gt;企业数字化转型&lt;/h2&gt;
+                    &lt;h2&gt;解决方案&lt;/h2&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;

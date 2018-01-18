@@ -1,9 +1,9 @@
-- name: 技术咨询
-  phone: 400-081-3388 转 1
-  mail: techs@baishancloud.com
 - name: 销售咨询
-  phone: 400-081-3388 转 2
+  phone: 400-081-3388 转 1
   mail: support@baishancloud.com
+- name: 技术咨询
+  phone: 400-081-3388 转 2
+  mail: techs@baishancloud.com
 - name: 投资关系
   phone: 400-081-3388 转 6
   mail: ir@baishancloud.com

@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2018-01-31T16:49:52+08:00</updated>
+ <updated>2018-02-08T18:08:24+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -4313,7 +4313,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 &lt;div class=&quot;clearfix cln-products-content cln-ATD-API mar-b-40-sm&quot;&gt;
     &lt;div class=&quot;cln-ATD-API-part1&quot;&gt;
         &lt;h2 class=&quot;cln-main-title&quot;&gt;打通数据孤岛，重塑数据价值&lt;/h2&gt;
-        &lt;p class=&quot;bold&quot;&gt;数聚蜂巢解决了系统、数据和IoT之间的孤岛连接问题，是一个松耦合敏捷的混合集成平台(HIP)，以API实现孤岛系统的数据融合、应用重组和业务构建。
+        &lt;p class=&quot;bold&quot;&gt;数聚蜂巢解决系统、数据和IoT之间的孤岛连接问题，是一个松耦合敏捷的混合集成平台(HiP)，以API实现孤岛系统的数据融合、应用重组和业务构建。
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;hr&gt;
@@ -4336,7 +4336,7 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
     &lt;hr&gt;
     &lt;div class=&quot;&quot;&gt;
         &lt;h2 class=&quot;cln-main-title&quot;&gt;产品构成&lt;/h2&gt;
-        &lt;img src=&quot;/zh/public/image/cln/constitute.png&quot; alt=&quot;&quot;&gt;
+        &lt;img src=&quot;/zh/public/image/cln/constitute.png&quot; alt=&quot;&quot; style=&quot;margin: auto;padding-left: 50px;&quot;&gt;
     &lt;/div&gt;
     &lt;hr&gt;
     &lt;div class=&quot;advantage clearfix&quot;&gt;
@@ -4394,6 +4394,15 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
     &lt;div class=&quot;solution&quot;&gt;
         &lt;h2 class=&quot;cln-main-title&quot;&gt;解决方案&lt;/h2&gt;
         &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
+            &lt;a href=&quot;/zh/2017/01/03/solution-4/&quot;&gt;
+                &lt;img src=&quot;/zh/public/image/cln/solution-4.jpg&quot; alt=&quot;&quot;&gt;
+                &lt;div class=&quot;solution-title&quot;&gt;
+                    &lt;h2&gt;企业数字化转型&lt;/h2&gt;
+                    &lt;h2&gt;解决方案&lt;/h2&gt;
+                &lt;/div&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
             &lt;a href=&quot;/zh/2017/01/03/solution-1/&quot;&gt;
                 &lt;img src=&quot;/zh/public/image/cln/solution-1.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;div class=&quot;solution-title&quot;&gt;
@@ -4416,15 +4425,6 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
                 &lt;img src=&quot;/zh/public/image/cln/solution-3.jpg&quot; alt=&quot;&quot;&gt;
                 &lt;div class=&quot;solution-title&quot;&gt;
                     &lt;h2&gt;互联网+政务&lt;/h2&gt;
-                    &lt;h2&gt;解决方案&lt;/h2&gt;
-                &lt;/div&gt;
-            &lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-sm-12 col-md-6 solution-card&quot;&gt;
-            &lt;a href=&quot;/zh/2017/01/03/solution-4/&quot;&gt;
-                &lt;img src=&quot;/zh/public/image/cln/solution-4.jpg&quot; alt=&quot;&quot;&gt;
-                &lt;div class=&quot;solution-title&quot;&gt;
-                    &lt;h2&gt;企业数字化转型&lt;/h2&gt;
                     &lt;h2&gt;解决方案&lt;/h2&gt;
                 &lt;/div&gt;
             &lt;/a&gt;

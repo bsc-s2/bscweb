@@ -1,0 +1,421 @@
+- id: job901
+  col: 1
+  jobTitle: 研发运维工程师
+  hot: hot
+  time: 2018-03-12
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、团队协作解决软件, 运维工具, 测试中的复杂的工程问题；
+  - 2、负责云服务体系的可用性建设；
+  - 3、开发和使用工具分析/定位/解决/预测云服务中的软件/硬件问题；
+  - 4、与内部部门沟通, 构建公司内运维基础设置。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上相关运维开发工作经验；
+  - 2、良好的Linux/Unix背景知识，熟练使用至少1种脚本语言如(shellscript, Python/PHP/Perl等；
+  - 3、具备使用Puppet/Ansible/Saltstack等部署、运维；
+  - 4、熟练使用各种开源工具，技术，服务如 MySQL/Memcached/Redis/Nginx/Kafka；
+  - 5、具备良好的网络知识, 如TCP/IP, HTTP, SSL等，熟练使用tcpdump/telnet/nc等网络诊断工具；
+  - 6、了解常见负载均衡方案（Nginx/HAProxy/LVS/DNS）；
+  - 7、熟悉开源监控工具（Zabbix, Nagios等）；
+  - 8、具备私有部署和容器经验优先。
+  email: zhaopin@baishancloud.com
+
+- id: job902
+  col: 2
+  jobTitle: web开发工程师
+  hot: hot
+  time: 2018-03-10
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、设计和实现面向用户的Web产品；
+  - 2、构建支持大型，复杂的网络应用程序的库和框架；
+  - 3、优化Web应用程序性能以及用户体验；
+  - 4、编写基于Web的应用程序，创建快速，易于使用的生产应用程序, 能够快速开发原型。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上的Web开发经验；
+  - 2、理解基本数据结构及算法；
+  - 3、有面向用户的Web产品的开发经验；
+  - 4、丰富的前端通用基础技能应用经验（HTML/JavaScript/CSS）；
+  - 5、具备使用主流前端开发框架（Vue/React/AngularJS）开发线上产品经验；
+  - 6、熟练使用前端构建工具（npm/webpack）；
+  - 7、熟悉 Git 基本用法。
+  email: zhaopin@baishancloud.com
+
+- id: job903
+  col: 3
+  jobTitle: JAVA研发工程师
+  hot: hot
+  time: 2018-03-12
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、团队协作解决软件、运维工具、测试中的复杂的工程问题；
+  - 2、设计, 实现高性能的、功能健全的 Java 系统软件，并编写相关文档；
+  - 3、对领域内的新技术具有敏锐的嗅觉, 并能够主导对新技术的研究和应用；
+  - 4、与项目组成员沟通, 确立对系统架构的共识, 制定开发计划。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上开发经验；
+  - 2、深入理解基本数据结构和算法；
+  - 3、有丰富Unix/Linux环境下开发经验、熟练使用调试工具 ；
+  - 4、熟练使用Java/Golang及开发框架；
+  - 5、熟练使用至少一种脚本语言（Perl/Python/PHP）；
+  - 6、熟悉至少一种消息队列（Kafka/RabbitMQ/Redis）的使用和原理;
+  - 7、熟悉 I/O，Socket 编程原理。
+  - 8、熟练使用MySQL及至少一种 NoSQL 数据库并且了解基本原理。
+  email: zhaopin@baishancloud.com
+
+- id: job904
+  col: 1
+  jobTitle: JAVA研发leader
+  hot: new
+  time: 2018-03-11
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、负责复杂的Java软件的系统架构设计及技术选型及核心模块开发；
+  - 2、参与研发项目的需求分析，设计及编写技术文档；
+  - 3、解决开发过程中遇到的关键问题；
+  - 4、协调研发团队资源，保证研发进度按计划执行；
+  - 5、对领域内的新技术具有敏锐的嗅觉, 并能够主导对新技术的研究和应用；
+  - 6、配合相关部门，提供产品相关的技术支持。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，5年以上Java开发经验且具备IT项目管理经验；
+  - 2、熟练使用Java及常见框架，如Spring, Hibernate, dubbo, OSGi等；
+  - 3、理解JVM工作原理； 
+  - 4、具备Java客户端开发经验；
+  - 5、深入理解数据结构和算法；
+  - 6、充分理解面向对象概念，并熟悉各种设计模式；
+  - 7、熟练使用MySQL和至少一种NoSQL数据库，并且了解其系统原理；
+  - 8、有IT系统集成项目经验；
+  - 9、能适应高强度的工作压力，具备良好的团队领导能力。
+  email: zhaopin@baishancloud.com
+
+- id: job905
+  col: 2
+  jobTitle: 后端研发工程师
+  hot: new
+  time: 2018-03-12
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、 解决团队协作解决系统、运维工具、测试中的复杂的工程问题；
+  - 2、设计, 实现稳定的、高并发系统后台服务；
+  - 3、分析、并使用第三方 API 接口开发后台服务；
+  - 4、编写项目相关技术文档。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上开发相关经验；
+  - 2、理解基本数据结构和算法；
+  - 3、熟练使用PHP或Python及相关开发框架；
+  - 4、熟悉 Nginx 使用方法及原理。
+  - 5、具有 Lua 开发经验。
+  - 6、了解HTTP协议和HTML/JAVASCRIPT/CSS等页面技术；
+  - 7、熟悉至少一种消息队列（Kafka/RabbitMQ/Redis）的使用和原理;
+  - 8、熟练使用MySQL及至少一种NoSQL数据库并且了解基本原理。
+  email: zhaopin@baishancloud.com
+
+- id: job906
+  col: 3
+  jobTitle: 实施运维工程师
+  hot: hot
+  time: 2018-03-12
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、 参与并完成工程项目的实施、交付和运维；
+  - 2、 主动学习公司新产品，熟练掌握产品安装配置，能及时对系统排障、纠错和调优，支持客户系统的调试上线；
+  - 3、 对公司产品和系统的使用及操作进行客户培训及支持；
+  - 4、 及时与项目经历、研发人员沟通、反馈项目中存在的问题，承担与客户方技术人员沟通协调作业的任务。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上开发相关经验；
+  - 2、良好的Linux/Unix背景知识，熟练使用至少1种脚本语言如(shell-script, Python/Php/Perl等；
+  - 3、具备使用Puppet/Chef/Ansible/Saltstack等部署、运维经验；
+  - 4、了解常见系统开源工具技术如 MySQL/Redis/Nginx/Kafka；
+  - 5、具备良好的网络知识, 如TCP/IP, HTTP, SSL等; 
+  - 6、良好的沟通及解决问题能力；
+  - 7、具备私有部署经验优先。
+  email: zhaopin@baishancloud.com
+
+- id: job907
+  col: 1
+  jobTitle: 售前工程师
+  hot: hot
+  time: 2018-03-12
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、负责公司产品和解决方案在政企大数据领域的咨询规划工作；包括但不限于项目调研、撰写方案，配合销售人员与客户进行沟通，全面了解客户需求；
+  - 2、创新公司大数据业务方案，包括与客户的需求交流、立项材料、可研编写、方案编写、方案宣讲等；
+  - 3、把握电子政务应用、政务大数据的政策方向和发展趋势，研究电子政务行业最新技术发展方向，或熟悉企业数字化转型需求方向及业务逻辑。
+  requiredQualifications:
+  - 1、本科及以上学历，3年以上售前与咨询相关工作经验；
+  - 2、政企信息化咨询与解决方案工作经验，；
+  - 3、熟悉电子政务行业相关应用，如行政审批系统、在线办事系统、“互联网+政务服务”、电子监察系统、政务协同办公系统等软件，能够独立开展业务沟通；
+  - 4、能够根据用户的需求，编制需求说明书、可研、方案，能够独立开展电子政务项目的技术汇报；
+  - 5、能够独立撰写报告及编制方案，具备较强的逻辑思维及文字写作能力；
+  - 6、工作踏实，乐观积极，能够承受较大工作压力。
+  email: zhaopin@baishancloud.com
+
+- id: job908
+  col: 2
+  jobTitle: 销售总监（政企方向）
+  hot: 
+  time: 2018-03-11
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、能够较好的将公司数据产品和解决方案价值传递给客户；
+  - 2、开拓并维护政府、企业客户，完成与勇于突破公司的业绩目标；
+  - 3、发展行业合作伙伴（SI/ISV），挖掘业务协同，支撑合作伙伴整合本公司产品；
+  - 4、维护合作伙伴，跟踪合作伙伴销售机会，支撑合作伙伴业务；
+  - 5、整理反馈客户提出的问题以及关切点，回馈给部门，协调资源促成合作。
+  requiredQualifications:
+  - 1、本科及以上学历，10年以上政府、传统行业大客户销售经验；
+  - 2、优秀的销售能力，熟悉政府或传统行业客户市场规律，有一定的客户关系积累；
+  - 3、具有面向政府及传统行业销售数据库、中间件等成功经验者优先；
+  - 4、具有电子政务行业应用软件、政务信息资源目录、政务数据交换与共享、政务大数据等软件平台销售成功经验者优先；
+  - 5、思维敏捷，出色的沟通协调和应变能力，超强的抗压能力与寻求突破的意愿；
+  - 6、强大的内心动力，积极，乐观，自信，勇于追求，战无不胜的精神。
+  email: zhaopin@baishancloud.com
+
+- id: job909
+  col: 3
+  jobTitle: 高级销售经理（云安全）
+  hot: hot
+  time: 2018-03-11
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、负责行业客户线索挖掘与拓展计划设计与实施； 
+  - 2、负责云安全产品大客户关系维护与业务需求解决方案设计与协调工作；
+  - 3、完成与勇于突破公司的业绩目标。
+  requiredQualifications:
+  - 1、本科及以上学历，5年以上政府、大型企业销售工作经验；
+  - 2、具有云安全领域的成功销售案例者优先； 
+  - 3、出色的沟通协调能力，超强的抗压能力与寻求突破的意愿；
+  - 4、强大的内心动力，积极，乐观，自信，勇于追求，战无不胜的精神。
+  email: zhaopin@baishancloud.com
+
+- id: job910
+  col: 1
+  jobTitle: 销售总监
+  hot: 
+  time: 2018-03-11
+  jobLocation: 广州
+  keyResponsibilities:
+  - 1、负责行业客户线索挖掘与拓展计划设计与实施； 
+  - 2、负责大客户关系维护与业务需求解决方案设计与协调工作；
+  - 3、完成与勇于突破公司的业绩目标。
+  requiredQualifications:
+  - 1、本科以上学历，5年以上互联网、大型企业销售工作经验；
+  - 2、具有云服务公司的成功销售案例者优先； 
+  - 3、出色的沟通协调能力，超强的抗压能力与寻求突破的意愿；
+  - 4、强大的内心动力，积极，乐观，自信，勇于追求，战无不胜的精神。
+  email: zhaopin@baishancloud.com
+
+- id: job911
+  col: 2
+  jobTitle: 高级销售经理
+  hot: hot
+  time: 2018-03-11
+  jobLocation: 北京、上海
+  keyResponsibilities:
+  - 1、负责行业客户线索挖掘与拓展计划设计与实施； 
+  - 2、负责大客户关系维护与业务需求解决方案设计与协调工作；
+  - 3、完成与勇于突破公司的业绩目标。
+  requiredQualifications:
+  - 1、本科以上学历，5年以上互联网、大型企业销售工作经验；
+  - 2、具有云服务公司的成功销售案例者优先； 
+  - 3、出色的沟通协调能力，超强的抗压能力与寻求突破的意愿；
+  - 4、强大的内心动力，积极，乐观，自信，勇于追求，战无不胜的精神。
+  email: zhaopin@baishancloud.com
+
+- id: job912
+  col: 3
+  jobTitle: 资源规划工程师
+  hot: 
+  time: 2018-03-10
+  jobLocation: 厦门
+  keyResponsibilities:
+  - 1、负责对新节点、设备上线进行评估、规划；
+  - 2、负责制定节点流量规划调整；
+  - 3、负责节点使用优化；
+  - 4、负责跟踪节点建设进展识别并规避风险。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，2年以上相关工作经验；
+  - 2、有编程经验、数据分析经验者、成本优化相关工作经验者优先；
+  - 3、有良好的计算机及网络基础，熟悉Linux系统优先；
+  - 4、具备较强的学习能力、分析能力和良好的大局统筹观；
+  - 5、对数字敏感，具有较强的成本意识。
+  email: zhaopin@baishancloud.com
+
+- id: job913
+  col: 1
+  jobTitle: 研发工程师
+  hot: 
+  time: 2018-03-12
+  jobLocation:  深圳
+  keyResponsibilities:
+  - 1、负责公司云链产品开发；
+  - 2、负责基础网络服务组件的研发；
+  - 3、制定接口规范，编写技术文档等。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上相关经验； 
+  - 2、熟练使用Linux，熟练掌握C/C++语言；
+  - 3、熟练网络编程，熟悉TCP/IP原理，熟悉协议栈优化； 
+  - 4、熟悉虚拟化相关知识，有SDN项目经验、虚拟私有网络建设经验优先；
+  - 5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。
+  email: zhaopin@baishancloud.com
+
+- id: job914
+  col: 2
+  jobTitle: sd-wan专家
+  hot: 
+  time: 2018-03-12
+  jobLocation:  深圳
+  keyResponsibilities:
+  - 1、设计白山SD-WAN平台整体架构；
+  - 2、负责核心模块开发，负责网络平台运营可视化；
+  - 3、制定接口规范，编写技术文档等。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，4年以上相关项目经验；
+  - 2、熟练使用Linux，熟练掌握C/C++语言，熟练网络编程；
+  - 3、熟悉SD-WAN网络平台架构，有部署SD-WAN项目经验；
+  - 4、熟悉OpenFlow、NFV、SDN网络框架；
+  - 5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。
+  email: zhaopin@baishancloud.com
+
+- id: job915
+  col: 3
+  jobTitle: 机器学习工程师
+  hot: hot
+  time: 2018-03-12
+  jobLocation:  北京
+  keyResponsibilities:
+  - 1、利用数据挖掘、机器学习相关算法，解决产品业务需求；
+  - 2、基于海量文本数据，挖掘信息模型，并将机器学习前沿技术应用于关键业务环节；
+  - 3、负责安全产品的算法设计，应用于云安全产品功能，解决用户需求。
+  requiredQualifications:
+  - 1、本科及以上学历，数学、计算机相关专业，3年以上相关工作经验,
+  - 2、扎实的数学基础，熟悉常见人工智能和机器学习算法，善于使用算法解决问题；
+  - 3、拥有一定的工程实现能力，熟悉至少一门脚本语言，熟悉Python、Java者优先；
+  - 4、熟悉Linux开发环境，有相关实际项目者优先；
+  - 5、有良好的沟通能力和团队合作能力、高度的责任心；
+  - 6、对人工智能、机器学习具备相当的兴趣。   
+  email: zhaopin@baishancloud.com
+
+- id: job916
+  col: 1
+  jobTitle: PR经理
+  hot: 
+  time: 2018-03-12
+  jobLocation:  北京
+  keyResponsibilities:
+  - 1、负责市场部内外宣传稿件的撰写；
+  - 2、负责公司高层出席的各项商业活动/技术论坛的演讲稿件的润色或撰写；
+  - 3、参与市场部相关的各类PR文案的润色或撰写。
+  requiredQualifications:
+  - 1、本科及以上学历，3-5年媒体报道写作相关工作经验；
+  - 2、有优秀的阅读、写作习惯；文笔准确、简练、流畅；
+  - 3、财经/科技/创投/IT垂直类媒体背景优先；
+  - 4、有理科背景或对互联网产品技术有极大兴趣优先；
+  - 5、有出色的表达及沟通能力、强烈的时间观念、优秀的执行力。
+  -（投递简历请附作品）
+  email: zhaopin@baishancloud.com
+
+- id: job917
+  col: 2
+  jobTitle: 财务会计师
+  hot: 
+  time: 2018-03-12
+  jobLocation:  北京
+  keyResponsibilities:
+  - 1、对所有财务工作进行全面二次审核所有记账凭证、原值凭证、纳税计算申报表、折旧计算表、待摊费用明细表等；
+  - 2、编制损益结转、实收资本、盈余公积、未分配利润的记账凭证;
+  - 3、财务凭证过账、月度结账、年度决算；
+  - 4、编制资产负债表、损益表等财务报表并对出具报表进行财务分析；
+  - 5、保管检查会计档案；
+  - 6、配合企业季度、半年度、年度审计。
+  requiredQualifications:
+  - 1、本科及以上学历，会计学相关专业，5年以上互联网公司总账会计相关工作经验；
+  - 2、英语6级以上，能看懂英文报表；
+  - 3、具有中级会计师、CPA、ACCA证书优先；
+  - 4、认真细致，责任心强，踏实好学，优秀的沟通和协调能力和团队协作精神。   
+  email: zhaopin@baishancloud.com
+
+- id: job918
+  col: 3
+  jobTitle: HRBP
+  hot: 
+  time: 2018-03-12
+  jobLocation:  厦门
+  keyResponsibilities:
+  - 1、负责组织实施公司招聘策略，合理配置人才，保障高质高量的团队建设；
+  - 2、有效开展公司人才赋能，营造学习氛围，不断提升业务效率；
+  - 3、负责全面激励机制的有效渗透，以及文化价值观的有效传承；
+  - 4、创建多渠道、形式和内容丰富新颖的文化宣导活动，并组织实施宣传和员工关怀。
+  requiredQualifications:
+  - 1、本科及以上学历，5年以上互联网公司人力资源管理工作经验；；
+  - 2、人力资源六大模块中有一至两项突出擅长；
+  - 3、掌握最新专业知识和行业最佳实践，准确理解企业战略发展方向和各部门运作机制；
+  - 4、具备最前沿的人力资源视角，永远热爱人力资源；
+  - 5、出色的表达与沟通协调能力，优秀的复杂人力资源问题解决能力；
+  - 6、良好的职业素养及高度执行力，创新开放，视野开阔，追求卓越。
+  email: zhaopin@baishancloud.com
+
+  - id: job919
+  col: 1
+  jobTitle: 云存储研发运维工程师
+  hot: 
+  time: 2018-03-12
+  jobLocation:  北京
+  keyResponsibilities:
+  - 1、团队协作解决软件, 运维工具, 测试中的复杂的工程问题；
+  - 2、负责云服务体系的可用性建设；
+  - 3、开发和使用工具分析/定位/解决/预测云服务中的软件/硬件问题；
+  - 4、与内部部门沟通, 构建公司内运维基础设置。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上相关运维开发工作经验；
+  - 2、良好的linux/unix背景知识，熟练使用至少1种脚本语言如shell-script, python, php, perl等；
+  - 3、具备使用puppet/chef/ansible/saltstack等部署、运维、管理100台服务器以上的经验；
+  - 4、熟练使用各种开源工具/技术/服务如mysql/memcached/redis/nginx/kafka/zookeeper/etcd；
+  - 5、具备良好的网络知识, 如tcp/ip, http, ssl等; 熟练使用tcpdump/telnet/nc等网络诊断工具；
+  - 6、对技术有激情，喜欢钻研，具有较强的独立工作能力和解决问题的能力。
+  - 加分项：
+  - 1、对分布式系统架构有深刻理解；
+  - 2、良好的计算机原理知识，对数据结构, 算法, 软件设计有深刻理解。
+  email: zhaopin@baishancloud.com
+
+  - id: job920
+  col: 2
+  jobTitle: 资源规划工程师
+  hot: 
+  time: 2018-03-10
+  jobLocation:  北京
+  keyResponsibilities:
+  - 1、CDN节点建设及维护工作；
+  - 2、办公网日常维护工作；
+  - 3、核心CDN节点网络设备配置管理及策略下发；
+  - 4、适当做一些研究类工作，如SDN等；
+  - 5、未来传输网络及波分设备维护。
+  requiredQualifications:
+  - 1、本科及以上学历，计算机相关专业，3年以上IDC/CDN/互联网相关工作经验优先；
+  - 2、具有Linux系统运维经验，精于系统故障问题排查、处理；
+  - 3、熟练配置思科、华为、Juniper等网络设备配置、维护及排错经验，有CCNP及类似认证优先考虑；
+  - 4、熟悉PBR、OSPF、BGP等动态路由协议，了解SDN环境，2年以上中等规模网络维护经验；
+  - 5、有一定的安全基础，了解DDOS攻击类型及防御方式；
+  - 6、熟悉Shell/Perl/Python脚本语言；
+  - 7、出色的沟通和协调能力，优秀的分析问题解决问题能力， 良好的工作流程和文档制定撰写习惯。
+  email: zhaopin@baishancloud.com
+
+  - id: job921
+  col: 3
+  jobTitle: 招投标专员
+  hot: 
+  time: 2018-03-10
+  jobLocation:  北京
+  keyResponsibilities:
+  - 1、搜集整理相关项目有关招标信息；
+  - 2、负责公司招投标项目的相关文件的整理、归纳工作；
+  - 3、编制投标文件，参与投标；
+  - 4、根据招投标文件相应条款、要求及项目实际情况，制定合理的招投标项目前期工作计划，以便其他部门同事做好工作配合；
+  - 5、支持公司部门内的组织协调工作。
+  requiredQualifications:
+  - 1、本科及以上学历，3年以上IT行业相关工作经验；
+  - 2、熟悉招投标相关流程，有制作标书相关工作经验：
+  - 3、工作认真负责，善于合作，团队意识强，沟通能力强，乐于接受挑战。
+  email: zhaopin@baishancloud.com
+
+  

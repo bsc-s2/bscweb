@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2018-03-13T11:56:49+08:00</updated>
+ <updated>2018-03-23T15:10:08+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -18,6 +18,11 @@
    <updated>2017-01-20T00:00:00+08:00</updated>
    <id>http://www.baishancloud.com/2017/01/20/news</id>
    <content type="html">&lt;div class=&quot;news-list&quot;&gt;
+&lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-54&quot;&gt;&lt;strong&gt;霍涛做客新华网，两会特别访谈聚焦大数据&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--白山微信公号 | 2018-03-21 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p class=&quot;news-brief&quot;&gt;信息技术与经济社会的交汇融合引发了数据迅猛增长，大数据正日益对全球生产、流通、分配、消费活动以及经济运行机制...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-52&quot;&gt;&lt;strong&gt;云后市场受追捧，白山云科技完成3.3亿元C轮融资&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--新华网 | 2018-01-05 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;1月5日，云链服务提供商白山云科技宣布完成3.3亿元C轮融资。本轮融资由阿尔法资本和春珈资本领投，新增两家战略投资机构跟投。资本的青睐表明对白山业务模式和云后市场的看好，以及对白山高速成长和持续盈利能力的认可...&lt;/p&gt;
 &lt;/div&gt;
@@ -270,6 +275,29 @@
 &lt;div class=&quot;news-list&quot;&gt;
 &lt;h3 class=&quot;news-title&quot;&gt;&lt;a href=&quot;/zh/2017/01/20/news-28&quot;&gt;&lt;strong&gt;6个月两轮融资，三位前上市公司高管开启“另类创业”&lt;/strong&gt; &lt;span class=&quot;news-info&quot;&gt;--小饭桌 | 2016-01-25 &lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p class=&quot;news-brief&quot;&gt;霍涛至今清晰记得，他拿着新办公地点的设计图纸，匆匆下楼去见应聘者的情景。那是2015年7月。他们三个40岁“老男孩”的创业项目——白山云科技（以下简称白山）刚刚注册成立，20多人挤在望京一间80平米的小屋里。办公桌坐满了，新员工只能在沙发上挤作一团，最后连公司前台都拆掉了...&lt;/p&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>霍涛做客新华网，两会特别访谈聚焦大数据</title>
+   <link href="http://www.baishancloud.com/2017/01/20/news-54/"/>
+   <updated>2017-01-20T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/20/news-54</id>
+   <content type="html">&lt;h2&gt;霍涛做客新华网，两会特别访谈聚焦大数据&lt;/h2&gt;
+
+&lt;p&gt;信息技术与经济社会的交汇融合引发了数据迅猛增长，大数据正日益对全球生产、流通、分配、消费活动以及经济运行机制、社会生活方式和国家治理能力产生重要影响。&lt;/p&gt;
+
+&lt;p&gt;大数据成为推动经济转型发展的新动力、重塑国家竞争优势的新机遇、提升政府治理能力的新途径。今年大数据连续第5次写入政府工作报告。&lt;/p&gt;
+
+&lt;p&gt;全国两会期间，第十三届全国人大代表、白山云科技CEO霍涛做客新华网特别访谈，分享了他对大数据创业和产业发展的思考。&lt;/p&gt;
+
+&lt;div style=&quot;margin-top:30px;&quot; class=&quot;visible-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=z0610er6s51&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin:50px 0 300px;&quot; class=&quot;hidden-xs&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe class=&quot;video_iframe&quot; style=&quot;z-index:1;max-width:100%;&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=z0610er6s51&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;375&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/div&gt;
 </content>
  </entry>

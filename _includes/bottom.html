@@ -1,20 +1,52 @@
 <div class="bottom-nav-cn hidden-xs">
-    <h4>白山服务热线: <em>400-178-8338</em></h4>
-    {% assign posts_list = site.posts %}
-    {% for node in posts_list %}
-    {% if node.title == "Careers"%}
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-       href="{{ site.baseurl }}{{ node.url }}">白山招聘</a>
-    {% endif %}
-    {% if node.title == "Customers" %}
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-       href="{{ site.baseurl }}{{ node.url }}">白山客户</a>
-    {% endif %}
-    {% if node.title == "Promise" %}
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-       href="{{ site.baseurl }}{{ node.url }}">白山承诺</a>
-    {% endif %}
-    {% endfor %}
-    <p class="copyright"><a class="sidebar-nav-item" style="border:none" href="http://www.miitbeian.gov.cn">京ICP备16037635号－3</a></p>
-    <p class="copyright policeIcon">京公网安备 11010502032269号</p>
+    <div class="col-lg-4">
+        <img class="bottom-logo" src="{{ site.baseurl }}/public/image/logo/logo_write_cn.png" alt="">
+        <p>Copyright © 2015-2018</p>
+        <p>Baishancloud. All rights reserved.</p>
+    </div>
+    <div class="col-lg-1">
+        <p class="bold">产品</p>
+        <p>云分发</p>
+        <p>数聚蜂巢</p>
+        <p>ATD</p>
+        <p>云存储</p>
+    </div>
+    <div class="col-lg-3">
+        <p class="bold">解决方案</p>
+        <div class="col-lg-6">
+            <p>企业数字化转型</p>
+            <p>双模政务资源目录</p>
+            <p>新型政务数据共享交换</p>
+            <p>互联网+政务</p>
+            <p>互联网金融安全</p>
+            <p>航空安全</p>
+            <p>游戏安全</p>
+        </div>
+        <div class="col-lg-6">
+            <p>游戏安全</p>
+            <p>咨询信息安全</p>
+            <p>政府安全</p>
+            <p>在线教育</p>
+            <p>金融行业</p>
+            <p>游戏行业</p>
+            <p>政府行业</p>
+        </div>
+    </div>
+    <div class="col-lg-1">
+        <p class="bold">关于我们</p>
+        <p>公司简介</p>
+        <p>新闻动态</p>
+        <p>加入我们</p>
+        <p>联系我们</p>
+    </div>
+    <div class="col-lg-3">
+        <span class="glyphicon glyphicon-envelope"></span>
+        <span class="glyphicon glyphicon-eye-open"></span>
+        <span class="glyphicon glyphicon-earphone"></span>
+        <p>微信公众号</p>
+    </div>
+    <div class="bottom-copyright col-lg-12">
+        <p class="copyright"><span></span>京公网安备 11010502032269号</p>
+        <p class="copyright policeIcon"><span></span>京公网安备 11010502032269号</p>
+    </div>
 </div>

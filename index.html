@@ -2,103 +2,211 @@
 layout: default
 title: 白山云-国内首家云链服务提供商
 ---
-<img class="logo hidden-xs" src="{{ site.baseurl }}/public/image/logo-w.png" width="200px">
-<img class="logo visible-xs" src="{{ site.baseurl }}/public/image/logo_black_cn.png" width="200px">
-<!-- <div class="hub"><a href="https://baishancloud.github.io/">白十三的码路</a></div> -->
-<div class="sign-in"><a href="http://www.qingcdn.com/account/index/login" id="login">登录</a></div>
-<div class="chinese"><a href="/en/">English</a></div>
-<div id="headerwrap" name="home">
-    <div id="large-header" class="headerwrap">
-        <div class="index-center visible-xs">
-            <div class="index-center-title">国内首家云链服务提供商</div>
-        </div><!--index-header-->
-        <canvas id="demo-canvas"></canvas>
-    </div>
-    <div class="index-center hidden-xs">
-        <div class="index-center-title">国内首家云链服务提供商</div>
-        <div class="row clearfix index-center-productsbox">
-            <div class="col-xs-4 index-center-imgbox">
-                <a class="index-center-products-a" href="{{ site.baseurl }}/2017/01/01/cdn-x/">
-                    <h3 class="index-center-products-title index-center-products-title-border">云分发</h3>
-                    <img class="index-center-img" src="{{ site.baseurl }}/public/image/index/cdn.png" />
-                </a>
-            </div>
-            <div class="col-xs-4 index-center-imgbox">
-                <a class="index-center-products-a" href="{{ site.baseurl }}/2017/01/02/cwn-x/">
-                    <h3 class="index-center-products-title index-center-products-title-border">云存储</h3>
-                    <img class="index-center-img" src="{{ site.baseurl }}/public/image/index/cwn.png" />
-                </a>
-            </div>
-            <div class="col-xs-4 index-center-imgbox">
-                <a class="index-center-products-a" href="{{ site.baseurl }}/2017/01/03/cln-x/">
-                    <h3 class="index-center-products-title">云聚合</h3>
-                    <img class="index-center-img" src="{{ site.baseurl }}/public/image/index/cln.png" />
-                </a>
+
+{% include navbar-home.html %}
+<div id="carousel-banner" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-banner" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-banner" data-slide-to="1"></li>
+        <li data-target="#carousel-banner" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img class="banner-img" src="{{ site.baseurl }}/public/image/index/banner-1.png">
+            <div class="carousel-caption banner-1">
+              <div class="banner-1-title">国内首家云链服务提供商</div>
+              <div class="banner-1-info">用技术的力量突破你的渴望</div>
             </div>
         </div>
-        <div class="video-triger" id="videoTrigger"><span>观看视频</span></div>
-    </div>
-    <div class="link-small hidden-xs">
-        <div class="index-center-title">国内首家云链服务提供商</div>
-        <div class="col-xs-4 index-center-imgbox index-center-products-title-border">
-            <a class="index-center-products-a" href="{{ site.baseurl }}/2017/01/01/cdn-x/">
-                <h3 class="index-center-products-title">云分发</h3>
-            </a>
-        </div>
-        <div class="col-xs-4 index-center-imgbox index-center-products-title-border">
-            <a class="index-center-products-a" href="{{ site.baseurl }}/2017/01/02/cwn-x/">
-                <h3 class="index-center-products-title">云存储</h3>
-            </a>
-        </div>
-        <div class="col-xs-4 index-center-imgbox">
-            <a class="index-center-products-a" href="{{ site.baseurl }}/2017/01/03/cln-x/">
-                <h3 class="index-center-products-title">云聚合</h3>
-            </a>
-        </div>
-    </div>
-    <div class="visible-xs">
-        <div class="dropdown">
-            <div class="index-href-box" id="productsDropdownButton">
-                <div class="index-href">
-                    <img class="index-href-img" src="{{ site.baseurl }}/public/image/index/service.png" />
-                    <span class="href-name">白山服务</span>
-                </div>
-            </div>
-            <div class="index-prodects row" id="productsDropdown">
-                <div class="col-xs-4 index-xs-products index-xs-products-border">
-                    <a class="index-xs-products-a" href="{{ site.baseurl }}/2017/01/01/cdn-x/">
-                        <h3 class="index-xs-products-title">云分发</h3>
-                        <img class="index-xs-products-img" src="{{ site.baseurl }}/public/image/index/cdn.png" />
-                    </a>
-                </div>
-                <div class="col-xs-4 index-xs-products index-xs-products-border">
-                    <a class="index-xs-products-a" href="{{ site.baseurl }}/2017/01/02/cwn-x/">
-                        <h3 class="index-xs-products-title">云存储</h3>
-                        <img class="index-xs-products-img" src="{{ site.baseurl }}/public/image/index/cwn.png" />
-                    </a>
-                </div>
-                <div class="col-xs-4 index-xs-products index-xs-products-border">
-                    <a class="index-xs-products-a" href="{{ site.baseurl }}/2017/01/03/cln-x/">
-                        <h3 class="index-xs-products-title">云聚合</h3>
-                        <img class="index-xs-products-img" src="{{ site.baseurl }}/public/image/index/cln.png" />
-                    </a>
-                </div>
+        <div class="item">
+            <img class="banner-img" src="{{ site.baseurl }}/public/image/index/banner-2.png">
+            <div class="carousel-caption banner-2">
+                <div class="banner-2-title">服务数据全生命周期</div>
+                <div class="banner-2-info">用技术的力量突破你的渴望</div>
+                <div class="video-triger" id="videoTrigger"><span>观看视频</span></div>
             </div>
         </div>
-        {% assign indexHref = site.data.index-href%}
-        {% for hr in indexHref%}
-        <a href="{{ site.baseurl }}/{{hr.href}}">
-            <div class="index-href-box">
-                <div class="index-href">
-                    <img class="index-href-img" src="{{ site.baseurl }}/public/image/index/{{hr.img}}" />
-                    <span class="href-name">{{hr.title}}</span>
-                </div>
+        <div class="item">
+            <img class="banner-img" src="{{ site.baseurl }}/public/image/index/banner-3.png">
+            <div class="carousel-caption banner-3">
+                <div class="banner-3-info">打破数据孤岛</div>
+                <div class="banner-3-info">重构数据价值</div>
+                <a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-fengchao %}" class="banner-3-more">了解更多</a>
             </div>
-        </a>
-        {% endfor %}
+        </div>
     </div>
 </div>
-<a href="https://www.baishancloud.com/jobs2017/" style="display:none"><span id="jobLink">link</span></a>
+<div class="index-products container">
+    <div class="col-lg-6 ">
+        <a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cdn-x %}">
+            <div class="index-product index-product-cdn">
+                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
+                <div class="index-product-title">云分发</div>
+                <div class="index-product-info">乐高式松耦合架构，全透明定制化服务</div>
+            </div>
+        </a>
+    </div>
+    <div class="col-lg-6">
+        <a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-fengchao %}">
+            <div class="index-product index-product-fengchao">
+                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
+                <div class="index-product-title">数聚蜂巢</div>
+                <div class="index-product-info">打破数据孤岛，重构数据价值</div>
+            </div>
+        </a>
+    </div>
+    <div class="col-lg-6">
+        <a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-atd %}">
+            <div class="index-product index-product-atd">
+                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
+                <div class="index-product-title">ATD</div>
+                <div class="index-product-info">WEB深度威胁识别，AI安全突破式应用</div>
+            </div>
+        </a>
+    </div>
+    <div class="col-lg-6">
+        <a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cwn-x %}">
+            <div class="index-product index-product-cwn">
+                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
+                <div class="index-product-title">云存储</div>
+                <div class="index-product-info">倡导冷热分级存储，GB级文件高速传输</div>
+            </div>
+        </a>
+    </div>
+</div>
+<div id="carousel-solution" class="carousel slide carousel-solution" data-ride="carousel">
+    <div class="carousel-inner" role="listbox">
+        <h1 class="index-solutions-title">解决方案</h1>
+        <div class="index-solutions-info">洞悉行业痛点，技术驱动智能时代</div>
+        <div class="item active index-solutions">
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/企业数字化转型解决方案.png" alt="...">
+                <div>企业数字化转型</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/双模政务资源目录解决方案.png" alt="...">
+                <div>双模政务资源目录</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/新型政务数据共享交换解决方案.png" alt="...">
+                <div>新型政务数据共享交换</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/互联网+政务解决方案.png" alt="...">
+                <div>互联网+政务</div>
+            </div>
+        </div>
+        <div class="item index-solutions">
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/航空安全解决方案.png" alt="...">
+                <div>航空安全</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/互联网金融安全解决方案.png" alt="...">
+                <div>互联网金融安全</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/游戏安全解决方案.png" alt="...">
+                <div>游戏安全</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/政府安全解决方案.png" alt="...">
+                <div>政府安全</div>
+            </div>
+        </div>
+        <div class="item index-solutions">
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/航空安全解决方案.png" alt="...">
+                <div>航空安全</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/金融行业.png" alt="...">
+                <div>金融行业</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/在线教育行业.png" alt="...">
+                <div>教育行业</div>
+            </div>
+            <div class="index-solution col-lg-3">
+                <img src="{{ site.baseurl }}/public/image/index/游戏行业.png" alt="...">
+                <div>游戏行业</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="click-num">
+    白山云科技每日服务最终用户点击数 14000,000,000,000 条
+</div>
+<div class="container customers">
+    <h1>典型客户</h1>
+    {% assign cus=site.data.customers %}
+    {% for cu in cus %}
+    <div class="col-xs-6 col-sm-4 col-md-3">
+        <div class="customers-box">
+            <img src="{{ site.baseurl }}/public/image/index/{{cu.fileName}}" alt="" class="img-center">
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<div class="register">
+    <h2>了解更多</h2>
+    <form class="register-form">
+        <div class="form-group col-md-6">
+            <label for="name">姓名：</label>
+            <input class="form-control col-12" id="name">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="email">邮箱：</label>
+            <input class="form-control col-12" id="email">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="telephone">电话：</label>
+            <input class="form-control col-12" id="telephone">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="company">公司名称：</label>
+            <input class="form-control col-12" id="company">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="department">所在部门：</label>
+            <input class="form-control col-12" id="department">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="position">职位：</label>
+            <input class="form-control col-12" id="position">
+        </div>
+        <div class="register-sumbit">
+            <button type="submit" class="btn btn-primary register-sumbit-button">提交</button>
+        </div>
+    </form>
+</div>
+<div class="certify">
+    <div class="row">
+        <div class="col-lg-2 certify-item">
+            <img src="{{ site.baseurl }}/public/image/index/test.png">
+            <p>可信云服务认证</p>
+        </div>
+        <div class="col-lg-2 certify-item">
+            <img src="{{ site.baseurl }}/public/image/index/test.png">
+            <p>CDN经营许可证</p>
+        </div>
+        <div class="col-lg-2 certify-item">
+            <img src="{{ site.baseurl }}/public/image/index/test.png">
+            <p>公安部信息系统安全等级保护</p>
+        </div>
+        <div class="col-lg-2 certify-item">
+            <img src="{{ site.baseurl }}/public/image/index/test.png">
+            <p>质量管理体系认证<br>ISO9001</p>
+        </div>
+        <div class="col-lg-2 certify-item">
+            <img src="{{ site.baseurl }}/public/image/index/test.png">
+            <p>信息安全管理体系认证<br>ISO27001</p>
+        </div>
+        <div class="col-lg-2 certify-item">
+            <img src="{{ site.baseurl }}/public/image/index/test.png">
+            <p>信息技术服务管理体系认证<br>ISO20000</p>
+        </div>
+    </div>
+</div>
 <div class="clean"></div>
-
 

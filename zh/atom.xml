@@ -4,7 +4,7 @@
  <title>BaishanCloud</title>
  <link href="http://www.baishancloud.com/atom.xml" rel="self"/>
  <link href="http://www.baishancloud.com/"/>
- <updated>2018-04-24T10:41:50+08:00</updated>
+ <updated>2018-04-28T13:12:55+08:00</updated>
  <id>http://www.baishancloud.com</id>
  <author>
    <name>BaishanCloud</name>
@@ -4057,9 +4057,9 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
  
  <entry>
    <title>白山简介</title>
-   <link href="http://www.baishancloud.com/2017/01/05/brief/"/>
+   <link href="http://www.baishancloud.com/2017/01/05/brief1/"/>
    <updated>2017-01-05T00:00:00+08:00</updated>
-   <id>http://www.baishancloud.com/2017/01/05/brief</id>
+   <id>http://www.baishancloud.com/2017/01/05/brief1</id>
    <content type="html">&lt;p&gt;&lt;center&gt;&lt;h2&gt;白山简介&lt;/h2&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;section class=&quot;brief-warp&quot;&gt;
@@ -4073,6 +4073,84 @@ Uber和滴滴最终以一场“中国式合并”收尾。在经过两轮谣言�
 2017年5月，白山发布云聚合CLN-X，抢先布局云后市场，与CDN-X、CWN-X构成完整的云链服务体系。目前，白山已签约包括微软、今日头条、小米、美团、秒拍等近三百家大中型互联网及企业客户。
 &lt;/p&gt;
 &lt;/section&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>白山简介</title>
+   <link href="http://www.baishancloud.com/2017/01/05/brief/"/>
+   <updated>2017-01-05T00:00:00+08:00</updated>
+   <id>http://www.baishancloud.com/2017/01/05/brief</id>
+   <content type="html">&lt;p&gt;&lt;center&gt;&lt;h2&gt;白山简介&lt;/h2&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3&gt;公司介绍&lt;/h3&gt;
+
+&lt;p&gt;白山是国内首家云链服务提供商，为客户提供高效数据内容应用与交换的定制化服务。 云链服务（CCX）的核心是建立数据与数据的连接，为数据的传输、存储、消费和治理提供全生命周期服务。其包括云分发CDN-X、云存储CWN-X、云聚合CLN-X，针对数据内容的高速分发、在线存储、治理与整合需求，建立网络服务系统。&lt;/p&gt;
+
+&lt;p&gt;自2015年4月成立以来，白山以云分发为切入点，在泛云服务市场上迅速崛起，首款云分发产品CDN-X迅速进入行业第一梯队。&lt;/p&gt;
+
+&lt;p&gt;2016年6月，白山发布云存储产品CWN-X。 作为白山“云链”系列的第二款产品，其属于分布式对象存储，专注于热数据的存储及存储间的数据转移。 &lt;/p&gt;
+
+&lt;p&gt;2017年5月，白山发布云聚合CLN-X，抢先布局云后市场，与CDN-X、CWN-X构成完整的云链服务体系。目前，白山已签约包括微软、今日头条、小米、美团、CCTV、海康威视、国美金融等近四百家大中型互联网及企业客户。&lt;/p&gt;
+
+&lt;h3&gt;白山服务&lt;/h3&gt;
+
+&lt;h4&gt;云分发CDN-X&lt;/h4&gt;
+
+&lt;p&gt;创新的云分发平台，为内容分发在性能和服务上开拓了更多可能性。 [7]  通过SHAQUE、MANTA、TUNA和DOLFIN四大技术在内容更新、大文件同步、视频点播直播和网络负载均衡方面取得了速度和稳定性的突破；松耦合架构为客户提供全透明和定制化的服务，满足客户多样性需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;页面加速服务&lt;/strong&gt;（HTTPS加速服务）智能调度技术为用户定向到响应速度最快、最健康的云分发边缘节点；应用秒推技术实现秒级推送。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;下载加速服务&lt;/strong&gt; 依托于白山乐高式松耦合架构，覆盖全国任一地区及全球各主要国家，提供下载源站、大文件同步、可视化portal等功能。 &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;动态加速服务&lt;/strong&gt; 通过智能路由技术、TUNA技术、动态回源技术、API技术，选择最有传输路径，保证传输效果。 &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;点播加速服&lt;/strong&gt;务 支持多种文件格式、多终端码率自适应，为用户提供快速响应、高质量观看体验的视频加速服务。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;直播加速服务&lt;/strong&gt; 支持推/拉流两种接入方式；主要功能有：动态转码、视频录制、直播回看、首屏秒开、延时直播、累计延时消除、认证鉴权等。 &lt;/p&gt;
+
+&lt;h4&gt;云存储CWN-X&lt;/h4&gt;
+
+&lt;p&gt;分布式存储网络CWN-X，专注于热数据存储以及存储间的数据转移。该网络基于数据温度区分数据存储方式，帮助企业大幅度提高存储使用效率。利用存储节点边缘化加速数据访问；3大骨干节点对等多活，保证数据99.99%的高可用性以及13个9的高可靠性。&lt;/p&gt;
+
+&lt;p&gt;热数据优化：智能识别，热数据用高IO存储，冷数据自动迁移。
+灵活管理：提供定制服务。 
+高稳定性：可跨机房跨地域多点读写，实现磁盘IO控制。
+软件定义：热数据主动推送至云分发节点。&lt;/p&gt;
+
+&lt;h4&gt;云聚合CLN-X&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;ATD&lt;/strong&gt;：全称Advanced Threat Detection（深度威胁识别）,是白山云聚合产品线下针对Web网络应用层攻击的安全防护产品。以AI为核心，为企业客户有效识别各种深层次业务安全威胁，如爬虫、刷单、刷票、撞库、薅羊毛、团伙作案等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;数聚蜂巢&lt;/strong&gt;：一个松耦合敏捷的混合集成平台（HIP），以API实现孤岛系统的数据融合、应用重组和业务构建。为政府和企业客户带来良好的用户体验，助力实现数据共享和数字化转型，驱动业务创新。&lt;/p&gt;
+
+&lt;h3&gt;公司历程&lt;/h3&gt;
+
+&lt;p&gt;2015年4月23日，白山启程&lt;/p&gt;
+
+&lt;p&gt;2016年3月9日，在西雅图成立美国公司&lt;/p&gt;
+
+&lt;p&gt;2016年6月30日，云存储产品正式上线&lt;/p&gt;
+
+&lt;p&gt;2016年7月25日，完成过亿元B轮融资&lt;/p&gt;
+
+&lt;p&gt;2016年11月18日，CCX成果于乌镇互联网大会发布&lt;/p&gt;
+
+&lt;p&gt;2017年1月10日，完成B+轮融资&lt;/p&gt;
+
+&lt;p&gt;2017年4月1日，白山与Microsoft达成战略合作&lt;/p&gt;
+
+&lt;p&gt;2017年4月7日，贵安新区研发中心正式揭牌，白山云后基金设立&lt;/p&gt;
+
+&lt;p&gt;2017年5月4日，白山云聚合CLN-X发布&lt;/p&gt;
+
+&lt;p&gt;2017年5月25日，马凯副总理考察贵安新区办公室，关注云后市场发展&lt;/p&gt;
+
+&lt;p&gt;2017年5月27日，与云上贵州合作成立云上白山协同创新中心&lt;/p&gt;
+
+&lt;p&gt;2018年1月5日，白山完成3.3亿元C轮融资&lt;/p&gt;
+
+&lt;p&gt;2018年3月3日，白山联合创始人兼CEO霍涛首次作为全国人大代表参加两会&lt;/p&gt;
 </content>
  </entry>
  

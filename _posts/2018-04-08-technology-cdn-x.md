@@ -13,25 +13,25 @@ title: CDN-X 云分发
 <div class="cdn-technology container">
     <h2 class="cdn-technology-title">创新技术</h2>
     <div class="col-lg-3 cdn-technology-item">
-        <img src="{{ site.baseurl }}/public/image/index/test.png">
+        <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-1.png">
         <p class="cdn-technology-item-title">SHAQUE</p>
         <p class="cdn-technology-item-title">秒推</p>
         <p class="cdn-technology-item-info">毫秒级推送确保网站发布及时性</p>
     </div>
     <div class="col-lg-3 cdn-technology-item">
-        <img src="{{ site.baseurl }}/public/image/index/test.png">
+        <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-2.png">
         <p class="cdn-technology-item-title">MANTA</p>
         <p class="cdn-technology-item-title">前端优化</p>
         <p class="cdn-technology-item-info">针对网页内容的感知，拆分，重构，整合</p>
     </div>
     <div class="col-lg-3 cdn-technology-item">
-        <img src="{{ site.baseurl }}/public/image/index/test.png">
+        <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-3.png">
         <p class="cdn-technology-item-title">TUNA</p>
         <p class="cdn-technology-item-title">协议优化</p>
         <p class="cdn-technology-item-info">优化 TCP 重传 TCP 窗口拥塞和慢启动</p>
     </div>
     <div class="col-lg-3 cdn-technology-item">
-        <img src="{{ site.baseurl }}/public/image/index/test.png">
+        <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-4.png">
         <p class="cdn-technology-item-title">DOLFIN</p>
         <p class="cdn-technology-item-title">智能流量调度系统</p>
         <p class="cdn-technology-item-info">实现 DNS 云化、秒切、动态 IP 库、四维智能调度</p>

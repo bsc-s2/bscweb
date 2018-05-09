@@ -159,7 +159,8 @@
     padding: 0 4%;
 }
 .atd-technology-item img {
-    margin: 0 auto 40px;
+    margin: 0 auto 20px;
+    width: 240px;
 }
 .atd-technology-item-title {
     font-size: 20px;

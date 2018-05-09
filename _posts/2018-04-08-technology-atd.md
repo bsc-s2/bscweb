@@ -13,7 +13,7 @@ title: ATD 云聚合
 <div class="atd-technology container">
     <h2 class="atd-technology-title">创新技术</h2>
     <div class="col-lg-6 atd-technology-item">
-        <img src="{{ site.baseurl }}/public/image/index/test.png">
+        <img src="{{ site.baseurl }}/public/image/atd/atd-technology-1.png">
         <p class="atd-technology-item-title">XXX</p>
         <p class="atd-technology-item-title">多维引擎驱动</p>
         <p class="atd-technology-item-info first-item-info">实时引擎流式行为分析</p>
@@ -21,7 +21,7 @@ title: ATD 云聚合
         <p class="atd-technology-item-info">学习引擎回归分析</p>
     </div>
     <div class="col-lg-6 atd-technology-item">
-        <img src="{{ site.baseurl }}/public/image/index/test.png">
+        <img src="{{ site.baseurl }}/public/image/atd/atd-technology-2.png">
         <p class="atd-technology-item-title">XXX</p>
         <p class="atd-technology-item-title">IP同步着色技术</p>
         <p class="atd-technology-item-info first-item-info">全网IP信用等级库</p>

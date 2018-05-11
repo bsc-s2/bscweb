@@ -182,7 +182,7 @@ a.header-login {
 }
 
 .click-num {
-    background-color: steelblue;
+    background-image: url(/zh/public/image/index/visit-data-bg.png);
     text-align: center;
     padding: 60px 10%;
     font-size: 42px;
@@ -200,9 +200,9 @@ a.header-login {
 }
 .customers-box {
     background-color: #fff;
-    height: 130px;
+    height: 100px;
     margin-bottom: 20px;
-    padding: 10%;
+    padding: 8px;
 }
 
 /* certify */

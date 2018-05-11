@@ -2,13 +2,14 @@
 @import url(cln-x.css);
 @import url(technology.css);
 
+
 /* header */
 .header {
     position: absolute;
     z-index: 1000;
     height: 64px;
     width: 100%;
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     color: #eee;
 }
 .header div {
@@ -25,7 +26,7 @@
 }
 .header-right a {
     margin: 0 10px;
-    color: #ddd;
+    color: rgba(255, 255, 255, 0.5);
     height: 64px;
     line-height: 64px;
 }
@@ -44,12 +45,26 @@ a.header-login {
     padding: 10px 20px;
 }
 
+
+/* index-banner carousel */
+.carousel-indicators {
+    bottom: 60px;
+}
+.carousel-indicators .active {
+    background-color: #ccc;
+}
+.carousel-indicators li {
+    border: 1px solid #ccc;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
 .banner-img {
     width: 100%;
 }
 .banner-1 {
     position: absolute;
-    top: 25%;
+    top: 220px;
 }
 .banner-1-title {
     font-size: 60px;
@@ -63,7 +78,7 @@ a.header-login {
 }
 .banner-2 {
     position: absolute;
-    top: 50%;
+    top: 460px;
     color: #fff;
 }
 .banner-2-title {
@@ -71,12 +86,57 @@ a.header-login {
     letter-spacing: 10px;
 }
 .banner-2-info {
-    font-size: 20px;
+    font-size: 28px;
+    margin-top: 20px;
+}
+.video-triger {
+    cursor: pointer;
+    margin-top: 50px;
+}
+.video-box {
+    position: absolute;
+    width: 100%;
+    bottom: -121px;
+    z-index: 1001;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+    left: 0;
+    overflow: hidden;
+    margin: auto;
+    line-height: 100%;
+    padding-bottom: 121px;
+}
+.video-sub-box {
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    text-align: center;
+}
+.video-close {
+    position: relative;
+    height: 25%;
+    cursor: pointer;
+    background: url(../image/index/videoCancel.png) center right no-repeat transparent;
+}
+.video-close-button{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 40px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+.video-content {
+    height: 75%;
+    margin: auto;
 }
 .banner-3 {
     position: absolute;
-    top: 32%;
-    left: -20%;
+    top: 300px;
+    text-align: left;
 }
 .banner-3-info {
     font-size: 48px;
@@ -96,9 +156,10 @@ a.header-login {
     margin: 0 20px;
 }
 
+
 /* index-products */
 .index-products.container {
-    margin-top: -20px;
+    margin-top: -12px;
 }
 .index-products.container a {
     color: #fff;
@@ -142,36 +203,8 @@ a.header-login {
     background: url(/zh/public/image/index/product_CWN.png) center;
 }
 
+
 /* index-solutions */
-.carousel-solution {
-    padding: 40px 15%;
-}
-.index-solutions {
-    padding: 0 10px;
-}
-.index-solutions-title {
-    text-align: center;
-    font-size: 36px;
-    margin-top: 60px;
-}
-.index-solutions-info {
-    text-align: center;
-    font-size: 20px;
-}
-.index-solution {
-    text-align: center;
-    margin: 60px 0 60px;
-    padding: 40px 20px;
-}
-.index-solution:hover {
-    box-shadow: 5px 5px 10px rgba(0, 21, 41, .12), -5px -5px 10px rgba(0, 21, 41, .12);
-}
-.index-solution img {
-    margin: 0 auto;
-}
-
-
-
 .container {
     padding: 0;
     margin: 0;
@@ -180,18 +213,50 @@ a.header-login {
     padding: 0;
     margin: 0;
 }
+.carousel-solution {
+    padding: 40px 15% 80px;
+    text-align: center;
+}
+.index-solutions {
+    padding: 0 10px;
+    margin-top: 40px;
+}
+.index-solutions-title {
+    font-size: 36px;
+    margin-top: 60px;
+}
+.index-solutions-info {
+    font-size: 20px;
+    margin-top: 20px;
+}
+.index-solution {
+    margin: 10px 0;
+    padding: 20px 0 30px;
+    height: 180px;
+}
+.index-solution:hover {
+    box-shadow: 5px 5px 10px rgba(0, 21, 41, .12), -5px -5px 10px rgba(0, 21, 41, .12);
+}
+.index-solution img {
+    margin: 0 auto;
+    height: 119px;
+}
 
+
+/* index-click-num */
 .click-num {
     background-image: url(/zh/public/image/index/visit-data-bg.png);
     text-align: center;
-    padding: 60px 10%;
-    font-size: 42px;
+    padding: 80px 10%;
+    font-size: 36px;
     color: white;
+    font-weight: 400;
 }
 
-/* customers */
+
+/* index-customers */
 .customers {
-    padding: 70px 15% 100px;
+    padding: 70px 15% 80px;
     background-color: rgb(241, 245, 248);
 }
 .customers h1 {
@@ -205,18 +270,8 @@ a.header-login {
     padding: 8px;
 }
 
-/* certify */
-.certify {
-    background-color: rgb(241, 245, 248);
-    padding: 40px 15% 30px;
-    text-align: center;
-}
-.certify-item img {
-    margin: 0 auto 20px;
-}
 
-
-/* register */
+/* index-register */
 .register {
     padding: 80px 20% 100px;
 }
@@ -238,6 +293,21 @@ a.header-login {
 }
 .solution-register {
     background-color: rgb(241, 245, 248);
+}
+
+
+/* index-certify */
+.certify {
+    background-color: rgb(241, 245, 248);
+    padding: 40px 15% 30px;
+    text-align: center;
+}
+.certify-item {
+    margin: 20px 0;
+}
+.certify-item img {
+    margin: 0 auto 20px;
+    max-height: 80px;
 }
 
 
@@ -1336,66 +1406,6 @@ management-position {
 
 .index-xs-products-img {
     margin: 0;
-}
-
-.video-triger {
-    text-align: center;
-    line-height: 30px;
-    margin-top: 20px;
-    font-size: 15px;
-    cursor: pointer;
-    background: url(../image/index/videoPlay.png) 315px center no-repeat transparent;
-}
-.video-triger-job {
-    text-align: center;
-}
-.video-triger-job span{
-    color:#fff;
-    line-height:50px;
-    padding:10px 0 10px 30px;
-    cursor: pointer;
-    font-size: 15px;
-    background: url(../image/index/videoPlay.png) 0 center no-repeat transparent;    
-}
-.video-box {
-    position: absolute;
-    width: 100%;
-    bottom: -121px;
-    z-index: 1001;
-    top: 0;
-    background-color: rgba(0, 0, 0, 0.6);
-    display: none;
-    left: 0;
-    overflow: hidden;
-    margin: auto;
-    line-height: 100%;
-    padding-bottom: 121px;
-}
-.video-sub-box {
-    width: 70%;
-    height: 80%;
-    margin: auto;
-    text-align: center;
-}
-.video-close {
-    position: relative;
-    height: 25%;
-    cursor: pointer;
-    background: url(../image/index/videoCancel.png) center right no-repeat transparent;
-}
-.video-close-button{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    top: 0;
-    width: 40px;
-    background-color: transparent;
-    outline: none;
-    border: none;
-}
-.video-content {
-    height: 75%;
-    margin: auto;
 }
 @media(min-width:768px) {
     .index-center-title {

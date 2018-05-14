@@ -66,8 +66,8 @@ title: ATD 云聚合
 </div>
 <div class="relative-product container">
     <h2 class="relative-product-title">相关产品</h2>
-    <div class="col-lg-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cdn-x %}" class="relative-product-cdn">云分发</a></div>
-    <div class="col-lg-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-fengchao %}" class="relative-product-shujufengchao">数聚蜂巢</a></div>
-    <div class="col-lg-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cwn-x %}" class="relative-product-cwn">云存储</a></div>
+    <div class="col-sm-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cdn-x %}" class="relative-product-cdn">云分发</a></div>
+    <div class="col-sm-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-fengchao %}" class="relative-product-shujufengchao">数聚蜂巢</a></div>
+    <div class="col-sm-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cwn-x %}" class="relative-product-cwn">云存储</a></div>
 </div>
 <div class="clean"></div>

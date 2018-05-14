@@ -81,7 +81,7 @@
 
 .cdn-network-resource.container {
     text-align: center;
-    padding: 80px 15%;
+    padding: 80px 20%;
 }
 .cdn-network-resource img {
     margin: 40px 0;
@@ -97,6 +97,9 @@
 }
 .relative-product-title {
     margin-bottom: 40px;
+}
+.relative-product div {
+    margin-bottom: 20px;
 }
 .relative-product-cdn,
 .relative-product-cwn,

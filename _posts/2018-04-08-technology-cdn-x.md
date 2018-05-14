@@ -70,16 +70,16 @@ title: CDN-X 云分发
 </div>
 <div class="cdn-network-resource container">
     <h2>白山全球网络资源</h2>
-    <img src="{{ site.baseurl }}/public/image/index/product_CDN.png">
-    <p class="col-lg-3">建设带宽5T+</p>
-    <p class="col-lg-3">部署服务器5000+</p>
-    <p class="col-lg-3">涵盖20+国际合作伙伴</p>
-    <p class="col-lg-3">全球节点300+</p>
+    <img src="{{ site.baseurl }}/public/image/cdn/cdn-network-resource.png">
+    <p class="col-sm-6 col-lg-3">建设带宽5T+</p>
+    <p class="col-sm-6 col-lg-3">部署服务器5000+</p>
+    <p class="col-sm-6 col-lg-3">涵盖20+国际合作伙伴</p>
+    <p class="col-sm-6 col-lg-3">全球节点300+</p>
 </div>
 <div class="relative-product container">
     <h2 class="relative-product-title">相关产品</h2>
-    <div class="col-lg-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cwn-x %}" class="relative-product-cwn">云存储</a></div>
-    <div class="col-lg-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-fengchao %}" class="relative-product-shujufengchao">数聚蜂巢</a></div>
-    <div class="col-lg-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-atd %}" class="relative-product-atd">ATD</a></div>
+    <div class="col-sm-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-cwn-x %}" class="relative-product-cwn">云存储</a></div>
+    <div class="col-sm-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-fengchao %}" class="relative-product-shujufengchao">数聚蜂巢</a></div>
+    <div class="col-sm-4"><a href="{{ site.baseurl }}{% post_url 2018-04-08-technology-atd %}" class="relative-product-atd">ATD</a></div>
 </div>
 <div class="clean"></div>

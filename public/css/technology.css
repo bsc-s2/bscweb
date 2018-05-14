@@ -56,7 +56,7 @@
 .product-technology-advantage.container {
     text-align: center;
     padding: 80px 15%;
-    background-color: rgb(241, 245, 248);
+    background-color: #f4f7fa;
 }
 .product-technology-advantage-title {
     margin-bottom: 100px;
@@ -93,7 +93,7 @@
 .relative-product.container {
     text-align: center;
     padding: 80px 15%;
-    background-color: rgb(241, 245, 248);
+    background-color: #f4f7fa;
 }
 .relative-product-title {
     margin-bottom: 40px;

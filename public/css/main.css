@@ -1,7 +1,7 @@
 @import url(data-hive.css);
 @import url(cln-x.css);
 @import url(technology.css);
-
+@import url(solution.css);
 
 /* header */
 .header {
@@ -233,6 +233,7 @@ a.header-login {
     margin: 10px 0;
     padding: 20px 0 30px;
     height: 180px;
+    color: #555;
 }
 .index-solution:hover {
     box-shadow: 5px 5px 10px rgba(0, 21, 41, .12), -5px -5px 10px rgba(0, 21, 41, .12);
@@ -257,7 +258,7 @@ a.header-login {
 /* index-customers */
 .customers {
     padding: 70px 15% 80px;
-    background-color: rgb(241, 245, 248);
+    background-color: #f4f7fa;
 }
 .customers h1 {
     text-align: center;
@@ -292,13 +293,13 @@ a.header-login {
     font-size: 24px;
 }
 .solution-register {
-    background-color: rgb(241, 245, 248);
+    background-color: #f4f7fa;
 }
 
 
 /* index-certify */
 .certify {
-    background-color: rgb(241, 245, 248);
+    background-color: #f4f7fa;
     padding: 40px 15% 30px;
     text-align: center;
 }
@@ -1067,6 +1068,9 @@ a.image-link {
 .solution-content-item {
     padding: 20px;
     margin: 40px 0;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
 }
 .solution-content-item:hover {
     box-shadow: 5px 5px 10px rgba(0, 21, 41, .12), -5px -5px 10px rgba(0, 21, 41, .12);
@@ -1074,7 +1078,9 @@ a.image-link {
 .solution-content-item img {
     margin: 0 auto;
 }
-.solution-content-item p {
+.solution-content-item span {
+    display: inline-block;
+    color: #555;
     font-size: 16px;
     font-weight: 400;
     margin-top: 20px;

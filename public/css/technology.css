@@ -111,32 +111,32 @@
     font-weight: 400;
 }
 .relative-product-cdn {
-    color: rgb(230, 134, 83);
+    color: #ed9966;
 }
 .relative-product-cdn:hover {
     color: #fff;
-    background-color: rgb(230, 134, 83);
+    background-color: #ed9966;
 }
 .relative-product-cwn {
-    color: rgb(63, 77, 195);
+    color: #5066cf;
 }
 .relative-product-cwn:hover {
     color: #fff;
-    background-color: rgb(63, 77, 195);
+    background-color: #5066cf;
 }
 .relative-product-shujufengchao {
-    color: rgb(150, 85, 227);
+    color: #a86fe8;
 }
 .relative-product-shujufengchao:hover {
     color: #fff;
-    background-color: rgb(150, 85, 227);
+    background-color: #a86fe8;
 }
 .relative-product-atd {
-    color: rgb(42, 153, 90);
+    color: #2fa66d;
 }
 .relative-product-atd:hover {
     color: #fff;
-    background-color: rgb(42, 153, 90);
+    background-color: #2fa66d;
 }
 
 

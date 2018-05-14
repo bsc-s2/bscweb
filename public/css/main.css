@@ -179,16 +179,16 @@ a.header-login {
     font-size: 18px;
 }
 .index-product-cdn {
-    background-color: rgb(230, 134, 83);
+    background-color: #ed9966;
 }
 .index-product-fengchao {
-    background-color: rgb(150, 85, 227);
+    background-color: #a86fe8;
 }
 .index-product-atd {
-    background-color: rgb(42, 153, 90);
+    background-color: #2fa66d;
 }
 .index-product-cwn {
-    background-color: rgb(63, 77, 195);
+    background-color: #5066cf;
 }
 .index-product-cdn:hover {
     background: url(/zh/public/image/index/product_CDN.png) center;

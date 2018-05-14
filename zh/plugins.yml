@@ -1,0 +1,25 @@
+# Dependencies
+markdown:        redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            BaishanCloud
+tagline:          ''
+description:      ''
+url:              http://www.baishancloud.com
+baseurl:          /zh
+
+author:
+  name:           'BaishanCloud'
+  url:            https://www.baishancloud.com
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+gems:      [jekyll-paginate]

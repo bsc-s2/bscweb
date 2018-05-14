@@ -303,13 +303,13 @@
 }
 .squeegee-before div {
     background-position: right center;
-    background-image: url('../image/cln/cln-before.png');
+    background-image: url('../image/fengchao/cln-before.png');
     right: 0;
 }
 
 .squeegee-after div {
     background-position: 0 center;
-    background-image: url('../image/cln/cln-after.png');
+    background-image: url('../image/fengchao/cln-after.png');
 }
 
 .squeegee-before h4,

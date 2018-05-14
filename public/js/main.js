@@ -130,29 +130,6 @@ jQuery(document).ready(function() {
     });
     //cln-API L2 Cache svg js end
 
-    // cln-x banner
-    const img = document.getElementById("bannerImg")
-    const urlArray = $('#bannerImg').attr('src').split('/')
-    const srcArray = ['cln-before.png','cln-after.png']
-    const len = srcArray.length - 1
-    let index = 0
-    setInterval(function() {
-        img.style.transition='opacity 1s ease-in 0s'
-        img.style.opacity=0.2
-        setTimeout(function(){
-            urlArray.splice(urlArray.length-1,1,srcArray[index])
-            img.src = urlArray.join('/')
-            img.style.transition='opacity 1s ease-out 0s'
-            img.style.opacity=1
-        },1000)
-        setTimeout(function(){
-            img.style.transition='none'
-        },2000)
-        if(++index > len) {
-            index = 0
-        }
-    },4000)
-
     $('#squeegee').mousemove(function (event) {
         var Ev= event || window.event;
         var pointX = Ev.clientX

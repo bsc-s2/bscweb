@@ -52,6 +52,12 @@ $ jekyll serve         # 访问 http://127.0.0.1:4000/
 
 ## 部署测试
 
+本地分支需要有release-v2分支
+
+```bash
+$ sh build.sh
+```
+
 ```bash
 $ ssh root@172.18.2.32
 $ cd /usr/local/dashboard/web/dashboard && git pull

@@ -12,25 +12,25 @@ title: CDN-X 云分发
 </div>
 <div class="cdn-technology container">
     <h2 class="cdn-technology-title">创新技术</h2>
-    <div class="col-lg-3 cdn-technology-item">
+    <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-1.png">
         <p class="cdn-technology-item-title">SHAQUE</p>
         <p class="cdn-technology-item-title">秒推</p>
         <p class="cdn-technology-item-info">毫秒级推送确保网站发布及时性</p>
     </div>
-    <div class="col-lg-3 cdn-technology-item">
+    <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-2.png">
         <p class="cdn-technology-item-title">MANTA</p>
         <p class="cdn-technology-item-title">前端优化</p>
         <p class="cdn-technology-item-info">针对网页内容的感知，拆分，重构，整合</p>
     </div>
-    <div class="col-lg-3 cdn-technology-item">
+    <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-3.png">
         <p class="cdn-technology-item-title">TUNA</p>
         <p class="cdn-technology-item-title">协议优化</p>
         <p class="cdn-technology-item-info">优化 TCP 重传 TCP 窗口拥塞和慢启动</p>
     </div>
-    <div class="col-lg-3 cdn-technology-item">
+    <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cdn/cdn-technology-4.png">
         <p class="cdn-technology-item-title">DOLFIN</p>
         <p class="cdn-technology-item-title">智能流量调度系统</p>
@@ -39,28 +39,28 @@ title: CDN-X 云分发
 </div>
 <div class="product-technology-advantage container">
     <h2 class="product-technology-advantage-title">产品优势</h2>
-    <div class="col-lg-3 product-technology-advantage-item">
+    <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/cdn/cdn-advantage-1.png"></div>
         <p class="product-technology-advantage-item-title">松耦合架构</p>
         <p class="product-technology-advantage-item-info">独创乐高式松耦合平台架构</p>
         <p class="product-technology-advantage-item-info">模块化、可插拔</p>
         <p class="product-technology-advantage-item-info">多维度、高扩展</p>
     </div>
-    <div class="col-lg-3 product-technology-advantage-item">
+    <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/cdn/cdn-advantage-2.png"></div>
         <p class="product-technology-advantage-item-title">秒级推送</p>
         <p class="product-technology-advantage-item-info">突破式创新刷新技术</p>
         <p class="product-technology-advantage-item-info">病毒式传播快速更迭</p>
         <p class="product-technology-advantage-item-info">内容实时毫秒级更新</p>
     </div>
-    <div class="col-lg-3 product-technology-advantage-item">
+    <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/cdn/cdn-advantage-3.png"></div>
         <p class="product-technology-advantage-item-title">智能化运维</p>
         <p class="product-technology-advantage-item-info">服务信息100%全透明</p>
         <p class="product-technology-advantage-item-info">大数据实时分析运营质量</p>
         <p class="product-technology-advantage-item-info">监控报警事件智能分析</p>
     </div>
-    <div class="col-lg-3 product-technology-advantage-item">
+    <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/cdn/cdn-advantage-4.png"></div>
         <p class="product-technology-advantage-item-title">智能调度</p>
         <p class="product-technology-advantage-item-info">故障服务器业务秒级切换</p>

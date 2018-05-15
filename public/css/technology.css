@@ -36,13 +36,15 @@
     padding: 80px 15%;
 }
 .cdn-technology-title {
-    margin-bottom: 80px;
+    margin-bottom: 30px;
 }
 .cdn-technology-item {
     padding: 0 4%;
+    margin-top: 50px;
 }
 .cdn-technology-item img {
-    margin: 0 auto 40px;
+    margin: 0 auto 20px;
+    height: 140px;
 }
 .cdn-technology-item-title {
     font-size: 20px;
@@ -59,13 +61,14 @@
     background-color: #f4f7fa;
 }
 .product-technology-advantage-title {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .product-technology-advantage-item {
     padding: 0 4%;
+    margin-top: 60px;
 }
 .product-technology-advantage-item-imgbox {
-    height: 150px;
+    height: 130px;
 }
 .product-technology-advantage-item img {
     margin: 0 auto;
@@ -73,7 +76,7 @@
 .product-technology-advantage-item-title {
     font-size: 20px;
     font-weight: 400;
-    margin: 60px 0 20px;
+    margin: 40px 0 20px;
 }
 .product-technology-advantage-item-info {
     font-size: 16px;

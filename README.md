@@ -1,5 +1,6 @@
 # Baishancloud Official Website
 
+测试地址: http://172.18.2.32
 官网项目，基于Jekyll进行开发。
 
 ## 项目结构
@@ -47,4 +48,11 @@
 
 ```bash
 $ jekyll serve         # 访问 http://127.0.0.1:4000/
+```
+
+## 部署测试
+
+```bash
+$ ssh root@172.18.2.32
+$ cd /usr/local/dashboard/web/dashboard && git pull
 ```

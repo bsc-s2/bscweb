@@ -27,8 +27,8 @@
     margin-right: 30px;
 }
 .header-logo {
-    width: 200px;
-    padding: 15px;
+    width: 180px;
+    padding: 20px;
     height: 64px;
 }
 .header-right {
@@ -324,7 +324,6 @@ a.header-login {
 
 /* other */
 .bold {
-    font-size: 14px;
     font-weight: bold;
 }
 * {
@@ -358,7 +357,7 @@ a:visited {
 .bottom-nav-cn {
     color: #bbb;
     background-color: #33333c;
-    height: 380px;
+    height: 320px;
     padding: 60px 15%;
     font-size: 12px;
 }
@@ -374,12 +373,28 @@ a:visited {
     color: #777;
 }
 .bottom-logo {
-    width: 160px;
+    width: 140px;
     margin-bottom: 20px;
+}
+.bottom-telephone {
+    margin-top: 20px;
+    color: #777;
+}
+.bottom-telephone img {
+    float: left;
+    margin-right: 10px;
+}
+.bottom-solution {
+    margin-left: 14px;
+}
+.bottom-contact-way img {
+    display: inline-block;
+    margin-right: 16px;
+    margin-bottom: 4px;
 }
 .bottom-copyright {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 70px;
 }
 .copyright,
 a.copyright {

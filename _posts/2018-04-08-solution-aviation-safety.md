@@ -33,7 +33,7 @@ title: 航空安全
 </div>
 <div class="solution-item-structure">
     <h2>方案架构</h2>
-    <img src="{{ site.baseurl }}/public/image/solution/structure-航空行业业务安全.png">
+    <img src="{{ site.baseurl }}/public/image/solution/structure-3.png">
 </div>
 <div class="solution-item-applicable">
     <h2>客户收益</h2>

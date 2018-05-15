@@ -203,16 +203,16 @@ a.header-login {
     background-color: #5066cf;
 }
 .index-product-cdn:hover {
-    background: url(/public/image/index/product_CDN.png) center;
+    background: url(/public/image/index/product-cdn.png) center;
 }
 .index-product-fengchao:hover {
-    background: url(/public/image/index/product_蜂巢.png) center;
+    background: url(/public/image/index/product-fengchao.png) center;
 }
 .index-product-atd:hover {
-    background: url(/public/image/index/product_ATD.png) center;
+    background: url(/public/image/index/product-atd.png) center;
 }
 .index-product-cwn:hover {
-    background: url(/public/image/index/product_CWN.png) center;
+    background: url(/public/image/index/product-cwn.png) center;
 }
 
 

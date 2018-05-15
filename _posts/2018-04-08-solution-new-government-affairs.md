@@ -26,7 +26,7 @@ title: 新型政务数据共享交换
 </div>
 <div class="solution-item-structure">
     <h2>方案架构</h2>
-    <img src="{{ site.baseurl }}/public/image/solution/structure-新型政务数据共享交换.png">
+    <img src="{{ site.baseurl }}/public/image/solution/structure-2.png">
 </div>
 <div class="solution-item-applicable">
     <h2>适用场景</h2>

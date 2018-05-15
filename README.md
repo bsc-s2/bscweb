@@ -21,21 +21,21 @@
 - _layouts // 布局，模板
   - default // 默认模板
 - _posts // 一个个页面
-  - 2018-04-08-more
-  - 2018-04-08-news
-  - 2018-04-08-solution-互联网金融
-  - 2018-04-08-solution-企业数字化转型
-  - 2018-04-08-solution-在线教育
-  - 2018-04-08-solution-政府安全
-  - 2018-04-08-solution-新型政务数据共享交换
-  - 2018-04-08-solution-游戏行业
-  - 2018-04-08-solution-航空安全
-  - 2018-04-08-solution-资讯信息安全
-  - 2018-04-08-solution
-  - 2018-04-08-technology-atd
-  - 2018-04-08-technology-cdn-x
-  - 2018-04-08-technology-cwn-x
-  - 2018-04-08-technology-fengchao
+  - 2018-04-08-more // 更多
+  - 2018-04-08-news // 新闻动态
+  - 2018-04-08-solution-aviation-safety // 解决方案-航空安全
+  - 2018-04-08-solution-corporate-digitization // 解决方案-企业数字化转型
+  - 2018-04-08-solution-game-safety // 解决方案-游戏安全
+  - 2018-04-08-solution-government-security // 解决方案-政府安全
+  - 2018-04-08-solution-information-security // 解决方案-资讯信息安全
+  - 2018-04-08-solution-internet-banking // 解决方案-互联网金融安全
+  - 2018-04-08-solution-new-government-affairs // 解决方案-新型政务数据共享交换
+  - 2018-04-08-solution-online-education // 解决方案-在线教育
+  - 2018-04-08-solution // 解决方案
+  - 2018-04-08-technology-atd // 产品技术-ATD
+  - 2018-04-08-technology-cdn-x // 产品技术-CDN
+  - 2018-04-08-technology-cwn-x // 产品技术-CWN
+  - 2018-04-08-technology-fengchao // 产品技术-蜂巢
 - _site // 一旦Jekyll完成转换，就会将生成的页面放在这里（默认）
 - public
   - css

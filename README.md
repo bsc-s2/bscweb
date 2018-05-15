@@ -46,5 +46,5 @@
 ## 开发
 
 ```bash
-$ jekyll serve         # 访问 http://127.0.0.1:4000/zh/
+$ jekyll serve         # 访问 http://127.0.0.1:4000/
 ```

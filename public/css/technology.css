@@ -15,19 +15,19 @@
 }
 
 .cdn-banner {
-    background: url(/zh/public/image/index/product_CDN.png) center no-repeat;
+    background: url(/public/image/index/product_CDN.png) center no-repeat;
     background-size: 100% 100%;
 }
 .cwn-banner {
-    background: url(/zh/public/image/index/product_CWN.png) center no-repeat;
+    background: url(/public/image/index/product_CWN.png) center no-repeat;
     background-size: 100% 100%;
 }
 .atd-banner {
-    background: url(/zh/public/image/index/product_ATD.png) center no-repeat;
+    background: url(/public/image/index/product_ATD.png) center no-repeat;
     background-size: 100% 100%;
 }
 .shujufengchao-banner {
-    background: url(/zh/public/image/index/product_蜂巢.png) center no-repeat;
+    background: url(/public/image/index/product_蜂巢.png) center no-repeat;
     background-size: 100% 100%;
 }
 

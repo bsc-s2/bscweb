@@ -203,16 +203,16 @@ a.header-login {
     background-color: #5066cf;
 }
 .index-product-cdn:hover {
-    background: url(/zh/public/image/index/product_CDN.png) center;
+    background: url(/public/image/index/product_CDN.png) center;
 }
 .index-product-fengchao:hover {
-    background: url(/zh/public/image/index/product_蜂巢.png) center;
+    background: url(/public/image/index/product_蜂巢.png) center;
 }
 .index-product-atd:hover {
-    background: url(/zh/public/image/index/product_ATD.png) center;
+    background: url(/public/image/index/product_ATD.png) center;
 }
 .index-product-cwn:hover {
-    background: url(/zh/public/image/index/product_CWN.png) center;
+    background: url(/public/image/index/product_CWN.png) center;
 }
 
 
@@ -258,7 +258,7 @@ a.header-login {
 
 /* index-click-num */
 .click-num {
-    background-image: url(/zh/public/image/index/visit-data-bg.png);
+    background-image: url(/public/image/index/visit-data-bg.png);
     text-align: center;
     padding: 80px 10%;
     font-size: 36px;
@@ -403,7 +403,7 @@ a.copyright:hover {
     height: 450px;
     text-align: center;
     color: #fff;
-    background: url(/zh/public/image/solution/solution.png) center no-repeat;
+    background: url(/public/image/solution/solution.png) center no-repeat;
     background-size: 100% 100%;
 }
 .solution-banner h1 {
@@ -447,7 +447,7 @@ a.copyright:hover {
     height: 450px;
     text-align: center;
     color: #fff;
-    background: url(/zh/public/image/news/news-banner.png) center no-repeat;
+    background: url(/public/image/news/news-banner.png) center no-repeat;
     background-size: 100% 100%;
 }
 .news-banner h1 {
@@ -544,7 +544,7 @@ a.copyright:hover {
     height: 700px;
     text-align: center;
     color: #fff;
-    background: url(/zh/public/image/more/about.png) center no-repeat;
+    background: url(/public/image/more/about.png) center no-repeat;
     background-size: 100% 100%;
 }
 .more-banner h1 {

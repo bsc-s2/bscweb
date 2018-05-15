@@ -14,27 +14,35 @@ title: CWN-X 云存储
     <h2 class="cdn-technology-title">创新技术</h2>
     <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cwn/cwn-technology-1.png">
-        <p class="cdn-technology-item-title">SHAQUE</p>
-        <p class="cdn-technology-item-title">秒推</p>
-        <p class="cdn-technology-item-info">毫秒级推送确保网站发布及时性</p>
+        <p class="cdn-technology-item-title">XASTRO</p>
+        <p class="cdn-technology-item-title">对等多活存储</p>
+        <p class="cdn-technology-item-info first-item-info">秒级跨机房同步</p>
+        <p class="cdn-technology-item-info">配置去中心化</p>
+        <p class="cdn-technology-item-info">秒级反应故障</p>
     </div>
     <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cwn/cwn-technology-2.png">
-        <p class="cdn-technology-item-title">MANTA</p>
-        <p class="cdn-technology-item-title">前端优化</p>
-        <p class="cdn-technology-item-info">针对网页内容的感知，拆分，重构，整合</p>
+        <p class="cdn-technology-item-title">SNACHE</p>
+        <p class="cdn-technology-item-title">数据温度测量</p>
+        <p class="cdn-technology-item-info first-item-info">定义数据温度</p>
+        <p class="cdn-technology-item-info">数据分级存储</p>
+        <p class="cdn-technology-item-info">异步智能调整</p>
     </div>
     <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cwn/cwn-technology-3.png">
-        <p class="cdn-technology-item-title">TUNA</p>
-        <p class="cdn-technology-item-title">协议优化</p>
-        <p class="cdn-technology-item-info">优化 TCP 重传 TCP 窗口拥塞和慢启动</p>
+        <p class="cdn-technology-item-title">SPIDOR</p>
+        <p class="cdn-technology-item-title">自组边缘存储</p>
+        <p class="cdn-technology-item-info first-item-info">内容就近写入</p>
+        <p class="cdn-technology-item-info">数据按需同步</p>
+        <p class="cdn-technology-item-info">隔离网络故障</p>
     </div>
     <div class="col-md-3 col-xs-6 cdn-technology-item">
         <img src="{{ site.baseurl }}/public/image/cwn/cwn-technology-4.png">
-        <p class="cdn-technology-item-title">DOLFIN</p>
-        <p class="cdn-technology-item-title">智能流量调度系统</p>
-        <p class="cdn-technology-item-info">实现 DNS 云化、秒切、动态 IP 库、四维智能调度</p>
+        <p class="cdn-technology-item-title">OCTAPATH</p>
+        <p class="cdn-technology-item-title">自激质量控制</p>
+        <p class="cdn-technology-item-info first-item-info">自激智能探测</p>
+        <p class="cdn-technology-item-info">全面质量检测</p>
+        <p class="cdn-technology-item-info">自动化数据修复</p>
     </div>
 </div>
 <div class="product-technology-advantage container">

@@ -14,7 +14,7 @@ title: 数聚蜂巢 云聚合
     <h2 class="atd-technology-title">创新技术</h2>
     <div class="col-md-4 atd-technology-item">
         <img src="{{ site.baseurl }}/public/image/fengchao/fengchao-technology-1.png">
-        <p class="atd-technology-item-title">XXX</p>
+        <p class="atd-technology-item-title">ACALEF</p>
         <p class="atd-technology-item-title">API全息感知</p>
         <p class="atd-technology-item-info first-item-info">全方位动态感知</p>
         <p class="atd-technology-item-info">全生命周期管理</p>
@@ -22,7 +22,7 @@ title: 数聚蜂巢 云聚合
     </div>
     <div class="col-md-4 atd-technology-item">
         <img src="{{ site.baseurl }}/public/image/fengchao/fengchao-technology-2.png">
-        <p class="atd-technology-item-title">XXX</p>
+        <p class="atd-technology-item-title">GREYBEQ</p>
         <p class="atd-technology-item-title">多元异构跨界融合</p>
         <p class="atd-technology-item-info first-item-info">全域数据API覆盖</p>
         <p class="atd-technology-item-info">异构系统精准融合</p>
@@ -30,7 +30,7 @@ title: 数聚蜂巢 云聚合
     </div>
     <div class="col-md-4 atd-technology-item">
         <img src="{{ site.baseurl }}/public/image/fengchao/fengchao-technology-3.png">
-        <p class="atd-technology-item-title">XXX</p>
+        <p class="atd-technology-item-title">CORALAL</p>
         <p class="atd-technology-item-title">API脱码构建</p>
         <p class="atd-technology-item-info first-item-info">原生API智动封装</p>
         <p class="atd-technology-item-info">特征模型智能驱动</p>

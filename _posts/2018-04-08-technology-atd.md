@@ -14,16 +14,16 @@ title: ATD 云聚合
     <h2 class="atd-technology-title">创新技术</h2>
     <div class="col-xs-6 atd-technology-item">
         <img src="{{ site.baseurl }}/public/image/atd/atd-technology-1.png">
-        <p class="atd-technology-item-title">XXX</p>
+        <p class="atd-technology-item-title">NOTILUS</p>
         <p class="atd-technology-item-title">多维引擎驱动</p>
-        <p class="atd-technology-item-info first-item-info">实时引擎流式行为分析</p>
-        <p class="atd-technology-item-info">深度引擎无监督聚类</p>
-        <p class="atd-technology-item-info">学习引擎回归分析</p>
+        <p class="atd-technology-item-info first-item-info">去策略化，实时个群对比</p>
+        <p class="atd-technology-item-info">精准识别低频行为</p>
+        <p class="atd-technology-item-info">构建行为基线与请求画像</p>
     </div>
     <div class="col-xs-6 atd-technology-item">
         <img src="{{ site.baseurl }}/public/image/atd/atd-technology-2.png">
-        <p class="atd-technology-item-title">XXX</p>
-        <p class="atd-technology-item-title">IP同步着色技术</p>
+        <p class="atd-technology-item-title">CAMELEO</p>
+        <p class="atd-technology-item-title">IP同步着色</p>
         <p class="atd-technology-item-info first-item-info">全网IP信用等级库</p>
         <p class="atd-technology-item-info">精准构造IP肖像</p>
         <p class="atd-technology-item-info">多维度统计与分析</p>
@@ -33,31 +33,33 @@ title: ATD 云聚合
     <h2 class="product-technology-advantage-title">产品优势</h2>
     <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/atd/atd-advantage-1.png"></div>
-        <p class="product-technology-advantage-item-title">零部署成本</p>
-        <p class="product-technology-advantage-item-info">独创乐高式松耦合平台架构</p>
-        <p class="product-technology-advantage-item-info">模块化、可插拔</p>
-        <p class="product-technology-advantage-item-info">多维度、高扩展</p>
+        <p class="product-technology-advantage-item-title">实时流式架构</p>
+        <p class="product-technology-advantage-item-info">私有云部署</p>
+        <p class="product-technology-advantage-item-info">旁路接入 不影响业务</p>
+        <p class="product-technology-advantage-item-info">无埋点 轻量接入</p>
+        <p class="product-technology-advantage-item-info">流式架构 毫秒级分析</p>
     </div>
     <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/atd/atd-advantage-2.png"></div>
-        <p class="product-technology-advantage-item-title">零人工介入</p>
-        <p class="product-technology-advantage-item-info">突破式创新刷新技术</p>
-        <p class="product-technology-advantage-item-info">病毒式传播快速更迭</p>
-        <p class="product-technology-advantage-item-info">内容实时毫秒级更新</p>
+        <p class="product-technology-advantage-item-title">三大机器学习引擎</p>
+        <p class="product-technology-advantage-item-info">实时引擎-个群对比</p>
+        <p class="product-technology-advantage-item-info">深度引擎-低频识别</p>
+        <p class="product-technology-advantage-item-info">学习引擎-建立模型</p>
     </div>
     <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/atd/atd-advantage-3.png"></div>
-        <p class="product-technology-advantage-item-title">毫秒级精准识别</p>
-        <p class="product-technology-advantage-item-info">服务信息100%全透明</p>
-        <p class="product-technology-advantage-item-info">大数据实时分析运营质量</p>
-        <p class="product-technology-advantage-item-info">监控报警事件智能分析</p>
+        <p class="product-technology-advantage-item-title">全球IP信用等级库</p>
+        <p class="product-technology-advantage-item-info">多维度IP信用等级分析</p>
+        <p class="product-technology-advantage-item-info">一键判定攻击源性质</p>
+        <p class="product-technology-advantage-item-info">IP信用污点显示</p>
     </div>
     <div class="col-md-3 col-xs-6 product-technology-advantage-item">
         <div class="product-technology-advantage-item-imgbox"><img src="{{ site.baseurl }}/public/image/atd/atd-advantage-4.png"></div>
-        <p class="product-technology-advantage-item-title">完全可视化展现</p>
-        <p class="product-technology-advantage-item-info">故障服务器业务秒级切换</p>
-        <p class="product-technology-advantage-item-info">动态IP库实现IP-IP调度</p>
-        <p class="product-technology-advantage-item-info">四维调度算法更智能</p>
+        <p class="product-technology-advantage-item-title">大屏式数据可视化界面</p>
+        <p class="product-technology-advantage-item-info">多终端适配</p>
+        <p class="product-technology-advantage-item-info">全局化展现</p>
+        <p class="product-technology-advantage-item-info">实时动态展现</p>
+        <p class="product-technology-advantage-item-info">全局数据一屏展现</p>
     </div>
 </div>
 <div class="technology-structure">

@@ -1,0 +1,38 @@
+- title: 首页
+  url: /
+- title: 产品技术
+  url: /tech
+  sublinks:
+    - title: CDN-X
+      url: /tech
+    - title: CWN-X
+      url: /tech/cwn
+    - title: ATD
+      url: /tech/atd
+    - title: 数聚蜂巢
+      url: /tech/fengchao
+- title: 解决方案
+  url: /solution
+  sublinks:
+    - title: 总览
+      url: /solution
+    - title: 企业数字化转型
+      url: /solution/corporate-digitization
+    - title: 新型政务数据共享交换
+      url: /solution/new-government-affairs
+    - title: 互联网金融安全
+      url: /solution/internet-banking
+    - title: 航空安全
+      url: /solution/aviation-safety
+    - title: 游戏安全
+      url: /solution/game-safety
+    - title: 资讯信息安全
+      url: /solution/information-security
+    - title: 政府安全
+      url: /solution/government-security
+    - title: 在线教育
+      url: /solution/online-education
+- title: 新闻动态
+  url: /news
+- title: 更多
+  url: /more

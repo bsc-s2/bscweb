@@ -38,7 +38,7 @@ title: 在线教育
 </div>
 <div class="solution-item-structure">
     <h2>方案架构</h2>
-    <!-- <img src="{{ site.baseurl }}/public/image/solution/structure-游戏业务.png"> -->
+    <img src="{{ site.baseurl }}/public/image/solution/structure-online-education.png">
 </div>
 <div class="solution-item-applicable">
     <h2>适用场景</h2>

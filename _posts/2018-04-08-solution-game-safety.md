@@ -33,7 +33,7 @@ title: 游戏安全
 </div>
 <div class="solution-item-structure">
     <h2>方案架构</h2>
-    <img src="{{ site.baseurl }}/public/image/solution/structure-5.png">
+    <img src="{{ site.baseurl }}/public/image/solution/structure-game-safety.png">
 </div>
 <div class="solution-item-applicable">
     <h2>客户收益</h2>

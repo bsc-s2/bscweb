@@ -12,35 +12,35 @@
 }
 
 .qiyeshuzihua-banner {
-    background: url(/public/image/solution/header-1.png) center no-repeat;
+    background: url(/public/image/solution/header-corporate-digitization.png) center no-repeat;
     background-size: 100% 100%;
 }
 .xinxingzhengwu-banner {
-    background: url(/public/image/solution/header-2.png) center no-repeat;
-    background-size: 100% 100%;
-}
-.hangkonganquan-banner {
-    background: url(/public/image/solution/header-3.png) center no-repeat;
+    background: url(/public/image/solution/header-new-government-affairs.png) center no-repeat;
     background-size: 100% 100%;
 }
 .hulianwangjinrong-banner {
-    background: url(/public/image/solution/header-4.png) center no-repeat;
+    background: url(/public/image/solution/header-internet-banking.png) center no-repeat;
+    background-size: 100% 100%;
+}
+.hangkonganquan-banner {
+    background: url(/public/image/solution/header-aviation-safety.png) center no-repeat;
     background-size: 100% 100%;
 }
 .youxihangye-banner {
-    background: url(/public/image/solution/header-5.png) center no-repeat;
-    background-size: 100% 100%;
-}
-.zhengfuyewu-banner {
-    background: url(/public/image/solution/header-6.png) center no-repeat;
-    background-size: 100% 100%;
-}
-.zaixianjiaoyu-banner {
-    background: url(/public/image/solution/header-7.png) center no-repeat;
+    background: url(/public/image/solution/header-game-safety.png) center no-repeat;
     background-size: 100% 100%;
 }
 .zixunxinxi-banner {
-    background: url(/public/image/solution/header-8.png) center no-repeat;
+    background: url(/public/image/solution/header-information-security.png) center no-repeat;
+    background-size: 100% 100%;
+}
+.zhengfuyewu-banner {
+    background: url(/public/image/solution/header-government-security.png) center no-repeat;
+    background-size: 100% 100%;
+}
+.zaixianjiaoyu-banner {
+    background: url(/public/image/solution/header-online-education.png) center no-repeat;
     background-size: 100% 100%;
 }
 

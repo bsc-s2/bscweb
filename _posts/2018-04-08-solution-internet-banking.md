@@ -35,7 +35,7 @@ title: 互联网金融安全
 </div>
 <div class="solution-item-structure">
     <h2>方案架构</h2>
-    <img src="{{ site.baseurl }}/public/image/solution/structure-4.png">
+    <img src="{{ site.baseurl }}/public/image/solution/structure-internet-banking.png">
 </div>
 <div class="solution-item-applicable">
     <h2>客户收益</h2>

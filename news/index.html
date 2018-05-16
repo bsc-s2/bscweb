@@ -12,21 +12,22 @@ title: 白山新闻
     </div>
 </div>
 
-{% assign news=site.data.news %}
-{% for ns in news %}
-
-<div class="news-item">
-    <div class="news-imgbox">
-        <img src="{{ site.baseurl }}/public/image/news/{{ ns.img }}">
+<div class="news">
+    {% assign news=site.data.news %}
+    {% for ns in news %}
+    <div class="news-item">
+        <div class="news-imgbox">
+            <img src="{{ site.baseurl }}/public/image/news/{{ ns.img }}">
+        </div>
+        <div class="news-info">
+            <p class="news-source-time">
+                <span class="news-source">{{ ns.source }}</span>
+                <span class="news-time">{{ns.time}}</span>
+            </p>
+            <h3 class="news-title">{{ns.title}}</h3>
+            <p class="news-brief">{{ns.brief}}</p>
+            <a class="news-learn-more" href="{{ns.url}}" target="_black">阅读全文--></a>
+        </div>
     </div>
-    <div class="news-info">
-        <p class="news-source-time">
-            <span class="news-source">{{ns.source}}</span>
-            <span class="news-time">{{ns.time}}</span>
-        </p>
-        <h3 class="news-title">{{ns.title}}</h3>
-        <p class="news-brief">{{ns.brief}}</p>
-        <a class="news-learn-more" href="{{ns.url}}" target="_black">阅读全文--></a>
-    </div>
+    {% endfor %}
 </div>
-{% endfor %}

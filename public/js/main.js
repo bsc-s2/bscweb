@@ -42,4 +42,13 @@ jQuery(document).ready(function() {
         $(".navbar").removeClass('navbar-with-background');
       };
     });
+
+    $(".index-product").mouseenter(function (event) {
+        $(this).children().slideUp(200)
+        $(this).next().slideDown(200)
+    })
+    $(".index-product-hover").mouseleave(function (event) {
+        $(this).slideUp(200)
+        $(this).prev().children().slideDown(200)
+    })
 });

@@ -38,42 +38,23 @@ title: 白山云-国内首家云链服务提供商
     </div>
 </div>
 <div class="index-products container">
+    {% assign products=site.data.index-product %}
+    {% for product in products %}
     <div class="col-lg-6 ">
-        <a href="{{ site.baseurl }}{% link tech/index.html %}">
-            <div class="index-product index-product-cdn">
-                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
-                <div class="index-product-title">云分发</div>
-                <div class="index-product-info">乐高式松耦合架构，全透明定制化服务</div>
+        <a href="{{ site.baseurl }}{{ product.url}}">
+            <div class="{{product.class}}">
+                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/{{product.img}}">
+                <div class="index-product-title">{{product.title}}</div>
+                <div class="index-product-info">{{product.info}}</div>
+            </div>
+            <div class="{{product.class-hover}}">
+                <div class="index-product-title">{{product.title}}</div>
+                <div class="index-product-info">{{product.info-hover}}</div>
             </div>
         </a>
-    </div>
-    <div class="col-lg-6">
-        <a href="{{ site.baseurl }}{% link tech/fengchao.html %}">
-            <div class="index-product index-product-fengchao">
-                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
-                <div class="index-product-title">数聚蜂巢</div>
-                <div class="index-product-info">打破数据孤岛，重构数据价值</div>
-            </div>
         </a>
     </div>
-    <div class="col-lg-6">
-        <a href="{{ site.baseurl }}{% link tech/atd.html %}">
-            <div class="index-product index-product-atd">
-                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
-                <div class="index-product-title">ATD</div>
-                <div class="index-product-info">WEB深度威胁识别，AI安全突破式应用</div>
-            </div>
-        </a>
-    </div>
-    <div class="col-lg-6">
-        <a href="{{ site.baseurl }}{% link tech/cwn.html %}">
-            <div class="index-product index-product-cwn">
-                <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/test.png">
-                <div class="index-product-title">云存储</div>
-                <div class="index-product-info">倡导冷热分级存储，GB级文件高速传输</div>
-            </div>
-        </a>
-    </div>
+    {% endfor %}
 </div>
 <div id="carousel-solution" class="carousel slide carousel-solution" data-ride="carousel">
     <h1 class="index-solutions-title">解决方案</h1>

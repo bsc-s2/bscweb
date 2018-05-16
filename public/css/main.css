@@ -203,9 +203,16 @@
 .index-products.container a {
     color: #fff;
 }
-.index-product {
+.index-product,
+.index-product-hover {
     text-align: center;
-    padding: 80px 10%;
+    padding: 70px 10%;
+    height: 320px;
+}
+.index-product-hover {
+    position: absolute;
+    top: 0;
+    display: none;
 }
 .index-product-img {
     margin: 0 auto 30px;
@@ -217,29 +224,38 @@
 .index-product-info {
     font-size: 18px;
 }
+.index-product-cdn-hover {
+    background-color:rgba(237, 153, 102, 0.7);
+}
+.index-product-fengchao-hover {
+    background-color:rgba(168, 111, 232, 0.7);
+}
+.index-product-atd-hover {
+    background-color:rgba(47, 166, 109, 0.7);
+}
+.index-product-cwn-hover {
+    background-color:rgba(80, 102, 207, 0.7);
+}
 .index-product-cdn {
-    background-color: #ed9966;
-}
-.index-product-fengchao {
-    background-color: #a86fe8;
-}
-.index-product-atd {
-    background-color: #2fa66d;
-}
-.index-product-cwn {
-    background-color: #5066cf;
-}
-.index-product-cdn:hover {
     background: url(/public/image/index/product-cdn.png) center;
 }
-.index-product-fengchao:hover {
+.index-product-fengchao {
     background: url(/public/image/index/product-fengchao.png) center;
 }
-.index-product-atd:hover {
+.index-product-atd {
     background: url(/public/image/index/product-atd.png) center;
 }
-.index-product-cwn:hover {
+.index-product-cwn {
     background: url(/public/image/index/product-cwn.png) center;
+}
+
+@media(max-width: 767px) {
+    .index-product-title {
+        font-size: 30px;
+    }
+    .index-product-info {
+        font-size: 16px;
+    }
 }
 
 

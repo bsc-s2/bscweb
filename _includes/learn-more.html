@@ -1,32 +1,32 @@
 <div class="register solution-register">
     <h2>了解更多</h2>
-    <form class="register-form">
+    <form class="register-form" onsubmit="event.preventDefault();" autocomplete="nope">
         <div class="form-group col-sm-6">
             <label for="name">姓名：</label>
-            <input class="form-control" id="name">
+            <input class="form-control" id="name" name="name" required>
         </div>
         <div class="form-group col-sm-6">
             <label for="email">邮箱：</label>
-            <input class="form-control" id="email">
+            <input class="form-control" id="email" name="email" required>
         </div>
         <div class="form-group col-sm-6">
             <label for="telephone">电话：</label>
-            <input class="form-control" id="telephone">
+            <input class="form-control" id="telephone" name="telephone" required>
         </div>
         <div class="form-group col-sm-6">
             <label for="company">公司名称：</label>
-            <input class="form-control" id="company">
+            <input class="form-control" id="company" name="company" required>
         </div>
         <div class="form-group col-sm-6">
             <label for="department">所在部门：</label>
-            <input class="form-control" id="department">
+            <input class="form-control" id="department" name="department" required>
         </div>
         <div class="form-group col-sm-6">
             <label for="position">职位：</label>
-            <input class="form-control" id="position">
+            <input class="form-control" id="position" name="position" required>
         </div>
         <div class="register-sumbit">
-            <button type="submit" class="btn btn-primary register-sumbit-button">提交</button>
+            <button class="btn btn-primary register-sumbit-button">提交</button>
         </div>
     </form>
 </div>

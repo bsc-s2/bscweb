@@ -54,6 +54,10 @@ a.header-login {
     padding: 10px 20px;
 }
 
+.navbar-with-background {
+  background: linear-gradient(to bottom, #d9d9d9, transparent);
+}
+
 
 /* index-banner carousel */
 .carousel-indicators {

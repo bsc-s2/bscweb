@@ -5,7 +5,8 @@ jQuery(document).ready(function() {
         $('#indexVideo')[0].play();
         ga('send', 'event', 'Videos', 'play', 'Product film');
         
-    })
+    });
+    
     $('#videoClose').click(function() {
         $('#indexVideo')[0].pause();
         $("#videoBox").css('display', 'none');
@@ -32,22 +33,13 @@ jQuery(document).ready(function() {
         $('#squeegee .squeegee-before').width(beforeWidth)
         $('#squeegee .squeegee-after').width(afterWidth)
         $('#squeegee .squeegee-handle').css({left: afterWidth})
-    })
+    });
+    
+    $(document).scroll(function(){
+      if($(document).scrollTop() > 400) {
+        $(".navbar").addClass('navbar-with-background');
+      } else {
+        $(".navbar").removeClass('navbar-with-background');
+      };
+    });
 });
-
-
-(function(i, s, o, g, r, a, m) {
-	i['GoogleAnalyticsObject'] = r;
-	i[r] = i[r] || function() {
-			(i[r].q = i[r].q || []).push(arguments);
-	};
-	i[r].l = 1 * new Date();
-	a = s.createElement(o);
-	m = s.getElementsByTagName(o)[0];
-	a.async = 1;
-	a.src = g;
-	m.parentNode.insertBefore(a, m);
-})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-ga('create', 'UA-91873933-1', 'auto');
-ga('send', 'pageview');
-ga('set', 'userId', 'USER_ID');

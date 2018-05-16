@@ -53,8 +53,20 @@
 
 
 /* index-banner carousel */
+.img-responsive, .thumbnail > img.banner-img, .thumbnail a > img.banner-img, .carousel-inner > .item > img.banner-img, .carousel-inner > .item > a > img.banner-img {
+    height: 684px;
+    width: 100%;
+}
+.carousel-caption {
+    text-shadow: none;
+    left: 50px;
+    right: 50px;
+}
+.carousel-caption.banner-3 {
+    left: 20%;
+}
 .carousel-indicators {
-    bottom: 60px;
+    bottom: 36px;
 }
 .carousel-indicators .active {
     background-color: #ccc;
@@ -65,34 +77,31 @@
     height: 12px;
     border-radius: 6px;
 }
-.banner-img {
-    width: 100%;
-}
 .banner-1 {
     position: absolute;
-    top: 220px;
+    top: 150px;
 }
 .banner-1-title {
-    font-size: 60px;
+    font-size: 48px;
     color: #333;
     margin-bottom: 30px;
     letter-spacing: 10px;
 }
 .banner-1-info {
-    font-size: 28px;
+    font-size: 20px;
     color: #666;
 }
 .banner-2 {
     position: absolute;
-    top: 460px;
+    top: 320px;
     color: #fff;
 }
 .banner-2-title {
-    font-size: 60px;
+    font-size: 48px;
     letter-spacing: 10px;
 }
 .banner-2-info {
-    font-size: 28px;
+    font-size: 20px;
     margin-top: 20px;
 }
 .video-triger {
@@ -141,11 +150,11 @@
 }
 .banner-3 {
     position: absolute;
-    top: 300px;
+    top: 220px;
     text-align: left;
 }
 .banner-3-info {
-    font-size: 48px;
+    font-size: 42px;
 }
 .banner-3-more {
     background-color: #fff;
@@ -162,11 +171,35 @@
     margin: 0 20px;
 }
 
+@media(max-width: 767px) {
+    .carousel-caption {
+        left: 30px;
+        right: 30px;
+    }
+    .carousel-caption.banner-3 {
+        left: 5%;
+    }
+    .banner-1-title,
+    .banner-2-title,
+    .banner-3-info {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .banner-1-info,
+    .banner-2-info {
+        font-size: 18px;
+    }
+    .video-triger {
+        margin-top: 36px;
+    }
+    .banner-3-more {
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+}
+
 
 /* index-products */
-.index-products.container {
-    margin-top: -12px;
-}
 .index-products.container a {
     color: #fff;
 }
@@ -346,6 +379,9 @@ a:visited {
 }
 .clean {
     clear: both;
+}
+img {
+    margin: 0;
 }
 
 

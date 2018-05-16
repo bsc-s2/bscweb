@@ -11,15 +11,15 @@ echo tree is $tree
 commit=$(
 {
 cat <<-END
-Build release-v2
+Build release
 END
-} | git commit-tree $tree -p release-v2
+} | git commit-tree $tree -p release
 ) || exit 1
 
 echo commit is $commit
 
-git update-ref refs/heads/release-v2 $commit || exit 1
+git update-ref refs/heads/release $commit || exit 1
 
 git reset --hard HEAD
 
-echo "successfully build branch release-v2. you'll need to push release-v2"
+echo "successfully build branch release. you'll need to push release"

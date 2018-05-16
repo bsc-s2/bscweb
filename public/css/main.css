@@ -13,49 +13,42 @@
     display: block;
 }
 
-/* header */
-.header {
-    position: absolute;
-    z-index: 1000;
-    height: 64px;
-    width: 100%;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    color: #eee;
-}
-.header div {
-    display: inline-block;
-    margin-right: 30px;
-}
+/* navbar */
 .header-logo {
     width: 145px;
     height: 64px;
 }
-.header-right {
-    float: right;
+.navbar-default {
+    border-color: rgba(255, 255, 255, 0.15);
 }
-.header-right a {
-    margin: 0 10px;
-    color: rgba(255, 255, 255, 0.5);
-    height: 64px;
-    line-height: 64px;
-}
-.header-right a:hover {
-    text-decoration: none;
-    color: #fff;
-}
-a.current-page {
-    color: #fff;
-    display: inline-block;
-    padding-bottom: 10px;
-    border-bottom: 2px solid #fff;
-}
-a.header-login {
-    border: 2px solid #ddd;
-    padding: 10px 20px;
+.navbar-with-background {
+    background: #33333c;
 }
 
-.navbar-with-background {
-  background: linear-gradient(to bottom, #d9d9d9, transparent);
+@media(max-width: 767px) {
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        position: absolute;
+        top: 50px;
+        right: 0;
+        background-color: #33333c;
+        border: none;
+        width: 200px;
+        max-height: 667px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        color: #aaa;
+    }
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+        border-bottom: 0;
+        color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #fff;
+    }
+    .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        color: #eee;
+        background-color: #33333c;
+    }
 }
 
 

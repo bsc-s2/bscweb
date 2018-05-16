@@ -36,7 +36,7 @@ jQuery(document).ready(function() {
     });
     
     $(document).scroll(function(){
-      if($(document).scrollTop() > 400) {
+      if($(document).scrollTop() > 100) {
         $(".navbar").addClass('navbar-with-background');
       } else {
         $(".navbar").removeClass('navbar-with-background');

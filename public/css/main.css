@@ -210,7 +210,15 @@
 
 
 /* index-products */
-.index-products.container a {
+.index-products.container {
+    padding: 0;
+    margin: 0;
+}
+.index-products .col-sm-6 {
+    padding: 0;
+    margin: 0;
+}
+.index-products a {
     color: #fff;
 }
 .index-product,
@@ -259,7 +267,7 @@
     background: url(/public/image/index/product-cwn.png) center;
 }
 
-@media(max-width: 767px) {
+@media(max-width: 768px) {
     .index-product-title {
         font-size: 30px;
     }
@@ -270,14 +278,6 @@
 
 
 /* index-solutions */
-.container {
-    padding: 0;
-    margin: 0;
-}
-.col-lg-6 {
-    padding: 0;
-    margin: 0;
-}
 .carousel-solution {
     padding: 40px 15% 80px;
     text-align: center;
@@ -483,7 +483,7 @@ a.copyright:hover {
     padding: 160px 20%;
 }
 .solution-banner-info p {
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 30px;
 }
 
@@ -530,8 +530,9 @@ a.copyright:hover {
     padding: 160px 20%;
 }
 .news-banner-info p {
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 30px;
+    line-height: 30px;
 }
 .news-item {
     border-bottom: 2px solid #ddd;

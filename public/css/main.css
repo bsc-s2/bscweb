@@ -295,10 +295,12 @@
     margin-top: 20px;
 }
 .index-solution {
+    display: inline-block;
     margin: 10px 0;
     padding: 20px 0 30px;
-    height: 180px;
+    height: 200px;
     color: #555;
+    width: 180px;
 }
 .index-solution:hover {
     box-shadow: 5px 5px 10px rgba(0, 21, 41, .12), -5px -5px 10px rgba(0, 21, 41, .12);
@@ -306,6 +308,25 @@
 .index-solution img {
     margin: 0 auto;
     height: 119px;
+}
+
+@media(max-width: 1200px) {
+    .carousel-solution {
+        padding: 40px 10% 80px;
+    }
+}
+@media(max-width: 768px) {
+    .carousel-solution {
+        padding: 40px 80px 80px;
+    }
+}
+@media(max-width: 768px) {
+    .carousel-solution {
+        padding: 40px 0 80px;
+    }
+    .index-solution {
+        width: 160px;
+    }
 }
 
 
@@ -322,12 +343,12 @@
 
 /* index-customers */
 .customers {
-    padding: 70px 15% 80px;
+    padding: 80px 15%;
     background-color: #f4f7fa;
 }
 .customers h1 {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 .customers-box {
     background-color: #fff;

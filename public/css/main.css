@@ -340,6 +340,7 @@
 /* index-register */
 .register {
     padding: 80px 20% 100px;
+    background-color: #f4f7fa;
 }
 .register h2 {
     text-align: center;
@@ -357,8 +358,8 @@
     height: 60px;
     font-size: 24px;
 }
-.solution-register {
-    background-color: #f4f7fa;
+.index-register .register {
+    background-color: #fff;
 }
 /* index-certify */
 .certify {

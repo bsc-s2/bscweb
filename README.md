@@ -6,18 +6,19 @@
 ## 项目结构
 
 ```
-- _data          // 格式化好的数据。例如该目录下有news文件，可以通过site.data.news获取news文件的内容
-  - customers    // 客户
-  - navbar       // 导航条
-  - news         // 新闻
-- _includes      // 类似一个个组件，用{% include learn-more.html %}将组件插入页面中
-  - bottom       // 底部
-  - head         // 头部
-  - learn-more   // 了解更多（表单）
-  - navbar       // 导航条
-- _layouts       // 布局，模板
-  - default      // 默认模板
-- _site          // 一旦Jekyll完成转换，就会将生成的页面放在这里（默认）
+- _data            // 格式化好的数据。例如该目录下有news文件，可以通过site.data.news获取news文件的内容
+  - customers      // 首页客户
+  - index-product  // 首页产品
+  - navbar         // 导航条
+  - news           // 新闻
+- _includes        // 类似一个个组件，用{% include learn-more.html %}将组件插入页面中
+  - bottom         // 底部
+  - head           // 头部
+  - learn-more     // 了解更多（表单）
+  - navbar         // 导航条
+- _layouts         // 布局，模板
+  - default        // 默认模板
+- _site            // 一旦Jekyll完成转换，就会将生成的页面放在这里（默认）
 - index                      // 首页
 - tech                       // 产品技术
   - atd                      // 产品技术-ATD
@@ -53,7 +54,7 @@ $ jekyll serve         # 访问 http://127.0.0.1:4000/
 
 ## 部署测试
 
-本地分支需要有release-v2分支
+本地需要有release分支
 
 ```bash
 $ sh build.sh

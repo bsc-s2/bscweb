@@ -236,7 +236,7 @@
     margin: 0 auto 30px;
 }
 .index-product-title {
-    font-size: 32px;
+    font-size: 30px;
     margin-bottom: 20px;
 }
 .index-product-info {
@@ -268,9 +268,6 @@
 }
 
 @media(max-width: 768px) {
-    .index-product-title {
-        font-size: 30px;
-    }
     .index-product-info {
         font-size: 16px;
     }
@@ -287,12 +284,10 @@
     margin-top: 40px;
 }
 .index-solutions-title {
-    font-size: 36px;
-    margin-top: 60px;
+    margin: 60px 0 40px;
 }
 .index-solutions-info {
     font-size: 20px;
-    margin-top: 20px;
 }
 .index-solution {
     display: inline-block;
@@ -335,7 +330,7 @@
     background-image: url(/public/image/index/visit-data-bg.png);
     text-align: center;
     padding: 80px 10%;
-    font-size: 36px;
+    font-size: 32px;
     color: white;
     font-weight: 400;
 }
@@ -346,7 +341,7 @@
     padding: 80px 15%;
     background-color: #f4f7fa;
 }
-.customers h1 {
+.customers-title {
     text-align: center;
     margin-bottom: 60px;
 }

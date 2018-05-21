@@ -75,7 +75,7 @@ jQuery(document).ready(function () {
     })
     isValid && $.ajax({
       type: "POST",
-      url: 'https://hooks.slack.com/services/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',
+      url: 'https://hooks.slack.com/services/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',
       data: JSON.stringify({
         text: '#新客户！ ' + JSON.stringify($('.register-form').serializeObject())
       })

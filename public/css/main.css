@@ -545,12 +545,16 @@ a.copyright:hover {
 .news-source {
     margin-right: 12px;
 }
+.news-source img {
+    display: inline-block;
+}
 .news-title {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
     overflow: hidden;
     margin-right: 200px;
+    margin-bottom: 16px;
 }
 .news-brief {
     font-size: 16px;
@@ -602,8 +606,7 @@ a.copyright:hover {
         padding: 40px 40px;
     }
     .news-imgbox {
-        width: 0;
-        height: 0;
+        display: none;
     }
     .news-info {
         margin-left: 0;

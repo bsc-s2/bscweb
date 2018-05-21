@@ -432,6 +432,9 @@ img {
 .bottom-solution {
     margin-left: 14px;
 }
+.bottom-contact-way a {
+    display: inline-block;
+}
 .bottom-contact-way img {
     display: inline-block;
     margin-right: 16px;

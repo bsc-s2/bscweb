@@ -1,1 +1,17 @@
-<div>baishan-leaders</div>
+<div class="baishan-leaders">
+    {% assign leaders=site.data.baishan-leaders %}
+    {% for leader in leaders %}
+    <div class="leader-item">
+        <img class="leader-img" src="/public/image/more/{{leader.img}}">
+        <div class="leader-details">
+            <div class="leader-name">{{leader.name}}</div>
+            <div class="leader-job-title">{{leader.job-title}}</div>
+            <div class="leader-introduction">
+                {% for introduction in leader.introduction %}
+                <p>{{introduction.info}}</p>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

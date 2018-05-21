@@ -651,6 +651,7 @@ a.copyright:hover {
 }
 
 
+<<<<<<< HEAD
 /* careers */
 
 .job-container {
@@ -786,6 +787,8 @@ a.copyright:hover {
 }
 
 
+=======
+>>>>>>> add baishan leaders
 /* about-baishan */
 .about-baishan {
     padding: 80px;
@@ -838,3 +841,57 @@ a.copyright:hover {
 }
 
 
+/* baishan-leaders */
+.baishan-leaders {
+    padding: 80px;
+}
+.leader-item {
+    background-color: #f4f7fa;
+    min-height: 330px;
+    margin-top: 30px;
+}
+.leader-img {
+    margin: 45px;
+}
+.leader-details {
+    padding: 45px;
+}
+.leader-name {
+    color: #008df0;
+    font-size: 20px;
+}
+.leader-job-title {
+    color: #4a4a4a;
+    margin-bottom: 20px;
+}
+.leader-introduction p {
+    color: #6c7989;
+    line-height: 20px;
+}
+.baishan-leaders .leader-item:nth-child(odd) .leader-img {
+    float: left;
+}
+.baishan-leaders .leader-item:nth-child(even) .leader-img {
+    float: right;
+}
+@media(max-width: 992px) {
+    .baishan-leaders {
+        padding: 80px 0;
+    }
+}
+@media(max-width: 768px) {
+    .baishan-leaders {
+        padding: 80px 60px;
+    }
+}
+@media(max-width: 767px) {
+    .baishan-leaders {
+        padding: 50px 0 80px;
+    }
+    .baishan-leaders .leader-item:nth-child(even) .leader-img {
+        float: left;
+    }
+    .leader-name {
+        margin-top: 290px;
+    }
+}

@@ -1,1 +1,189 @@
-<div>join-baishan</div>
+<div class="job-container">
+    <ul id="myTabs" class="job-ul">
+        <li class="job-li active"><a href="#sh" class="job-a" data-toggle="tab">社会招聘</a></li>
+        <li class="job-li"><a href="#xy" class="job-a" data-toggle="tab">校园招聘</a></li>
+        <div class="clearfix"></div>
+    </ul>
+    <div class="tab-content">
+        <div class="clearfix tab-pane fade in active" id="sh">
+            {% assign ccs=site.data.careers-social %}
+            <div class="col-md-6 col-lg-4">
+                {% for cc in ccs %}
+                {% if cc.col == 1 %}
+                <div class="mar-b-20 pad0">
+                    <div class="job-title job-title-cn collapsed" data-toggle="collapse" data-target="#{{cc.id}}">
+                        <span class="color-2 fs16 job-p  job-p-sh pull-left">{{cc.jobTitle}}</span> 
+                        {% if cc.hot == "hot" %}
+                        <i class="hot pull-left"></i> 
+                        {% else if cc.hot == "new"%}
+                        <i class="new pull-left"></i> 
+                        {% endif %}
+                        <span class="pull-right fs16">{{cc.time}}</span>
+                        <div class="clearfix"></div>
+                        <div id="{{cc.id}}" class="collapse job-content job-content-cn color-1">
+                            <p class="p-joblocation">工作地点: {{cc.jobLocation}}</p>
+                            <p class="job-blue">岗位职责:</p>
+                            {% for ky in cc.keyResponsibilities %}
+                            <p>{{ky}}</p>
+                            {% endfor %}
+                            <p>&nbsp;</p>
+                            <p class="job-blue">任职要求：</p>
+                            {% for rq in cc.requiredQualifications %}
+                            <p>{{rq}}</p>
+                            {% endfor %}
+                            <p class="job-blue">简历发送邮箱：</p>
+                            <p>{{cc.email}}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %} 
+                {% endfor %}
+            </div>
+            <div class="col-md-6 col-lg-4">
+                {% for cc in ccs %} 
+                {% if cc.col == 2 %}
+                <div class="mar-b-20 pad0">
+                    <div class="job-title job-title-cn collapsed" data-toggle="collapse" data-target="#{{cc.id}}">
+                        <span class="color-2 fs16 job-p  job-p-sh pull-left">{{cc.jobTitle}}</span> 
+                        {% if cc.hot == "hot" %}
+                        <i class="hot pull-left"></i> 
+                        {% else if cc.hot == "new"%}
+                        <i class="new pull-left"></i> 
+                        {% endif %}
+                        <span class="pull-right fs16">{{cc.time}}</span>
+                        <div class="clearfix"></div>
+                        <div id="{{cc.id}}" class="collapse job-content job-content-cn color-1">
+                            <p class="p-joblocation">工作地点: {{cc.jobLocation}}</p>
+                            <p class="job-blue">岗位职责:</p>
+                            {% for ky in cc.keyResponsibilities %}
+                            <p>{{ky}}</p>
+                            {% endfor %}
+                            <p>&nbsp;</p>
+                            <p class="job-blue">任职要求：</p>
+                            {% for rq in cc.requiredQualifications %}
+                            <p>{{rq}}</p>
+                            {% endfor %}
+                            <p class="job-blue">简历发送邮箱：</p>
+                            <p>{{cc.email}}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+            <div class="col-md-6 col-lg-4">
+                {% for cc in ccs %} 
+                {% if cc.col == 3 %}
+                <div class="mar-b-20 pad0">
+                    <div class="job-title job-title-cn collapsed" data-toggle="collapse" data-target="#{{cc.id}}">
+                        <span class="color-2 fs16 job-p  job-p-sh pull-left">{{cc.jobTitle}}</span> 
+                        {% if cc.hot == "hot" %}
+                        <i class="hot pull-left"></i> 
+                        {% else if cc.hot == "new"%}
+                        <i class="new pull-left"></i> 
+                        {% endif %}
+                        <span class="pull-right fs16">{{cc.time}}</span>
+                        <div class="clearfix"></div>
+                        <div id="{{cc.id}}" class="collapse job-content job-content-cn color-1">
+                            <p class="p-joblocation">工作地点: {{cc.jobLocation}}</p>
+                            <p class="job-blue">岗位职责:</p>
+                            {% for ky in cc.keyResponsibilities %}
+                            <p>{{ky}}</p>
+                            {% endfor %}
+                            <p>&nbsp;</p>
+                            <p class="job-blue">任职要求：</p>
+                            {% for rq in cc.requiredQualifications %}
+                            <p>{{rq}}</p>
+                            {% endfor %}
+                            <p class="job-blue">简历发送邮箱：</p>
+                            <p>{{cc.email}}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %} 
+                {% endfor %}
+            </div>
+        </div>
+        <div class="clearfix tab-pane fade" id="xy">
+            {% assign cxys=site.data.careers-campus %}
+            <div class="col-md-6 col-lg-4">
+                {% for cxy in cxys %} 
+                {% if cxy.col == 1 %}
+                <div class="mar-b-20 pad0">
+                    <div class="job-title job-title-cn collapsed" data-toggle="collapse" data-target="#{{cxy.id}}">
+                        <span class="color-2 fs16 job-p job-p-campus pull-left">{{cxy.jobTitle}}</span>
+                        <span class="pull-right fs16">{{cxy.time}}</span>
+                        <div class="clearfix"></div>
+                        <div id="{{cxy.id}}" class="collapse job-content job-content-cn color-1">
+                            <p class="p-joblocation">工作地点: {{cxy.jobLocation}}</p>
+                            <p class="job-blue">岗位职责:</p>
+                            {% for ky in cxy.keyResponsibilities %}
+                            <p>{{ky}}</p>
+                            {% endfor %}
+                            <p>&nbsp;</p>
+                            <p class="job-blue">任职要求：</p>
+                            {% for rq in cxy.requiredQualifications %}
+                            <p>{{rq}}</p>
+                            {% endfor %}
+                            <div><a href="{{cxy.applicationURL}}" class="applicationURL">网申地址</a></div>
+                        </div>
+                    </div>
+                </div>
+                {% endif %} 
+                {% endfor %}
+            </div>
+            <div class="col-md-6 col-lg-4">
+                {% for cxy in cxys %} 
+                {% if cxy.col == 2 %}
+                <div class="mar-b-20 pad0">
+                    <div class="job-title job-title-cn collapsed" data-toggle="collapse" data-target="#{{cxy.id}}">
+                        <span class="color-2 fs16 job-p job-p-campus pull-left">{{cxy.jobTitle}}</span>
+                        <span class="pull-right fs16">{{cxy.time}}</span>
+                        <div class="clearfix"></div>
+                        <div id="{{cxy.id}}" class="collapse job-content job-content-cn color-1">
+                            <p class="p-joblocation">工作地点: {{cxy.jobLocation}}</p>
+                            <p class="job-blue">岗位职责:</p>
+                            {% for ky in cxy.keyResponsibilities %}
+                            <p>{{ky}}</p>
+                            {% endfor %}
+                            <p>&nbsp;</p>
+                            <p class="job-blue">任职要求：</p>
+                            {% for rq in cxy.requiredQualifications %}
+                            <p>{{rq}}</p>
+                            {% endfor %}
+                            <div><a href="{{cxy.applicationURL}}" class="applicationURL">网申地址</a></div>
+                        </div>
+                    </div>
+                </div>
+                {% endif %} 
+                {% endfor %}
+            </div>
+            <div class="col-md-6 col-lg-4">
+                {% for cxy in cxys %} 
+                {% if cxy.col == 3 %}
+                <div class="mar-b-20 pad0">
+                    <div class="job-title job-title-cn collapsed" data-toggle="collapse" data-target="#{{cxy.id}}">
+                        <span class="color-2 fs16 job-p job-p-campus pull-left">{{cxy.jobTitle}}</span>
+                        <span class="pull-right fs16">{{cxy.time}}</span>
+                        <div class="clearfix"></div>
+                        <div id="{{cxy.id}}" class="collapse job-content job-content-cn color-1">
+                            <p class="p-joblocation">工作地点: {{cxy.jobLocation}}</p>
+                            <p class="job-blue">岗位职责:</p>
+                            {% for ky in cxy.keyResponsibilities %}
+                            <p>{{ky}}</p>
+                            {% endfor %}
+                            <p>&nbsp;</p>
+                            <p class="job-blue">任职要求：</p>
+                            {% for rq in cxy.requiredQualifications %}
+                            <p>{{rq}}</p>
+                            {% endfor %}
+                            <div><a href="{{cxy.applicationURL}}" class="applicationURL">网申地址</a></div>
+                        </div>
+                    </div>
+                </div>
+                {% endif %} 
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

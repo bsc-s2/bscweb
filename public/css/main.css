@@ -881,3 +881,47 @@ a.copyright:hover {
         margin-top: 290px;
     }
 }
+/* contact */
+
+.contact-location-box {
+    color: #4a4a4a;
+    width: 100%;
+    margin: 0 auto 50px;
+}
+.location-title {
+    background: url(../image/contact/location.png) 0 center no-repeat;
+    padding: 10px 0 10px 41px;
+    font-size: 20px;
+    height: 48px;
+}
+.location-img img{
+    width: 100%;
+}
+.location-bottom {
+    background-color: #e1e7ee;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 10px;
+    height: 60px;
+}
+
+.contact-phone-wrap{
+    background-color: #f1f4f8;
+    color: #4a4a4a;
+    padding: 50px 0;
+}
+.contact-phone-box {
+    padding: 20px 0;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+.phone-title {
+    font-size: 20px;
+    margin: 20px 0 16px;
+}
+.phone-content {
+    font-size: 14px;
+    line-height: 20px;
+    
+}

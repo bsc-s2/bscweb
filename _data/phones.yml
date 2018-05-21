@@ -1,0 +1,19 @@
+- name: 销售咨询
+  phone: 400-178-8338 转 1
+  mail: support@baishancloud.com
+- name: 技术咨询
+  phone: 400-178-8338 转 2
+  mail: techs@baishancloud.com
+- name: 投资关系
+  phone: 400-178-8338 转 6
+  mail: ir@baishancloud.com
+- name: 市场合作
+  phone: 400-178-8338 转 3
+  mail: market@baishancloud.com
+- name: 媒体关系
+  phone: 400-178-8338 转 5
+  mail: pr@baishancloud.com
+- name: 企业HR
+  phone: 400-178-8338 转 4
+  mail: hr@baishancloud.com
+

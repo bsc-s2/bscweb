@@ -1,1 +1,29 @@
-<div>contact-us</div>
+<div class="clearfix" >
+    {% assign offices=site.data.offices %}
+    {% for office in offices %}
+    <div class="col-md-6 col-lg-4 ">
+        <div class="contact-location-box">
+            <div class="location-title">{{office.name}}</div>
+            <div class="location-img">
+                <img src="{{ site.baseurl }}/public/image/contact/{{office.imgName}}" alt="">
+            </div>
+            <div class="location-bottom">{{office.addr}}</div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<div class="clearfix contact-phone-wrap" >
+    {% assign phones=site.data.phones %}
+    {% for phone in phones %}
+    <div class="col-md-6 col-lg-4 ">
+        <div class="contact-phone-box">
+            <div class="phone-title">{{phone.name}}</div>
+            <div class="phone-content">
+                <p>{{phone.phone}}</p>
+                <p>{{phone.mail}}</p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+

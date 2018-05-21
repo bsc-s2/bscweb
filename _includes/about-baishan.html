@@ -1,1 +1,16 @@
-<div>about-baishan</div>
+<div class="about-baishan">
+    <div class="company-introduction">
+        <div class="about-baishan-title">公司介绍</div>
+        <p>白山云科技有限公司（简称“白山”）是中国首家云链服务提供商，为客户提供高效数据内容应用与交换的定制化服务。</p>
+        <p>白山率先在国内引入云链服务（CCX），包括云分发、云存储、云聚合。其核心是建立数据的连接，基于客户对数据内容的高速传输、冷热存储、应用整合需求，为数据的传输、存储、消费和治理提供全生命周期服务。</p>
+        <p>自2015年4月成立以来，白山以云分发为切入点，在云服务市场上迅速崛起，首款云分发产品CDN-X引领行业创新。2016年6月，白山发布云存储CWN-X，作为云链第二款产品，其分级式对象存储，专注于热数据的存储及存储间的数据转移，广受市场好评。 2017年5月，白山推出云聚合CLN-X，抢先布局云后市场，与CDN-X、CWN-X共同构成云链服务体系，助力经济数字化转型。</p>
+        <p>2016年3月，白山美国公司成立，以此为战略支点，辐射全球市场。目前，白山服务于微软、央视、小米、美团、中船重工、国美金融等四百余家行业领先客户。</p>
+    </div>
+    <div class="baishan-course">
+        <div class="about-baishan-title">白山历程</div>
+        {% assign courses=site.data.baishan-course %}
+        {% for course in courses %}
+        <div class="course-item"><img class="course-img" src="/public/image/more/{{{course.img}}"><span class="course-text">{{course.text}}</span></div>
+        {% endfor %}
+    </div>
+</div>

@@ -628,7 +628,7 @@ a.copyright:hover {
 
 /* more */
 .more-banner {
-    height: 450px;
+    height: 300px;
     text-align: center;
     color: #fff;
     background: url(/public/image/more/about.png) center no-repeat;
@@ -636,7 +636,7 @@ a.copyright:hover {
 }
 .about-more-tabs-bar {
     position: absolute;
-    top: 410px;
+    top: 260px;
     background-color: rgba(0, 0, 0, 0.15);
     width: 100%;
     height: 40px;
@@ -645,6 +645,9 @@ a.copyright:hover {
     padding: 0 15%;
     position: relative;
     top: -40px;
+}
+.about-more-tabs .nav > li > a {
+    padding: 10px 0;
 }
 
 
@@ -781,4 +784,57 @@ a.copyright:hover {
 .new {
     background: url(../image/icon-new.png) no-repeat;
 }
+
+
+/* about-baishan */
+.about-baishan {
+    padding: 80px;
+    color: #4a4a4a;
+}
+.about-baishan-title {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.about-baishan p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.company-introduction {
+    margin-bottom: 80px;
+}
+.course-item {
+    height: 32px;
+}
+.course-img {
+    float: left;
+    height: 32px;
+    width: 32px;
+    margin-right: 20px;
+}
+@media(max-width: 992px) {
+    .about-baishan {
+        padding: 80px 0;
+    }
+}
+@media(max-width: 768px) {
+    .about-more-tabs {
+        padding: 0;
+    }
+    .about-baishan {
+        padding: 80px 60px;
+    }
+}
+@media(max-width: 767px) {
+    .course-img {
+        display: none;
+    }
+    .course-item {
+        height: auto;
+    }
+    span.course-text {
+        display: inline-block;
+        margin-bottom: 16px;
+    }
+}
+
 

@@ -294,17 +294,6 @@
 }
 
 
-/* index-click-num */
-.click-num {
-    background-image: url(/public/image/index/visit-data-bg.png);
-    text-align: center;
-    padding: 80px 10%;
-    font-size: 32px;
-    color: white;
-    font-weight: 400;
-}
-
-
 /* index-customers */
 .customers {
     padding: 80px 15%;

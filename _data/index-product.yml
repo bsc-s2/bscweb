@@ -22,7 +22,7 @@
 - url: tech/cwn
   title: 云存储
   img: test.png
-  info: WEB深度威胁识别，AI安全突破式应用
+  info: 倡导冷热分级存储，GB级文件高速传输
   info-hover: 分级式存储网络，专注于热数据存储以及存储间的数据转移。该网络基于数据温度区分数据存储方式，帮助企业大幅度提高公有云存储使用效率。利用存储节点边缘化加速数据访问；3大骨干节点对等多活，保证数据99.99%的高可用性以及13个9的高可靠性。
   class: index-product index-product-cwn
   class-hover: index-product-hover index-product-cwn-hover

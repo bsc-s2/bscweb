@@ -929,3 +929,44 @@ a.copyright:hover {
     line-height: 20px;
     
 }
+
+@media(min-width: 860px) {
+  .navbar-button {
+    border: 1px solid #ddd;
+    padding: 2px 10px !important;
+    border-radius: 4px;
+    margin-top: 12px;
+    margin-left: 10px;
+  }
+
+  .navbar-default .navbar-nav > li.language {
+    margin-left: 20px;
+  }
+}
+
+@media(max-width: 860px) {
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        position: absolute;
+        top: 50px;
+        right: 0;
+        background-color: #33333c;
+        border: none;
+        width: 200px;
+        max-height: 667px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        color: #aaa;
+    }
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+        border-bottom: 0;
+        color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #567fee;
+    }
+    .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        color: #eee;
+        background-color: #33333c;
+    }
+}
+

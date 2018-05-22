@@ -1,3 +1,4 @@
+/* banner */
 .technology-banner {
     height: 450px;
     text-align: center;
@@ -10,87 +11,85 @@
     letter-spacing: 10px;
 }
 .technology-banner-info p {
-    font-size: 18px;
+    font-size: 16px;
+    line-height: 30px;
     margin-top: 30px;
 }
 
 .cdn-banner {
-    background: url(/zh/public/image/index/product_CDN.png) center no-repeat;
-    background-size: 100% 100%;
+    background: url(/public/image/index/product-cdn.png) center no-repeat;
+    background-size: cover;
 }
 .cwn-banner {
-    background: url(/zh/public/image/index/product_CWN.png) center no-repeat;
-    background-size: 100% 100%;
+    background: url(/public/image/index/product-cwn.png) center no-repeat;
+    background-size: cover;
 }
 .atd-banner {
-    background: url(/zh/public/image/index/product_ATD.png) center no-repeat;
-    background-size: 100% 100%;
+    background: url(/public/image/index/product-atd.png) center no-repeat;
+    background-size: cover;
 }
 .shujufengchao-banner {
-    background: url(/zh/public/image/index/product_蜂巢.png) center no-repeat;
-    background-size: 100% 100%;
+    background: url(/public/image/index/product-fengchao.png) center no-repeat;
+    background-size: cover;
 }
 
-.cdn-technology.container {
+
+/* technology & advantage */
+.product-technology,
+.product-technology-advantage {
     text-align: center;
     padding: 80px 15%;
 }
-.cdn-technology-title {
-    margin-bottom: 80px;
+.product-technology-advantage {
+    background-color: #f4f7fa;
 }
-.cdn-technology-item {
-    padding: 0 4%;
+.product-technology-item,
+.product-technology-advantage-item {
+    padding: 0 20px;
+    margin-top: 60px;
+    height: 320px;
 }
-.cdn-technology-item img {
-    margin: 0 auto 40px;
+.product-technology-item img {
+    margin: 0 auto 20px;
+    height: 110px;
 }
-.cdn-technology-item-title {
+.product-technology-item-title {
     font-size: 20px;
     font-weight: 400;
 }
-.cdn-technology-item-info {
+.product-technology-item-info {
     font-size: 16px;
+}
+.product-technology-item-info.first-item-info {
     margin-top: 20px;
 }
 
-.product-technology-advantage.container {
-    text-align: center;
-    padding: 80px 15%;
-    background-color: #f4f7fa;
-}
-.product-technology-advantage-title {
-    margin-bottom: 100px;
-}
-.product-technology-advantage-item {
-    padding: 0 4%;
-}
-.product-technology-advantage-item-imgbox {
-    height: 150px;
-}
 .product-technology-advantage-item img {
     margin: 0 auto;
+    height: 100px;
 }
 .product-technology-advantage-item-title {
     font-size: 20px;
     font-weight: 400;
-    margin: 60px 0 20px;
+    margin: 40px 0 20px;
 }
 .product-technology-advantage-item-info {
     font-size: 16px;
 }
 
-.cdn-network-resource.container {
-    text-align: center;
+
+/* structure */
+.technology-structure {
     padding: 80px 20%;
+    text-align: center;
 }
-.cdn-network-resource img {
-    margin: 40px 0;
-}
-.cdn-network-resource p {
-    font-size: 16px;
+.technology-structure-img {
+    margin: 60px auto;
 }
 
-.relative-product.container {
+
+/* relative product */
+.relative-product {
     text-align: center;
     padding: 80px 15%;
     background-color: #f4f7fa;
@@ -143,35 +142,20 @@
 }
 
 
-.technology-structure {
-    padding: 80px 20%;
-    text-align: center;
-}
-.technology-structure-img {
-    margin: 60px 0;
-}
-
-.atd-technology.container {
-    text-align: center;
-    padding: 80px 25%;
-}
-.atd-technology-title {
-    margin-bottom: 80px;
-}
-.atd-technology-item {
-    padding: 0 4%;
-}
-.atd-technology-item img {
-    margin: 0 auto 20px;
-    width: 240px;
-}
-.atd-technology-item-title {
-    font-size: 20px;
-    font-weight: 400;
-}
-.atd-technology-item-info {
-    font-size: 16px;
-}
-.atd-technology-item-info.first-item-info {
-    margin-top: 20px;
+@media(max-width: 767px) {
+    .technology-banner-info {
+        padding: 120px 10%;
+    }
+    .product-technology,
+    .product-technology-advantage,
+    .technology-structure {
+        text-align: center;
+        padding: 80px 10%;
+    }
+    .relative-product-cdn,
+    .relative-product-cwn,
+    .relative-product-shujufengchao,
+    .relative-product-atd {
+        height: 100px;
+    }
 }

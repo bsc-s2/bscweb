@@ -1,114 +1,130 @@
+/* 8 solutions */
+
 .solution-item-banner {
     height: 450px;
     color: #fff;
 }
 .solution-item-banner-info {
-    padding: 160px 40% 0 20%;
+    padding: 160px 45% 0 20%;
 }
 .solution-item-banner-info p {
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 30px;
     line-height: 30px;
 }
 
 .qiyeshuzihua-banner {
-    background: url(/zh/public/image/solution/头图-企业数字化转型解决方案.png) center no-repeat;
-    background-size: 100% 100%;
-}
-.hangkonganquan-banner {
-    background: url(/zh/public/image/solution/头图-航空行业业务安全.png) center no-repeat;
-    background-size: 100% 100%;
-}
-.hulianwangjinrong-banner {
-    background: url(/zh/public/image/solution/头图-互联网金融.png) center no-repeat;
+    background: url(/public/image/solution/header-corporate-digitization.png) center no-repeat;
     background-size: 100% 100%;
 }
 .xinxingzhengwu-banner {
-    background: url(/zh/public/image/solution/头图-新型政务数据共享交换解决方案.png) center no-repeat;
+    background: url(/public/image/solution/header-new-government-affairs.png) center no-repeat;
+    background-size: 100% 100%;
+}
+.hulianwangjinrong-banner {
+    background: url(/public/image/solution/header-internet-banking.png) center no-repeat;
+    background-size: 100% 100%;
+}
+.hangkonganquan-banner {
+    background: url(/public/image/solution/header-aviation-safety.png) center no-repeat;
     background-size: 100% 100%;
 }
 .youxihangye-banner {
-    background: url(/zh/public/image/solution/头图-游戏业务.png) center no-repeat;
-    background-size: 100% 100%;
-}
-.zaixianjiaoyu-banner {
-    background: url(/zh/public/image/solution/头图-在线教育.png) center no-repeat;
-    background-size: 100% 100%;
-}
-.zhengfuyewu-banner {
-    background: url(/zh/public/image/solution/头图-政府业务安全.png) center no-repeat;
+    background: url(/public/image/solution/header-game-safety.png) center no-repeat;
     background-size: 100% 100%;
 }
 .zixunxinxi-banner {
-    background: url(/zh/public/image/solution/头图-资讯信息业务.png) center no-repeat;
+    background: url(/public/image/solution/header-information-security.png) center no-repeat;
+    background-size: 100% 100%;
+}
+.zhengfuyewu-banner {
+    background: url(/public/image/solution/header-government-security.png) center no-repeat;
+    background-size: 100% 100%;
+}
+.zaixianjiaoyu-banner {
+    background: url(/public/image/solution/header-online-education.png) center no-repeat;
     background-size: 100% 100%;
 }
 
-.solution-item-introduction {
+.solution-item-introduction,
+.solution-item-pain-points,
+.solution-item-structure,
+.solution-item-applicable {
     padding: 80px 20%;
-}
-.solution-item-introduction h2 {
-    margin-bottom: 40px;
-    text-align: center;
-}
-.solution-item-introduction p {
     font-size: 16px;
 }
-
-.solution-item-pain-points {
-    background-color: #f4f7fa;
-    padding: 60px 20%;
-}
-.solution-item-pain-points h2 {
-    margin-bottom: 40px;
-    text-align: center;
-}
-
-.pain-points div div {
-    background-color: #fff;
-    padding: 40px;
-    text-align: center;
-    font-size: 16px;
-    margin-bottom: 30px;
-}
-
-.solution-item-advantage {
-    padding: 60px 30%;
-}
-.solution-item-advantage h2 {
-    margin-bottom: 40px;
-    text-align: center;
-}
-.solution-item-advantage p {
-    font-size: 16px;
-}
-
+.solution-item-pain-points,
 .solution-item-structure {
     background-color: #f4f7fa;
-    padding: 60px 20%;
+}
+.solution-item-advantage {
+    padding: 80px 30%;
+    font-size: 16px;
+}
+.solution-item-introduction h2,
+.solution-item-pain-points h2,
+.solution-item-advantage h2,
+.solution-item-applicable h2 {
+    margin-bottom: 60px;
+    text-align: center;
 }
 .solution-item-structure h2 {
     margin-bottom: 40px;
     text-align: center;
 }
+
+.pain-points div div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+    height: 100px;
+}
 .solution-item-structure img {
     margin: auto;
 }
-
-.solution-item-applicable {
-    padding: 60px 20%;
-}
-.solution-item-applicable h2 {
-    margin-bottom: 40px;
-    text-align: center;
-}
 .solution-item-applicable div {
-    font-size: 16px;
     background-color: #f4f7fa;
     margin-bottom: 20px;
     padding: 20px 40px;
 }
 
-.solution-register {
-    background-color: #f4f7fa;
+@media(max-width: 768px) {
+    .solution-item-banner-info {
+        padding: 140px 45% 0 15%;
+    }
+    .solution-item-banner-info h1 {
+        font-size: 30px;
+    }
+    .solution-item-introduction,
+    .solution-item-pain-points {
+        padding: 80px 15%;
+    }
+    .solution-item-advantage {
+        padding: 80px 20%;
+    }
+}
+@media(max-width: 767px) {
+    .solution-item-banner-info {
+        padding: 140px 40px 0;
+    }
+    .solution-item-banner-info h1 {
+        font-size: 28px;
+    }
+    .solution-item-banner-info p {
+        font-size: 14px;
+    }
+    .solution-item-introduction,
+    .solution-item-pain-points,
+    .solution-item-advantage,
+    .solution-item-applicable {
+        padding: 80px 40px;
+        font-size: 14px;
+    }
+    .solution-item-structure {
+        padding: 80px 30px;
+    }
 }

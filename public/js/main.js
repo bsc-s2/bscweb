@@ -50,6 +50,16 @@ jQuery(document).ready(function () {
     };
   });
 
+  // navbar convert click to hover
+  if($(document).width()>=880) {
+    $(".navbar-default .navbar-nav > li").mouseenter(function(){
+      $(this).children("ul").show();
+    })
+    $(".navbar-default .navbar-nav > li").mouseleave(function(){
+      $(this).children("ul").hide();
+    })
+  }
+
   // register
   $(".register-sumbit-button").click(function () {
     var inputList = $(".form-control") || [];

@@ -1,7 +1,7 @@
 - title: 首页
   url: /
 - title: 产品技术
-  url: /tech
+  url: /tech/cdn
   sublinks:
     - title: CDN-X
       url: /tech
@@ -16,6 +16,7 @@
   sublinks:
     - title: 总览
       url: /solution
+      visible-xs: true
     - title: 企业数字化转型
       url: /solution/corporate-digitization
     - title: 新型政务数据共享交换

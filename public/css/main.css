@@ -35,6 +35,26 @@
 .navbar-with-background {
     background: #33333c;
 }
+.nav > li > a.navbar-md {
+    display: none;
+}
+.nav > li > a.navbar-xs {
+    display: block;
+}
+.dropdown-menu > li > a.navbar-item-xs {
+    display: block;
+}
+@media (min-width: 880px) {
+    .nav > li > a.navbar-md {
+        display: block;
+    }
+    .nav > li > a.navbar-xs {
+        display: none;
+    }
+    .dropdown-menu > li > a.navbar-item-xs {
+        display: none;
+    }
+}
 
 /* index-banner carousel */
 .img-responsive, .thumbnail > img.banner-img, .thumbnail a > img.banner-img, .carousel-inner > .item > img.banner-img, .carousel-inner > .item > a > img.banner-img {

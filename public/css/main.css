@@ -1008,6 +1008,10 @@ a.copyright:hover {
     margin-top: 12px;
     margin-left: 10px;
   }
+  #login:hover {
+    background-color: #fff;
+    color: #666;
+  }
 
   .navbar-default .navbar-nav > li.language {
     margin-left: 20px;

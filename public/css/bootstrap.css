@@ -4520,7 +4520,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #fff;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #d9d9d9;
+  color: rgba(255,255,255,0.5);
   font-weight: 500;
 }
 .navbar-default .navbar-nav > li > a:hover,

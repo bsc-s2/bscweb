@@ -83,7 +83,8 @@
     margin-bottom: 30px;
     height: 100px;
 }
-.solution-item-structure img {
+.solution-item-structure img,
+.solution-item-applicable img {
     margin: auto;
 }
 .solution-item-applicable div {

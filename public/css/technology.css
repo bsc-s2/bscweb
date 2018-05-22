@@ -56,9 +56,11 @@
 .product-technology-item-title {
     font-size: 20px;
     font-weight: 400;
+    white-space: nowrap;
 }
 .product-technology-item-info {
     font-size: 16px;
+    white-space: nowrap;
 }
 .product-technology-item-info.first-item-info {
     margin-top: 20px;
@@ -72,9 +74,11 @@
     font-size: 20px;
     font-weight: 400;
     margin: 40px 0 20px;
+    white-space: nowrap;
 }
 .product-technology-advantage-item-info {
     font-size: 16px;
+    white-space: nowrap;
 }
 
 

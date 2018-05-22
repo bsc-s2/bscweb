@@ -109,7 +109,7 @@
 .video-sub-box {
     width: 70%;
     height: 80%;
-    margin: auto;
+    margin: 100px auto;
     text-align: center;
 }
 .video-close {
@@ -273,7 +273,6 @@
     opacity: 1;
 }
 
-
 @media(max-width: 768px) {
     .index-product-info {
         font-size: 16px;
@@ -311,7 +310,20 @@
     margin: 0 auto;
     height: 119px;
 }
-
+.solutions-carousel-control {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 15%;
+}
+.solutions-carousel-control.right {
+    right: 0;
+    left: auto;
+}
+.solutions-glyphicon {
+    margin-top: 330px;
+}
 @media(max-width: 1200px) {
     .carousel-solution {
         padding: 40px 10% 80px;

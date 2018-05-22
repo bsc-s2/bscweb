@@ -60,6 +60,7 @@
 .img-responsive, .thumbnail > img.banner-img, .thumbnail a > img.banner-img, .carousel-inner > .item > img.banner-img, .carousel-inner > .item > a > img.banner-img {
     height: 684px;
     width: 100%;
+    object-fit:cover;
 }
 .carousel-caption {
     text-shadow: none;

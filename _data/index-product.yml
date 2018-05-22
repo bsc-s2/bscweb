@@ -1,5 +1,5 @@
 - url: tech/index
-  title: 云分发
+  title: CDN-X
   img: cdn.png
   img-bg: product-cdn-bg.png
   info: 乐高式松耦合架构，全透明定制化服务
@@ -23,7 +23,7 @@
   wrap-class: index-product-wrap-atd
   box-class: index-product-box-atd
 - url: tech/cwn
-  title: 云存储
+  title: CWN-X
   img: cwn.png
   img-bg: product-cwn-bg.png
   info: 倡导冷热分级存储，GB级文件高速传输

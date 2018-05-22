@@ -129,7 +129,8 @@
     border: none;
 }
 .video-content {
-    height: 75%;
+    width: 75%;
+    min-width: 260px;
     margin: auto;
 }
 .banner-3 {
@@ -161,7 +162,7 @@
         right: 30px;
     }
     .carousel-caption.banner-3 {
-        left: 5%;
+        left: 60px;
     }
     .banner-1-title,
     .banner-2-title,

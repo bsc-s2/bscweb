@@ -1,11 +1,11 @@
 /* banner */
 .technology-banner {
-    height: 450px;
+    height: 384px;
     text-align: center;
     color: #fff;
 }
 .technology-banner-info {
-    padding: 160px 20%;
+    padding: 120px 20%;
 }
 .technology-banner-info h1 {
     letter-spacing: 10px;
@@ -144,7 +144,7 @@
 
 @media(max-width: 767px) {
     .technology-banner-info {
-        padding: 120px 10%;
+        padding: 90px 10%;
     }
     .product-technology,
     .product-technology-advantage,

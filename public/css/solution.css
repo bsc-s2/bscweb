@@ -1,49 +1,49 @@
 /* 8 solutions */
 
 .solution-item-banner {
-    height: 450px;
+    height: 280px;
     color: #fff;
 }
 .solution-item-banner-info {
-    padding: 160px 45% 0 20%;
+    padding: 80px 45% 0 20%;
 }
 .solution-item-banner-info p {
     font-size: 16px;
-    margin-top: 30px;
+    margin-top: 20px;
     line-height: 30px;
 }
 
 .qiyeshuzihua-banner {
     background: url(/public/image/solution/header-corporate-digitization.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .xinxingzhengwu-banner {
     background: url(/public/image/solution/header-new-government-affairs.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .hulianwangjinrong-banner {
     background: url(/public/image/solution/header-internet-banking.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .hangkonganquan-banner {
     background: url(/public/image/solution/header-aviation-safety.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .youxihangye-banner {
     background: url(/public/image/solution/header-game-safety.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .zixunxinxi-banner {
     background: url(/public/image/solution/header-information-security.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .zhengfuyewu-banner {
     background: url(/public/image/solution/header-government-security.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .zaixianjiaoyu-banner {
     background: url(/public/image/solution/header-online-education.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 .solution-item-introduction,
@@ -93,24 +93,15 @@
     padding: 20px 40px;
 }
 
-@media(max-width: 768px) {
-    .solution-item-banner-info {
-        padding: 140px 45% 0 15%;
-    }
+@media(max-width: 1200px) {
     .solution-item-banner-info h1 {
-        font-size: 30px;
-    }
-    .solution-item-introduction,
-    .solution-item-pain-points {
-        padding: 80px 15%;
-    }
-    .solution-item-advantage {
-        padding: 80px 20%;
+        font-size: 32px;
+        white-space: nowrap;
     }
 }
 @media(max-width: 767px) {
     .solution-item-banner-info {
-        padding: 140px 40px 0;
+        padding: 80px 40px 0;
     }
     .solution-item-banner-info h1 {
         font-size: 28px;

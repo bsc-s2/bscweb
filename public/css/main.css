@@ -499,7 +499,7 @@ a.copyright:hover {
 
 /* solution */
 .solution-banner {
-    height: 450px;
+    height: 380px;
     text-align: center;
     color: #fff;
     background: url(/public/image/solution/solution.png) center no-repeat;
@@ -509,7 +509,7 @@ a.copyright:hover {
     letter-spacing: 10px;
 }
 .solution-banner-info {
-    padding: 160px 20%;
+    padding: 120px 20%;
 }
 .solution-banner-info p {
     font-size: 16px;
@@ -546,7 +546,7 @@ a.copyright:hover {
     padding: 60px 15% ;
 }
 .news-banner {
-    height: 450px;
+    height: 320px;
     text-align: center;
     color: #fff;
     background: url(/public/image/news/news-banner.png) center no-repeat;
@@ -556,7 +556,7 @@ a.copyright:hover {
     letter-spacing: 10px;
 }
 .news-banner-info {
-    padding: 160px 20%;
+    padding: 120px 20%;
 }
 .news-banner-info p {
     font-size: 16px;
@@ -669,7 +669,7 @@ a.copyright:hover {
 .about-more-tabs-bar {
     position: absolute;
     top: 260px;
-    background-color: rgba(0, 0, 0, 0.15);
+    background-color: rgba(0, 0, 0, 0.3);
     width: 100%;
     height: 40px;
 }

@@ -29,6 +29,20 @@ jQuery(document).ready(function () {
     ga('send', 'event', 'Videos', 'close', 'Product film', parseInt(myVideo.currentTime));
   })
 
+    // video show & close
+    $('#videoTrigger100').click(function (event) {
+      event.stopPropagation();
+      $("#videoBox100").css('display', 'block');
+      $('#indexVideo100')[0].play();
+      ga('send', 'event', 'Videos100', 'play', 'Product film');
+    });
+    $('#videoClose100').click(function () {
+      $('#indexVideo100')[0].pause();
+      $("#videoBox100").css('display', 'none');
+      var myVideo = document.getElementById("indexVideo100");
+      ga('send', 'event', 'Videos100', 'close', 'Product film', parseInt(myVideo.currentTime));
+    })
+
   /* login analytics */
   $('#login').click(function(event) {
     ga('send', 'event', 'Login');
@@ -49,6 +63,16 @@ jQuery(document).ready(function () {
       $(".navbar").removeClass('navbar-with-background');
     };
   });
+
+  // navbar convert click to hover
+  if($(document).width()>=880) {
+    $(".navbar-default .navbar-nav > li").mouseenter(function(){
+      $(this).children("ul").show();
+    })
+    $(".navbar-default .navbar-nav > li").mouseleave(function(){
+      $(this).children("ul").hide();
+    })
+  }
 
   // register
   $(".register-sumbit-button").click(function () {

@@ -624,6 +624,7 @@ a.copyright:hover {
     }
 }
 
+
 /* more */
 .more-banner {
     height: 300px;
@@ -640,22 +641,24 @@ a.copyright:hover {
     height: 40px;
 }
 .about-more-tabs {
-    padding: 0 15%;
     position: relative;
     top: -40px;
 }
+.about-more-tabs .nav > li {
+    width: 18%;
+}
+.about-more-tabs .nav > li:first-child {
+    margin-left: 14%;
+}
+
 .about-more-tabs .nav > li > a {
     padding: 10px 0;
 }
 
 
 /* careers */
-
 .job-container {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+    padding: 40px 14%;
 }
 .job-ul {
     margin-bottom: 40px;
@@ -751,11 +754,6 @@ a.copyright:hover {
     width: -webkit-calc(95% - 70px);
 }
 @media (min-width:768px) {
-    .job-container {
-        height: 100%;
-        min-height: 500px;
-        margin: 0 auto;
-    }
     .job-a {
         line-height: 100px;
     }
@@ -766,6 +764,9 @@ a.copyright:hover {
     }
 }
 @media (max-width:767px) {
+    .job-container {
+        padding: 10px 50px;
+    }
     .job-a {
         line-height: 60px;
     }
@@ -786,7 +787,7 @@ a.copyright:hover {
 
 /* about-baishan */
 .about-baishan {
-    padding: 80px;
+    padding: 0 14%;
     color: #4a4a4a;
 }
 .about-baishan-title {
@@ -797,8 +798,9 @@ a.copyright:hover {
     font-size: 14px;
     line-height: 26px;
 }
-.company-introduction {
-    margin-bottom: 80px;
+.company-introduction,
+.baishan-course {
+    margin: 80px;
 }
 .course-item {
     height: 32px;
@@ -811,15 +813,15 @@ a.copyright:hover {
 }
 @media(max-width: 992px) {
     .about-baishan {
-        padding: 80px 0;
+        padding: 0;
     }
 }
 @media(max-width: 768px) {
-    .about-more-tabs {
-        padding: 0;
+    .about-more-tabs .nav > li {
+        width: 25%;
     }
-    .about-baishan {
-        padding: 80px 60px;
+    .about-more-tabs .nav > li:first-child {
+        margin-left: 0;
     }
 }
 @media(max-width: 767px) {
@@ -833,17 +835,21 @@ a.copyright:hover {
         display: inline-block;
         margin-bottom: 16px;
     }
+    .company-introduction,
+    .baishan-course {
+        margin: 50px;
+    }
 }
 
 
 /* baishan-leaders */
 .baishan-leaders {
-    padding: 80px;
+    padding: 80px 14%;
 }
 .leader-item {
     background-color: #f4f7fa;
     min-height: 330px;
-    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .leader-img {
     margin: 45px;
@@ -871,7 +877,7 @@ a.copyright:hover {
 }
 @media(max-width: 992px) {
     .baishan-leaders {
-        padding: 80px 0;
+        padding: 80px;
     }
 }
 @media(max-width: 768px) {
@@ -881,17 +887,27 @@ a.copyright:hover {
 }
 @media(max-width: 767px) {
     .baishan-leaders {
-        padding: 50px 0 80px;
+        padding: 50px 30px;
     }
     .baishan-leaders .leader-item:nth-child(even) .leader-img {
         float: left;
     }
     .leader-name {
-        margin-top: 290px;
+        margin-top: 270px;
+    }
+    .leader-img {
+        margin: 30px 0 0 30px;
+    }
+    .leader-details {
+        padding: 30px;
     }
 }
-/* contact */
 
+
+/* contact-us */
+.contact-location {
+    padding: 80px 14% 0;
+}
 .contact-location-box {
     color: #4a4a4a;
     width: 100%;
@@ -917,7 +933,9 @@ a.copyright:hover {
 .contact-phone-wrap{
     background-color: #f1f4f8;
     color: #4a4a4a;
-    padding: 50px 0;
+    padding: 80px 14% 60px;
+    position: relative;
+    top: 40px;
 }
 .contact-phone-box {
     padding: 20px 0;
@@ -932,9 +950,15 @@ a.copyright:hover {
 .phone-content {
     font-size: 14px;
     line-height: 20px;
-    
+}
+@media(max-width: 767px) {
+    .contact-location {
+        padding: 50px 30px 0;
+    }
 }
 
+
+/* navbar */
 @media(min-width: 860px) {
   .navbar-button {
     border: 1px solid #ddd;

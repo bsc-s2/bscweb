@@ -81,14 +81,17 @@
     height: 12px;
     border-radius: 6px;
 }
+.index-banner {
+    display: block;
+}
 .banner-1 {
     position: absolute;
-    top: 150px;
+    top: 200px;
 }
 .banner-1-title {
     font-size: 48px;
     color: #030911;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     letter-spacing: 10px;
 }
 .banner-1-info {
@@ -97,7 +100,7 @@
 }
 .banner-2 {
     position: absolute;
-    top: 320px;
+    top: 330px;
     color: #fff;
 }
 .banner-2-title {
@@ -111,6 +114,10 @@
 .video-triger {
     cursor: pointer;
     margin-top: 50px;
+}
+.video-triger img {
+    width: 26px;
+    height: 26px;
 }
 .video-box {
     position: absolute;

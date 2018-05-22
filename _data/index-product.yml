@@ -1,6 +1,7 @@
 - url: tech/index
   title: 云分发
   img: cdn.png
+  img-bg: product-cdn-bg.png
   info: 乐高式松耦合架构，全透明定制化服务
   info-hover: 创新的云分发平台，指数级提升内容分发性能与服务效率。应用内容更新、大文件同步、视频点播直播和网络负载均衡四大技术均取得速度和稳定性突破；松耦合架构为客户提供全透明和定制化的服务，满足客户多样性需求。
   wrap-class: index-product-wrap-cdn
@@ -8,6 +9,7 @@
 - url: tech/fengchao
   title: 数聚蜂巢
   img: fengchao.png
+  img-bg: product-fengchao-bg.png
   info: 打破数据孤岛，重构数据价值
   info-hover: 数据融合赋能平台，以数据链接为切入点，提供应用、数据、设备的跨界连接服务，解决现存应用数据接口少、数据标准不统一等“数据孤岛”问题，实现混合云环境下的应用更敏捷、更安全地相互集成、协作。
   wrap-class: index-product-wrap-fengchao
@@ -15,6 +17,7 @@
 - url: tech/atd
   title: ATD
   img: atd.png
+  img-bg: product-atd-bg.png
   info: WEB深度威胁识别，AI安全突破式应用
   info-hover: 识别传统安全产品无法分析的深层次业务威胁，如僵尸网络、低频爬虫、恶意刷单刷票、薅羊毛等，保证业务的健康运行。
   wrap-class: index-product-wrap-atd
@@ -22,6 +25,7 @@
 - url: tech/cwn
   title: 云存储
   img: cwn.png
+  img-bg: product-cwn-bg.png
   info: 倡导冷热分级存储，GB级文件高速传输
   info-hover: 分级式存储网络，专注于热数据存储以及存储间的数据转移。该网络基于数据温度区分数据存储方式，帮助企业大幅度提高公有云存储使用效率。利用存储节点边缘化加速数据访问，3大骨干节点对等多活，保证数据99.99%的高可用性以及13个9的高可靠性。
   wrap-class: index-product-wrap-cwn

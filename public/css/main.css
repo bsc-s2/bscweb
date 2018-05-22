@@ -197,40 +197,32 @@
     color: #fff;
 }
 .index-product-wrap {
-    height: 320px;
+    height: 300px;
     position: relative;
     text-align: center;
-    transition: background-size 1s ease-out;
-    -moz-transition-property: background-size 1s ease-out; /* Firefox 4 */
-    -webkit-transition-property: background-size 1s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: background-size 1s ease-out;
     overflow: hidden;
-    background-size: auto 320px;
 }
-.index-product-wrap-cdn {
-    background: url(/public/image/index/product-cdn.png) center no-repeat;
+.index-product-wrap > img{
+    height: 300px;
+    transition: transform 1s ease-out;
+    -moz-transition-property: transform 1s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 1s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 1s ease-out;
 }
-.index-product-wrap-fengchao {
-    background: url(/public/image/index/product-fengchao.png) center no-repeat;
+.index-product-wrap:hover > img{
+    transform: scale(1.5);
 }
-.index-product-wrap-atd {
-    background: url(/public/image/index/product-atd.png) center no-repeat;
+.index-product-text {
+    position: relative;
+    transform: translateY(-300px);
+    height: 300px;
+    padding: 60px 10%;
+    transition: transform 1s ease-out;
+    -moz-transition-property: transform 1s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 1s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 1s ease-out;
 }
-.index-product-wrap-cwn {
-    background: url(/public/image/index/product-cwn.png) center no-repeat;
-}
-.index-product-wrap:hover {
-    background-size: auto 450px;
-}
-.index-product-box {
-    width: 100%;
-    height: 320px;
-    transition: background-color 1s ease-out;
-    -moz-transition-property: background-color 1s ease-out; /* Firefox 4 */
-    -webkit-transition-property: background-color 1s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: background-color 1s ease-out;
-}
-.index-product-box-cdn {
+/* .index-product-box-cdn {
     background-color: rgba(237, 153, 102, 0.7);
 }
 .index-product-box-fengchao {
@@ -242,33 +234,13 @@
 .index-product-box-cwn {
     background-color: rgba(80, 102, 207, 0.7);
 }
-.index-product-wrap:hover .index-product-box {
-    background-color: transparent;
+*/
+.index-product-img, .index-product-title, .index-product-info, .index-product-info-hover{
+    transition: transform 1s ease-out, opacity 1s ease-out;
+    -moz-transition-property: transform 1s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 1s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 1s ease-out;
 }
-.index-product-wrap .index-product-box > div {
-    width: 100%;
-    height: 320px;
-    position: absolute;
-    left: 0;
-    transition: top 1s ease-out;
-    -moz-transition-property: top 1s ease-out; /* Firefox 4 */
-    -webkit-transition-property: top 1s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: top 1s ease-out;
-    padding: 70px 10%;
-}
-.index-product-wrap .index-product-box > div:nth-child(1) {
-    top: 0;
-}
-.index-product-wrap .index-product-box > div:nth-child(2) {
-    top: 320px;
-}
-.index-product-wrap:hover .index-product-box > div:nth-child(1) {
-    top: -320px;
-}
-.index-product-wrap:hover .index-product-box > div:nth-child(2) {
-    top: 0px;
-}
-
 .index-product-img {
     margin: 0 auto 30px;
 }
@@ -276,10 +248,26 @@
     font-size: 30px;
     margin-bottom: 20px;
 }
-.index-product-info {
+.index-product-info, .index-product-info-hover{
     font-size: 18px;
 }
-
+.index-product-info-hover{
+    opacity: 0;
+}
+.index-product-wrap:hover .index-product-img{
+    transform: translateY(-200px);
+    opacity: 0;
+}
+.index-product-wrap:hover .index-product-title{
+    transform: translateY(-103px);
+}
+.index-product-wrap:hover .index-product-info{
+    opacity: 0;
+}
+.index-product-wrap:hover .index-product-info-hover{
+    transform: translateY(-103px);
+    opacity: 1;
+}
 
 
 @media(max-width: 768px) {

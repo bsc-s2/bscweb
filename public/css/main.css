@@ -87,7 +87,7 @@
 }
 .banner-1-title {
     font-size: 48px;
-    color: #333;
+    color: #030911;
     margin-bottom: 30px;
     letter-spacing: 10px;
 }
@@ -600,8 +600,8 @@ a.copyright:hover {
 }
 .news-item {
     border-bottom: 2px solid #ddd;
-    height: 240px;
-    padding: 30px 0;
+    height: 195px;
+    padding: 15px 0;
 }
 .news-imgbox {
     width: 180px;
@@ -622,7 +622,7 @@ a.copyright:hover {
 .news-title {
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 1;
     overflow: hidden;
     margin-right: 200px;
     margin-bottom: 16px;

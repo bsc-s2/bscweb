@@ -50,16 +50,6 @@ jQuery(document).ready(function () {
     };
   });
 
-  // index product
-  $(".index-product").mouseenter(function (event) {
-    $(this).children().slideUp(200);
-    $(this).next().slideDown(200);
-  })
-  $(".index-product-hover").mouseleave(function (event) {
-    $(this).slideUp(200);
-    $(this).prev().children().slideDown(200);
-  })
-
   // register
   $(".register-sumbit-button").click(function () {
     var inputList = $(".form-control") || [];

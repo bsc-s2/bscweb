@@ -33,7 +33,7 @@
 
 html {
     /*font-family: sans-serif;*/
-    font-family: Arial, 'Microsoft YaHei', Helvetica;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 @media (min-width:48em) {

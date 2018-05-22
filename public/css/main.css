@@ -212,29 +212,32 @@
 .index-product-wrap:hover > img{
     transform: scale(1.5);
 }
+.index-product-wrap:hover > .index-product-text{
+    background-color: rgba(80, 102, 207, 0);
+}
 .index-product-text {
     position: relative;
     transform: translateY(-300px);
     height: 300px;
     padding: 60px 10%;
-    transition: transform 1s ease-out;
-    -moz-transition-property: transform 1s ease-out; /* Firefox 4 */
-    -webkit-transition-property: transform 1s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: transform 1s ease-out;
+    transition: transform 1s ease-out, background-color 1s ease-out;
+    -moz-transition-property: transform 1s ease-out, background-color 1s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 1s ease-out, background-color 1s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 1s ease-out, background-color 1s ease-out;
 }
-/* .index-product-box-cdn {
-    background-color: rgba(237, 153, 102, 0.7);
+.index-product-wrap-cdn {
+    background-color: rgba(237, 153, 102);
 }
-.index-product-box-fengchao {
-    background-color: rgba(168, 111, 232, 0.7);
+.index-product-wrap-fengchao {
+    background-color: rgba(168, 111, 232);
 }
-.index-product-box-atd {
-    background-color:rgba(47, 166, 109, 0.7);
+.index-product-wrap-atd {
+    background-color:rgba(47, 166, 109);
 }
-.index-product-box-cwn {
-    background-color: rgba(80, 102, 207, 0.7);
+.index-product-wrap-cwn {
+    background-color: rgba(80, 102, 207);
 }
-*/
+
 .index-product-img, .index-product-title, .index-product-info, .index-product-info-hover{
     transition: transform 1s ease-out, opacity 1s ease-out;
     -moz-transition-property: transform 1s ease-out; /* Firefox 4 */
@@ -262,6 +265,7 @@
     transform: translateY(-103px);
 }
 .index-product-wrap:hover .index-product-info{
+    transform: translateY(130px);
     opacity: 0;
 }
 .index-product-wrap:hover .index-product-info-hover{

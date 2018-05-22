@@ -18,19 +18,19 @@
 
 .cdn-banner {
     background: url(/public/image/index/product-cdn.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .cwn-banner {
     background: url(/public/image/index/product-cwn.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .atd-banner {
     background: url(/public/image/index/product-atd.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .shujufengchao-banner {
     background: url(/public/image/index/product-fengchao.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 

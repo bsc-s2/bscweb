@@ -1,6 +1,11 @@
 @import url(technology.css);
 @import url(solution.css);
 
+.carousel-inner > .item {
+  background-size: cover;
+  background-position:center;
+}
+
 .img-center {
     max-height: 100%;
     max-width: 100%;
@@ -465,7 +470,7 @@ a.copyright:hover {
     text-align: center;
     color: #fff;
     background: url(/public/image/solution/solution.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .solution-banner h1 {
     letter-spacing: 10px;
@@ -512,7 +517,7 @@ a.copyright:hover {
     text-align: center;
     color: #fff;
     background: url(/public/image/news/news-banner.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .news-banner h1 {
     letter-spacing: 10px;
@@ -625,7 +630,7 @@ a.copyright:hover {
     text-align: center;
     color: #fff;
     background: url(/public/image/more/about.png) center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 .about-more-tabs-bar {
     position: absolute;

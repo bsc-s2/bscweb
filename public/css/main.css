@@ -85,6 +85,10 @@
 .index-banner {
     display: block;
 }
+#index-banner-1:hover,
+#index-banner-2:hover {
+    cursor: pointer;
+}
 .banner-1 {
     position: absolute;
     top: 200px;
@@ -114,7 +118,9 @@
 }
 .video-triger {
     cursor: pointer;
-    margin-top: 50px;
+    margin: 50px auto 0;
+    width: 26px;
+    height: 26px;
 }
 .video-triger img {
     width: 26px;

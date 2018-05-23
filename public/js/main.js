@@ -15,6 +15,14 @@ jQuery(document).ready(function () {
     return o;
   };
 
+  // index banner link
+  $("#index-banner-1").click(function(){
+    $("#more-link").trigger('click');
+  })
+  $("#index-banner-2").click(function(){
+    $("#solution-link").trigger('click');
+  })
+
   // video show & close
   $('#videoTrigger').click(function (event) {
     event.stopPropagation();
@@ -154,5 +162,5 @@ jQuery(document).ready(function () {
     $('#squeegee .squeegee-before').width(beforeWidth)
     $('#squeegee .squeegee-after').width(afterWidth)
     $('#squeegee .squeegee-handle').css({left: afterWidth})
-})
+  })
 });

@@ -261,10 +261,10 @@
     -o-transition-property: transform 1.5s ease-out, background-color 1.5s ease-out;
 }
 .index-product-wrap-cdn {
-    background-color: rgba(237, 153, 102);
+    background-color: #E38064;
 }
 .index-product-wrap-fengchao {
-    background-color: rgba(168, 111, 232);
+    background-color: #8A4DF0;
 }
 .index-product-wrap-atd {
     background-color:rgba(47, 166, 109);

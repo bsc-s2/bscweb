@@ -617,7 +617,6 @@ a.copyright:hover {
 }
 .news-item {
     border-bottom: 2px solid #ddd;
-    height: 195px;
     padding: 10px 0;
 }
 .news-imgbox {
@@ -654,7 +653,8 @@ a.copyright:hover {
     overflow: hidden;
 }
 .news-learn-more {
-    float: right;
+    text-align: right;
+    display: block;
 }
 .news-info {
     margin-left: 220px;

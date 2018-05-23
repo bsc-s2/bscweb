@@ -239,10 +239,10 @@
 .index-product-wrap > img{
     height: 300px;
     object-fit: cover;
-    transition: transform 1.5s ease-out;
-    -moz-transition-property: transform 1.5s ease-out; /* Firefox 4 */
-    -webkit-transition-property: transform 1.5s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: transform 1.5s ease-out;
+    transition: transform 2s ease-in-out;
+    -moz-transition-property: transform 2s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 2s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 2s ease-out;
 }
 .index-product-wrap:hover > img{
     transform: scale(1.2,1.2);
@@ -261,10 +261,10 @@
     -o-transition-property: transform 1.5s ease-out, background-color 1.5s ease-out;
 }
 .index-product-wrap-cdn {
-    background-color: rgba(237, 153, 102);
+    background-color: #E38064;
 }
 .index-product-wrap-fengchao {
-    background-color: rgba(168, 111, 232);
+    background-color: #8A4DF0;
 }
 .index-product-wrap-atd {
     background-color:rgba(47, 166, 109);
@@ -274,17 +274,17 @@
 }
 
 .index-product-img, .index-product-title, .index-product-info-hover{
-    transition: transform 1.5s ease-out, opacity 1.5s ease-out;
+    transition: transform 1.5s ease-out, opacity .5s ease-out;
     -moz-transition-property: transform 1.5s ease-out; /* Firefox 4 */
     -webkit-transition-property: transform 1.5s ease-out; /* Safari 和 Chrome */
     -o-transition-property: transform 1.5s ease-out;
 }
 .index-product-img {
-    margin: 0 auto 30px;
+    margin: 0 auto 40px;
 }
 .index-product-title {
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .index-product-info, .index-product-info-hover{
     font-size: 18px;
@@ -292,18 +292,21 @@
 .index-product-info-hover{
     opacity: 0;
 }
+.index-product-info-hover span{
+    white-space: nowrap;
+}
 .index-product-wrap:hover .index-product-img{
     transform: translateY(-200px);
     opacity: 0;
 }
 .index-product-wrap:hover .index-product-title{
-    transform: translateY(-103px);
+    transform: translateY(-88px);
 }
 .index-product-wrap:hover .index-product-info{
     opacity: 0;
 }
 .index-product-wrap:hover .index-product-info-hover{
-    transform: translateY(-103px);
+    transform: translateY(-98px);
     opacity: 1;
 }
 
@@ -497,6 +500,7 @@ img {
     color: #bbb;
     display: block;
     line-height: 24px;
+    white-space: nowrap;
 }
 .bottom-nav-cn a:hover {
     color: #fff;
@@ -614,15 +618,14 @@ a.copyright:hover {
 }
 .news-item {
     border-bottom: 2px solid #ddd;
-    height: 195px;
-    padding: 15px 0;
+    padding: 10px 0;
 }
 .news-imgbox {
     width: 180px;
     height: 150px;
     overflow: hidden;
     float: left;
-    margin-top: 22px;
+    margin-top: 26px;
 }
 .news-source-time {
     float: right;
@@ -641,6 +644,7 @@ a.copyright:hover {
     margin-right: 200px;
     margin-bottom: 16px;
     color: #4a4a4a;
+    line-height: 1.3;
 }
 .news-brief {
     font-size: 16px;
@@ -650,7 +654,8 @@ a.copyright:hover {
     overflow: hidden;
 }
 .news-learn-more {
-    float: right;
+    text-align: right;
+    display: block;
 }
 .news-info {
     margin-left: 220px;

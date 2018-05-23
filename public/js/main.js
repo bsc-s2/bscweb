@@ -165,4 +165,24 @@ jQuery(document).ready(function () {
     $('#squeegee .squeegee-after').width(afterWidth)
     $('#squeegee .squeegee-handle').css({left: afterWidth})
   })
+
+  // click bottom about-us 4 links
+  function linkTab(){
+    $('[href$=' + hash + ']').parent().siblings().removeClass("in active")
+    $(hash).siblings().removeClass("in active")
+    $('[href$=' + hash + ']').parent().addClass("in active")
+    $(hash).addClass("in active")
+    $('html,body').animate({ scrollTop: 0 })
+  }
+  var hash = "#about-baishan"
+  window.onhashchange = function(){
+    hash = window.location.hash
+    if(document.getElementById("more-nav-tabs")){
+      linkTab()
+    }
+  }
+  hash = window.location.hash
+  if(hash){
+    linkTab()
+  }
 });

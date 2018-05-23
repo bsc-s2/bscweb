@@ -112,8 +112,7 @@ jQuery(document).ready(function () {
     a.src = g;
     m.parentNode.insertBefore(a, m);
   })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-  // UA-119482301-1 是测试跟踪ID
-  ga('create', 'UA-119482301-1', 'auto');
+  ga('create', 'UA-91873933-1', 'auto');
   ga('send', 'pageview');
   ga('set', 'userId', 'USER_ID');
 

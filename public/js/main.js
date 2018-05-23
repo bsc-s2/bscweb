@@ -116,4 +116,44 @@ jQuery(document).ready(function () {
   ga('create', 'UA-119482301-1', 'auto');
   ga('send', 'pageview');
   ga('set', 'userId', 'USER_ID');
+
+
+  // fengchao structure
+  // width < 1200px
+  const img = document.getElementById("fengchao-structure-img")
+  const urlArray = $('#fengchao-structure-img').attr('src').split('/')
+  const srcArray = ['fengchao-structure-before.png', 'fengchao-structure-after.png']
+  const len = srcArray.length - 1
+  let index = 0
+  setInterval(function() {
+      img.style.transition='opacity 1s ease-in 0s'
+      img.style.opacity=0.2
+      setTimeout(function(){
+          urlArray.splice(urlArray.length-1,1,srcArray[index])
+          img.src = urlArray.join('/')
+          img.style.transition='opacity 1s ease-out 0s'
+          img.style.opacity=1
+      },1000)
+      setTimeout(function(){
+          img.style.transition='none'
+      },2000)
+      if(++index > len) {
+          index = 0
+      }
+  },4000)
+  // width >= 1200px
+  $('#squeegee').mousemove(function (event) {
+    var Ev= event || window.event;
+    var pointX = Ev.clientX
+    var warp = $('#squeegee')[0]
+    var wrapX = warp.offsetLeft
+    var wrapWidth = warp.offsetWidth
+    var afterWidth = Ev.clientX - wrapX
+    var beforeWidth = wrapWidth - afterWidth
+    afterWidth = afterWidth > 900 ? 900 : afterWidth
+    beforeWidth = beforeWidth < 40 ? 40 : beforeWidth
+    $('#squeegee .squeegee-before').width(beforeWidth)
+    $('#squeegee .squeegee-after').width(afterWidth)
+    $('#squeegee .squeegee-handle').css({left: afterWidth})
+})
 });

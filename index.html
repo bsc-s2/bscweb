@@ -34,7 +34,7 @@ title: 白山云-国内首家云链服务提供商
             <img class="banner-img" src="{{ site.baseurl }}/public/image/index/banner-3.png">
             <div class="carousel-caption banner-3">
                 <div class="banner-3-info">打破数据孤岛</div>
-                <div class="banner-3-info">重构数据价值</div>
+                <div class="banner-3-info">重塑数据价值</div>
                 <a href="{{ site.baseurl }}{% link tech/fengchao.html %}" class="banner-3-more">了解更多</a>
             </div>
         </div>
@@ -51,11 +51,7 @@ title: 白山云-国内首家云链服务提供商
                     <img class="index-product-img" src="{{ site.baseurl }}/public/image/index/{{product.img}}">
                     <div class="index-product-title">{{product.title}}</div>
                     <div class="index-product-info">{{product.info}}</div>
-                    <div class="index-product-info-hover">
-                        {% for text in product.info-hover %}
-                        <span>{{text}}</span>
-                        {% endfor %}
-                    </div>
+                    <div class="index-product-info-hover">{{product.info-hover}}</div>
                 </div>
             </div>
         </a>

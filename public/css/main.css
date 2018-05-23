@@ -267,7 +267,7 @@
     background-color: rgba(80, 102, 207);
 }
 
-.index-product-img, .index-product-title, .index-product-info, .index-product-info-hover{
+.index-product-img, .index-product-title, .index-product-info-hover{
     transition: transform 1.5s ease-out, opacity 1.5s ease-out;
     -moz-transition-property: transform 1.5s ease-out; /* Firefox 4 */
     -webkit-transition-property: transform 1.5s ease-out; /* Safari 和 Chrome */
@@ -294,7 +294,6 @@
     transform: translateY(-103px);
 }
 .index-product-wrap:hover .index-product-info{
-    transform: translateY(130px);
     opacity: 0;
 }
 .index-product-wrap:hover .index-product-info-hover{

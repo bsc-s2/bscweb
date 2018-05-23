@@ -280,11 +280,11 @@
     -o-transition-property: transform 1.5s ease-out;
 }
 .index-product-img {
-    margin: 0 auto 30px;
+    margin: 0 auto 40px;
 }
 .index-product-title {
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .index-product-info, .index-product-info-hover{
     font-size: 18px;
@@ -300,13 +300,13 @@
     opacity: 0;
 }
 .index-product-wrap:hover .index-product-title{
-    transform: translateY(-103px);
+    transform: translateY(-88px);
 }
 .index-product-wrap:hover .index-product-info{
     opacity: 0;
 }
 .index-product-wrap:hover .index-product-info-hover{
-    transform: translateY(-103px);
+    transform: translateY(-98px);
     opacity: 1;
 }
 

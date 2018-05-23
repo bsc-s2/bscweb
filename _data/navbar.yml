@@ -5,10 +5,10 @@
   sublinks:
     - title: CDN-X
       url: /tech/cdn
-    - title: ATD
-      url: /tech/atd
     - title: 数聚蜂巢
       url: /tech/orchsym
+    - title: ATD
+      url: /tech/atd
     - title: CWN-X
       url: /tech/cwn
 - title: 解决方案

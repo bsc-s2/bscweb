@@ -32,8 +32,8 @@
  */
 
 html {
-    /*font-family: sans-serif;*/
-    font-family: Helvetica, Arial, sans-serif;
+    /*font-family: Helvetica, Arial, sans-serif;*/
+    font-family: "PingFang SC", "Microsoft YaHei", Helvetica,  Arial, sans-serif;
 }
 
 @media (min-width:48em) {

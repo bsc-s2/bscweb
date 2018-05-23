@@ -232,13 +232,14 @@
 }
 .index-product-wrap > img{
     height: 300px;
-    transition: transform 1s ease-out;
-    -moz-transition-property: transform 1s ease-out; /* Firefox 4 */
-    -webkit-transition-property: transform 1s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: transform 1s ease-out;
+    object-fit: cover;
+    transition: transform 1.5s ease-out;
+    -moz-transition-property: transform 1.5s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 1.5s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 1.5s ease-out;
 }
 .index-product-wrap:hover > img{
-    transform: scale(1.5);
+    transform: scale(1.2,1.2);
 }
 .index-product-wrap:hover > .index-product-text{
     background-color: rgba(80, 102, 207, 0);
@@ -248,10 +249,10 @@
     transform: translateY(-300px);
     height: 300px;
     padding: 60px 10%;
-    transition: transform 1s ease-out, background-color 1s ease-out;
-    -moz-transition-property: transform 1s ease-out, background-color 1s ease-out; /* Firefox 4 */
-    -webkit-transition-property: transform 1s ease-out, background-color 1s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: transform 1s ease-out, background-color 1s ease-out;
+    transition: transform 1.5s ease-out, background-color 1.5s ease-out;
+    -moz-transition-property: transform 1.5s ease-out, background-color 1.5s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 1.5s ease-out, background-color 1.5s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 1.5s ease-out, background-color 1.5s ease-out;
 }
 .index-product-wrap-cdn {
     background-color: rgba(237, 153, 102);
@@ -266,11 +267,11 @@
     background-color: rgba(80, 102, 207);
 }
 
-.index-product-img, .index-product-title, .index-product-info, .index-product-info-hover{
-    transition: transform 1s ease-out, opacity 1s ease-out;
-    -moz-transition-property: transform 1s ease-out; /* Firefox 4 */
-    -webkit-transition-property: transform 1s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: transform 1s ease-out;
+.index-product-img, .index-product-title, .index-product-info-hover{
+    transition: transform 1.5s ease-out, opacity 1.5s ease-out;
+    -moz-transition-property: transform 1.5s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 1.5s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 1.5s ease-out;
 }
 .index-product-img {
     margin: 0 auto 30px;
@@ -293,7 +294,6 @@
     transform: translateY(-103px);
 }
 .index-product-wrap:hover .index-product-info{
-    transform: translateY(130px);
     opacity: 0;
 }
 .index-product-wrap:hover .index-product-info-hover{
@@ -453,7 +453,7 @@
     outline: none !important;
 }
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "PingFang SC", "Microsoft YaHei", Helvetica,  Arial, sans-serif;
     color: #555;
     font-weight: 300;
 }

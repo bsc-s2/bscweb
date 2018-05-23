@@ -3,7 +3,11 @@
   img: cdn.png
   img-bg: product-cdn-bg.png
   info: 乐高式松耦合架构，全透明定制化服务
-  info-hover: 创新的云分发平台，大幅提升内容分发性能与用户体验。应用四大创新技术与松耦合架构，实现速度和稳定性突破
+  info-hover:
+    - 创新的云分发平台，
+    - 大幅提升内容分发性能与用户体验。
+    - 应用四大创新技术与松耦合架构，
+    - 实现速度和稳定性突破
   wrap-class: index-product-wrap-cdn
   box-class: index-product-box-cdn
 - url: tech/fengchao
@@ -11,7 +15,11 @@
   img: fengchao.png
   img-bg: product-fengchao-bg.png
   info: 打破数据孤岛，重构数据价值
-  info-hover: 松耦合架构的混合集成平台，以数据链接为切入点，解决“数据孤岛”问题，应用API高效实现数据融合、应用重组和业务构建
+  info-hover:
+  - 松耦合架构的混合集成平台，
+  - 以数据链接为切入点，
+  - 解决“数据孤岛”问题，
+  - 应用API高效实现数据融合、应用重组和业务构建
   wrap-class: index-product-wrap-fengchao
   box-class: index-product-box-fengchao
 - url: tech/atd
@@ -19,7 +27,11 @@
   img: atd.png
   img-bg: product-atd-bg.png
   info: WEB深度威胁识别，AI安全突破式应用
-  info-hover: 基于人工智能的新一代安全产品，针对企业WEB安全需求，通过机器学习和独有算法，精准识别异常行为与深度威
+  info-hover:
+  - 基于人工智能的新一代安全产品，
+  - 针对企业WEB安全需求，
+  - 通过机器学习和独有算法，
+  - 精准识别异常行为与深度威胁
   wrap-class: index-product-wrap-atd
   box-class: index-product-box-atd
 - url: tech/cwn
@@ -27,6 +39,10 @@
   img: cwn.png
   img-bg: product-cwn-bg.png
   info: 倡导冷热分级存储，GB级文件高速传输
-  info-hover: 高效的分级式存储网络，专注于热数据存储以及存储间的数据转移；基于数据温度区分存储方式，大幅提高云存储使用效率
+  info-hover:
+  - 高效的分级式存储网络，
+  - 专注于热数据存储以及存储间的数据转移；
+  - 基于数据温度区分存储方式，
+  - 大幅提高云存储使用效率
   wrap-class: index-product-wrap-cwn
   box-class: index-product-box-cwn

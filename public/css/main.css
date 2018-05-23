@@ -239,10 +239,10 @@
 .index-product-wrap > img{
     height: 300px;
     object-fit: cover;
-    transition: transform 1.5s ease-out;
-    -moz-transition-property: transform 1.5s ease-out; /* Firefox 4 */
-    -webkit-transition-property: transform 1.5s ease-out; /* Safari 和 Chrome */
-    -o-transition-property: transform 1.5s ease-out;
+    transition: transform 2s ease-in-out;
+    -moz-transition-property: transform 2s ease-out; /* Firefox 4 */
+    -webkit-transition-property: transform 2s ease-out; /* Safari 和 Chrome */
+    -o-transition-property: transform 2s ease-out;
 }
 .index-product-wrap:hover > img{
     transform: scale(1.2,1.2);
@@ -274,7 +274,7 @@
 }
 
 .index-product-img, .index-product-title, .index-product-info-hover{
-    transition: transform 1.5s ease-out, opacity 1.5s ease-out;
+    transition: transform 1.5s ease-out, opacity .5s ease-out;
     -moz-transition-property: transform 1.5s ease-out; /* Firefox 4 */
     -webkit-transition-property: transform 1.5s ease-out; /* Safari 和 Chrome */
     -o-transition-property: transform 1.5s ease-out;
@@ -291,6 +291,9 @@
 }
 .index-product-info-hover{
     opacity: 0;
+}
+.index-product-info-hover span{
+    white-space: nowrap;
 }
 .index-product-wrap:hover .index-product-img{
     transform: translateY(-200px);

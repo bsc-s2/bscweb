@@ -15,6 +15,14 @@ jQuery(document).ready(function () {
     return o;
   };
 
+  // index banner link
+  $("#index-banner-1").click(function(){
+    $("#more-link").trigger('click');
+  })
+  $("#index-banner-2").click(function(){
+    $("#solution-link").trigger('click');
+  })
+
   // video show & close
   $('#videoTrigger').click(function (event) {
     event.stopPropagation();
@@ -119,27 +127,29 @@ jQuery(document).ready(function () {
 
   // fengchao structure
   // width < 1200px
-  const img = document.getElementById("fengchao-structure-img")
-  const urlArray = $('#fengchao-structure-img').attr('src').split('/')
-  const srcArray = ['fengchao-structure-before.png', 'fengchao-structure-after.png']
-  const len = srcArray.length - 1
-  let index = 0
-  setInterval(function() {
-      img.style.transition='opacity 1s ease-in 0s'
-      img.style.opacity=0.2
-      setTimeout(function(){
-          urlArray.splice(urlArray.length-1,1,srcArray[index])
-          img.src = urlArray.join('/')
-          img.style.transition='opacity 1s ease-out 0s'
-          img.style.opacity=1
-      },1000)
-      setTimeout(function(){
-          img.style.transition='none'
-      },2000)
-      if(++index > len) {
-          index = 0
-      }
-  },4000)
+  if (document.getElementById("fengchao-structure-img")) {
+    const img = document.getElementById("fengchao-structure-img")
+    const urlArray = $('#fengchao-structure-img').attr('src').split('/')
+    const srcArray = ['fengchao-structure-before.png', 'fengchao-structure-after.png']
+    const len = srcArray.length - 1
+    let index = 0
+    setInterval(function() {
+        img.style.transition='opacity 1s ease-in 0s'
+        img.style.opacity=0.2
+        setTimeout(function(){
+            urlArray.splice(urlArray.length-1,1,srcArray[index])
+            img.src = urlArray.join('/')
+            img.style.transition='opacity 1s ease-out 0s'
+            img.style.opacity=1
+        },1000)
+        setTimeout(function(){
+            img.style.transition='none'
+        },2000)
+        if(++index > len) {
+            index = 0
+        }
+    },4000)
+  }
   // width >= 1200px
   $('#squeegee').mousemove(function (event) {
     var Ev= event || window.event;
@@ -154,5 +164,5 @@ jQuery(document).ready(function () {
     $('#squeegee .squeegee-before').width(beforeWidth)
     $('#squeegee .squeegee-after').width(afterWidth)
     $('#squeegee .squeegee-handle').css({left: afterWidth})
-})
+  })
 });

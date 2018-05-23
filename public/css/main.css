@@ -500,6 +500,7 @@ img {
     color: #bbb;
     display: block;
     line-height: 24px;
+    white-space: nowrap;
 }
 .bottom-nav-cn a:hover {
     color: #fff;

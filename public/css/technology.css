@@ -87,6 +87,10 @@
     padding: 80px 20%;
     text-align: center;
 }
+.cdn-network-resource p {
+    font-size: 16px;
+    white-space: nowrap;
+}
 .technology-structure-img {
     margin: 60px auto;
 }

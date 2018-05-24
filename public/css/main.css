@@ -620,6 +620,8 @@ a.copyright:hover {
 .news-item {
     border-bottom: 2px solid #ddd;
     padding: 10px 0;
+    clear: both;
+    min-height: 185px;
 }
 .news-imgbox {
     width: 180px;

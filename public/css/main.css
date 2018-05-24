@@ -148,7 +148,7 @@
 }
 .video-close {
     position: relative;
-    height: 25%;
+    height: 100px;
     cursor: pointer;
     background: url(../image/index/videoCancel.png) center right no-repeat transparent;
 }

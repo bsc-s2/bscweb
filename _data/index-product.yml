@@ -16,10 +16,8 @@
   img-bg: product-fengchao-bg.png
   info: 打通数据孤岛，重塑数据价值
   info-hover:
-  - 松耦合架构的混合集成平台，
-  - 以数据链接为切入点，
-  - 解决“数据孤岛”问题，
-  - 应用API高效实现数据融合、应用重组和业务构建
+  - 松耦合敏捷的混合云集成平台（HIP），
+  - 以API实现孤岛系统的数据融合、应用重组和业务构建
   wrap-class: index-product-wrap-fengchao
   box-class: index-product-box-fengchao
 - url: tech/atd

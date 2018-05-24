@@ -238,6 +238,7 @@
 }
 .index-product-wrap > img{
     height: 300px;
+    width: 100%;
     object-fit: cover;
     transition: transform 2s ease-in-out;
     -moz-transition-property: transform 2s ease-out; /* Firefox 4 */

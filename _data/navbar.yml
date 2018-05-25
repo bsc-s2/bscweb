@@ -1,7 +1,9 @@
 - title: 首页
   url: /
+  nav-url: /
 - title: 产品技术
   url: /tech/cdn
+  nav-url: /tech
   sublinks:
     - title: CDN-X
       url: /tech/cdn
@@ -13,6 +15,7 @@
       url: /tech/cwn
 - title: 解决方案
   url: /solution
+  nav-url: /solution
   sublinks:
     - title: 总览
       url: /solution
@@ -35,5 +38,7 @@
       url: /solution/online-education
 - title: 新闻动态
   url: /news
+  nav-url: /news
 - title: 更多
   url: /more
+  nav-url: /more

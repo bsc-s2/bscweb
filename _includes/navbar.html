@@ -18,7 +18,7 @@
         {% assign links = site.data.navbar %}
         {% for link in links %}
             {% assign class = nil %}
-            {% if page.url contains link.url and link.url != "/" %}
+            {% if page.url contains link.nav-url and link.url != "/" %}
                 {% assign class = 'active' %}
             {% endif %}
             {% if link.url == "/" and page.url =='/' %}

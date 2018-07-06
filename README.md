@@ -27,7 +27,7 @@
   - fengchao                 // 产品技术-蜂巢
 - solution                   // 解决方案
   - index
-  - aviation-safety          // 解决方案-航空安全
+  - aviation-safety          // 解决方案-航司安全
   - corporate-digitization   // 解决方案-企业数字化转型
   - game-safety              // 解决方案-游戏安全
   - government-security      // 解决方案-政府安全

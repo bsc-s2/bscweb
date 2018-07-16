@@ -22,4 +22,3 @@ paginate:         5
 # Custom vars
 version:          1.0.0
 
-plugins:      [jekyll-paginate]

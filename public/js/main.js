@@ -115,8 +115,8 @@ jQuery(document).ready(function () {
         data: JSON.stringify({
           token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
           params: {
-            address: ["ronghao.zhi@baishancloud.com"],
-            title: "ExampleMail",
+            address: ["ronghao.zhi@baishancloud.com","biao.zhang@baishancloud.com","amy.yang@baishancloud.com","jenna.qi@baishancloud.com"],
+            title: "新客户",
             content: usrInfo,
           }
         }),
@@ -130,7 +130,6 @@ jQuery(document).ready(function () {
         }
       })
     });
-
     function notice(domEle, event, reg, nTag) {
       $(domEle).on(event, function () {
         $(domEle).siblings().remove();

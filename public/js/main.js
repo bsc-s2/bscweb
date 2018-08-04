@@ -83,7 +83,7 @@ jQuery(document).ready(function () {
   };
 
   (function () {
-    /*form valid*/
+    /* form valid */
     var inputs = $(".form-control");
     if (!inputs.length) return;
     var nameReg = new RegExp('^[\\u4E00-\\u9FA5\\uf900-\\ufa2d·s]{2,20}$');
@@ -96,21 +96,16 @@ jQuery(document).ready(function () {
     var notTel = pbf + "电话" + paf;
     $.each(inputs, function (index, input) {
       var n = input.name;
-      if (n === "name") {
-        notice(input, "input", nameReg, notName);
-      } else if (n === "email") {
-        notice(input, "input", emailReg, notEmail);
-      } else if (n === "telephone") {
-        notice(input, "input", telephoneReg, notTel);
-      }
+      n === "name" ? notice(input, "input", nameReg, notName) : n === "email" ? notice(input, "input", emailReg, notEmail) : notice(input, "input", telephoneReg, notTel)
     });
-    /* send email*/
     $(".register-sumbit-button").click(function (e) {
       if (!($("#name").val().match(nameReg) && $("#email").val().match(emailReg) && $("#telephone").val().match(telephoneReg))) {
         return;
       }
-      var usrData = "<h3>新客户:<h3><br>" + "<p style='font-family:'Microsoft YaHei''><i>name</i>:" + $("#name").val() + "<br><i>tell</i>:" + $("#telephone").val() + "<br><i>email</i>:" + $("#email").val() + "<br><i>company</i>:" + $("#company").val() + "<br><i>department</i>:" + $("#department").val() + "<br><i>position</i>:" + $("#position").val() + "</p>";
-      console.log("uer_info:", usrData);
+      /* generate email-html template */
+      var dataObj = ($(".register-form").serializeObject());
+      var usrInfo = temp("#textarea", dataObj);
+      /* send email */
       $.ajax({
         type: 'POST',
         url: 'http://msgg.i.qingcdn.com/api/app/1.0/msgg/submitmail',
@@ -122,7 +117,7 @@ jQuery(document).ready(function () {
           params: {
             address: ["ronghao.zhi@baishancloud.com"],
             title: "ExampleMail",
-            content: usrData,
+            content: usrInfo,
           }
         }),
         success: function (res) {
@@ -135,6 +130,7 @@ jQuery(document).ready(function () {
         }
       })
     });
+
     function notice(domEle, event, reg, nTag) {
       $(domEle).on(event, function () {
         $(domEle).siblings().remove();
@@ -143,8 +139,18 @@ jQuery(document).ready(function () {
         }
       })
     };
+    var temp = function (tpDomId, obj) {
+      var tp = $(tpDomId)[0].value;
+      var reg = /\$(\w+)\$/g;
+      while ((results = reg.exec(tp)) != null) {
+        if (results[1]) {
+          tp = tp.replace(results[0], obj[results[1]]);
+        }
+      }
+      return tp;
+    }
   })();
-
+  
   /* google analytics */
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;

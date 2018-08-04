@@ -138,7 +138,7 @@ jQuery(document).ready(function () {
         }
       })
     };
-    var temp = function (tpDomId, obj) {
+    function temp(tpDomId, obj) {
       var tp = $(tpDomId)[0].value;
       var reg = /\$(\w+)\$/g;
       while ((results = reg.exec(tp)) != null) {

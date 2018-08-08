@@ -57,7 +57,7 @@ $ jekyll serve         # 访问 http://127.0.0.1:4000/
 保证本地有 release 分支，并已更新到最新版本
 ```bash
 $ sh build-test.sh
-$ git checkout release & git push
+$ git checkout release && git push
 $ ssh root@172.18.2.32
 $ cd /usr/local/dashboard/web/dashboard && git pull
 ```
@@ -67,7 +67,7 @@ $ cd /usr/local/dashboard/web/dashboard && git pull
 保证本地有 release-v2 分支，并已更新到最新版本
 ```bash
 $ sh build-release.sh
-$ git checkout release-v2 & git push
+$ git checkout release-v2 && git push
 $ git push
 ```
 

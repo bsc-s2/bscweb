@@ -120,7 +120,7 @@ jQuery(document).ready(function () {
           token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
           params: {
             // address: ["ronghao.zhi@baishancloud.com","biao.zhang@baishancloud.com","amy.yang@baishancloud.com","jenna.qi@baishancloud.com"], 
-            address:["ronghao.zhi@baishancloud.com"],
+            address: ["ronghao.zhi@baishancloud.com"],
             title: "新客户",
             content: usrInfo,
           }

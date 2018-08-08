@@ -53,16 +53,22 @@ $ jekyll serve         # 访问 http://127.0.0.1:4000/
 ```
 
 ## 部署测试
-测试 release 分支位于 https://github.com/bsc-s2/bscweb/release
+测试分支位于 github/release
+保证本地有 release 分支，并已更新到最新版本
 ```bash
 $ sh build-test.sh
+$ git checkout release && git push
 $ ssh root@172.18.2.32
 $ cd /usr/local/dashboard/web/dashboard && git pull
 ```
 
-## 上线
-由于线上服务器无法抓取 github 代码，线上部署 release 位于 https://coding.net/u/adwerrd/p/bscweb/git/tree/release-v2 权限问题联系 吴鹏飞
+## 部署测试
+由于线上机器无法科学上网，拉取 github 代码缓慢，线上分支位于 [coding](https://coding.net/u/adwerrd/p/bscweb/git/tree/release-v2) 
+保证本地有 release-v2 分支，并已更新到最新版本
 ```bash
 $ sh build-release.sh
+$ git checkout release-v2 && git push
 $ git push
 ```
+
+服务器自动检测代码更新，每隔10分钟刷新一次缓存，如果重要更新或者bugfix 可以联系 cdn 同学帮忙刷新缓存，防止出现版本不同步的情况

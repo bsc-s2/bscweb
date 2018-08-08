@@ -85,7 +85,10 @@ jQuery(document).ready(function () {
   (function () {
     /* form valid */
     var inputs = $(".form-control");
-    if (!inputs.length) return;
+    if (!inputs.length) {
+      alert("加载错误！");
+      return;
+    }
     var nameReg = new RegExp('^[\\u4E00-\\u9FA5\\uf900-\\ufa2d·s]{2,20}$');
     var emailReg = new RegExp('^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*\\.[a-zA-Z0-9]{2,6}$');
     var telephoneReg = new RegExp('^(13[0-9]|14[579]|15[0-3,5-9]|16[6]|17[0135678]|18[0-9]|19[89])\\d{8}$');
@@ -100,6 +103,7 @@ jQuery(document).ready(function () {
     });
     $(".register-sumbit-button").click(function (e) {
       if (!($("#name").val().match(nameReg) && $("#email").val().match(emailReg) && $("#telephone").val().match(telephoneReg))) {
+        alert("请输入正确信息！");
         return;
       }
       /* generate email-html template */
@@ -115,20 +119,37 @@ jQuery(document).ready(function () {
         data: JSON.stringify({
           token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
           params: {
-            address: ["ronghao.zhi@baishancloud.com","biao.zhang@baishancloud.com","amy.yang@baishancloud.com","jenna.qi@baishancloud.com"],
+            address: ["ronghao.zhi@baishancloud.com","biao.zhang@baishancloud.com","amy.yang@baishancloud.com","jenna.qi@baishancloud.com"], 
             title: "新客户",
             content: usrInfo,
           }
         }),
         success: function (res) {
-          if (!res.errno)
-            alert("提交成功！");
+          if (!res.errno){
+             alert("提交成功！");
+           } else {
+             alert("提交失败，请重新提交！");
+           }
           $('.register-form')[0].reset();
         },
         error: function (err) {
+          alert("提交失败，请用新版本浏览器！");
           console.log(err);
+        },
+        complete:function(){
+          /*send slack */
+          $.ajax({
+            type: 'POST',
+            url: 'https://hooks.slack.com/services/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',
+            data: JSON.stringify({
+              text: '#新客户！ ' + JSON.stringify(dataObj)
+            }),
+            success: function (res) {
+              console.log('^_^ slack_info');
+            }
+          });
         }
-      })
+      });
     });
     function notice(domEle, event, reg, nTag) {
       $(domEle).on(event, function () {
@@ -170,65 +191,67 @@ jQuery(document).ready(function () {
   // fengchao structure
   // width < 1200px
   if (document.getElementById("fengchao-structure-img")) {
-    const img = document.getElementById("fengchao-structure-img")
-    const urlArray = $('#fengchao-structure-img').attr('src').split('/')
-    const srcArray = ['fengchao-structure-before.png', 'fengchao-structure-after.png']
-    const len = srcArray.length - 1
-    let index = 0
+    var img = document.getElementById("fengchao-structure-img");
+    var urlArray = $('#fengchao-structure-img').attr('src').split('/');
+    var srcArray = ['fengchao-structure-before.png', 'fengchao-structure-after.png'];
+    var len = srcArray.length - 1;
+    var index = 0;
     setInterval(function () {
-      img.style.transition = 'opacity 1s ease-in 0s'
+      img.style.transition = 'opacity 1s ease-in 0s';
       img.style.opacity = 0.2
       setTimeout(function () {
         urlArray.splice(urlArray.length - 1, 1, srcArray[index])
         img.src = urlArray.join('/')
-        img.style.transition = 'opacity 1s ease-out 0s'
-        img.style.opacity = 1
+        img.style.transition = 'opacity 1s ease-out 0s';
+        img.style.opacity = 1;
       }, 1000)
       setTimeout(function () {
-        img.style.transition = 'none'
+        img.style.transition = 'none';
       }, 2000)
       if (++index > len) {
-        index = 0
+        index = 0;
       }
-    }, 4000)
+    }, 4000);
   }
   // width >= 1200px
   $('#squeegee').mousemove(function (event) {
     var Ev = event || window.event;
-    var pointX = Ev.clientX
-    var warp = $('#squeegee')[0]
-    var wrapX = warp.offsetLeft
-    var wrapWidth = warp.offsetWidth
-    var afterWidth = Ev.clientX - wrapX
-    var beforeWidth = wrapWidth - afterWidth
-    afterWidth = afterWidth > 900 ? 900 : afterWidth
-    beforeWidth = beforeWidth < 40 ? 40 : beforeWidth
-    $('#squeegee .squeegee-before').width(beforeWidth)
-    $('#squeegee .squeegee-after').width(afterWidth)
+    var pointX = Ev.clientX;
+    var warp = $('#squeegee')[0];
+    var wrapX = warp.offsetLeft;
+    var wrapWidth = warp.offsetWidth;
+    var afterWidth = Ev.clientX - wrapX;
+    var beforeWidth = wrapWidth - afterWidth;
+    afterWidth = afterWidth > 900 ? 900 : afterWidth;
+    beforeWidth = beforeWidth < 40 ? 40 : beforeWidth;
+    $('#squeegee .squeegee-before').width(beforeWidth);
+    $('#squeegee .squeegee-after').width(afterWidth);
     $('#squeegee .squeegee-handle').css({
       left: afterWidth
-    })
-  })
+    });
+  });
 
   // click bottom about-us 4 links
-  function linkTab() {
-    $('[href$=' + hash + ']').parent().siblings().removeClass("in active")
-    $(hash).siblings().removeClass("in active")
-    $('[href$=' + hash + ']').parent().addClass("in active")
-    $(hash).addClass("in active")
-    $('html,body').animate({
-      scrollTop: 0
-    })
-  }
-  var hash = "#about-baishan"
-  window.onhashchange = function () {
-    hash = window.location.hash
-    if (document.getElementById("more-nav-tabs")) {
-      linkTab()
+  (function(){
+      function linkTab() {
+      $('[href$=' + hash + ']').parent().siblings().removeClass("in active")
+      $(hash).siblings().removeClass("in active")
+      $('[href$=' + hash + ']').parent().addClass("in active")
+      $(hash).addClass("in active")
+      $('html,body').animate({
+        scrollTop: 0
+      })
     }
-  }
-  hash = window.location.hash
-  if (hash) {
-    linkTab()
-  }
+    var hash = "#about-baishan";
+    window.onhashchange = function () {
+      hash = window.location.hash;
+      if (document.getElementById("more-nav-tabs")) {
+        linkTab();
+      }
+    }
+    hash = window.location.hash;
+    if (hash) {
+      linkTab();
+    }
+  })();
 });

@@ -271,30 +271,65 @@
 </div>
 
 <div class="register">
-    <h2>了解更多</h2>
-    <form class="register-form" onsubmit="event.preventDefault();" autocomplete="nope">
-        <div class="form-group col-sm-6">
-            <input placeholder="姓名" class="form-control" id="name" name="name" required>
-        </div>
-        <div class="form-group col-sm-6">
-            <input placeholder="邮箱" class="form-control" id="email" name="email" required>
-        </div>
-        <div class="form-group col-sm-6">
-            <input placeholder="电话" class="form-control" id="telephone" name="telephone" required>
-        </div>
-        <div class="form-group col-sm-6">
-            <input placeholder="公司名称" class="form-control" id="company" name="company" required>
-        </div>
-        <div class="form-group col-sm-6">
-            <input placeholder="职位" class="form-control" id="position" name="position" required>
-        </div>
-        <div class="form-group col-sm-6">
-            <input placeholder="业务需求" class="form-control" id="requirement" name="requirement" required>
-        </div>
-        <div class="register-sumbit">
-            <button class="btn btn-primary register-sumbit-button">提交</button>
-        </div>
-    </form>
+  <h2>了解更多</h2>
+  <form class="register-form" onsubmit="event.preventDefault();" autocomplete="nope">
+    <div class="form-group col-sm-6">
+      <input placeholder="姓名" class="form-control" id="name" name="name" required>
+    </div>
+    <div class="form-group col-sm-6">
+      <input placeholder="邮箱" class="form-control" id="email" name="email" required>
+    </div>
+    <div class="form-group col-sm-6">
+      <input placeholder="电话" class="form-control" id="telephone" name="telephone" required>
+    </div>
+    <div class="form-group col-sm-6">
+      <input placeholder="公司名称" class="form-control" id="company" name="company" >
+    </div>
+    <div class="form-group col-sm-6">
+      <input placeholder="职位" class="form-control" id="position" name="position" >
+    </div>
+    <div class="form-group col-sm-6">
+      <input placeholder="业务需求" class="form-control" id="requirement" name="requirement" >
+    </div>
+    <div class="register-sumbit">
+      <button class="btn btn-primary register-sumbit-button">提交</button>
+    </div>
+  </form>
+  <textarea id="textarea" style="display: none;">
+    <section style="font-family:'Microsoft YaHei';font-size: 1em;color:#666">
+      <table style="text-align: left;border-collapse:collapse; border: 2px solid #cad9ea;background-color: #f5fafe">
+        <thead>
+          <th colspan="2" style="padding: 0.9em;text-align: center;">新客户</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px">姓名:</td>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px;font-size: 0.9em">$name$</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px">邮箱:</td>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px;font-size: 0.9em">$email$</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px">电话:</td>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px;font-size: 0.9em">$telephone$</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px">公司:</td>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px;font-size: 0.9em">$company$</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px">职位:</td>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px;font-size: 0.9em">$position$</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px">业务需求:</td>
+            <td style="border: 1px solid #cad9ea ;padding-left: 4px;padding-right: 4px;font-size: 0.9em">$requirement$</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </textarea>
 </div>
 
 

@@ -53,12 +53,16 @@ $ jekyll serve         # 访问 http://127.0.0.1:4000/
 ```
 
 ## 部署测试
-
+测试 release 分支位于 https://github.com/bsc-s2/bscweb/release
 ```bash
-$ sh build.sh
-```
-
-```bash
+$ sh build-test.sh
 $ ssh root@172.18.2.32
 $ cd /usr/local/dashboard/web/dashboard && git pull
+```
+
+## 上线
+由于线上服务器无法抓取 github 代码，线上部署 release 位于 https://coding.net/u/adwerrd/p/bscweb/git/tree/release-v2 权限问题联系 吴鹏飞
+```bash
+$ sh build-release.sh
+$ git push
 ```

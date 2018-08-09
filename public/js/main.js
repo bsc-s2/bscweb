@@ -86,13 +86,13 @@ jQuery(document).ready(function () {
     /* form valid */
     var inputs = $(".form-control");
     if (!inputs.length) {
-      alert("加载错误！");
+      alert("请刷新页面！");
       return;
     }
     var nameReg = new RegExp('^[\\u4E00-\\u9FA5\\uf900-\\ufa2d·s]{2,20}$');
     var emailReg = new RegExp('^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*\\.[a-zA-Z0-9]{2,6}$');
     var telephoneReg = new RegExp('^(13[0-9]|14[579]|15[0-3,5-9]|16[6]|17[0135678]|18[0-9]|19[89])\\d{8}$');
-    var pbf = "<p style='position:absolute;margin-top:-20px; right:10%;z-index:100;font-size:0.9em;float:right;color:red'>请输入正确";
+    var pbf = "<p style='position:absolute;margin-top:-20px;right:10%;z-index:100;font-size:0.9em;float:right;color:red'>请输入正确";
     var paf = "</p>";
     var notName = pbf + "姓名" + paf;
     var notEmail = pbf + "邮箱" + paf;
@@ -127,13 +127,14 @@ jQuery(document).ready(function () {
         success: function (res) {
           if (!res.errno){
              alert("提交成功！");
+             $('.register-form')[0].reset();
            } else {
              alert("提交失败，请重新提交！");
+             console.log(res)
            }
-          $('.register-form')[0].reset();
         },
         error: function (err) {
-          alert("提交失败，请用新版本浏览器！");
+          alert("请使用谷歌等新版本浏览器！");
           console.log(err);
         },
         complete:function(){
@@ -232,26 +233,24 @@ jQuery(document).ready(function () {
   });
 
   // click bottom about-us 4 links
-  (function(){
-      function linkTab() {
-      $('[href$=' + hash + ']').parent().siblings().removeClass("in active")
-      $(hash).siblings().removeClass("in active")
-      $('[href$=' + hash + ']').parent().addClass("in active")
-      $(hash).addClass("in active")
-      $('html,body').animate({
-        scrollTop: 0
-      })
-    }
-    var hash = "#about-baishan";
-    window.onhashchange = function () {
-      hash = window.location.hash;
-      if (document.getElementById("more-nav-tabs")) {
-        linkTab();
-      }
-    }
+  function linkTab() {
+    $('[href$=' + hash + ']').parent().siblings().removeClass("in active");
+    $(hash).siblings().removeClass("in active");
+    $('[href$=' + hash + ']').parent().addClass("in active");
+    $(hash).addClass("in active");
+    $('html,body').animate({
+      scrollTop: 0
+    });
+  }
+  var hash = "#about-baishan";
+  window.onhashchange = function () {
     hash = window.location.hash;
-    if (hash) {
+    if (document.getElementById("more-nav-tabs")) {
       linkTab();
     }
-  })();
+  }
+  hash = window.location.hash;
+  if (hash) {
+    linkTab();
+  }
 });

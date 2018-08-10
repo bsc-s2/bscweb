@@ -89,28 +89,24 @@ jQuery(document).ready(function () {
       alert("请刷新页面！");
       return;
     }
-    var nameReg = new RegExp('^[\\u4E00-\\u9FA5\\uf900-\\ufa2d·s]{2,20}$');
-    var emailReg = new RegExp('^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*\\.[a-zA-Z0-9]{2,6}$');
-    var telephoneReg = new RegExp('^(13[0-9]|14[579]|15[0-3,5-9]|16[6]|17[0135678]|18[0-9]|19[89])\\d{8}$');
-    var pbf = "<p style='position:absolute;margin-top:-20px;right:10%;z-index:100;font-size:0.9em;float:right;color:red'>请输入正确";
-    var paf = "</p>";
-    var notName = pbf + "姓名" + paf;
-    var notEmail = pbf + "邮箱" + paf;
-    var notTel = pbf + "电话" + paf;
-    $.each(inputs, function (index, input) {
-      var n = input.name;
-      n === "name" ? notice(input, "input", nameReg, notName) : n === "email" ? notice(input, "input", emailReg, notEmail) : n === "telephone" ? notice(input, "input", telephoneReg, notTel) : undefined
-    });
     $(".register-sumbit-button").click(function (e) {
-      if (!($("#name").val().match(nameReg) && $("#email").val().match(emailReg) && $("#telephone").val().match(telephoneReg))) {
-        alert("请输入正确信息！");
-        return;
-      }
+      var isValid = true;
+      $(inputs).each(function (index,input) {
+        console.log(index,input);
+        if (input.name == "name" || input.name == "email" || input.name == "telephone") {
+          if (!input.validity.valid) {
+              input.setCustomValidity("请填写正确信息"); 
+              isValid = false;
+          } else { 
+            input.setCustomValidity("");
+          }
+        }
+      })
       /* generate email-html template */
       var dataObj = ($(".register-form").serializeObject());
       var usrInfo = temp("#textarea", dataObj);
       /* send email */
-      $.ajax({
+      isValid && $.ajax({
         type: 'POST',
         url: 'http://msgg.i.qingcdn.com/api/app/1.0/msgg/submitmail',
         headers: {
@@ -130,14 +126,14 @@ jQuery(document).ready(function () {
              $('.register-form')[0].reset();
            } else {
              alert("提交失败，请重新提交！");
-             console.log(res)
+             console.log(res);
            }
         },
         error: function (err) {
           alert("请使用谷歌等新版本浏览器！");
           console.log(err);
         },
-        complete:function(){
+        complete:function () {
           /*send slack */
           $.ajax({
             type: 'POST',
@@ -152,15 +148,7 @@ jQuery(document).ready(function () {
         }
       });
     });
-    function notice(domEle, event, reg, nTag) {
-      $(domEle).on(event, function () {
-        $(domEle).siblings().remove();
-        if (!reg.test(domEle.value)) {
-          $(domEle).after(nTag);
-        }
-      })
-    };
-    function temp(tpDomId, obj) {
+    function temp (tpDomId, obj) {
       var tp = $(tpDomId)[0].value;
       var reg = /\$(\w+)\$/g;
       while ((results = reg.exec(tp)) != null) {
@@ -233,7 +221,7 @@ jQuery(document).ready(function () {
   });
 
   // click bottom about-us 4 links
-  function linkTab() {
+  function linkTab () {
     $('[href$=' + hash + ']').parent().siblings().removeClass("in active");
     $(hash).siblings().removeClass("in active");
     $('[href$=' + hash + ']').parent().addClass("in active");

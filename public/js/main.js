@@ -125,37 +125,29 @@ jQuery(document).ready(function () {
             } else {
               alert("提交失败，请重新提交！");
               console.log(res);
-              /*send slack */
-              $.ajax({
-                type: 'POST',
-                url: 'https://hooks.slack.com/services/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',
-                data: JSON.stringify({
-                  text: 'snedEmail错误代码：' + res.errno + ' ##新客户！ ' + JSON.stringify(dataObj)
-                }),
-                success: function (res) {
-                  console.log('^_^ slack_info');
-                }
-              });
+              sendSlack(res);
             }
           },
           error: function (err) {
             alert("请使用谷歌等新版本浏览器！");
             console.log(err);
-            /*send slack */
-            $.ajax({
-              type: 'POST',
-              url: 'https://hooks.slack.com/services/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',
-              data: JSON.stringify({
-                text: 'snedEmail错误信息：' + err + ' ##新客户！ ' + JSON.stringify(dataObj)
-              }),
-              success: function (res) {
-                console.log('^_^ slack_info');
-              }
-            });
+            sendSlack(err);
           }
         });
       }
     });
+    function sendSlack (err) {
+      $.ajax({
+        type: 'POST',
+        url: 'https://hooks.slack.com/services/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',
+        data: JSON.stringify({
+          text: 'snedEmail错误信息：' + err + ' ##新客户！ ' + JSON.stringify(dataObj)
+        }),
+        success: function () {
+          console.log('^_^ slack_info');
+        }
+      });
+    }
     function formatEmailHtml (tpDomId, obj) {
       var tp = $(tpDomId)[0].value;
       var reg = /\$(\w+)\$/g;

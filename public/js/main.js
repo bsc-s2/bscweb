@@ -92,7 +92,6 @@ jQuery(document).ready(function () {
     $(".register-sumbit-button").click(function (e) {
       var isValid = true;
       $(inputs).each(function (index,input) {
-        console.log(index,input);
         if (input.name == "name" || input.name == "email" || input.name == "telephone") {
           if (!input.validity.valid) {
               input.setCustomValidity("请填写正确信息"); 
@@ -102,53 +101,62 @@ jQuery(document).ready(function () {
           }
         }
       })
-      /* generate email-html template */
-      var dataObj = ($(".register-form").serializeObject());
-      var usrInfo = temp("#textarea", dataObj);
-      /* send email */
-      isValid && $.ajax({
-        type: 'POST',
-        url: 'http://msgg.i.qingcdn.com/api/app/1.0/msgg/submitmail',
-        headers: {
-          'Content-Type': 'application/json;charset:utf-8',
-        },
-        data: JSON.stringify({
-          token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
-          params: {
-            address: ["ronghao.zhi@baishancloud.com","biao.zhang@baishancloud.com","amy.yang@baishancloud.com","jenna.qi@baishancloud.com"], 
-            title: "新客户",
-            content: usrInfo,
-          }
-        }),
-        success: function (res) {
-          if (!res.errno){
-             alert("提交成功！");
-             $('.register-form')[0].reset();
-           } else {
-             alert("提交失败，请重新提交！");
-             console.log(res);
-           }
-        },
-        error: function (err) {
-          alert("请使用谷歌等新版本浏览器！");
-          console.log(err);
-        },
-        complete:function () {
-          /*send slack */
-          $.ajax({
-            type: 'POST',
-            url: 'https://hooks.slack.com/services/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',
-            data: JSON.stringify({
-              text: '#新客户！ ' + JSON.stringify(dataObj)
-            }),
-            success: function (res) {
-              console.log('^_^ slack_info');
+      if(isValid){
+        var usrInfo = formatEmailHtml("#textarea", $(".register-form").serializeObject());
+        /* send email */
+        $.ajax({
+          type: 'POST',
+          url: 'http://msgg.i.qingcdn.com/api/app/1.0/msgg/submitmail',
+          headers: {
+            'Content-Type': 'application/json;charset:utf-8',
+          },
+          data: JSON.stringify({
+            token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
+            params: {
+              address: ["ronghao.zhi@baishancloud.com","biao.zhang@baishancloud.com","amy.yang@baishancloud.com","jenna.qi@baishancloud.com"], 
+              title: "新客户",
+              content: usrInfo,
             }
-          });
-        }
-      });
+          }),
+          success: function (res) {
+            if (!res.errno){
+              alert("提交成功！");
+              $('.register-form')[0].reset();
+            } else {
+              alert("提交失败，请重新提交！");
+              console.log(res);
+              /*send slack */
+              $.ajax({
+                type: 'POST',
+                url: 'https://hooks.slack.com/services/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',
+                data: JSON.stringify({
+                  text: 'snedEmail错误代码：' + res.errno + ' ##新客户！ ' + JSON.stringify(dataObj)
+                }),
+                success: function (res) {
+                  console.log('^_^ slack_info');
+                }
+              });
+            }
+          },
+          error: function (err) {
+            alert("请使用谷歌等新版本浏览器！");
+            console.log(err);
+            /*send slack */
+            $.ajax({
+              type: 'POST',
+              url: 'https://hooks.slack.com/services/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',
+              data: JSON.stringify({
+                text: 'snedEmail错误信息：' + err + ' ##新客户！ ' + JSON.stringify(dataObj)
+              }),
+              success: function (res) {
+                console.log('^_^ slack_info');
+              }
+            });
+          }
+        });
+      }
     });
-    function temp (tpDomId, obj) {
+    function formatEmailHtml (tpDomId, obj) {
       var tp = $(tpDomId)[0].value;
       var reg = /\$(\w+)\$/g;
       while ((results = reg.exec(tp)) != null) {

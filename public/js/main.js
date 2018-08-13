@@ -82,84 +82,79 @@ jQuery(document).ready(function () {
     })
   };
 
-  (function () {
-    /* form valid */
-    var inputs = $(".form-control");
-    if (!inputs.length) {
-      alert("请刷新页面！");
-      return;
-    }
-    $(".register-sumbit-button").click(function (e) {
-      var isValid = true;
-      $(inputs).each(function (index,input) {
-        if (input.name == "name" || input.name == "email" || input.name == "telephone") {
-          if (!input.validity.valid) {
-              input.setCustomValidity("请填写正确信息"); 
-              isValid = false;
-          } else { 
-            input.setCustomValidity("");
-          }
+  // check customer input & send message to marketing by email
+  $(".register-sumbit-button").click(function (e) {
+    var isValid = true;
+    $(".form-control").each(function (index, input) {
+      if (input.name == "name" || input.name == "email" || input.name == "telephone") {
+        if (!input.validity.valid) {
+          input.setCustomValidity("请填写正确的" + input.name +"信息");
+          isValid = false;
+        } else {
+          input.setCustomValidity("");
         }
-      })
-      if(isValid){
-        var usrInfo = formatEmailHtml("#textarea", $(".register-form").serializeObject());
-        /* send email */
-        $.ajax({
-          type: 'POST',
-          url: 'http://msgg.i.qingcdn.com/api/app/1.0/msgg/submitmail',
-          headers: {
-            'Content-Type': 'application/json;charset:utf-8',
-          },
-          data: JSON.stringify({
-            token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
-            params: {
-              address: ["ronghao.zhi@baishancloud.com","biao.zhang@baishancloud.com","amy.yang@baishancloud.com","jenna.qi@baishancloud.com"], 
-              title: "新客户",
-              content: usrInfo,
-            }
-          }),
-          success: function (res) {
-            if (!res.errno){
-              alert("提交成功！");
-              $('.register-form')[0].reset();
-            } else {
-              alert("提交失败，请重新提交！");
-              console.log(res);
-              sendSlack(res);
-            }
-          },
-          error: function (err) {
-            alert("请使用谷歌等新版本浏览器！");
-            console.log(err);
-            sendSlack(err);
-          }
-        });
       }
-    });
-    function sendSlack (err) {
+    })
+    if (isValid) {
+      var usrInfo = formatEmailHtml("#textarea", $(".register-form").serializeObject());
+      /* send email */
       $.ajax({
         type: 'POST',
-        url: 'https://hooks.slack.com/services/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',
+        url: 'http://msgg.i.qingcdn.com/api/app/1.0/msgg/submitmail',
+        headers: {
+          'Content-Type': 'application/json;charset:utf-8',
+        },
         data: JSON.stringify({
-          text: 'snedEmail错误信息：' + err + ' ##新客户！ ' + JSON.stringify(dataObj)
+          token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
+          params: {
+            address: ["ronghao.zhi@baishancloud.com", "biao.zhang@baishancloud.com", "amy.yang@baishancloud.com", "jenna.qi@baishancloud.com"],
+            title: "新客户",
+            content: usrInfo,
+          }
         }),
-        success: function () {
-          console.log('^_^ slack_info');
+        success: function (res) {
+          if (!res.errno) {
+            alert("提交成功！");
+            $('.register-form')[0].reset();
+          } else {
+            alert("提交失败，请重新提交！");
+            console.log(res);
+            sendSlack(res);
+          }
+        },
+        error: function (err) {
+          alert("请使用谷歌等新版本浏览器！");
+          console.log(err);
+          sendSlack(err);
         }
       });
     }
-    function formatEmailHtml (tpDomId, obj) {
-      var tp = $(tpDomId)[0].value;
-      var reg = /\$(\w+)\$/g;
-      while ((results = reg.exec(tp)) != null) {
-        if (results[1]) {
-          tp = tp.replace(results[0], obj[results[1]]);
-        }
+  });
+
+  function sendSlack(err) {
+    $.ajax({
+      type: 'POST',
+      url: 'https://hooks.slack.com/services/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',
+      data: JSON.stringify({
+        text: 'snedEmail错误信息：' + err + ' ##新客户！ ' + JSON.stringify(dataObj)
+      }),
+      success: function () {
+        console.log('^_^ slack_info');
       }
-      return tp;
+    });
+  }
+
+  function formatEmailHtml(tpDomId, obj) {
+    var tp = $(tpDomId)[0].value;
+    var reg = /\$(\w+)\$/g;
+    while ((results = reg.exec(tp)) != null) {
+      if (results[1]) {
+        tp = tp.replace(results[0], obj[results[1]]);
+      }
     }
-  })();
-  
+    return tp;
+  }
+
   /* google analytics */
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
@@ -221,7 +216,7 @@ jQuery(document).ready(function () {
   });
 
   // click bottom about-us 4 links
-  function linkTab () {
+  function linkTab (hash) {
     $('[href$=' + hash + ']').parent().siblings().removeClass("in active");
     $(hash).siblings().removeClass("in active");
     $('[href$=' + hash + ']').parent().addClass("in active");
@@ -230,15 +225,16 @@ jQuery(document).ready(function () {
       scrollTop: 0
     });
   }
+
   var hash = "#about-baishan";
   window.onhashchange = function () {
     hash = window.location.hash;
     if (document.getElementById("more-nav-tabs")) {
-      linkTab();
+      linkTab(hash);
     }
   }
   hash = window.location.hash;
   if (hash) {
-    linkTab();
+    linkTab(hash);
   }
 });

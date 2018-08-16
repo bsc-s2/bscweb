@@ -17,19 +17,19 @@
 }
 
 .cdn-banner {
-    background: url(/public/image/index/product-cdn.png) center no-repeat;
+    background: url(../image/index/product-cdn.png) center no-repeat;
     background-size: cover;
 }
 .cwn-banner {
-    background: url(/public/image/index/product-cwn.png) center no-repeat;
+    background: url(../image/index/product-cwn.png) center no-repeat;
     background-size: cover;
 }
 .atd-banner {
-    background: url(/public/image/index/product-atd.png) center no-repeat;
+    background: url(../image/index/product-atd.png) center no-repeat;
     background-size: cover;
 }
 .shujufengchao-banner {
-    background: url(/public/image/index/product-fengchao.png) center no-repeat;
+    background: url(../image/index/product-fengchao.png) center no-repeat;
     background-size: cover;
 }
 
@@ -186,7 +186,7 @@
 .squeegee-handle{
     width: 37px;
     height: 376px;
-    background: url('/public/image/fengchao/squeegee-handler.png') center center no-repeat transparent;
+    background: url('../image/fengchao/squeegee-handler.png') center center no-repeat transparent;
     background-size: 100% auto;
     z-index: 100;
     overflow: visible;
@@ -216,13 +216,13 @@
 }
 .squeegee-before div {
     background-position: right center;
-    background-image: url('/public/image/fengchao/fengchao-structure-before.png');
+    background-image: url('../image/fengchao/fengchao-structure-before.png');
     background-size: 900px;
     right: 0;
 }
 .squeegee-after div {
     background-position: 0 center;
-    background-image: url('/public/image/fengchao/fengchao-structure-after.png');
+    background-image: url('../image/fengchao/fengchao-structure-after.png');
     background-size: 900px;
 }
 @media (min-width: 1200px){

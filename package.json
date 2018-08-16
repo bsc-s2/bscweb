@@ -1,5 +1,5 @@
 {
-  "name": "bscweb-2",
+  "name": "bscweb",
   "version": "1.0.0",
   "description": "测试地址: http://172.18.2.32 官网项目，基于Jekyll进行开发。",
   "private": true,
@@ -30,6 +30,7 @@
     "eslint-loader": "^2.1.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.11",
+    "generate-asset-webpack-plugin": "^0.3.0",
     "html-webpack-plugin": "^3.2.0",
     "jquery": "^3.3.1",
     "less-loader": "^4.1.0",

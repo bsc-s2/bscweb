@@ -1,8 +1,9 @@
 const path = require('path');
 const webpack = require('webpack');
-// const htmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
-var UglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
+const GenerateAssetPlugin = require('generate-asset-webpack-plugin');
+const UglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
+const yaml = require('js-yaml');
 
 module.exports = {
   //文件入口
@@ -12,7 +13,7 @@ module.exports = {
   output: {
     path: __dirname + '/dist/',
     publicPath: 'http://localhost:4000/dist/',
-    filename: 'js/[name].bundle.js'
+    filename: 'js/[hash:8].[name].bundle.js'
   },
   resolve: {
     modules: [
@@ -84,7 +85,14 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin('css/[name].bundle.css'),
+    new GenerateAssetPlugin({
+      filename: '../_data/hash-name.yml',
+      fn: (compilation, cb) => {
+          cb(null, createHashData(compilation));
+      },
+      extraFiles: []
+    }),
+    new ExtractTextPlugin('css/[hash:8].[name].bundle.css'),
     new webpack.ProvidePlugin({
       jQuery: "jquery",
       $: "jquery"
@@ -96,3 +104,13 @@ module.exports = {
     })
   ]
 };
+function createHashData(compilation) {
+    var chunk = compilation.chunks[0];
+    var jsHash = chunk.files[0];
+    var cssHash = chunk.files[1];
+    console.log(jsHash,cssHash);
+    return yaml.dump({
+        jsHash: jsHash,
+        cssHash: cssHash
+      })
+}

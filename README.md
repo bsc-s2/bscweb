@@ -49,10 +49,10 @@
 ## 开发
 
 ```bash
-$ jekyll serve         # 访问 http://127.0.0.1:4000/
+npm install            # 如果某loader版本不兼容 请使用`cnpm install xxx-loader --save-dev`进行手动安装
+npm run build          # 启用webpack将js、css代码打包压缩到 /dist/ 下
 
-cnpm insatll           # 如果报错某个loader版本不兼容 请使用 cnpm install xxx-loader --save-dev 进行手动安装
-npm run build          # 启用 webpack打包压缩js/css代码到/dist/ 
+$ jekyll serve         # 访问 http://127.0.0.1:4000/
 ```
 
 ## 部署测试

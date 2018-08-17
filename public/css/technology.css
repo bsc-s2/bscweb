@@ -170,6 +170,13 @@
 
 
 /* fengchao structure */
+.intel-ad {
+    width: 100%;
+    background-color: #f4f7fa;
+}
+.intel-ad img {
+    margin: 0 auto;
+}
 .fengchao-structure {
     padding: 80px 0;
     text-align: center;

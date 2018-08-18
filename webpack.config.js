@@ -12,7 +12,7 @@ module.exports = {
   },
   output: {
     path: __dirname + '/dist/',
-    publicPath: 'http://localhost:4000/dist/',
+    publicPath: '/dist/',
     filename: 'js/[hash:8].[name].bundle.js'
   },
   resolve: {

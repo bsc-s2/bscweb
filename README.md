@@ -45,11 +45,11 @@
   - image
   - js
 ```
-
+兼容
 ## 开发
 
 ```bash
-npm install            # 如果某loader版本不兼容 请使用`cnpm install xxx-loader --save-dev`进行手动安装
+cnpm install           # warn`版本`兼容问题提醒  可以忽略
 npm run build          # 启用webpack将js、css代码打包压缩到 /dist/ 下
 
 $ jekyll serve         # 访问 http://127.0.0.1:4000/

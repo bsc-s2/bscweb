@@ -45,14 +45,14 @@
   - image
   - js
 ```
-兼容
+
 ## 开发
 
 ```bash
-cnpm install           # warn`版本`兼容问题提醒  可以忽略
+npm install            # warn`版本不兼容` 请忽略 
 npm run build          # 启用webpack将js、css代码打包压缩到 /dist/ 下
 
-$ jekyll serve         # 访问 http://127.0.0.1:4000/
+$ jekyll serve         # 访问 http://127.0.0.1:4000/ 
 ```
 
 ## 部署测试

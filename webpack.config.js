@@ -5,14 +5,16 @@ const GenerateAssetPlugin = require('generate-asset-webpack-plugin');
 const UglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
 const yaml = require('js-yaml');
 
+const webpackBuild = '/build/'
+
 module.exports = {
   //文件入口
   entry: {
     'main': './public/app.js'
   },
   output: {
-    path: __dirname + '/dist/',
-    publicPath: 'http://localhost:4000/dist/',
+    path: __dirname + webpackBuild,
+    publicPath: webpackBuild,
     filename: 'js/[hash:8].[name].bundle.js'
   },
   resolve: {

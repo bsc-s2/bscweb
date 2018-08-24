@@ -96,47 +96,16 @@ jQuery(document).ready(function () {
       }
     })
     if (isValid) {
-      var usrInfo = formatEmailHtml("#textarea", $(".register-form").serializeObject());
-      /* send email */
-      $.ajax({
-        type: 'POST',
-        url: 'http://msgg.i.qingcdn.com/api/app/1.0/msgg/submitmail',
-        headers: {
-          'Content-Type': 'application/json;charset:utf-8',
-        },
-        data: JSON.stringify({
-          token: '4e7dcfd0ea30e6fbe77518966f80f2eb',
-          params: {
-            address: ["ronghao.zhi@baishancloud.com", "biao.zhang@baishancloud.com", "amy.yang@baishancloud.com", "jenna.qi@baishancloud.com"],
-            title: "新客户",
-            content: usrInfo,
-          }
-        }),
-        success: function (res) {
-          if (!res.errno) {
-            alert("提交成功！");
-            $('.register-form')[0].reset();
-          } else {
-            alert("提交失败，请重新提交！");
-            console.log(res);
-            sendSlack(res);
-          }
-        },
-        error: function (err) {
-          alert("请使用谷歌等新版本浏览器！");
-          console.log(err);
-          sendSlack(err);
-        }
-      });
+      sendSlack($(".register-form").serializeObject())
     }
   });
 
-  function sendSlack(err) {
+  function sendSlack(userObj) {
     $.ajax({
       type: 'POST',
       url: 'https://hooks.slack.com/services/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',
       data: JSON.stringify({
-        text: 'snedEmail错误信息：' + err + ' ##新客户！ ' + JSON.stringify(dataObj)
+        text: '##新客户 姓名：'+ userObj.name +' 公司： '+ (userObj.company || '未填写') +' 电话：'+ userObj.telephone +' 邮件地址：'+ userObj.email +' 职位：'+ (userObj.postion || '未填写') +' 需求：'+ (userObj.requirement || '未填写')
       }),
       success: function () {
         console.log('^_^ slack_info');

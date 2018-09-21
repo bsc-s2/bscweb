@@ -1,4 +1,5 @@
 $(document).ready(function () {
+    $('#head').css("height", window.window.innerHeight.toString())
     /* tabs */
     $('.jobs #tabsTrigger li').click(function (e) {
         // event.stopPropagation()
@@ -30,4 +31,15 @@ $(document).ready(function () {
             $(this).find('.hover-item').animate({"top": "92px"}, "fast");
         }
     )
+    $('.jobs-nav').click(function(e){
+      if($($(e.target).parents()[2]).prop("tagName") == 'LI') {
+        $($(e.target).parents()[2]).addClass("active").siblings().removeClass("active")
+      } else{
+        $($(e.target).parents()[0]).addClass("active").siblings().removeClass("active")
+      }
+    })
+    // var pathname = window.location.pathname
+    // if( /\d*\/job\/\d*/.test(pathname)){
+    //   $('.bottom-nav-cn').css({"display": "none"})
+    // }
 })

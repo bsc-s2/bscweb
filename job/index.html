@@ -3,10 +3,10 @@ layout: default
 title: 
 ---
 
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-2">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -16,31 +16,31 @@ title:
         <div class="header-logo">
           <img src="{{ site.baseurl }}/public/image/logo/logo_write_cn.png">
         </div>
-    </a>
+      </a>
     </div>
-    <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-2">
-      <ul id="jobs-navbar" class="jobs-nav nav navbar-nav">
-        <li><a href="#">首页</a></li>
-        <li class="hidden-sm hidden-xs navbar-md"><a href="#jobs-position-xl">招聘职位</a></li>
-        <li class="navbar-xs"><a class="navbar-xs" href="#jobs-position-xs">招聘职位</a></li>
+    <div class="collapse navbar-collapse navbar-right" id="bs-navbar-collapse-2">
+      <ul id="navbar" class="jobs-nav nav navbar-nav">
+        <li class="active"><a href="#" >首页</a></li>
+        <li class="hidden-sm hidden-xs navbar-md"><a href="#jobs-position-xl" >招聘职位</a></li>
+        <li class="navbar-xs"><a class="navbar-xs" href="#jobs-position-xs" >招聘职位</a></li>
         <!-- <li><a href="#jobs-content">招聘流程</a></li> -->
         <li class="dropdown">
             <a class="navbar-md">招聘流程</a>
             <a class="navbar-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">招聘流程</a>
             <ul class="dropdown-menu">
-              <li navbar-item-xs><a href="#zhaopin">招聘流程</a></li>
-              <li navbar-item-xs><a href="#xuanjiang">宣讲会流程</a></li>
+              <li navbar-item-xs><a href="#zhaopin" >招聘流程</a></li>
+              <li ><a href="#xuanjiang" >宣讲会流程</a></li>
             </ul>
         </li>
-        <li><a href="#jobs-about">关于白山</a></li>
-    </ul>
-  </div>
+        <li><a href="#jobs-about" >关于白山</a></li>
+      </ul>
+    </div>
 </nav>
 <div class="jobs" >
     <header id="head">
       <img class="head-img  hidden-xs" src="{{ site.baseurl }}/public/image/job/IMG-HEAD.jpg">
-      <img class="process-img  visible-xs" src="{{ site.baseurl }}/public/image/job/IMG-HEAD-sm.jpg">
-      <!-- <div class="baishan-2018">2019秋季校园招聘</div> -->
+      <img class="head-img  visible-xs" src="{{ site.baseurl }}/public/image/job/IMG-HEAD-sm.jpg">
+      <!-- <div class="baishan-2019">2019秋季校园招聘</div> -->
     </header>
     <div id="jobs-position-xl" class="content-box position hidden-sm hidden-xs">
         <h2 class="title"><a name="招聘岗位">招聘岗位</a></h2>
@@ -925,8 +925,8 @@ title:
                 <div class="hover-item">
                     <p class="item-title"><a class="goto" >网申</a></p>
                     <div class="item-info">
-                        <p>国内 9.26-10.29</p>
-                        <p>北美 9.26-10.29</p>
+                        <p>国内 10.26开始</p>
+                        <p>北美 10.26-10.25</p>
                     </div>
                 </div>
             </div>
@@ -994,7 +994,9 @@ title:
                     <p>网申</p>
                 </div>
                 <div class="item-info-xs">
-                    <p>&nbsp &nbsp 10月26日-10月29日</p>
+                    <!-- <p>&nbsp &nbsp 10月26日-10月29日</p> -->
+                    <p>国内 9月26日开始</p>
+                    <p>北美 9月26日-10月25日</p>
                 </div>
             </div>
             <div class="flow-item-xs">
@@ -1029,13 +1031,13 @@ title:
                     <p>Openday</p>
                 </div>
                 <div class="item-info-xs">
-                    <p>厦门 10月17日</p>
-                    <p>贵安 10月26日</p>
-                    <p>北京 11月01日</p>
+                    <p>北京 10月17日</p>
+                    <p>厦门 10月26日</p>
+                    <p>贵安 11月01日</p>
                 </div>
             </div>
             <div class="down">
-                <img src="{{ site.baseurl }}/public/image/job/down.png">
+                <a href="#xuanjiang"><img src="{{ site.baseurl }}/public/image/job/down.png"></a>
             </div>
         </div>
     </div>
@@ -1045,7 +1047,7 @@ title:
         <img class="process-img content visible-xs" src="{{ site.baseurl }}/public/image/job/xuanjiangliucheng-sm.jpg">
     </div>
     
-    <div class="content-box content-openday">
+    <div id="" class="content-box content-openday">
         <section class="content clearfix">
             <div class="col-sm-6 col-xs-12 openday-box-l">
                 <div class="openday-left">
@@ -1079,19 +1081,18 @@ title:
         <div class="jobs-licheng">
             {% assign courses=site.data.baishan-course %}
             {% for course in courses %}
-            <div class="course-item"><img class="course-img" src="/public/image/more/{{{course.img}}"><span class="course-text">{{course.text}}</span></div>
+            <div class="course-item"><img class="course-img" src="/public/image/more/{{course.img}}"><span class="course-text">{{course.text}}</span></div>
             {% endfor %}
         </div>
     </div>
 
-    <div class="content-box">
-        <h2 class="title">公司福利</h2>
+    <div class="content-box content-about staff-about">
+        <h2 class="title ">员工关怀</h2>
         <section class="content content-enjoy clearfix">
             <div class="col-sm-3 col-xs-6 enjoy-item">
                 <div class="enjoy-box">
                     <button >最棒办公室</button>
-                    <p>超大工位</p>
-                    <p>立式工位</p>
+                    <p>开放式工位</p>
                     <p>高逼格餐厅</p>
                     <p>胶囊公寓</p>
                     <p>健身房</p>
@@ -1103,116 +1104,113 @@ title:
             <div class="col-sm-3 col-xs-6 enjoy-item">
                 <div class="enjoy-box">
                     <button >最贴心的福利</button>
-                    <p>一日三餐</p>
-                    <p>时令水果</p>
-                    <p>下午茶</p>
-                    <p>24小时零食柜</p>
+                    <p>六险一金</p>
+                    <p>弹性办公时间</p>
+                    <p>免费三餐</p>
+                    <p>水果下午茶</p>
+                    <p>24小时饮料零食</p>
                     <p>生日会</p>
-                    <p>节日礼品</p>
+                    <p>节日party&礼品</p>
                     <p>白山周边礼品</p>
                 </div>
             </div>
             <div class="col-sm-3 col-xs-6 enjoy-item">
                 <div class="enjoy-box">
                     <button >健康快乐体验</button>
-                    <p>补充医疗保险</p>
-                    <p>每周健康诊疗</p>
-                    <p>幸福大讲堂</p>
-                    <p>瑜伽课</p>
+                    <p>每周中医诊疗</p>
+                    <p>每年健康体检</p>
+                    <p>瑜伽小课堂</p>
+                    <p>绘画小课堂</p>
+                    <p>吉他小课堂</p>
                     <p>游泳队</p>
                     <p>足球队</p>
                     <p>篮球队</p>
                     <p>羽毛球队</p>
+                    <p>幸福大讲堂</p>
                 </div>
             </div>
             <div class="col-sm-3 col-xs-6 enjoy-item">
                 <div class="enjoy-box">
                     <button >最全面的培养</button>
-                    <p>定制化培训课程</p>
-                    <p>专属导师培养</p>
-                    <p>职业生涯辅导</p>
-                    <p>业界大牛分享</p>
-                    <p>游戏化学习</p>
+                    <p>专属导师+师兄姐</p>
+                    <p>定制化培养方案</p>
+                    <p>项目owner制培养</p>
+                    <p>业界大牛1on1</p>
                     <p>自驱式快速成长</p>
-                    <p>弹性办公</p>
+                    <p>扬长不避短</p>
                 </div>
             </div>
         </section>
-    </div>
 
-    <div class="content-box content-about">
-        <h2 class="title ">员工关怀</h2>
-
-        <!-- <div class="jobs-staff-container">
-          <div class="jobs-staff-left">
-            <p>1</p>
-          </div>
-          <div class="jobs-staff-mid">
-            <div class="jobs-mid-top">
-                <p>2</p>
-            </div>
-            <div class="jobs-mid-btm">
-                <p>3</p>
-            </div>
-          </div>
-          <div class="jobs-staff-right">
-              <div class="jobs-right-top">
-                <p >4</p>
-              </div>
-              <div class="jobs-right-btm">
-                <div class="jobs-right-left">
-                  <p>5</p>
+        <section class="content">
+          <div id="myCarousel" class="carousel slide">
+            <!-- <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>    -->
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img src="" alt="First slide">
                 </div>
-                 <div class="jobs-right-right">
-                    <p>6</p>
-                 </div>
-              </div>
+                <div class="item">
+                    <img src="" alt="Second slide">
+                </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
           </div>
-        </div> -->
-
+        </section>
     </div>
-    <div class="hidden-xs content-box content-about">
+
+    <div class="hidden-xs content-box content-about staff-about-more">
         <h2 class="title ">师兄师姐说</h2>
         <div class="jobs-slide-content">
-        <div class="job-slide">
-          <div id="carousel-banner" class="jobs-carousel-banner carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carousel-banner" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-banner" data-slide-to="1"></li>
-                <li data-target="#carousel-banner" data-slide-to="2"></li>
-                <li data-target="#carousel-banner" data-slide-to="3"></li>
-                <li data-target="#carousel-banner" data-slide-to="4"></li>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-                <div class="jobs-item item active index-banner" id="index-banner-1">
-                    <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/yanhaili.jpg">
-                    <div style="overflow:auto; height:400px;"> <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp一直觉得自己是幸运的，这种感觉在去年斩获了白山 offer 时更加强烈。庆幸自己在踏入职场前意识到自己想要的，并有了相对准确的自我定位，于是褪去懵懂，在我准备好时，白山来了，纵使当时我对这个行业还一无所知。作为 90 后文艺青年，历经数次面试，白山是当时唯一让我感受到兼具着专业和情怀的公司，一切的安排都与我内心深度契合，我想，就是这儿了。而如今，白山给予我荣光，我便选择站在它身旁。
-                    <br><b style="float: right;font-size:2em;">”</b><br><br>-- 严海丽 管培生  毕业 0.5 年  -北京工业大学硕士 </p></div>
-                </div>
-                <div class="jobs-item item index-banner" id="index-banner-2">
-                    <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/mayuanyuan.jpg">
-                     <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp有幸参与 EC 项目研发，10+ 人团队，半个盛夏，紧锣密鼓，唇枪舌战，成功推出 EC2.0。自此深刻体会独立精神，自由思想之酣畅淋漓。白山鼓励每个人做独特的自己，如果你想保护自己的棱角，如果你想见识更多的与众不同，来白山吧。我们不一样，但是无妨我们在一起。
-                    <br><b style="float: right;font-size:2em;">”</b><br><br>-- 马媛媛 研发工程师  毕业 2 年  -北京航空航天大学硕士 </p>
-                </div>
-                <div class="jobs-item item">
-                    <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/zhangsiwen.jpg">
-                    <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp在白山的这两年，每天都过得很充实，通过一个个项目，从一个职场小白到项目 owner，迅速成长，拓宽自己的边界和视野。这是一个充满挑战和机遇的平台，还有彼此相互帮助的同事。很喜欢一群人为了一个目标，齐心协力不断奋斗，最终获得成果的感觉，很喜欢每天都能感受到公司在昂扬向上发展，对公司的未来充满了期待。
+          <div class="jobs-slide">
+            <div id="carousel-banner" class="jobs-carousel-banner carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                  <li data-target="#carousel-banner" data-slide-to="0" class="active"></li>
+                  <li data-target="#carousel-banner" data-slide-to="1"></li>
+                  <li data-target="#carousel-banner" data-slide-to="2"></li>
+                  <li data-target="#carousel-banner" data-slide-to="3"></li>
+                  <li data-target="#carousel-banner" data-slide-to="4"></li>
+              </ol>
+              <div class="carousel-inner" role="listbox">
+                  <div class="jobs-item item active index-banner"  id="index-banner-0">
+                      <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/yanhaili.jpg">
+                      <div > <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp一直觉得自己是幸运的，这种感觉在去年斩获了白山 offer 时更加强烈。庆幸自己在踏入职场前意识到自己想要的，并有了相对准确的自我定位，于是褪去懵懂，在我准备好时，白山来了，纵使当时我对这个行业还一无所知。作为 90 后文艺青年，历经数次面试，白山是当时唯一让我感受到兼具着专业和情怀的公司，一切的安排都与我内心深度契合，我想，就是这儿了。而如今，白山给予我荣光，我便选择站在它身旁。
+                      <br><b style="float: right;font-size:2em;">”</b><br><br>-- 严海丽 管培生  毕业 0.5 年  -北京工业大学硕士 </p></div>
+                  </div>
+                  <div class="jobs-item item index-banner" >
+                      <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/mayuanyuan.jpg">
+                      <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp有幸参与 EC 项目研发，10+ 人团队，半个盛夏，紧锣密鼓，唇枪舌战，成功推出 EC2.0。自此深刻体会独立精神，自由思想之酣畅淋漓。白山鼓励每个人做独特的自己，如果你想保护自己的棱角，如果你想见识更多的与众不同，来白山吧。我们不一样，但是无妨我们在一起。
+                      <br><b style="float: right;font-size:2em;">”</b><br><br>-- 马媛媛 研发工程师  毕业 2 年  -北京航空航天大学硕士 </p>
+                  </div>
+                  <div class="jobs-item item index-banner" >
+                      <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/zhangsiwen.jpg">
+                      <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp在白山的这两年，每天都过得很充实，通过一个个项目，从一个职场小白到项目 owner，迅速成长，拓宽自己的边界和视野。这是一个充满挑战和机遇的平台，还有彼此相互帮助的同事。很喜欢一群人为了一个目标，齐心协力不断奋斗，最终获得成果的感觉，很喜欢每天都能感受到公司在昂扬向上发展，对公司的未来充满了期待。
 
-                    <br><b style="float: right;font-size:2em;">”</b><br><br>-- 张思文 研发工程师  毕业 2 年 -厦门大学本科 </p>
-                </div>
-                 <div class="jobs-item item">
-                    <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/zhanghui.jpg">
-                    <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp白山给我提供了实现梦想的舞台，一路与公司共同成长、进步，让我最初的遐想与冲劲得以延续。这一路有艰辛、有泪水、有欢笑，我也得到了自信与荣誉，收获了友情与亲情。学弟学妹们，加入白山吧，让我们一起携手，共创白山与你我的未来。
-                    <br><b style="float: right;font-size:2em;">”</b><br><br>-- 张慧 HRBP  毕业 1 年  -贵州大学硕士 </p>
-                </div>
-                 <div class="jobs-item item">
-                    <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/gaoxin.jpg">
-                    <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp我是一名会计专业的毕业生，忐忑不安的来到了走在互联网技术前沿的白山，但我发现会有小哥哥小姐姐培训专业知识，会有师父带我去销售实战，会有前辈毫无保留的答疑解惑。也是这些让我学会了怎样做好一名 sales。在白山工作就像在大学一样有趣，每天的运动社团，定期的生日 party，节日的欢乐气氛，这些使我迅速融入到了这个集体中。我的梦想是赚很多钱给父母带来更好的生活，为了梦想我在白山努力着也成长着。
-                    <br><b style="float: right;font-size:2em;">”</b><br><br>-- 高鑫 销售经理  毕业 1 年  -东北林业大学本科  </p>
+                      <br><b style="float: right;font-size:2em;">”</b><br><br>-- 张思文 研发工程师  毕业 2 年 -厦门大学本科 </p>
+                  </div>
+                  <div class="jobs-item item index-banner" >
+                      <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/zhanghui.jpg">
+                      <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp白山给我提供了实现梦想的舞台，一路与公司共同成长、进步，让我最初的遐想与冲劲得以延续。这一路有艰辛、有泪水、有欢笑，我也得到了自信与荣誉，收获了友情与亲情。学弟学妹们，加入白山吧，让我们一起携手，共创白山与你我的未来。
+                      <br><b style="float: right;font-size:2em;">”</b><br><br>-- 张慧 HRBP  毕业 1 年  -贵州大学硕士 </p>
+                  </div>
+                  <div class="jobs-item item index-banner" >
+                      <img class="jobs-img banner-img" src="{{ site.baseurl }}/public/image/job/gaoxin.jpg">
+                      <p class="banner-text"><b style="font-size:2em;" >“</b><br>&nbsp &nbsp &nbsp我是一名会计专业的毕业生，忐忑不安的来到了走在互联网技术前沿的白山，但我发现会有小哥哥小姐姐培训专业知识，会有师父带我去销售实战，会有前辈毫无保留的答疑解惑。也是这些让我学会了怎样做好一名 sales。在白山工作就像在大学一样有趣，每天的运动社团，定期的生日 party，节日的欢乐气氛，这些使我迅速融入到了这个集体中。我的梦想是赚很多钱给父母带来更好的生活，为了梦想我在白山努力着也成长着。
+                      <br><b style="float: right;font-size:2em;">”</b><br><br>-- 高鑫 销售经理  毕业 1 年  -东北林业大学本科  </p>
+                  </div>
                 </div>
               </div>
-            </div>
-        </div>
+          </div>
         </div>
     </div>
     <footer class="jobs-footer hidden-xs">

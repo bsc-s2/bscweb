@@ -25,6 +25,7 @@
     height: 100%;
     /* clear: both; */
     display: block;
+    object-fit: cover;
 }
 
 .jobs .flow {
@@ -92,10 +93,10 @@
 }
 @media(max-width:768px) {
     .jobs .flow {
-        padding: 30px 10px;
+        padding: 30px 65px;
     }
     .jobs .flow .flow-arrow {
-        width: 45px;
+        width: 40px;
     }
 }
 @media(max-width:767px) {
@@ -150,21 +151,25 @@
         padding-top: 100px;
     }
 }
-@media(min-width:357px) and (max-width: 768px ) {
+@media(max-width: 768px) {
     .jobs .content-box h2.title {
         margin-left: 15%;
-        margin-bottom: 60px;
+        margin-bottom: 40px;
         padding-top: 70px;
     }
 }
 
 @media(max-width:357px) {
-    .jobs .content-box h2.title,
-    .jobs .content-box h2.title a{
-        margin-bottom: 40px;
-        padding-top: 20px;
+    .jobs .content-box h2.title {
+        margin-left: 15%;
+        margin-bottom: 20px;
+        padding-top: 50px;
     }
-}
+    .jobs .content-box h2.title,
+    .jobs .content-box h2.title a {
+        font-size:18px;
+    }
+} 
 
 @media(min-width:992px) {
     .jobs .tabs {
@@ -381,7 +386,7 @@
 }
 @media(max-width:991px) {
     .jobs .content{
-        padding:0 50px;
+        padding:0 100px;
         width:100%;
         box-sizing: border-box;
     }

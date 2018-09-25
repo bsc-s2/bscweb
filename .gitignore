@@ -39,5 +39,3 @@ validation-report.json
 
 # Folders to ignore
 node_modules
-build/
-_data/hash-name.yml

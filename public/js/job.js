@@ -1,9 +1,9 @@
 $(document).ready(function () {
-    $('#head').css("height", window.window.innerHeight.toString())
+    $('#jobs-head').css("height", window.window.innerHeight.toString())
     /* tabs */
-    $('.jobs #tabsTrigger li').click(function (e) {
-        // event.stopPropagation()
-        $('.jobs #tabsTrigger li').removeClass('active')
+    $('.jobs #jobs-tabsTrigger li').click(function (e) {
+        e.stopPropagation()
+        $('.jobs #jobs-tabsTrigger li').removeClass('active')
         $(this).addClass('active')
         var id = $(this).attr('tab-data')
         var contentId = '#' + id

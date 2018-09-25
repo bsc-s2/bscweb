@@ -358,17 +358,17 @@
 .jobs .content-profile {
     font-size: 14px;
     color: #4A4A4A;
-    padding: 0 20% 90px 20%;
+    padding: 0 20% 0px 20%;
 }
 @media(max-width:768px) {
     .jobs .content-profile {
-        padding: 0 15% 90px 15%;
+        padding: 0 15% 0px 15%;
     }
 }
 @media(max-width:375px) {
     .jobs .content-profile {
         font-size: 1em;
-        padding: 0 55px 90px 55px;
+        padding: 0 55px 0px 55px;
     }
     .jobs .company-profile-more {
         padding-bottom: 10px;
@@ -499,7 +499,7 @@
 
 @media(max-width:768px) {
     .jobs header {
-        background: url(../image/job/IMG-HEAD-sm.jpg) no-repeat;
+        /* background: url(../image/job/IMG-HEAD-sm.jpg) no-repeat; */
         background-size: 100% auto;
     }
     .jobs .flow-xs {
@@ -507,7 +507,7 @@
         color: #ffffff;
     }
     .jobs .flow-xs .flow-item-xs {
-        background: rgba(0, 0, 0, 0.3);
+        background: rgb(193,217,245);
         margin-top: 8px;
         padding: 8px 5px;
     }
@@ -540,12 +540,10 @@
         top: -15px;
     }
 }
-.jobs .content-offer {
-    background: #33649D;
-    padding-bottom: 25px;
+.jobs .content-offer .process-img-lg {
+    margin-top: 90px;
 }
 .jobs .content-offer .title-offer {
-    color: #fff !important;
     margin-bottom: 0 !important;
 }
 
@@ -570,7 +568,7 @@
 }
 .jobs .content-openday {
     margin-top:50px;
-    margin-bottom:50px;
+    padding-bottom:50px;
     text-align: center;
 }
 @media(min-width:768px){
@@ -697,6 +695,17 @@
     background-color: rgb(94, 0, 255);
     flex: 2;
 }
+.jobs .staffCare {
+    margin-top:60px;
+}
+.jobs .staffCare .staffCare-carousel {
+    height: 568px;
+    width: 100%;
+}
+.jobs .staffCare .staffCare-carousel .staffCare-img {
+    height: 508px;
+    width: 100%;
+}
 @media(min-width:769px) {
      .jobs .jobs-slide-content{
         position: relative;
@@ -740,6 +749,17 @@
     }
 }
 @media(min-width:375px) and (max-width:768px) {
+     .jobs .staffCare {
+          margin-top: 40px;
+      }
+      .jobs .staffCare .staffCare-carousel {
+          height: 498px;
+          width: 100%;
+      }
+      .jobs .staffCare .staffCare-carousel .staffCare-img {
+          height: 448px;
+          width: 100%;
+      }
     .jobs .jobs-slide-content{
         position: relative;
         left: 15%;

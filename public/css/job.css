@@ -352,24 +352,32 @@
 .jobs .company-profile-more {
     padding-bottom: 60px;
 }
-.jobs .company-profile .title-company{
+.jobs .company-profile .title-company {
     line-height: 2em;
     color: #fff !important;
 }
 .jobs .content-profile {
-    font-size: 14px;
+    font-size: 1em;
     color: #4A4A4A;
     padding: 0 20% 0px 20%;
 }
 @media(max-width:768px) {
+    .jobs .content-profile{
+      font-size: 12px;
+    }
+}
+@media(max-width:768px) {
     .jobs .content-profile {
-        padding: 0 15% 0px 15%;
+        padding: 0 15% 60px 15%;
     }
 }
 @media(max-width:375px) {
     .jobs .content-profile {
-        font-size: 1em;
-        padding: 0 55px 0px 55px;
+        font-size: 12px;
+        padding: 0 55px 30px 55px;
+    }
+    .jobs .company-profile {
+      padding-bottom: 60px;
     }
     .jobs .company-profile-more {
         padding-bottom: 10px;
@@ -435,6 +443,7 @@
     .jobs .content-enjoy{
         text-align: center;
         padding: 0 40px;
+        padding-bottom: 40px;
     }
 }
 
@@ -459,7 +468,7 @@
 }
 .jobs .enjoy-item p{
     color: #4a4a4a;
-    font-size: 14px;
+    font-size: 12px;
     padding:0 18px 8px;
     text-align: left;
     margin:0

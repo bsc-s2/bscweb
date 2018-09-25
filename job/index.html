@@ -32,7 +32,16 @@ title: 2019秋季校园招聘
               <li class="bsc-close"><a href="#xuanjiang" >宣讲会流程</a></li>
             </ul>
         </li>
-        <li><a href="#jobs-about" class="bsc-close" >关于白山</a></li>
+        <li class="dropdown">
+            <a class="navbar-md" >关于白山</a>
+            <a class="navbar-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">关于白山</a>
+             <ul class="dropdown-menu">
+              <li navbar-item-xs class="bsc-close"><a href="#jobs-about" >公司简介</a></li>
+              <li class="hidden-xs bsc-close"><a href="#licheng" >公司历程</a></li>
+              <li class="bsc-close"><a href="#guanhuai" >员工关怀</a></li>
+              <li class="hidden-sx hidden-xs bsc-close"><a href="#shixiongshijie" >师兄师姐说</a></li>
+            </ul>
+        </li>
       </ul>
     </div>
 </nav>
@@ -917,6 +926,7 @@ title: 2019秋季校园招聘
         <h2 class="title title-offer">招聘流程</h2>
         <!-- <img class="process-img-lg content hidden-xs" src="{{ site.baseurl }}/public/image/job/zhaopinliucheng-lg.png"> -->
         <img style="clear:both;padding:50px 70px 0 70px;" class="process-img-sm content visible-xs" src="{{ site.baseurl }}/public/image/job/zhaopinliucheng-sm.jpg">
+        <img style="clear:both;padding:50px 70px 0 70px;" class="process-img-sm content visible-xs" src="{{ site.baseurl }}/public/image/job/openday.jpg">
         <div class="flow hidden-xs">
             <div class="flow-item">
                 <img src="{{ site.baseurl }}/public/image/job/net.png">
@@ -1073,7 +1083,7 @@ title: 2019秋季校园招聘
         </div>
     </div>
     
-    <div style="background-color: #33649D; color:#fff !important " class="content-box company-profile-more">
+    <div id="licheng" style="background-color: #33649D; color:#fff !important " class="hidden-xs content-box company-profile-more">
         <h2 style="color:#fff" class="title">公司历程</h2>
         <div class="jobs-licheng">
             {% assign courses=site.data.baishan-course %}
@@ -1083,7 +1093,7 @@ title: 2019秋季校园招聘
         </div>
     </div>
 
-    <div style="background-color:rgb(249,250,252)" class="content-box content-about staff-about">
+    <div id="guanhuai" style="background-color:rgb(249,250,252)" class="content-box content-about staff-about">
         <h2 class="title ">员工关怀</h2>
         <section class="content content-enjoy clearfix">
             <div class="col-sm-3 col-xs-6 enjoy-item">
@@ -1100,7 +1110,7 @@ title: 2019秋季校园招聘
             </div>
             <div class="col-sm-3 col-xs-6 enjoy-item">
                 <div class="enjoy-box">
-                    <button >最贴心的福利</button>
+                    <button >最贴心福利</button>
                     <p>六险一金</p>
                     <p>弹性办公时间</p>
                     <p>免费三餐</p>
@@ -1128,7 +1138,7 @@ title: 2019秋季校园招聘
             </div>
             <div class="col-sm-3 col-xs-6 enjoy-item">
                 <div class="enjoy-box">
-                    <button >最全面的培养</button>
+                    <button >最独特培养</button>
                     <p>专属导师+师兄姐</p>
                     <p>定制化培养方案</p>
                     <p>项目owner制培养</p>
@@ -1141,11 +1151,10 @@ title: 2019秋季校园招聘
         </section>
          
          <section class="hidden-xs content staffCare">
-          <div id="myCarousel" class="carousel slide">
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="0" class="active" ></li>
               <li data-target="#myCarousel" data-slide-to="1"></li>
-              <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
             </ol>   
             <div class="staffCare-carousel carousel-inner">
                 <div class="item active">
@@ -1160,9 +1169,9 @@ title: 2019秋季校园招聘
 
     </div>
 
-    <div class="hidden-xs content-box content-about staff-about-more">
+    <div id="shixiongshijie" class="content-box content-about staff-about-more">
         <h2 class="title ">师兄师姐说</h2>
-        <div class="jobs-slide-content">
+        <div class="hidden-xs jobs-slide-content">
           <div class="jobs-slide">
             <div id="carousel-banner" class="jobs-carousel-banner carousel slide" data-ride="carousel">
               <ol class="carousel-indicators">
@@ -1203,6 +1212,7 @@ title: 2019秋季校园招聘
               </div>
           </div>
         </div>
+        <img style="clear:both;padding:30px 50px 30px 50px;" class="process-img-sm content visible-xs" src="{{ site.baseurl }}/public/image/job/yuangongfengcai-sm.png">
     </div>
     <footer class="jobs-footer hidden-xs">
     </footer>

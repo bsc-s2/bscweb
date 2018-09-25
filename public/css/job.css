@@ -31,7 +31,7 @@
 .jobs .flow {
     text-align: center;
     color: #ffffff;
-    padding: 80px 0 30px 0;
+    padding: 80px 0 0 0;
     display: flex;
     justify-content: center;
 }
@@ -39,6 +39,7 @@
     display: inline-block;
     width: 102px;
     height: 92px;
+    background-color: #4a90e2;
     border: 1px #4a90e2 solid;
     border-radius: 8px;
     box-sizing: border-box;
@@ -425,16 +426,14 @@
 }
 @media(min-width: 376px) and (max-width: 768px){
     .jobs .content-enjoy{
-        /* padding: 0 50px; */
         width: 85%;
         text-align: center;
-        margin-bottom: 50px;
+        padding-bottom: 50px;
   }
 }
 @media(max-width: 375px) {
     .jobs .content-enjoy{
         text-align: center;
-        margin-bottom: 10px;
         padding: 0 40px;
     }
 }
@@ -493,7 +492,7 @@
         padding-right:45px !important;
     }
     .jobs .flow {
-      margin-bottom: 90px;
+      /* padding-bottom: 90px; */
     }
 }
 
@@ -504,10 +503,11 @@
     }
     .jobs .flow-xs {
         padding: 30px 10%;
-        color: #ffffff;
+        color: #000;
     }
     .jobs .flow-xs .flow-item-xs {
-        background: rgb(193,217,245);
+        letter-spacing: 1px;
+        background: rgb(201,221,245);
         margin-top: 8px;
         padding: 8px 5px;
     }
@@ -520,8 +520,8 @@
     .jobs .flow-xs .flow-item-xs .item-info-xs {
         display: inline-block;
         font-size: 12px;
-        padding-left: 20%;
-        border-left: 1px solid #868686;
+        padding-left: 10%;
+        border-left: 1px solid #fff;
     }
     .jobs .flow-xs .down {
         text-align: center;

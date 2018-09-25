@@ -38,6 +38,12 @@ $(document).ready(function () {
         $($(e.target).parents()[0]).addClass("active").siblings().removeClass("active")
       }
     })
+
+    $('.bsc-close').click(function(){
+      if($(window).width() <= 879) {
+        $('body > nav > div > div.navbar-header > button')[0].click()
+      }
+    })
     // var pathname = window.location.pathname
     // if( /\d*\/job\/\d*/.test(pathname)){
     //   $('.bottom-nav-cn').css({"display": "none"})

@@ -1,6 +1,4 @@
 $(document).ready(function () {
-    $('#jobs-head').css("height", window.window.innerHeight.toString())
-    /* tabs */
     $('.jobs #jobs-tabsTrigger li').click(function (e) {
         e.stopPropagation()
         $('.jobs #jobs-tabsTrigger li').removeClass('active')
@@ -44,8 +42,4 @@ $(document).ready(function () {
         $('body > nav > div > div.navbar-header > button')[0].click()
       }
     })
-    // var pathname = window.location.pathname
-    // if( /\d*\/job\/\d*/.test(pathname)){
-    //   $('.bottom-nav-cn').css({"display": "none"})
-    // }
 })

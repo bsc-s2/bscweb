@@ -334,7 +334,7 @@
     clear: both;
     display: block;
     margin: auto;
-    padding: 0 70px;
+    padding: 0 40px;
     object-fit: cover;
 }
 .jobs .process .process-img-lg {
@@ -373,7 +373,7 @@
 @media(max-width:375px) {
     .jobs .content-profile {
         font-size: 12px;
-        padding: 0 55px 30px 55px;
+        padding: 0 50px 30px 50px;
     }
     .jobs .company-profile {
       padding-bottom: 60px;

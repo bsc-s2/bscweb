@@ -1,40 +1,57 @@
 - id: job125
   col: 1
-  jobTitle: 系统研发工程师
+  jobTitle: 机器学习工程师
   hot: hot
-  time: 2017-09-01
-  jobLocation: 北京20人／厦门5人／贵安5人
+  time: 2018-09-26
+  jobLocation: 北京
   keyResponsibilities:
-  - 参与公司核心系统的设计、全网规划与布局。
-  - 独立完成系统的功能设计和开发，并对线上运行情况负责
+  - 负责云安全产品的数据模型优化、用户行为挖掘、页面质量分析等;
+  - 运用各类数据分析算法对日志数据进行分析与抽象，制定有效的的识别策略;
+  - 提高数据识别精准度，将机器学习前沿技术应用于安全领域;
   requiredQualifications:
-  - 1、计算机或相关专业硕士以上学历；
-  - 2、熟悉Linux(类Unix)操作系统，熟悉TCP/IP、http协议；
-  - 3、熟练掌握Linux环境C、Php、Perl、Python、Shell等1至2种语言，具有扎实的技术基础；
-  - 4、善于学习和思考，勤于动手，不怕繁琐，重视流程规范。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job124
+  - 1、数学、计算机相关专业硕士以上学历；
+  - 2、扎实的数学基础，熟悉常见机器学习&数据挖掘算法，对数据结构及算法设计有较为深刻的理解；
+  - 3、熟悉Linux开发环境，熟悉至少一门脚本语言，熟悉Python、Java者优先；
+  - 4、有良好的沟通能力和团队合作能力、高度的责任心；
+  - 5、对人工智能、机器学习具备浓厚的兴趣。
+  applicationURL: https://job.dajie.com/9004100100000022190.html?jobsearch=0&pagereferer=blank&keyword=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job24
   col: 2
-  jobTitle: web研发工程师（PHP）
+  jobTitle: 研发工程师
   hot: hot
-  time: 2017-09-01
-  jobLocation: 厦门5人
+  time: 2018-09-26
+  jobLocation: 北京 / 厦门 / 贵安
   keyResponsibilities:
-  - 参与公司运营支撑系统的架构与开发；
-  - 持续完善运维自动化、平台化，不断提高服务效率和服务稳定性。
+  - 参与公司核心系统的设计、全网规划与布局；
+  - 独立完成系统的功能设计和开发，并对线上运行情况负责。
   requiredQualifications:
   - 1、计算机或相关专业硕士以上学历；
   - 2、熟悉Linux(类Unix)操作系统,对计算机体系结构有一定理解；
   - 3、有一定Php、Mysql、Css、Js的开发基础，有项目实践经验者优先；
   - 4、有UI/UE设计/开发经验者优先；
   - 5、善于学习和思考，勤于动手，不怕繁琐，重视流程规范。
-  applicationURL: https://www.baishancloud.com/jobs2017/
+  applicationURL: https://job.dajie.com/9004100100000022232.html?jobsearch=0&pagereferer=blank&keyword=%E7%A0%94%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job123
+  col: 2
+  jobTitle: 前端工程师
+  hot: hot
+  time: 2018-09-26
+  jobLocation: 北京
+  keyResponsibilities:
+  - 参与公司核心系统的前端架构与开发；
+  - 编写基于Web的应用程序，创建快速，易于使用的生产应用程序。
+  requiredQualifications:
+  - 1、计算机或相关专业硕士以上学历；
+  - 2、有一定PHP、Mysql、Css、Js的开发基础，有项目实践经验者优先；
+  - 3、有UI/UE设计/开发经验者优先；
+  - 4、善于学习和思考，勤于动手，不怕繁琐，重视流程规范。
+  applicationURL: https://job.dajie.com/9004100100000022193.html?jobsearch=0&pagereferer=blank&keyword=%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
 - id: job122
   col: 3
   jobTitle: 研发运维工程师
   hot: hot
-  time: 2017-09-01
-  jobLocation: 北京5人／厦门5人／贵安15人
+  time: 2018-09-26
+  jobLocation: 北京 ／厦门 ／贵安
   keyResponsibilities:
   - 参与公司核心平台的运维，以及运维相关工具及系统的开发；
   - 推动产品架构设计与改进优化，独立完成相关系统的设计与开发。
@@ -44,126 +61,89 @@
   - 3、熟练掌握Linux环境下的 Php、Python、Shell等1至2种语言，对计算机体系结构有一定理解；
   - 4、具备很强的分析和解决问题的能力，对于攻关疑难问题具有强烈的兴趣；
   - 5、较好的团队协作及沟通能力。
-  applicationURL: https://www.baishancloud.com/jobs2017/
+  applicationURL: https://job.dajie.com/9004100100000022192.html?jobsearch=0&pagereferer=blank&keyword=%E7%A0%94%E5%8F%91%E8%BF%90%E7%BB%B4%E5%B7%A5%E7%A8%8B%E5%B8%88+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
 - id: job121
   col: 1
-  jobTitle: 网络工程师
-  hot: hot
-  time: 2017-09-01
-  jobLocation: 北京5人
-  keyResponsibilities:
-  - 1、参与公司网络建设、机房建设相关架构设计；
-  - 2、负责全网节点建设及维护工作；
-  - 3、参与构建运维工具，提高部门/公司工作效率。
-  requiredQualifications:
-  - 1、计算机相关专业本科以上学历；
-  - 2、熟悉TCP/IP协议，熟悉BGP、OSPF、ISIS等动态路由协议；
-  - 3、熟练掌握Linux环境下的 PHP、Python、Shell等1至2种语言，具有扎实的技术基础；
-  - 4、善于学习和思考，勤于动手，不怕繁琐，重视流程规范。
-  - 5、拥有CCIE证书优先。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job120
-  col: 2
-  jobTitle: 技术支持工程师
-  hot: hot
-  time: 2017-09-01
-  jobLocation: 北京2人
-  keyResponsibilities:
-  - 1、参与公司故障管理工作；
-  - 2、独立出具故障解决方案，并推进实施。
-  requiredQualifications:
-  - 1、计算机或相关专业硕士以上学历；
-  - 2、协调能力强，具有很好的跨部门协作能力；
-  - 3、沟通表达能力强，具有很强的人际交往能力；
-  - 4、抗压能力强，具有很强的情绪管理能力。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job119
-  col: 3
-  jobTitle: 资源规划工程师
-  hot: hot
-  time: 2017-09-01
-  jobLocation: 厦门5人
-  keyResponsibilities:
-  - 1、负责公司节点、设备效果及性能评估，识别并完成风险规避；
-  - 2、独立进行线上流量规划，最大化实现资源的有效利用。
-  requiredQualifications:
-  - 1、计算机或相关专业硕士以上学历；
-  - 2、学习能力强，具有快速确定问题的能力；
-  - 3、成本意识强，具有敏锐的数据分析能力；
-  - 4、具有编程、数据分析经验者优先。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job118
-  col: 1
-  jobTitle: 项目运营工程师
-  hot: hot
-  time: 2017-09-01
-  jobLocation: 厦门5人／贵安5人
-  keyResponsibilities:
-  - 1、负责大客户项目管理及运作，提供精细化运营；
-  - 2、持续注重公司产品及运营细节，保障客户服务质量，促进公司产品完善。
-  requiredQualifications:
-  - 1、计算机或相关专业硕士以上学历；
-  - 2、熟悉Linux操作系统，具有网络相关知识；
-  - 3、熟练掌握Linux环境下的 PHP、Python、Shell等1至2种语言，具有扎实的技术基础；
-  - 4、具有较强的学习能力和逻辑思维能力，善于发现、解决和总结问题；
-  - 5、良好的团队协作能力和攻坚能力，思路灵活不拘泥于传统模式解决问题。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job117
-  col: 2
   jobTitle: 销售经理
   hot: hot
-  time: 2017-09-01
-  jobLocation: 北京5人
+  time: 2018-09-26
+  jobLocation: 北京
   keyResponsibilities:
-  - 1、负责客户资源拓展与客户线索挖掘； 
+  - 1、负责客户资源拓展与客户线索挖掘；
   - 2、负责大客户关系维护与新业务需求解决方案设计与推进；
   - 3、完成与勇于突破公司业绩目标。
   requiredQualifications:
-  - 1、市场营销或相关专业本科以上学历；
-  - 2、在校期间参加过社会实践，并有成功案例者优先； 
+  - 1、本科以上学历，专业不限；
+  - 2、在校期间参加过社会实践，并有成功案例者优先；
   - 3、沟通表达能力强，具有极强的人际交往能力；
-  - 4、抗压能力强，具有极强的寻求突破的意愿；
-  - 5、在校期间担任学生会干部，参加过全国演讲比赛、智力竞赛、辩论竞赛并获奖者优先。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job116
+  - 4、抗压能力强，具有极强的寻求突破的意愿。
+  applicationURL: https://job.dajie.com/9004100100000022194.html?jobsearch=0&pagereferer=blank&keyword=%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job120
+  col: 2
+  jobTitle: 商务合作专员
+  hot: hot
+  time: 2018-09-26
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、协助完成业务拓展相关工作，如商业模式优化、生态伙伴建设、创新合作落地等；
+  - 2、负责业务和产品相关专题的调研、资料收集、整理、分析、汇报等工作。
+  requiredQualifications:
+  - 1、本科以上学历，专业不限；
+  - 2、英语读写流利者优先；
+  - 3、积极主动，具备良好的团队协作能力、学习与表达能力、责任感与敬业精神。
+  applicationURL: https://job.dajie.com/9004100100000022195.html?jobsearch=0&pagereferer=blank&keyword=%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job119
   col: 3
   jobTitle: 财务专员
   hot: hot
-  time: 2017-09-01
-  jobLocation: 北京2人／贵安2人
+  time: 2018-09-26
+  jobLocation: 贵安
   keyResponsibilities:
   - 1、统计和分析分公司经营数据，提供增收节支和运营改善建议；
   - 2、负责银行支付、收款业务及网银盾管理；
   - 3、负责员工费用管理支持及公司运营分析。
   requiredQualifications:
-  - 1、会计学相关专业硕士以上学历，具有业务实践经验者优先；
-  - 2、具有扎实的会计财务理论基础，能看懂英文报表；
-  - 3、责任心强，具有认真细致的工作精神；
-  - 4、协作能力强，具有很好的跨部门协作能力；
-  - 5、通过CPA或ACCA科目优先。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job115
+  - 1、会计学相关专业本科以上学历，
+  - 2、具有业务实践经验者优先，通过CPA或ACCA科目优先；
+  - 3、具有扎实的会计财务理论基础，能看懂英文报表；
+  - 4、责任心强，具有认真细致的工作精神和团队协作能力。
+  applicationURL: https://job.dajie.com/9004100100000022235.html?jobsearch=0&pagereferer=blank&keyword=%E8%B4%A2%E5%8A%A1%E4%B8%93%E5%91%98+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job118
   col: 1
   jobTitle: HRBP
   hot: hot
-  time: 2017-09-01
-  jobLocation: 北京2人／厦门2人／贵安2人
+  time: 2018-09-26
+  jobLocation: 厦门 / 贵安
   keyResponsibilities:
   - 1、负责公司相关岗位的招聘计划设计并推进招聘实施落地；
   - 2、负责公司企业文化设计与团队建设活动组织实施；
   - 3、负责公司日常行政运营支持工作。
   requiredQualifications:
-  - 1、人力资源或行政管理专业硕士以上学历，在校期间担任学生会干部与组织部部长者优先；
-  - 2、具有扎实的人力资源招聘模块、企业文化模块、员工关系模块理论基础，熟悉互联网公司组织与文化特点者优先；
-  - 3、具有较强的沟通与协调能力；
-  - 4、具有积极向上的热情与稳定的情绪管理能力。
-  applicationURL: https://www.baishancloud.com/jobs2017/
-- id: job114
+  - 1、硕士以上学历，专业不限；
+  - 2、具有一定的人力资源、管理学理论基础，熟悉互联网公司组织与文化特点者优先；
+  - 3、在校期间担任学生会干部与组织部部长者优先；
+  - 4、具有较强的沟通与协调能力，积极向上的热情与稳定的情绪管理能力。
+  applicationURL: https://job.dajie.com/9004100100000022204.html?jobsearch=0&pagereferer=blank&keyword=HRBP+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job117
   col: 2
+  jobTitle: 设计师
+  hot: hot
+  time: 2018-09-26
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、进行客户体验及用户界面的设计及管理，提升各类客户体验品质，提高客户满意度
+  requiredQualifications:
+  - 1、美术、设计类专业本科以上学历；
+  - 2、能够熟练使用Photoshop、Flash、Illustrator等软件； 
+  - 3、富于创新、思维灵活，并对先进的设计理念和技术有较强的理解能力；
+  - 4、良好的沟通能力和团队协作精神。
+  applicationURL: https://job.dajie.com/9004100100000022199.html?jobsearch=0&pagereferer=blank&keyword=%E5%8C%97%E4%BA%AC+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job116
+  col: 3
   jobTitle: 知识产权专员
   hot: hot
-  time: 2017-09-01
-  jobLocation: 厦门5人
+  time: 2018-09-26
+  jobLocation: 厦门
   keyResponsibilities:
   - 1、参与公司专利规划的设计及技术专利方向的挖掘；
   - 2、跟踪行业专利方向，定期提供行业专利分析报告及公司专利规划补充建议；
@@ -173,22 +153,66 @@
   - 2、具有浓厚的技术研究兴趣，对互联网技术发展趋势有一定理解者优先；
   - 3、具有出色的文字表达能力与沟通协调能力；
   - 4、具有敏锐的分析能力。
-  applicationURL: https://www.baishancloud.com/jobs2017/
+  applicationURL: https://job.dajie.com/9004100100000022231.html?jobsearch=0&pagereferer=blank&keyword=%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E4%B8%93%E5%91%98+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job115
+  col: 1
+  jobTitle: 市场专员
+  hot: hot
+  time: 2018-09-26
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、负责市场品牌推广和宣传；
+  - 2、负责行业市场调研及舆情监测。
+  requiredQualifications:
+  - 1、广告、市场营销相关专业本科以上学历；
+  - 2、有理科背景或对互联网产品技术有极大兴趣者优先；
+  - 3、有优秀的阅读、写作习惯，文笔准确、简练、流畅；
+  - 4、有想法、有脑洞，能不断创新和超越。
+  applicationURL: https://job.dajie.com/9004100100000022200.html?jobsearch=0&pagereferer=blank&keyword=%E5%B8%82%E5%9C%BA%E4%B8%93%E5%91%98+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job114
+  col: 2
+  jobTitle: 采购专员
+  hot: hot
+  time: 2018-09-26
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、负责采购平台系统的信息管理；
+  - 2、负责供应商往来对接和管控；
+  - 3、负责采购合同的全流程落地与管理，协助做好采购流程的控制,并提出优化建议。
+  requiredQualifications:
+  - 1、理工科相关专业硕士以上学历；
+  - 2、具有良好的职业道德，诚实正直，性格踏实、严谨认真；
+  - 3、快速学习能力，超强的计划与执行力，对数字敏感，逻辑思维清晰；
+  - 4、良好的表达沟通能力，较强的抗压能力和团队合作精神。
+  applicationURL: https://job.dajie.com/9004100100000022201.html?jobsearch=0&pagereferer=blank&keyword=%E9%87%87%E8%B4%AD%E4%B8%93%E5%91%98+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
 - id: job113
   col: 3
-  jobTitle: 海贼王者计划-管培生
+  jobTitle: 产品经理
   hot: hot
-  time: 2017-09-01
-  jobLocation: 北京14人
+  time: 2018-09-26
+  jobLocation: 北京
   keyResponsibilities:
-  - 1、作为合伙人业务助手，培养企业战略思维；
-  - 2、协助公司战略级项目推进，跟进落实各项要求；
-  - 3、了解公司整体经营及各维度情况，作为核心储备管理人才。
+  - 1、负责产品业务线的前后台产品设计和产品开发周期进度把控；
+  - 2、负责产品业务线的需求分析，原型设计等；
+  - 3、深入研究市场和用户需求，协同研发等部门不断提升产品的用户体验。
   requiredQualifications:
-  - 1、硕士以上学历，专业不限； 
-  - 2、学生会干部，具有很好的领导力，拥有强烈的管理意识与知识储备；
-  - 3、逻辑、系统性思维强，具有快速学习的能力；
-  - 4、抗压能力强，具有极强的情绪管理能力；
-  - 5、沟通表达能力强，具有极强的人际交往能力；
-  - 6、形象气质佳。
-  applicationURL: https://www.baishancloud.com/jobs2017/
+  - 1、计算机相关专业硕士以上学历； 
+  - 2、追求极致的用户体验，注重数据驱动；
+  - 3、较强的问题分析能力，判断能力，及独立思考能力；
+  - 4、对产品的用户体验设计和人机交互有优秀的直觉。
+  applicationURL: https://job.dajie.com/9004100100000022196.html?jobsearch=0&pagereferer=blank&keyword=%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job
+- id: job112
+  col: 1
+  jobTitle: 售前工程师
+  hot: hot
+  time: 2018-09-26
+  jobLocation: 北京
+  keyResponsibilities:
+  - 1、负责挖掘客户需求，结合现有产品和技术定制解决方案；
+  - 2、推进优化产品设计，不断优化现有产品或者开创新的产品方向。
+  requiredQualifications:
+  - 1、计算机相关专业硕士以上学历； 
+  - 2、熟悉linux操作系统，熟悉 HTTP 协议，具备一定的网络基础知识；
+  - 3、出色的口头表达和文字撰写能力，优秀的人际敏锐度;
+  - 4、敏捷的反应力和高效的解决问题能力。
+  applicationURL: https://job.dajie.com/9004100100000022197.html?jobsearch=0&pagereferer=blank&keyword=%E5%94%AE%E5%89%8D%E5%B7%A5%E7%A8%8B%E5%B8%88+%E7%99%BD%E5%B1%B1%E4%BA%91&clicktype=job

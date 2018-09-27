@@ -73,6 +73,7 @@
 @media (min-width: 421px) {
   .job-2018 {
     display: block;
+    object-position: right 0 top 0;
   }
   .job-2018-small {
     display: none !important;

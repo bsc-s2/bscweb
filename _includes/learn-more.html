@@ -1,6 +1,6 @@
 <div class="register">
   <h2>了解更多</h2>
-  <form class="register-form" onsubmit="event.preventDefault();" autocomplete="nope">
+  <form id="register-form" class="register-form" onsubmit="event.preventDefault();" autocomplete="nope">
     <div class="form-group col-sm-6">
       <input placeholder="姓名" class="form-control" id="name" name="name" type="text" oninput="this.setCustomValidity('')" required>
     </div>
@@ -20,7 +20,7 @@
       <input placeholder="业务需求" class="form-control" id="requirement" name="requirement" >
     </div>
     <div class="register-sumbit">
-      <button class="btn btn-primary register-sumbit-button">提交</button>
+      <button id="register-sumbit" class="btn btn-primary register-sumbit-button">提交</button>
     </div>
   </form>
   <textarea id="textarea" style="display: none;">

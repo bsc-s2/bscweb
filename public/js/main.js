@@ -83,7 +83,19 @@ jQuery(document).ready(function () {
   };
 
   // check customer input & send message to marketing by email
-  $(".register-sumbit-button").click(function (e) {
+  $("#register-sumbit").bind('click', debouncing(submit, 10*1000))
+  function debouncing(fn, waitTime) {
+    var timer = undefined;
+    return function () {
+        var context = this;
+        var args = arguments;
+        clearTimeout(timer);
+        timer = setTimeout(function(){
+            fn.apply(context, args);
+        }, waitTime)
+    }
+  }
+  function submit() {
     var isValid = true;
     $(".form-control").each(function (index, input) {
       if (input.name == "name" || input.name == "email" || input.name == "telephone") {
@@ -96,10 +108,9 @@ jQuery(document).ready(function () {
       }
     })
     if (isValid) {
-      sendSlack($(".register-form").serializeObject())
+      sendSlack($(".register-form").serializeObject());
     }
-  });
-
+  }
   function sendSlack(userObj) {
     $.ajax({
       type: 'POST',

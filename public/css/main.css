@@ -744,7 +744,7 @@ a.copyright:hover {
     height: 300px;
     text-align: center;
     color: #fff;
-    background: url(/public/image/more/about-campus.png) center no-repeat;
+    background: url(/public/image/more/about.png) center no-repeat;
     background-size: cover;
 }
 .about-more-tabs-bar {

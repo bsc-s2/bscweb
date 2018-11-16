@@ -83,7 +83,7 @@ jQuery(document).ready(function () {
   };
 
   // check customer input & send message to marketing by email
-  $("#register-sumbit").bind('click', debouncing(submit, 10*1000))
+  $("#register-sumbit").bind('click', debouncing(submit, 5*1000))
   function debouncing(fn, waitTime) {
     var timer = undefined;
     return function () {
@@ -119,6 +119,7 @@ jQuery(document).ready(function () {
         text: '##新客户 姓名：'+ userObj.name +' 公司： '+ (userObj.company || '未填写') +' 电话：'+ userObj.telephone +' 邮件地址：'+ userObj.email +' 职位：'+ (userObj.postion || '未填写') +' 需求：'+ (userObj.requirement || '未填写')
       }),
       success: function () {
+        alert('您的信息已提交给工作人员，我们会尽快与您取得联系');
         console.log('^_^ slack_info');
       }
     });

@@ -83,7 +83,7 @@ jQuery(document).ready(function () {
   };
 
   // check customer input & send message to marketing by email
-  $("#register-sumbit").bind('click', debouncing(submit, 5*1000))
+  $("#register-sumbit").bind('click', debouncing(submit, 2*1000))
   function debouncing(fn, waitTime) {
     var timer = undefined;
     return function () {
